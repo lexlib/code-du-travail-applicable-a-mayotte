@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2002-01-18
+Version Consolidée au 2002-02-23
 ## Contenu: 
   - [Partie législative (art. L000-1 à L711-4)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L000-1 à L000-2)](#2)
@@ -91,164 +91,167 @@ Version Consolidée au 2002-01-18
         - [CHAPITRE PRÉLIMINAIRE. (art. L250-1 à L250-4)](#88)
         - [CHAPITRE Ier : Hygiène et sécurité. (art. L251-1 à L251-12)](#89)
         - [CHAPITRE II : Surveillance médicale. (art. L252-1)](#90)
-    - [LIVRE III : EMPLOI (art. L311-1 à L342-2)](#91)
+    - [LIVRE III : EMPLOI (art. L311-1 à L343-2)](#91)
       - [TITRE Ier : DÉCLARATION DE MOUVEMENTS DE MAIN-D'OEUVRE TRAVAIL CLANDESTIN (art. L311-1 à L312-7)](#92)
         - [CHAPITRE Ier : Déclaration de mouvements de main-d'oeuvre. (art. L311-1)](#93)
         - [CHAPITRE II : Travail clandestin. (art. L312-1 à L312-7)](#94)
-      - [TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité départementale (art. L321-1 à L325-1)](#95)
+      - [TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité départementale (art. L321-1 à L327-10)](#95)
         - [CHAPITRE Ier : Généralités. (art. L321-1 à L321-4)](#96)
         - [CHAPITRE II : Dispositions relatives au contrat emploi-solidarité. (art. L322-1 à L322-7)](#97)
         - [Chapitre III : Dispositions relatives aux contrats de retour à l'emploi (art. L323-1 à L323-4)](#98)
-        - [Chapitre IV : Dispositions relatives au contrat emploi-jeune (art. L324-1 à L324-5)](#99)
-        - [Chapitre V : Dispositions relatives à l'aide à la création d'entreprise à l'initiative de demandeurs d'emploi (art. L325-1)](#100)
-      - [TITRE III : MAIN-D'OEUVRE ÉTRANGÈRE. (art. L330-1 à L330-4)](#101)
-      - [TITRE IV : PÉNALITÉS (art. L341-1 à L342-2)](#102)
-        - [CHAPITRE Ier : Travail clandestin. (art. L341-1)](#103)
-        - [CHAPITRE II : Main-d'oeuvre étrangère. (art. L342-1 à L342-2)](#104)
-    - [LIVRE IV : LES GROUPEMENTS PROFESSIONNELS LA REPRÉSENTATION DES SALARIÉS (art. L411-1 à L430-2)](#105)
-      - [TITRE Ier : LES SYNDICATS PROFESSIONNELS (art. L411-1 à L413-2)](#106)
-        - [CHAPITRE Ier : Statut juridique des syndicats (art. L411-1 à L411-23)](#107)
-          - [Section 1 : Objet et constitution. (art. L411-1 à L411-9)](#108)
-          - [Section 2 : Capacité civile. (art. L411-10 à L411-20)](#109)
-          - [Section 3 : Unions de syndicats. (art. L411-21 à L411-23)](#110)
-        - [CHAPITRE II : Droit syndical et représentativité. (art. L412-1 à L412-3)](#111)
-        - [CHAPITRE III : Marques syndicales. (art. L413-1 à L413-2)](#112)
-      - [TITRE II : LA COMMISSION CONSULTATIVE DU TRAVAIL. (art. L420-1 à L420-6)](#113)
-      - [TITRE III : PÉNALITÉS. (art. L430-1 à L430-2)](#114)
-    - [LIVRE V : CONFLITS DU TRAVAIL (art. L511-1 à L520-1)](#115)
-      - [TITRE Ier : CONFLITS COLLECTIFS (art. L511-1 à L516-1)](#116)
-        - [CHAPITRE Ier : La grève (art. L511-1 à L511-5)](#117)
-          - [Section 1 : Généralités. (art. L511-1)](#118)
-          - [Section 2 : Grève dans les services publics. (art. L511-2 à L511-5)](#119)
-        - [CHAPITRE II : Dispositions générales concernant les procédures de règlement des conflits collectifs du travail. (art. L512-1 à L512-2)](#120)
-        - [CHAPITRE III : Conciliation. (art. L513-1 à L513-6)](#121)
-        - [CHAPITRE IV : Médiation. (art. L514-1 à L514-4)](#122)
-        - [CHAPITRE V : Arbitrage. (art. L515-1 à L515-4)](#123)
-        - [CHAPITRE VI : Dispositions finales. (art. L516-1)](#124)
-      - [TITRE II : PÉNALITÉS. (art. L520-1)](#125)
-    - [LIVRE VI : CONTRÔLE DE L'APPLICATION DE LA LÉGISLATION ET DE LA RÉGLEMENTATION DU TRAVAIL (art. L610-1 à L630-2)](#126)
-      - [TITRE Ier : SERVICES DE CONTRÔLE. (art. L610-1 à L610-14)](#127)
-      - [TITRE II : OBLIGATIONS DES EMPLOYEURS. (art. L620-1 à L620-7)](#128)
-      - [TITRE III : PÉNALITÉS. (art. L630-1 à L630-2)](#129)
-    - [LIVRE VII : DE LA FORMATION PROFESSIONNELLE (art. L711-5 à L711-4)](#130)
-      - [CHAPITRE II : CONTRATS DE FORMATION EN ALTERNANCE (art. L711-5 à L711-10)](#131)
-        - [Section 1 : Contrat de qualification (art. L711-5 à L711-6)](#132)
-        - [Section 2 : Contrat d'orientation (art. L711-7)](#133)
-        - [Section 3 : Dispositions communes aux contrats de qualification et d'orientation (art. L711-8 à L711-10)](#134)
-      - [CHAPITRE 1ER : DISPOSITIONS GENERALES (art. L711-1 à L711-4)](#135)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R122-1 à R632-2)](#136)
-    - [LIVRE Ier : Conventions relatives au travail (art. R122-1 à R156-4)](#137)
-      - [TITRE II : Contrat de travail (art. R122-1 à R126-6)](#138)
-        - [CHAPITRE II : Règles propres au contrat de travail (art. R122-1 à R122-18)](#139)
-          - [Section 1 : Règles générales. (art. R122-1 à R122-4)](#140)
-          - [Section 2 : Service national. (art. R122-5 à R122-6)](#141)
-          - [Section 3 : Repos des femmes en couches et des femmes allaitant leurs enfants. (art. R122-7 à R122-10)](#142)
-          - [Section 4 : Règlement intérieur, protection des salariés et droit disciplinaire (art. R122-11 à R122-18)](#143)
-            - [Sous-section 1 : Règlement intérieur. (art. R122-11 à R122-15)](#144)
-            - [Sous-section 2 : Protection des salariés et droit disciplinaire. (art. R122-16 à R122-18)](#145)
-        - [CHAPITRE IV : Marchandage (art. R124-1)](#146)
-        - [CHAPITRE V : Cautionnements (art. R125-1)](#147)
-        - [CHAPITRE VI : Groupements d'employeurs (art. R126-1 à R126-6)](#148)
-      - [TITRE III : Conventions et accords collectifs de travail (art. R132-1 à R135-1)](#149)
-        - [CHAPITRE II : Nature et validité des conventions et accords collectifs de travail (art. R132-1 à R132-2)](#150)
-        - [Chapitre 3 : Conventions et accords collectifs susceptibles d'être étendus et procédure d'extension et d'élargissement. (art. R133-1 à R133-2)](#151)
-        - [CHAPITRE V : Application des conventions et accords collectifs de travail (art. R135-1)](#152)
-      - [TITRE IV : Salaire (art. R140-1 à R146-2)](#153)
-        - [CHAPITRE PRELIMINAIRE : Egalité de rémunération entre les hommes et les femmes (art. R140-1)](#154)
-        - [CHAPITRE Ier : Salaire minimum interprofessionnel garanti (art. R141-1 à R141-3)](#155)
-        - [CHAPITRE III : Paiement du salaire (art. R143-1 à R143-2)](#156)
-        - [CHAPITRE V : Saisie-arrêt et cession de rémunérations dues par un employeur (art. R145-1 à R145-21)](#157)
-          - [Section 1 : Règles générales. (art. R145-1)](#158)
-          - [Section 2 : Procédure de cession et de saisie-arrêt. (art. R145-2 à R145-21)](#159)
-        - [CHAPITRE VI : Règles particulières au contrôle et à la répartition des pourboires (art. R146-1 à R146-2)](#160)
-      - [TITRE V : Pénalités (art. R151-1 à R156-4)](#161)
-        - [CHAPITRE Ier : Contrat d'apprentissage et contrat de travail (art. R151-1 à R151-8)](#162)
-          - [Section 1 : Contrat d'apprentissage. (art. R151-1 à R151-4)](#163)
-          - [Section 2 : Contrat de travail. (art. R151-5 à R151-8)](#164)
-        - [CHAPITRE II : Marchandages (art. R152-1)](#165)
-        - [CHAPITRE III : Cautionnements (art. R153-1)](#166)
-        - [CHAPITRE IV : Groupements d'employeurs (art. R154-1)](#167)
-        - [CHAPITRE V : Conventions et accords collectifs de travail (art. R155-1)](#168)
-        - [CHAPITRE VI : Salaire (art. R156-1 à R156-4)](#169)
-          - [Section 1 : Egalité de rémunération entre les hommes et les femmes. (art. R156-1)](#170)
-          - [Section 2 : Salaire minimum garanti et rémunération mensuelle minimale garantie. (art. R156-2)](#171)
-          - [Section 3 : Paiement du salaire. (art. R156-3)](#172)
-          - [Section 4 : Retenues sur le salaire. (art. R156-4)](#173)
-    - [LIVRE II : Réglementation du travail (art. R212-1 à R254-6)](#174)
-      - [TITRE Ier : Conditions de travail (art. R212-1 à R213-2)](#175)
-        - [CHAPITRE II : Durée du travail (art. R212-1 à R212-2)](#176)
-        - [CHAPITRE III : Travail de nuit (art. R213-1 à R213-2)](#177)
-      - [TITRE II : Repos et congés (art. R221-1 à R223-1)](#178)
-        - [CHAPITRE Ier : Repos hebdomadaire (art. R221-1 à R221-6)](#179)
-        - [CHAPITRE II : Jours fériés (art. R222-1)](#180)
-        - [CHAPITRE III : Congés annuels (art. R223-1)](#181)
-      - [TITRE V : Pénalités (art. R250-1 à R254-6)](#182)
-        - [Chapitre préliminaire. (art. R250-1 à R250-2)](#183)
-        - [Chapitre 1er : Hygiène et sécurité. (art. R251-1)](#184)
-        - [Chapitre 3 : Conditions du travail (art. R253-1 à R253-7)](#185)
-          - [Section 1 : Age d'admission. (art. R253-1)](#186)
-          - [Section 2 : Durée du travail (art. R253-2 à R253-5)](#187)
-            - [Paragraphe 1 : Dispositions générales (art. R253-2)](#188)
-            - [Paragraphe 2 : Heures supplémentaires (art. R253-3)](#189)
-            - [Paragraphe 3 : Dispositions relatives aux jeunes travailleurs (art. R253-4 à R253-5)](#190)
-          - [Section 3 : Travail de nuit. (art. R253-6 à R253-7)](#191)
-        - [Chapitre 4 : Repos et congés (art. R254-1 à R254-6)](#192)
-          - [Section 1 : Repos hebdomadaire. (art. R254-1 à R254-2)](#193)
-          - [Section 2 : Jours fériés (art. R254-3 à R254-5)](#194)
-            - [Paragraphe 1 : Dispositions générales (art. R254-3 à R254-4)](#195)
-            - [Paragraphe 2 : Dispositions particulières à la journée du 1er mai. (art. R254-5)](#196)
-          - [Section 3 : Congés annuels. (art. R254-6)](#197)
-    - [LIVRE III : Emploi (art. R311-1 à R342-1)](#198)
-      - [TITRE Ier : Déclaration des mouvements de main-d'oeuvre - Travail clandestin (art. R311-1 à R312-1)](#199)
-        - [Chapitre 1er : Déclaration des mouvements de main-d'oeuvre. (art. R311-1)](#200)
-        - [Chapitre 2 : Travail clandestin. (art. R312-1)](#201)
-      - [TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité départementale (art. R321-1 à R325-9)](#202)
-        - [Chapitre 1er : Généralités. (art. R321-1 à R321-6)](#203)
-        - [Chapitre 3 : Dispositions relatives au contrat de retour à l'emploi (art. R323-1 à R323-7)](#204)
-        - [Chapitre 5 : Dispositions relatives à l'aide à la création d'entreprise à l'initiative de demandeurs d'emploi (art. R325-1 à R325-9)](#205)
-      - [TITRE III : Main-d'oeuvre étrangère (art. R330-1 à R330-9)](#206)
-      - [TITRE IV : Pénalités (art. R341-1 à R342-1)](#207)
-        - [CHAPITRE Ier : Travail clandestin (art. R341-1)](#208)
-        - [CHAPITRE II : Déclaration des mouvements de main-d'oeuvre (art. R342-1)](#209)
-    - [LIVRE IV : Les groupements professionnels - La représentation des salariés (art. R411-1 à R430-1)](#210)
-      - [TITRE Ier : Les syndicats professionnels (art. R411-1 à R412-1)](#211)
-        - [CHAPITRE Ier : Statut juridique des syndicats (art. R411-1)](#212)
-        - [CHAPITRE II : Droit syndical et représentativité des syndicats (art. R412-1)](#213)
-          - [Section 1 : Critères de représentativité (art. R412-1)](#214)
-      - [Titre 3 : Pénalités. (art. R430-1)](#215)
-    - [LIVRE V : Conflits du travail (art. R513-1 à R520-1)](#216)
-      - [TITRE Ier : Conflits collectifs (art. R513-1 à R515-2)](#217)
-        - [CHAPITRE III : Conciliation (art. R513-1 à R513-10)](#218)
-          - [Section 1 : Composition des commissions de conciliation. (art. R513-2 à R513-3)](#219)
-          - [Section 2 : Fonctionnement des commissions de conciliation. (art. R513-4 à R513-10)](#220)
-        - [CHAPITRE IV : Médiation (art. R514-1 à R514-6)](#221)
-        - [CHAPITRE V : Arbitrage (art. R515-1 à R515-2)](#222)
-      - [TITRE II : Pénalités (art. R520-1)](#223)
-    - [LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail (art. R610-1 à R632-2)](#224)
-      - [TITRE Ier : Services de contrôle (art. R610-1 à R610-3)](#225)
-      - [TITRE II : Obligations des employeurs (art. R620-1 à R620-5)](#226)
-      - [TITRE III : Pénalités (art. R631-1 à R632-2)](#227)
-        - [CHAPITRE Ier : Service de contrôle (art. R631-1)](#228)
-        - [CHAPITRE II : Obligations des employeurs (art. R632-1 à R632-2)](#229)
-  - [Partie réglementaire  - Décrets simples (art. D141-1 à D514-4)](#230)
-    - [Livre 1er : Conventions relatives au travail (art. D141-1 à D141-7)](#231)
-      - [Titre 4 : Salaire (art. D141-1 à D141-7)](#232)
-        - [Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG* (art. D141-1 à D141-7)](#233)
-          - [Section 1 : Dispositions générales (art. D141-1 à D141-2)](#234)
-          - [Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement (art. D141-3 à D141-7)](#235)
-    - [Livre 2 : Réglementation du travail (art. D211-1 à D223-4)](#236)
-      - [Titre 1er : Conditions de travail (art. D211-1 à D212-5)](#237)
-        - [Chapitre 1er : Age d'admission (art. D211-1 à D211-4)](#238)
-        - [Chapitre 2 : Durée du travail (art. D212-1 à D212-5)](#239)
-          - [Section 1 : Récupération des heures perdues (art. D212-1 à D212-5)](#240)
-      - [Titre 2 : Repos et congés (art. D223-1 à D223-4)](#241)
-        - [Chapitre 3 : Congés annuels (art. D223-1 à D223-4)](#242)
-    - [Livre 3 : Emploi (art. D312-1)](#243)
-      - [Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin (art. D312-1)](#244)
-        - [Chapitre 2 : Travail clandestin (art. D312-1)](#245)
-    - [Livre 5 : Conflits du travail (art. D514-1 à D514-4)](#246)
-      - [Titre 1er : Conflits collectifs (art. D514-1 à D514-4)](#247)
-        - [Chapitre 4 : Médiation (art. D514-1 à D514-4)](#248)
+        - [Chapitre IV : Dispositions particulières relatives à l'emploi des jeunes (art. L324-1 à L324-9)](#99)
+        - [Chapitre V : Dispositions relatives à la création d'entreprises et à la création d'emplois (art. L325-1 à L325-9)](#100)
+        - [Chapitre VI : Placement (art. L326-1 à L326-3)](#101)
+        - [Chapitre VII : Indemnisation du chômage (art. L327-1 à L327-10)](#102)
+      - [TITRE III : MAIN-D'OEUVRE ÉTRANGÈRE. (art. L330-1 à L330-4)](#103)
+      - [TITRE IV : PÉNALITÉS (art. L341-1 à L343-2)](#104)
+        - [CHAPITRE Ier : Travail clandestin. (art. L341-1)](#105)
+        - [CHAPITRE II : Main-d'oeuvre étrangère. (art. L342-1 à L342-2)](#106)
+        - [Chapitre III : Mesures pour l'emploi et indemnisation du chômage (art. L343-1 à L343-2)](#107)
+    - [LIVRE IV : LES GROUPEMENTS PROFESSIONNELS LA REPRÉSENTATION DES SALARIÉS (art. L411-1 à L430-2)](#108)
+      - [TITRE Ier : LES SYNDICATS PROFESSIONNELS (art. L411-1 à L413-2)](#109)
+        - [CHAPITRE Ier : Statut juridique des syndicats (art. L411-1 à L411-23)](#110)
+          - [Section 1 : Objet et constitution. (art. L411-1 à L411-9)](#111)
+          - [Section 2 : Capacité civile. (art. L411-10 à L411-20)](#112)
+          - [Section 3 : Unions de syndicats. (art. L411-21 à L411-23)](#113)
+        - [CHAPITRE II : Droit syndical et représentativité. (art. L412-1 à L412-3)](#114)
+        - [CHAPITRE III : Marques syndicales. (art. L413-1 à L413-2)](#115)
+      - [TITRE II : LA COMMISSION CONSULTATIVE DU TRAVAIL. (art. L420-1 à L420-6)](#116)
+      - [TITRE III : PÉNALITÉS. (art. L430-1 à L430-2)](#117)
+    - [LIVRE V : CONFLITS DU TRAVAIL (art. L511-1 à L520-1)](#118)
+      - [TITRE Ier : CONFLITS COLLECTIFS (art. L511-1 à L516-1)](#119)
+        - [CHAPITRE Ier : La grève (art. L511-1 à L511-5)](#120)
+          - [Section 1 : Généralités. (art. L511-1)](#121)
+          - [Section 2 : Grève dans les services publics. (art. L511-2 à L511-5)](#122)
+        - [CHAPITRE II : Dispositions générales concernant les procédures de règlement des conflits collectifs du travail. (art. L512-1 à L512-2)](#123)
+        - [CHAPITRE III : Conciliation. (art. L513-1 à L513-6)](#124)
+        - [CHAPITRE IV : Médiation. (art. L514-1 à L514-4)](#125)
+        - [CHAPITRE V : Arbitrage. (art. L515-1 à L515-4)](#126)
+        - [CHAPITRE VI : Dispositions finales. (art. L516-1)](#127)
+      - [TITRE II : PÉNALITÉS. (art. L520-1)](#128)
+    - [LIVRE VI : CONTRÔLE DE L'APPLICATION DE LA LÉGISLATION ET DE LA RÉGLEMENTATION DU TRAVAIL (art. L610-1 à L630-2)](#129)
+      - [TITRE Ier : SERVICES DE CONTRÔLE. (art. L610-1 à L610-14)](#130)
+      - [TITRE II : OBLIGATIONS DES EMPLOYEURS. (art. L620-1 à L620-7)](#131)
+      - [TITRE III : PÉNALITÉS. (art. L630-1 à L630-2)](#132)
+    - [LIVRE VII : DE LA FORMATION PROFESSIONNELLE (art. L711-5 à L711-4)](#133)
+      - [CHAPITRE II : CONTRATS DE FORMATION EN ALTERNANCE (art. L711-5 à L711-10)](#134)
+        - [Section 1 : Contrat de qualification (art. L711-5 à L711-6)](#135)
+        - [Section 2 : Contrat d'orientation (art. L711-7)](#136)
+        - [Section 3 : Dispositions communes aux contrats de qualification et d'orientation (art. L711-8 à L711-10)](#137)
+      - [CHAPITRE 1ER : DISPOSITIONS GENERALES (art. L711-1 à L711-4)](#138)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R122-1 à R632-2)](#139)
+    - [LIVRE Ier : Conventions relatives au travail (art. R122-1 à R156-4)](#140)
+      - [TITRE II : Contrat de travail (art. R122-1 à R126-6)](#141)
+        - [CHAPITRE II : Règles propres au contrat de travail (art. R122-1 à R122-18)](#142)
+          - [Section 1 : Règles générales. (art. R122-1 à R122-4)](#143)
+          - [Section 2 : Service national. (art. R122-5 à R122-6)](#144)
+          - [Section 3 : Repos des femmes en couches et des femmes allaitant leurs enfants. (art. R122-7 à R122-10)](#145)
+          - [Section 4 : Règlement intérieur, protection des salariés et droit disciplinaire (art. R122-11 à R122-18)](#146)
+            - [Sous-section 1 : Règlement intérieur. (art. R122-11 à R122-15)](#147)
+            - [Sous-section 2 : Protection des salariés et droit disciplinaire. (art. R122-16 à R122-18)](#148)
+        - [CHAPITRE IV : Marchandage (art. R124-1)](#149)
+        - [CHAPITRE V : Cautionnements (art. R125-1)](#150)
+        - [CHAPITRE VI : Groupements d'employeurs (art. R126-1 à R126-6)](#151)
+      - [TITRE III : Conventions et accords collectifs de travail (art. R132-1 à R135-1)](#152)
+        - [CHAPITRE II : Nature et validité des conventions et accords collectifs de travail (art. R132-1 à R132-2)](#153)
+        - [Chapitre 3 : Conventions et accords collectifs susceptibles d'être étendus et procédure d'extension et d'élargissement. (art. R133-1 à R133-2)](#154)
+        - [CHAPITRE V : Application des conventions et accords collectifs de travail (art. R135-1)](#155)
+      - [TITRE IV : Salaire (art. R140-1 à R146-2)](#156)
+        - [CHAPITRE PRELIMINAIRE : Egalité de rémunération entre les hommes et les femmes (art. R140-1)](#157)
+        - [CHAPITRE Ier : Salaire minimum interprofessionnel garanti (art. R141-1 à R141-3)](#158)
+        - [CHAPITRE III : Paiement du salaire (art. R143-1 à R143-2)](#159)
+        - [CHAPITRE V : Saisie-arrêt et cession de rémunérations dues par un employeur (art. R145-1 à R145-21)](#160)
+          - [Section 1 : Règles générales. (art. R145-1)](#161)
+          - [Section 2 : Procédure de cession et de saisie-arrêt. (art. R145-2 à R145-21)](#162)
+        - [CHAPITRE VI : Règles particulières au contrôle et à la répartition des pourboires (art. R146-1 à R146-2)](#163)
+      - [TITRE V : Pénalités (art. R151-1 à R156-4)](#164)
+        - [CHAPITRE Ier : Contrat d'apprentissage et contrat de travail (art. R151-1 à R151-8)](#165)
+          - [Section 1 : Contrat d'apprentissage. (art. R151-1 à R151-4)](#166)
+          - [Section 2 : Contrat de travail. (art. R151-5 à R151-8)](#167)
+        - [CHAPITRE II : Marchandages (art. R152-1)](#168)
+        - [CHAPITRE III : Cautionnements (art. R153-1)](#169)
+        - [CHAPITRE IV : Groupements d'employeurs (art. R154-1)](#170)
+        - [CHAPITRE V : Conventions et accords collectifs de travail (art. R155-1)](#171)
+        - [CHAPITRE VI : Salaire (art. R156-1 à R156-4)](#172)
+          - [Section 1 : Egalité de rémunération entre les hommes et les femmes. (art. R156-1)](#173)
+          - [Section 2 : Salaire minimum garanti et rémunération mensuelle minimale garantie. (art. R156-2)](#174)
+          - [Section 3 : Paiement du salaire. (art. R156-3)](#175)
+          - [Section 4 : Retenues sur le salaire. (art. R156-4)](#176)
+    - [LIVRE II : Réglementation du travail (art. R212-1 à R254-6)](#177)
+      - [TITRE Ier : Conditions de travail (art. R212-1 à R213-2)](#178)
+        - [CHAPITRE II : Durée du travail (art. R212-1 à R212-2)](#179)
+        - [CHAPITRE III : Travail de nuit (art. R213-1 à R213-2)](#180)
+      - [TITRE II : Repos et congés (art. R221-1 à R223-1)](#181)
+        - [CHAPITRE Ier : Repos hebdomadaire (art. R221-1 à R221-6)](#182)
+        - [CHAPITRE II : Jours fériés (art. R222-1)](#183)
+        - [CHAPITRE III : Congés annuels (art. R223-1)](#184)
+      - [TITRE V : Pénalités (art. R250-1 à R254-6)](#185)
+        - [Chapitre préliminaire. (art. R250-1 à R250-2)](#186)
+        - [Chapitre 1er : Hygiène et sécurité. (art. R251-1)](#187)
+        - [Chapitre 3 : Conditions du travail (art. R253-1 à R253-7)](#188)
+          - [Section 1 : Age d'admission. (art. R253-1)](#189)
+          - [Section 2 : Durée du travail (art. R253-2 à R253-5)](#190)
+            - [Paragraphe 1 : Dispositions générales (art. R253-2)](#191)
+            - [Paragraphe 2 : Heures supplémentaires (art. R253-3)](#192)
+            - [Paragraphe 3 : Dispositions relatives aux jeunes travailleurs (art. R253-4 à R253-5)](#193)
+          - [Section 3 : Travail de nuit. (art. R253-6 à R253-7)](#194)
+        - [Chapitre 4 : Repos et congés (art. R254-1 à R254-6)](#195)
+          - [Section 1 : Repos hebdomadaire. (art. R254-1 à R254-2)](#196)
+          - [Section 2 : Jours fériés (art. R254-3 à R254-5)](#197)
+            - [Paragraphe 1 : Dispositions générales (art. R254-3 à R254-4)](#198)
+            - [Paragraphe 2 : Dispositions particulières à la journée du 1er mai. (art. R254-5)](#199)
+          - [Section 3 : Congés annuels. (art. R254-6)](#200)
+    - [LIVRE III : Emploi (art. R311-1 à R342-1)](#201)
+      - [TITRE Ier : Déclaration des mouvements de main-d'oeuvre - Travail clandestin (art. R311-1 à R312-1)](#202)
+        - [Chapitre 1er : Déclaration des mouvements de main-d'oeuvre. (art. R311-1)](#203)
+        - [Chapitre 2 : Travail clandestin. (art. R312-1)](#204)
+      - [TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité départementale (art. R321-1 à R325-9)](#205)
+        - [Chapitre 1er : Généralités. (art. R321-1 à R321-6)](#206)
+        - [Chapitre 3 : Dispositions relatives au contrat de retour à l'emploi (art. R323-1 à R323-7)](#207)
+        - [Chapitre 5 : Dispositions relatives à l'aide à la création d'entreprise à l'initiative de demandeurs d'emploi (art. R325-1 à R325-9)](#208)
+      - [TITRE III : Main-d'oeuvre étrangère (art. R330-1 à R330-9)](#209)
+      - [TITRE IV : Pénalités (art. R341-1 à R342-1)](#210)
+        - [CHAPITRE Ier : Travail clandestin (art. R341-1)](#211)
+        - [CHAPITRE II : Déclaration des mouvements de main-d'oeuvre (art. R342-1)](#212)
+    - [LIVRE IV : Les groupements professionnels - La représentation des salariés (art. R411-1 à R430-1)](#213)
+      - [TITRE Ier : Les syndicats professionnels (art. R411-1 à R412-1)](#214)
+        - [CHAPITRE Ier : Statut juridique des syndicats (art. R411-1)](#215)
+        - [CHAPITRE II : Droit syndical et représentativité des syndicats (art. R412-1)](#216)
+          - [Section 1 : Critères de représentativité (art. R412-1)](#217)
+      - [Titre 3 : Pénalités. (art. R430-1)](#218)
+    - [LIVRE V : Conflits du travail (art. R513-1 à R520-1)](#219)
+      - [TITRE Ier : Conflits collectifs (art. R513-1 à R515-2)](#220)
+        - [CHAPITRE III : Conciliation (art. R513-1 à R513-10)](#221)
+          - [Section 1 : Composition des commissions de conciliation. (art. R513-2 à R513-3)](#222)
+          - [Section 2 : Fonctionnement des commissions de conciliation. (art. R513-4 à R513-10)](#223)
+        - [CHAPITRE IV : Médiation (art. R514-1 à R514-6)](#224)
+        - [CHAPITRE V : Arbitrage (art. R515-1 à R515-2)](#225)
+      - [TITRE II : Pénalités (art. R520-1)](#226)
+    - [LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail (art. R610-1 à R632-2)](#227)
+      - [TITRE Ier : Services de contrôle (art. R610-1 à R610-3)](#228)
+      - [TITRE II : Obligations des employeurs (art. R620-1 à R620-5)](#229)
+      - [TITRE III : Pénalités (art. R631-1 à R632-2)](#230)
+        - [CHAPITRE Ier : Service de contrôle (art. R631-1)](#231)
+        - [CHAPITRE II : Obligations des employeurs (art. R632-1 à R632-2)](#232)
+  - [Partie réglementaire  - Décrets simples (art. D141-1 à D514-4)](#233)
+    - [Livre 1er : Conventions relatives au travail (art. D141-1 à D141-7)](#234)
+      - [Titre 4 : Salaire (art. D141-1 à D141-7)](#235)
+        - [Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG* (art. D141-1 à D141-7)](#236)
+          - [Section 1 : Dispositions générales (art. D141-1 à D141-2)](#237)
+          - [Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement (art. D141-3 à D141-7)](#238)
+    - [Livre 2 : Réglementation du travail (art. D211-1 à D223-4)](#239)
+      - [Titre 1er : Conditions de travail (art. D211-1 à D212-5)](#240)
+        - [Chapitre 1er : Age d'admission (art. D211-1 à D211-4)](#241)
+        - [Chapitre 2 : Durée du travail (art. D212-1 à D212-5)](#242)
+          - [Section 1 : Récupération des heures perdues (art. D212-1 à D212-5)](#243)
+      - [Titre 2 : Repos et congés (art. D223-1 à D223-4)](#244)
+        - [Chapitre 3 : Congés annuels (art. D223-1 à D223-4)](#245)
+    - [Livre 3 : Emploi (art. D312-1)](#246)
+      - [Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin (art. D312-1)](#247)
+        - [Chapitre 2 : Travail clandestin (art. D312-1)](#248)
+    - [Livre 5 : Conflits du travail (art. D514-1 à D514-4)](#249)
+      - [Titre 1er : Conflits collectifs (art. D514-1 à D514-4)](#250)
+        - [Chapitre 4 : Médiation (art. D514-1 à D514-4)](#251)
 # Partie législative<a id=1></a>
 
 ## LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES.<a id=2></a>
@@ -3260,15 +3263,68 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L122-51 (VT)
 
 
+###### Article L122-47-1
+
+La salariée bénéficie d'une autorisation d'absence pour se rendre aux examens médicaux obligatoires prévus par l'article L.
+2122-1 du code de la santé publique dans le cadre de la surveillance médicale de la grossesse et des suites de
+l'accouchement.
+
+Ces absences n'entraînent aucune diminution de la rémunération et sont assimilées à une période de travail effectif pour la
+détermination de la durée des congés payés ainsi qu'au regard des droits légaux ou conventionnels que la salariée tient du
+fait de son ancienneté dans l'entreprise.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 7 () JORF 23 février 2002
+
+_Cite_:
+
+  - Code de la santé publique - art. L2122-1 (M)
+
+
 ###### Article L122-48
 
 Toute femme enceinte dont l'état a été constaté médicalement ou dont la grossesse est apparente peut quitter le travail sans
 préavis et sans avoir de ce fait à payer une indemnité de rupture de contrat.
 
-A l'occasion de son accouchement, et sans que cette interruption de service puisse être considérée comme une cause de rupture
-de contrat, toute femme a le droit de suspendre son travail pendant quatorze semaines consécutives dont six semaines
-postérieures à la délivrance ; cette suspension peut être prolongée de trois semaines en cas de maladie dûment constatée et
-résultant de la grossesse ou des couches. Pendant cette période, l'employeur ne peut lui donner congé.
+La salariée a le droit de suspendre le contrat de travail sans que cette interruption de service puisse être considérée comme
+une cause de rupture du contrat, pendant une période qui commence six semaines avant la date présumée de l'accouchement et se
+termine dix semaines après la date de celui-ci. Lorsque des naissances multiples sont prévues, cette période commence douze
+semaines avant la date présumée de l'accouchement, vingt-quatre semaines en cas de naissance de plus de deux enfants et se
+termine vingt-deux semaines après la date de l'accouchement. En cas de naissance de deux enfants, la période antérieure à la
+date présumée de l'accouchement peut être augmentée d'une durée maximale de quatre semaines ; la période de vingt-deux
+semaines postérieure à l'accouchement est alors réduite d'autant. Cette période commence huit semaines avant la date présumée
+de l'accouchement et se termine dix-huit semaines après la date de celui-ci lorsque, avant l'accouchement, la salariée elle-
+même ou le ménage assume déjà la charge de deux enfants au moins dans les conditions prévues par la réglementation applicable
+en matière de prestations familiales ou lorsque la salariée a déjà mis au monde au moins deux enfants nés viables. La période
+de huit semaines de suspension du contrat de travail antérieure à la date présumée de l'accouchement peut être augmentée
+d'une durée maximale de deux semaines ; la période de dix-huit semaines de suspension du contrat de travail postérieure à la
+date de l'accouchement est alors réduite d'autant.
+
+Quand l'accouchement a lieu avant la date présumée, la période de suspension du contrat de travail pourra être prolongée
+jusqu'au terme des seize, des vingt-six, des trente-quatre ou des quarante-six semaines de suspension du contrat auxquelles
+la salariée peut avoir droit.
+
+Si un état pathologique attesté par un certificat médical comme résultant de la grossesse ou des couches le rend nécessaire,
+la période de suspension du contrat prévue aux alinéas précédents est augmentée de la durée de cet état pathologique dans la
+limite de deux semaines avant la date présumée de l'accouchement et de quatre semaines après la date de celui-ci.
+
+Lorsque l'enfant est resté hospitalisé jusqu'à l'expiration de la sixième semaine suivant l'accouchement, la salariée peut
+reporter à la date de la fin de l'hospitalisation tout ou partie du congé auquel elle peut encore prétendre.
+
+La femme devra avertir l'employeur du motif de son absence et de la date à laquelle elle entend remettre en vigueur son
+contrat de travail.
+
+Dans le cas où pendant sa grossesse la femme a fait l'objet d'un changement d'affectation dans les conditions prévues au
+premier alinéa de l'article L. 122-46, elle est réintégrée dans l'emploi occupé avant cette affectation lorsqu'elle reprend
+son travail à l'issue de la période de suspension définie au présent article.
 
 Elle a le droit pendant cette période, à la charge de l'employeur, à la moitié du salaire qu'elle percevait au moment de la
 suspension du travail ; elle conserve le droit aux prestations en nature. La seconde moitié de son salaire lui est versée par
@@ -3292,7 +3348,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 7 () JORF 23 février 2002
 
 _Cité par_:
 
@@ -3305,6 +3361,44 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R122-7 (Ab)
   - Code du travail applicable à Mayotte. - art. R122-9 (Ab)
   - Code du travail applicable à Mayotte. - art. R232-64 (Ab)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-46 (M)
+
+
+###### Article L122-48-1
+
+La personne titulaire de l'agrément mentionné à l'article L. 225-2 du code de l'action sociale et des familles, ou la
+personne à qui le service d'aide sociale à l'enfance prévu à l'article L. 543-2 du même code confie un enfant en vue de son
+adoption, a le droit de suspendre son contrat de travail pendant une période de dix semaines au plus à dater de l'arrivée de
+l'enfant au foyer ou pendant une période de vingt-deux semaines en cas d'adoptions multiples.
+
+La personne mentionnée à l'alinéa précédent bénéficie de la protection prévue à l'article L. 122-47.
+
+Elle doit avertir l'employeur du motif de son absence et de la date à laquelle elle entend remettre en vigueur son contrat de
+travail.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 7 () JORF 23 février 2002
+
+_Cité par_:
+
+  - Décret n°2018-1337 du 28 décembre 2018 - art. 13
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-47 (M)
+  - Code de l'action sociale et des familles - art. L225-2 (M)
+  - Code de l'action sociale et des familles - art. L543-2 (T)
 
 
 ###### Article L122-49
@@ -12128,18 +12222,18 @@ _Abrogé par_:
   - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
 
 
-#### Chapitre IV : Dispositions relatives au contrat emploi-jeune<a id=99></a>
+#### Chapitre IV : Dispositions particulières relatives à l'emploi des jeunes<a id=99></a>
 
 ###### Article L324-1
 
 La collectivité départementale peut conclure avec des employeurs établis sur son territoire, à l'exclusion des personnes
 morales de droit public, des conventions ayant pour objet de favoriser l'insertion en entreprise des jeunes rencontrant des
-difficultés d'accès à l'emploi dans le cadre d'un contrat de travail dénommé contrat emploi-jeune.
+difficultés d'accès à l'emploi dans le cadre d'un contrat de travail dénommé contrat d'insertion-adaptation.
 
-Le contrat emploi-jeune est ouvert aux jeunes de seize à vingt-cinq ans d'un niveau de formation égal au plus au niveau V. Il
-est accompagné d'un temps de formation au moins égal à deux cents heures et au plus à quatre cents heures assuré soit par
-l'entreprise, soit par un organisme de formation agréé par les services chargés du travail, de l'emploi et de la formation
-professionnelle.
+Le contrat d'insertion-adaptation est ouvert aux jeunes de seize à vingt-cinq ans d'un niveau de formation égal au plus au
+niveau V. Il est accompagné d'un temps de formation au moins égal à deux cents heures et au plus à quatre cents heures assuré
+soit par l'entreprise, soit par un organisme de formation agréé par les services chargés du travail, de l'emploi et de la
+formation professionnelle.
 
 **Liens relatifs à cet article**
 
@@ -12150,7 +12244,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 1 () JORF 23 février 2002
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 8 () JORF 23 février 2002
 
 _Cité par_:
 
@@ -12160,7 +12255,7 @@ _Cité par_:
 
 ###### Article L324-2
 
-Le contrat emploi-jeune est un contrat de travail à durée indéterminée.
+Le contrat d'insertion-adaptation est un contrat de travail à durée indéterminée.
 
 Le contrat, assorti du programme de formation, fait l'objet d'un dépôt auprès des services chargés du travail, de l'emploi et
 de la formation professionnelle, dans un délai d'un mois suivant sa date de prise d'effet.
@@ -12174,7 +12269,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 1 () JORF 23 février 2002
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 8 () JORF 23 février 2002
 
 _Cité par_:
 
@@ -12197,7 +12293,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 1 () JORF 23 février 2002
 
 _Cité par_:
 
@@ -12208,8 +12304,8 @@ _Cité par_:
 ###### Article L324-4
 
 L'employeur est exonéré du paiement des cotisations à sa charge dues à la caisse de prévoyance sociale, à raison des
-rémunérations versées aux bénéficiaires des contrats emploi-jeunes, dans la limite d'une durée d'un an suivant la date
-d'embauche.
+rémunérations versées aux bénéficiaires des contrats d'insertion-adaptation, dans la limite d'une durée d'un an suivant la
+date d'embauche.
 
 L'exonération des cotisations est compensée par la collectivité départementale au profit de la caisse de prévoyance sociale.
 L'exonération est subordonnée à la production d'une attestation délivrée par les services chargés du travail, de l'emploi et
@@ -12224,7 +12320,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 1 () JORF 23 février 2002
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 8 () JORF 23 février 2002
 
 _Cité par_:
 
@@ -12237,9 +12334,63 @@ _Cité par_:
 
 ###### Article L324-5
 
-Les bénéficiaires des contrats emploi-jeunes ne sont pas pris en compte, pendant une durée d'un an à compter de la date de
-prise d'effet du contrat, dans le calcul de l'effectif du personnel de l'employeur dont ils relèvent pour l'application à cet
-employeur des dispositions législatives et réglementaires qui se réfèrent à une condition d'effectif minimum de salariés.
+Les bénéficiaires des contrats d'insertion-adaptation ne sont pas pris en compte, pendant une durée d'un an à compter de la
+date de prise d'effet du contrat, dans le calcul de l'effectif du personnel de l'employeur dont ils relèvent pour
+l'application à cet employeur des dispositions législatives et réglementaires qui se réfèrent à une condition d'effectif
+minimum de salariés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
+
+_Modifié par_:
+
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 1 () JORF 23 février 2002
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 8 () JORF 23 février 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 4 (V)
+
+
+###### Article L324-6
+
+Afin de promouvoir le développement d'activités créatrices d'emplois pour les jeunes répondant à des besoins émergents ou non
+satisfaits et présentant un caractère d'utilité sociale, notamment dans les domaines des activités sportives, culturelles,
+éducatives, d'environnement et de proximité, l'Etat peut, en concertation avec les partenaires locaux, conclure avec les
+collectivités territoriales et leurs établissements publics, les autres personnes morales de droit public, les organismes de
+droit privé à but non lucratif et les personnes morales chargées de la gestion d'un service public des conventions
+pluriannuelles prévoyant l'attribution d'aides pour la mise en oeuvre de projets d'activités répondant aux exigences d'un
+cahier des charges comportant notamment les conditions prévisibles de la pérennisation des activités et les dispositions de
+nature à assurer la professionnalisation des emplois.
+
+Ces conventions peuvent être également conclues avec des groupements constitués sous la forme d'associations déclarées de la
+loi du 1er juillet 1901.
+
+Ces conventions ne peuvent s'appliquer aux services rendus aux personnes physiques à leur domicile. Toutefois, elles peuvent
+s'appliquer aux activités favorisant le développement et l'animation de services aux personnes répondant à des besoins
+émergents ou non satisfaits.
+
+Lorsqu'elles sont conclues avec une personne morale de droit public, elles ne peuvent s'appliquer qu'à des activités non
+assurées jusqu'alors par celle-ci. Les collectivités territoriales et leurs établissements publics peuvent conclure ces
+conventions pour les emplois autres que ceux relevant de leurs compétences traditionnelles.
+
+Les projets de développement d'activités présentés par les personnes morales de droit privé à but lucratif chargées de la
+gestion d'un service public ne peuvent faire l'objet d'une convention, sauf si les activités proposées ne sont pas assurées à
+la date de la demande et entrent dans le cadre de la mission de service public qui leur a été confiée.
+
+Les délégués du personnel, lorsqu'ils existent, et les comités techniques paritaires sont informés sur les conventions
+conclues en application du présent article.
+
+Les conventions comportent des dispositions relatives aux objectifs de qualification, aux conditions de la formation
+professionnelle et, selon les besoins, aux modalités du tutorat. Les collectivités territoriales ainsi que, le cas échéant,
+d'autres personnes morales peuvent participer à l'effort de formation.
+
+Le contenu et la durée des conventions, les conditions dans lesquelles leur exécution est suivie et contrôlée ainsi que les
+modalités de dénonciation de la convention en cas de non-respect de celle-ci sont déterminés par décret.
 
 **Liens relatifs à cet article**
 
@@ -12248,12 +12399,217 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Modifié par_:
+_Créé par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 1 () JORF 23 février 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 15 (V) JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. L324-7 (VT)
+  - Code du travail applicable à Mayotte. - art. L324-8 (Ab)
+  - Code du travail applicable à Mayotte. - art. L324-9 (V)
+
+_Cite_:
+
+  - Loi n°1901-07-01
 
 
-#### Chapitre V : Dispositions relatives à l'aide à la création d'entreprise à l'initiative de demandeurs d'emploi<a id=100></a>
+###### Article L324-7
+
+Les aides attribuées par l'Etat en application des conventions mentionnées à l'article L. 324-6 ont pour objet de permettre
+l'accès à l'emploi de jeunes âgés de dix-huit à moins de trente ans lors de leur embauche, inscrits comme demandeurs d'emploi
+ou titulaires d'un des contrats de travail visés aux articles L. 322-1, L. 322-7 et L. 325-6.
+
+Pour chaque poste de travail créé en vertu d'une telle convention et occupé par une personne répondant aux conditions prévues
+à l'alinéa précédent, l'Etat verse à l'organisme employeur une aide forfaitaire dont le montant et la durée sont fixés par
+décret. L'organisme employeur peut verser une rémunération supérieure au salaire minimum interprofessionnel garanti. Ces
+dispositions sont prévues dans la convention. L'Etat peut prendre en charge tout ou partie des coûts d'étude des projets
+mentionnés à l'article L. 324-6.
+
+Ces aides ne donnent lieu à aucune charge fiscale ou parafiscale.
+
+Elles ne peuvent se cumuler, pour un même poste de travail, avec une autre aide de l'Etat à l'emploi, avec une exonération
+totale ou partielle des cotisations patronales de sécurité sociale ou avec l'application de taux spécifiques, d'assiettes ou
+de montants forfaitaires de cotisations de sécurité sociale.
+
+Elles ne peuvent être accordées lorsque l'embauche est en rapport avec la fin du contrat de travail d'un salarié, quel qu'en
+soit le motif.
+
+Le décret mentionné au deuxième alinéa du présent article précise les conditions d'attribution et de versement des aides de
+l'Etat.
+
+L'employeur peut recevoir, pour la part de financement restant à sa charge, des cofinancements provenant notamment des
+collectivités territoriales, des établissements publics locaux ou territoriaux ainsi que de toute autre personne morale de
+droit public ou de droit privé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 1 () JORF 23 février 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 15 (V) JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L322-1 (M)
+  - Code du travail applicable à Mayotte. - art. L322-7 (M)
+  - Code du travail applicable à Mayotte. - art. L324-6 (Ab)
+  - Code du travail applicable à Mayotte. - art. L325-6 (V)
+
+
+###### Article L324-8
+
+I. - Les contrats de travail conclus en vertu des conventions mentionnées à l'article L. 324-6 sont des contrats de droit
+privé établis par écrit. Ils sont conclus pour la durée légale du travail ou pour la durée collective inférieure applicable à
+l'organisme employeur. Ils peuvent être conclus à temps partiel, à condition que la durée du travail soit au moins égale à un
+mi-temps, et sur dérogation accordée par le représentant de l'Etat signataire de la convention, lorsque la nature de l'emploi
+ou le volume de l'activité ne permettent pas l'emploi d'un salarié à temps plein.
+
+Lorsqu'ils sont pérennisés, les emplois pour lesquels ces contrats ont été conclus sont intégrés dans les grilles de
+classification des conventions ou accords collectifs dont relève l'activité lorsque ces conventions ou accords existent.
+
+Ils peuvent être à durée indéterminée ou à durée déterminée en application du 1° de l'article L. 122-1-1. Toutefois, les
+collectivités territoriales et les autres personnes morales de droit public, à l'exclusion des établissements publics à
+caractère industriel et commercial, ne peuvent conclure que des contrats à durée déterminée.
+
+Les contrats mentionnés au présent article ne peuvent être conclus par les services de l'Etat.
+
+II. - Les contrats de travail à durée déterminée mentionnés au I sont conclus pour une durée de soixante mois.
+
+Ils comportent une période d'essai d'un mois renouvelable une fois.
+
+Sans préjudice de l'application du premier alinéa de l'article L. 122-10, ils peuvent être rompus à l'expiration de chacune
+des périodes annuelles de leur exécution à l'initiative du salarié, moyennant le respect d'un préavis de deux semaines, ou de
+l'employeur, s'il justifie d'une cause réelle et sérieuse.
+
+Dans ce dernier cas, les dispositions des articles L. 122-19, L. 122-27 et L. 122-28 sont applicables. En outre, l'employeur
+qui décide de rompre le contrat du salarié pour une cause réelle et sérieuse doit notifier cette rupture par lettre
+recommandée avec demande d'avis de réception. Cette lettre ne peut être expédiée au salarié moins d'un jour franc après la
+date fixée pour l'entretien préalable prévu à l'article L. 122-27. La date de présentation de la lettre recommandée fixe le
+point de départ du délai-congé prévu par l'article L. 122-19.
+
+En cas de rupture avant terme d'un contrat à durée déterminée conclu en vertu des conventions mentionnées à l'article L.
+324-6, les employeurs peuvent conclure, pour le même poste, un nouveau contrat à durée déterminée dont la durée sera égale à
+la durée de versement de l'aide de l'Etat restant à courir pour le poste considéré. Les dispositions des alinéas précédents
+s'appliquent à ce nouveau contrat.
+
+Par dérogation aux dispositions du deuxième alinéa de l'article L. 122-10, la méconnaissance par l'employeur des dispositions
+relatives à la rupture du contrat de travail prévues aux troisième et quatrième alinéas du présent II ouvre droit pour le
+salarié à des dommages et intérêts correspondant au préjudice subi. Il en est de même lorsque la rupture du contrat
+intervient suite au non-respect de la convention ayant entraîné sa dénonciation.
+
+III. - A l'initiative du salarié, les contrats mentionnés au I peuvent être suspendus avec l'accord de l'employeur afin de
+lui permettre d'effectuer la période d'essai afférente à une offre d'emploi. En cas d'embauche à l'issue de cette période
+d'essai, les contrats précités sont rompus sans préavis.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 1 () JORF 23 février 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 15 (V) JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+_Cité par_:
+
+  - Décret n°2016-1122 du 11 août 2016 - art. 7 (V)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-1-1 (M)
+  - Code du travail applicable à Mayotte. - art. L122-10 (M)
+  - Code du travail applicable à Mayotte. - art. L122-19 (M)
+  - Code du travail applicable à Mayotte. - art. L122-27 (M)
+  - Code du travail applicable à Mayotte. - art. L122-28 (M)
+  - Code du travail applicable à Mayotte. - art. L324-6 (Ab)
+
+
+###### Article L324-9
+
+Les jeunes âgés de dix-huit à trente ans ainsi que les bénéficiaires du dispositif prévu par l'article L. 324-6 arrivant au
+terme de leur contrat peuvent bénéficier d'une aide financière de l'Etat dénommée : Aide à un projet initiative-jeune, en vue
+de faciliter la réalisation d'un projet professionnel.
+
+Cette aide bénéficie aux jeunes qui :
+
+a) Soit créent ou reprennent une entreprise à but lucratif dont le siège et l'établissement principal sont situés dans la
+collectivité départementale de Mayotte et dont ils assurent la direction effective ; dans ce cas, l'aide de l'Etat prend la
+forme d'un capital versé en deux ou plusieurs fractions ;
+
+b) Soit poursuivent, hors de la collectivité départementale de Mayotte, une formation professionnelle proposée par l'Agence
+nationale pour l'insertion et la promotion des travailleurs d'outre-mer ou par tout organisme agréé à cet effet par l'Etat ;
+dans ces cas, l'aide de l'Etat prend la forme d'une mensualité, dans la limite de deux ans, à laquelle peut s'ajouter la
+prise en charge de frais liés à la formation.
+
+La décision d'attribution de l'aide est prise par le représentant de l'Etat à Mayotte, qui apprécie la réalité, la
+consistance et la viabilité du projet.
+
+L'aide, dont le montant maximum est fixé par décret, est versée à compter de la date de la création effective de l'entreprise
+ou de celle du début de la formation.
+
+Un même jeune peut bénéficier successivement des deux types d'aide si, après avoir suivi une formation en mobilité, il crée
+une entreprise dans les conditions fixées au présent article.
+
+L'aide en capital est exonérée de toutes charges sociales et fiscales.
+
+L'aide mensuelle est assimilée à une indemnité de formation professionnelle pour assujettissement aux cotisations sociales
+prises en charge par l'Etat ; elle fait partie, le cas échéant, des ressources pour le calcul des prestations sociales
+auxquelles le bénéficiaire peut prétendre sur le lieu de sa formation.
+
+Toute personne qui aura frauduleusement bénéficié ou tenté de bénéficier de l'aide afférente au projet initiative-jeune sera
+punie des peines prévues aux articles 313-1 à 313-3 du code pénal.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article et notamment celles de la suspension ou de
+la suppression de l'aide, ainsi que celles relatives au non-cumul de cette aide avec d'autres aides publiques.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 1 () JORF 23 février 2002
+
+_Cite_:
+
+  - Code pénal 313-1 à 313-3
+  - Code du travail applicable à Mayotte. - art. L324-6 (Ab)
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. D324-2 (Ab)
+  - Code du travail applicable à Mayotte. - art. L325-2 (V)
+  - Code du travail applicable à Mayotte. - art. R324-1 (M)
+  - Code du travail applicable à Mayotte. - art. R325-9 (Ab)
+
+_Anciens textes_:
+
+  - Code du travail applicable à Mayotte. - art. L711-6 (T)
+
+
+#### Chapitre V : Dispositions relatives à la création d'entreprises et à la création d'emplois<a id=100></a>
 
 ###### Article L325-1
 
@@ -12266,8 +12622,8 @@ Pour l'obtention de l'aide prévue à l'alinéa précédent, les volontaires des
 stagiaire dans une unité du service militaire adapté sont réputés avoir satisfait aux conditions d'inscription prévues au
 même alinéa.
 
-Le montant de cette aide forfaitaire est fixé par décret. Elle est réputée accordée si un refus explicite n'intervient pas
-dans le mois qui suit la demande.
+Le montant de cette aide modulable dans la limite d'un plafond est fixé par décret. Elle est réputée accordée si un refus
+explicite n'intervient pas dans le mois qui suit la demande.
 
 L'Etat peut participer par convention au financement des actions de conseil ou de formation à la gestion d'entreprise qui
 sont organisées avant la création ou la reprise d'entreprise et pendant trois années après.
@@ -12283,7 +12639,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 2 () JORF 23 février 2002
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 8 () JORF 23 février 2002
 
 _Cité par_:
 
@@ -12300,7 +12657,750 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R325-9 (M)
 
 
-### TITRE III : MAIN-D'OEUVRE ÉTRANGÈRE.<a id=101></a>
+###### Article L325-2
+
+Une prime à la création d'emplois financée par l'Etat est instituée pour les entreprises comptant moins de onze salariés dont
+le siège social et l'établissement principal sont situés à Mayotte et n'ayant procédé à aucun licenciement pour cause
+économique depuis au moins un an.
+
+Cette prime est accordée par le représentant de l'Etat pour le recrutement de chaque demandeur d'emploi inscrit auprès des
+services chargés de l'emploi, embauché sous contrat de travail à durée indéterminée ou à durée déterminée d'au moins un an et
+permettant une création nette d'emploi par rapport à l'effectif moyen de l'année civile précédente dans une entreprise dont
+l'activité présente un intérêt pour le développement économique de Mayotte.
+
+L'aide est versée pendant trois ans, de façon dégressive. Son montant est fixé en pourcentage de la rémunération horaire
+minimale prévue à l'article L. 141-2 multipliée par le nombre d'heures correspondant à la durée légale du travail fixée à
+l'article L. 212-1.
+
+L'aide est retirée si l'effectif de l'entreprise diminue par rapport à celui déclaré lors de l'embauche ou s'il est constaté
+que l'entreprise n'est pas à jour de ses obligations fiscales ou sociales.
+
+Un décret en conseil d'Etat détermine les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 2 () JORF 23 février 2002
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. D313-1 (Ab)
+  - Code du travail applicable à Mayotte. - art. R324-1 (M)
+  - Code du travail applicable à Mayotte. - art. R325-9 (Ab)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L141-2 (M)
+  - Code du travail applicable à Mayotte. - art. L212-1 (M)
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. L324-7 (VT)
+
+
+###### Article L325-3
+
+Il est créé à Mayotte une agence pour le développement d'activités d'utilité sociale, établissement public national placé
+sous la tutelle du ministre chargé de l'outre-mer.
+
+Cette agence a pour mission de développer des activités créatrices d'emplois répondant à des besoins émergents ou non
+satisfaits et présentant un caractère d'utilité sociale, notamment dans les domaines des activités sportives, éducatives,
+culturelles, de proximité et d'environnement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 2 () JORF 23 février 2002
+
+_Cité par_:
+
+  - Code rural et de la pêche maritime - art. L372-6 (Ab)
+
+
+###### Article L325-4
+
+L'agence établit un programme annuel de développement des activités mentionnées à l'article précédent, en concertation avec
+les collectivités territoriales. Le programme prévoit les créations d'emplois correspondantes. L'agence peut gérer elle-même
+les activités ou mettre ses salariés à disposition des personnes morales ou organismes définis à l'article L. 322-1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 2 () JORF 23 février 2002
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L322-1 (M)
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R325-3 (Ab)
+
+
+###### Article L325-5
+
+Les emplois créés sont destinés à l'embauche de personnes chargées de famille et de jeunes âgés de moins de trente ans
+inscrits comme demandeurs d'emploi.
+
+A cette fin, les services chargés de l'emploi communiquent à l'agence des listes de personnes pouvant être embauchées par
+elle et les informations les concernant.
+
+Lorsqu'elles sont conservées sur support informatique, les informations mentionnées à l'alinéa précédent sont transmises dans
+les conditions prévues à l'article 15 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
+libertés.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°78-17 du 6 janvier 1978 - art. 15 (M)
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 2 () JORF 23 février 2002
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. L325-6 (V)
+  - Code du travail applicable à Mayotte. - art. R325-7 (Ab)
+
+
+###### Article L325-6
+
+Pour la mise en oeuvre du programme annuel de développement, l'agence peut conclure avec les demandeurs d'emploi mentionnés à
+l'article L. 325-5 des contrats emploi-développement. Ces contrats sont régis par les dispositions du chapitre II du titre II
+du présent livre.
+
+De même, pour l'organisation et l'encadrement des activités, elle peut conclure des contrats emplois-jeunes prévus au
+chapitre IV du titre II du présent livre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 2 () JORF 23 février 2002
+
+_Cité par_:
+
+  - Code du travail - art. R5531-1 (Ab)
+  - Code du travail applicable à Mayotte. - art. L324-7 (VT)
+  - Code du travail applicable à Mayotte. - art. L325-8 (V)
+  - Code du travail applicable à Mayotte. - art. R324-1 (M)
+  - Code du travail applicable à Mayotte. - art. R325-4 (Ab)
+  - Code du travail applicable à Mayotte. - art. R325-9 (Ab)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L325-5 (V)
+
+
+###### Article L325-7
+
+L'agence est administrée par un conseil d'administration présidé par le représentant de l'Etat à Mayotte qui comprend, en
+outre, en nombre égal :
+
+1° Des représentants des services de l'Etat à Mayotte ;
+
+2° Des représentants du conseil général et des communes de Mayotte ;
+
+3° Des personnalités qualifiées choisies au sein d'associations, d'organismes ou d'institutions intervenant dans les domaines
+des activités économiques, sociales, éducatives, d'environnement et de proximité, nommées par le représentant de l'Etat à
+Mayotte.
+
+L'agence est dirigée par un directeur nommé par le représentant de l'Etat à Mayotte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 2 () JORF 23 février 2002
+
+
+###### Article L325-8
+
+Les ressources de l'agence sont constituées par une subvention annuelle de l'Etat, au titre du fonds pour l'emploi mentionné
+à l'article L. 325-9 et par les contributions de l'Etat au titre des emplois mentionnés à l'article L. 325-6.
+
+Le conseil général de Mayotte, les communes et leurs établissements publics peuvent apporter leur contribution au
+développement de l'agence et de ses activités.
+
+Un décret en conseil d'Etat fixe les conditions d'application des articles L. 325-3 à L. 325-8, et notamment les règles
+relatives à l'organisation, au fonctionnement, au régime administratif, financier et comptable de l'agence.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 2 () JORF 23 février 2002
+
+_Cité par_:
+
+  - Code du travail - art. R5531-1 (Ab)
+  - Code du travail applicable à Mayotte. - art. R325-6 (Ab)
+  - Code du travail applicable à Mayotte. - art. R325-9 (Ab)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte L325-9, L325-6, L325-3 à L325-8
+  - Code du travail applicable à Mayotte. - art. L325-6 (V)
+  - Code du travail applicable à Mayotte. - art. L325-9 (V)
+
+
+###### Article L325-9
+
+Comme il est dit à l'article L. 832-4 du code du travail applicable dans les départements de métropole et d'outre-mer ci-
+après reproduit :
+
+"Art. L. 832-4. - Il est créé un fonds pour l'emploi dans les départements d'outre-mer, dans la collectivité départementale
+de Mayotte et la collectivité départementale de Saint-Pierre-et-Miquelon ayant pour objet de regrouper les financements des
+actions spécifiques menées par l'Etat en faveur de l'emploi dans ces départements et collectivités.
+
+Les crédits budgétaires inscrits à ce fonds sont répartis après avis d'un comité directeur composé de représentants de l'Etat
+et d'élus des départements d'outre-mer, de la collectivité départementale de Mayotte et de la collectivité départementale de
+Saint-Pierre-et-Miquelon.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article."
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 3 () JORF 23 février 2002
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. L321-5 (V)
+  - Code du travail applicable à Mayotte. - art. L321-6 (VT)
+  - Code du travail applicable à Mayotte. - art. L325-8 (V)
+
+
+#### Chapitre VI : Placement<a id=101></a>
+
+###### Article L326-1
+
+Les services de l'emploi placés sous l'autorité du représentant de l'Etat sont chargés :
+
+a) De l'accueil des personnes à la recherche d'un emploi et de leur inscription sur une liste tenue par leurs soins ;
+
+b) De l'orientation des personnes susceptibles de bénéficier des mesures relatives à la formation professionnelle, à la
+mobilité géographique et professionnelle inscrites sur la liste prévue au a ;
+
+c) Du placement des personnes désireuses de trouver un emploi, notamment par le rapprochement des offres et demandes
+d'emploi ;
+
+d) De la coordination d'actions concertées en matière d'emploi, d'insertion et de formation entre les collectivités
+publiques, les entreprises publiques et privées, les divers types d'établissements d'enseignement, les associations et les
+organisations professionnelles, syndicales et familiales ;
+
+e) Du contrôle de la recherche effective et permanente d'emploi des personnes inscrites, et notamment des personnes
+indemnisées au titre de la perte d'emploi.
+
+Les opérations mentionnées ci-dessus sont effectuées gratuitement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 4 () JORF 23 février 2002
+
+_Transféré par_:
+
+  - Loi n°2003-660 du 21 juillet 2003 - art. 15 (V) JORF 22 juillet 2003
+
+_Cité par_:
+
+  - Loi n°2016-274 du 7 mars 2016 - art. 61
+  - Code de l'action sociale et des familles - art. L549-1 (T)
+  - Code du travail applicable à Mayotte. - art. L322-1 (V)
+  - Code du travail applicable à Mayotte. - art. L326-2 (T)
+  - Code du travail applicable à Mayotte. - art. L326-3 (T)
+  - Code du travail applicable à Mayotte. - art. L326-8 (V)
+  - Code du travail applicable à Mayotte. - art. L326-9 (M)
+  - Code du travail applicable à Mayotte. - art. L327-2 (M)
+  - Code du travail applicable à Mayotte. - art. L343-1 (M)
+  - Code du travail applicable à Mayotte. - art. R322-2 (V)
+  - Code du travail applicable à Mayotte. - art. R326-10 (Ab)
+  - Code du travail applicable à Mayotte. - art. R326-29 (V)
+  - Code du travail applicable à Mayotte. - art. R326-4 (V)
+  - Code du travail applicable à Mayotte. - art. R326-6 (V)
+  - Code du travail applicable à Mayotte. - art. R326-8 (V)
+  - Code du travail applicable à Mayotte. - art. R326-9 (V)
+  - Code général des collectivités territoriales - art. L2572-6 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. L326-7 (V)
+
+
+###### Article L326-2
+
+L'inscription sur la liste prévue à l'article L. 326-1 est subordonnée à la production d'un document attestant de l'état
+civil du demandeur. Les services de l'emploi, pour en vérifier la validité, ont accès aux fichiers des services de l'Etat, de
+la collectivité départementale, des communes ou de leurs établissements publics.
+
+Lors de l'inscription d'une personne de nationalité étrangère sur cette liste, les services de l'emploi vérifient, sous les
+mêmes conditions, la validité de ses titres de séjour et de travail.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 4 () JORF 23 février 2002
+
+_Transféré par_:
+
+  - Loi n°2003-660 du 21 juillet 2003 - art. 15 (V) JORF 22 juillet 2003
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. L549-1 (T)
+  - Code du travail applicable à Mayotte. - art. L326-56 (VT)
+  - Code du travail applicable à Mayotte. - art. R326-13 (V)
+  - Code du travail applicable à Mayotte. - art. R326-24 (Ab)
+  - Code du travail applicable à Mayotte. - art. R326-49 (Ab)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L326-1 (T)
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. L326-8 (V)
+
+
+###### Article L326-3
+
+Un décret en Conseil d'Etat fixe en tant que de besoin les modalités d'application du présent chapitre, et notamment les
+obligations et sanctions pesant sur les personnes inscrites sur la liste prévue à l'article L. 326-1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 4 () JORF 23 février 2002
+
+_Transféré par_:
+
+  - Loi n°2003-660 du 21 juillet 2003 - art. 15 (V) JORF 22 juillet 2003
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. L321-6 (V)
+  - Code du travail applicable à Mayotte. - art. R326-23 (V)
+  - Code du travail applicable à Mayotte. - art. R326-25 (V)
+  - Code du travail applicable à Mayotte. - art. R326-4 (V)
+  - Code du travail applicable à Mayotte. - art. R326-6 (V)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L326-1 (T)
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. L326-9 (M)
+  - Code du travail applicable à Mayotte. - art. L326-9 (V)
+
+
+#### Chapitre VII : Indemnisation du chômage<a id=102></a>
+
+###### Article L327-1
+
+Les accords ayant pour objet exclusif le versement d'allocations aux travailleurs privés d'emploi peuvent être agréés par
+arrêté du représentant de l'Etat lorsqu'ils sont négociés et conclus sur le plan interprofessionnel entre les organisations
+syndicales les plus représentatives d'employeurs et de salariés au sens de l'article L. 412-3, qu'ils ne comportent aucune
+stipulation incompatible avec les dispositions législatives ou réglementaires en vigueur à Mayotte et qu'ils remplissent les
+conditions fixées aux articles L. 327-2 et suivants ci-dessous.
+
+L'agrément est accordé après avis de la commission consultative du travail prévue à l'article L. 420-1.
+
+Il a pour effet de rendre l'accord obligatoire pour tous les employeurs mentionnés à l'article L. 000-1 ainsi que pour leurs
+salariés.
+
+L'agrément est donné pour la durée de validité de l'accord. Il peut être retiré par le représentant de l'Etat si les
+dispositions de l'accord ou ses conditions d'application cessent d'être en conformité avec les dispositions législatives ou
+réglementaires en vigueur.
+
+Les accords prévus ci-dessus et les arrêtés d'agrément sont soumis aux conditions de publicité prévues à l'article L. 133-8.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 5 () JORF 23 février 2002
+
+_Cité par_:
+
+  - Ordonnance n°2002-411 du 27 mars 2002 - art. 8 (VD)
+  - Décret n°2003-589 du 1 juillet 2003 - art. 3 (V)
+  - Ordonnance n°2012-788 du 31 mai 2012 - art. 15 (V)
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 13 (V)
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 9 (V)
+  - Décret n°2018-1337 du 28 décembre 2018 - art. 12
+  - Code de l'action sociale et des familles - art. R541-1 (T)
+  - Code du travail applicable à Mayotte. - art. L128-1 (VT)
+  - Code du travail applicable à Mayotte. - art. L326-52 (VT)
+  - Code du travail applicable à Mayotte. - art. L327-3 (V)
+  - Code du travail applicable à Mayotte. - art. L327-6 (V)
+  - Code du travail applicable à Mayotte. - art. L327-7 (V)
+  - Code du travail applicable à Mayotte. - art. R326-16 (Ab)
+  - Code du travail applicable à Mayotte. - art. R327-1 (Ab)
+  - Code du travail applicable à Mayotte. - art. R327-47 (Ab)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L000-1 (M)
+  - Code du travail applicable à Mayotte. - art. L133-8 (M)
+  - Code du travail applicable à Mayotte. - art. L327-2 (M)
+  - Code du travail applicable à Mayotte. - art. L412-3 (M)
+  - Code du travail applicable à Mayotte. - art. L420-1 (M)
+
+
+###### Article L327-2
+
+Pour être agréé, l'accord instituant un régime d'assurance contre le risque de privation totale d'emploi doit prévoir :
+
+- l'indemnisation des salariés licenciés pour cause économique inscrits comme demandeurs d'emploi dans les conditions prévues
+à l'article L. 326-1, recherchant activement un nouvel emploi ; l'accord doit préciser également les conditions d'âge et
+d'activité auxquelles ces salariés doivent répondre ;
+
+- le calcul de l'allocation, soit en fonction de la rémunération antérieurement perçue dans la limite d'un plafond, soit en
+fonction de la rémunération ayant servi au calcul des contributions prévues ci-dessous, sans pouvoir excéder le montant net
+de la rémunération antérieurement perçue ;
+
+- l'attribution de l'allocation pour une durée limitée compte tenu de l'âge des intéressés et des conditions de leur activité
+professionnelle antérieure, sans que cette durée puisse être inférieure à une durée minimum fixée par voie réglementaire ;
+
+- l'équilibre financier du régime par le versement de contribution des employeurs et des salariés.
+
+L'allocation peut comporter un taux dégressif calculé en fonction de l'âge des intéressés et de la durée de leur
+indemnisation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 5 () JORF 23 février 2002
+
+_Cité par_:
+
+  - Décret n°2018-1337 du 28 décembre 2018 - art. 12
+  - Code du travail applicable à Mayotte. - art. L327-1 (V)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L326-1 (T)
+
+
+###### Article L327-3
+
+Lorsque l'accord mentionné à l'article L. 327-1 n'a pas été signé par la totalité des organisations les plus représentatives
+d'employeurs et de travailleurs, le représentant de l'Etat à Mayotte peut cependant procéder à son agrément si l'avis motivé
+favorable de la commission consultative du travail a été émis sans l'opposition écrite et motivée, soit de deux organisations
+d'employeurs, soit de deux organisations de travailleurs représentées à cette commission.
+
+En cas d'opposition dans les conditions prévues à l'alinéa précédent, le représentant de l'Etat à Mayotte peut saisir à
+nouveau la commission consultative du travail sur la base d'un rapport qui précise la portée des dispositions en cause, ainsi
+que les conséquences de l'agrément.
+
+Le représentant de l'Etat à Mayotte peut décider l'agrément au vu du nouvel avis émis par la commission ; cette décision doit
+être motivée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 5 () JORF 23 février 2002
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L327-1 (V)
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R327-11 (Ab)
+  - Code du travail applicable à Mayotte. - art. R327-20 (T)
+
+
+###### Article L327-4
+
+L'allocation d'assurance est financée par des contributions des employeurs et des salariés assises sur les rémunérations
+brutes dans la limite d'un plafond.
+
+Les taux des contributions et de l'allocation sont calculés de manière à garantir l'équilibre financier du régime.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 5 () JORF 23 février 2002
+
+
+###### Article L327-5
+
+Le droit des travailleurs privés d'emploi aux allocations d'assurance est indépendant du respect par l'employeur des
+obligations qui pèsent sur lui en application du présent chapitre et des dispositions réglementaires et conventionnelles
+prises pour son exécution.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 5 () JORF 23 février 2002
+
+_Cité par_:
+
+  - Décret n°2013-140 du 14 février 2013 - art. 4 (V)
+  - Loi n°2016-274 du 7 mars 2016 - art. 61
+  - Code du travail applicable à Mayotte. - art. R327-1 (Ab)
+
+
+###### Article L327-6
+
+L'allocation d'assurance attribuée aux salariés privés d'emploi en application des dispositions de l'accord prévu à l'article
+L. 327-1 est cessible et saisissable dans les mêmes conditions et limites que les salaires.
+
+Les contributions des employeurs prévues par l'accord visé à l'article L. 327-1 ne sont pas passibles des cotisations de
+sécurité sociale. Elles sont déductibles des bénéfices industriels et commerciaux, agricoles ou non commerciaux pour
+l'établissement de l'impôt sur le revenu ou de l'impôt sur les sociétés dû par ces employeurs.
+
+Les contributions payées dans les mêmes conditions par les travailleurs ne sont pas passibles des cotisations de sécurité
+sociale et sont déductibles pour l'établissement de l'impôt sur le revenu des personnes physiques dû par les intéressés.
+
+Les dispositions des deuxième et troisième alinéas ci-dessus sont applicables aux allocations et contributions versées en vue
+d'indemniser la privation partielle d'emploi, lorsque cette indemnisation résulte de l'accord visé à l'article L. 327-1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 5 () JORF 23 février 2002
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L327-1 (V)
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R327-2 (Ab)
+  - Code du travail applicable à Mayotte. - art. R327-28 (Ab)
+  - Code du travail applicable à Mayotte. - art. R327-29 (Ab)
+
+
+###### Article L327-7
+
+Les parties signataires de l'accord prévu à l'article L. 327-1 confient le service de l'allocation d'assurance et le
+recouvrement des contributions à un organisme privé ou public de leur choix.
+
+Un arrêté conjoint du ministre chargé des finances et du ministre chargé de l'emploi détermine les mesures propres à assurer
+la sécurité et la liquidité des fonds de l'organisme mentionné à l'alinéa précédent.
+
+Les conditions du contrôle auquel est soumis l'organisme visé au présent article sont déterminées par décret en Conseil
+d'Etat.
+
+Les agents des services des impôts ainsi que ceux des organismes de sécurité sociale peuvent communiquer à cet organisme les
+renseignements nécessaires à l'établissement de l'assiette des cotisations et au calcul des prestations ainsi que pour la
+vérification du versement des contributions prévues par l'accord visé à l'article L. 327-1. Les modalités d'application du
+présent alinéa sont précisées par décret en Conseil d'Etat après avis de la Commission nationale de l'informatique et des
+libertés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Cité par_:
+
+  - Loi n°94-126 du 11 février 1994 - art. 4-1 (V)
+  - Code de l'éducation - art. L262-4 (VD)
+  - Code du travail applicable à Mayotte. - art. L321-6 (V)
+  - Code du travail applicable à Mayotte. - art. L327-29 (VD)
+  - Code du travail applicable à Mayotte. - art. L327-8 (V)
+
+_Créé par_:
+
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 5 () JORF 23 février 2002
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L327-1 (V)
+
+
+###### Article L327-8
+
+En cas de carence de l'organisme gestionnaire mentionné à l'article L. 327-7, le représentant de l'Etat peut désigner un
+administrateur provisoire afin d'assurer la continuité de la gestion et du service de l'allocation.
+
+En cas de non-renouvellement de l'accord ou d'absence d'agrément de celui-ci, les mesures permettant d'assurer sa continuité
+sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 5 () JORF 23 février 2002
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L327-7 (V)
+
+
+###### Article L327-9
+
+Le droit au revenu de remplacement s'éteint lorsque, sans motif légitime, le bénéficiaire de ce revenu refuse d'accepter un
+emploi, quelle que soit la durée du contrat de travail offert, compatible avec sa spécialité ou sa formation antérieure, ses
+possibilités de mobilité géographique compte tenu de sa situation personnelle et familiale, et rétribué à un taux de salaire
+normalement pratiqué dans la profession et à Mayotte.
+
+Il s'éteint également lorsqu'il refuse, sans motif légitime, de suivre une action de formation, de répondre aux convocations
+des services ou organismes compétents ou de se soumettre à une visite médicale auprès des services médicaux du travail
+destinée à vérifier son aptitude au travail ou à certains types d'emploi.
+
+Il en est de même en cas de fraude ou de fausse déclaration. Les sommes indûment perçues donnent lieu à répétition.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 5 () JORF 23 février 2002
+
+
+###### Article L327-10
+
+Les salariés qui, tout en restant liés à leur employeur par un contrat de travail, subissent une perte de salaire imputable
+soit à la fermeture temporaire de l'établissement qui les emploie, soit à la réduction de l'horaire de travail habituellement
+pratiqué en deçà de la durée légale du travail, pour des raisons techniques ou économiques exceptionnelles, à caractère non
+permanent, bénéficient d'une allocation spécifique, à la charge de l'Etat. Son attribution est subordonnée au versement par
+l'employeur d'une allocation complémentaire au bénéfice des salariés, d'un montant au moins équivalent à celui de
+l'allocation spécifique.
+
+Les modalités, de mise en oeuvre du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 5 () JORF 23 février 2002
+
+_Cité par_:
+
+  - Ordonnance n°2002-411 du 27 mars 2002 - art. 8 (VD)
+  - Décret n°2003-589 du 1 juillet 2003 - art. 3 (V)
+  - Code de l'action sociale et des familles - art. R541-1 (T)
+  - Code de l'action sociale et des familles - art. R541-9 (V)
+  - Code du travail applicable à Mayotte. - art. D321-12-1 (Ab)
+  - Code du travail applicable à Mayotte. - art. R321-10 (Ab)
+  - Code du travail applicable à Mayotte. - art. R321-12 (Ab)
+  - Code du travail applicable à Mayotte. - art. R321-13 (Ab)
+  - Code du travail applicable à Mayotte. - art. R327-12 (T)
+  - Code du travail applicable à Mayotte. - art. R327-13 (T)
+
+
+### TITRE III : MAIN-D'OEUVRE ÉTRANGÈRE.<a id=103></a>
 
 ###### Article L330-1
 
@@ -12431,9 +13531,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L342-2 (M)
 
 
-### TITRE IV : PÉNALITÉS<a id=102></a>
+### TITRE IV : PÉNALITÉS<a id=104></a>
 
-#### CHAPITRE Ier : Travail clandestin.<a id=103></a>
+#### CHAPITRE Ier : Travail clandestin.<a id=105></a>
 
 ###### Article L341-1
 
@@ -12473,7 +13573,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L341-3 (VT)
 
 
-#### CHAPITRE II : Main-d'oeuvre étrangère.<a id=104></a>
+#### CHAPITRE II : Main-d'oeuvre étrangère.<a id=106></a>
 
 ###### Article L342-1
 
@@ -12541,13 +13641,63 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L330-4 (M)
 
 
-## LIVRE IV : LES GROUPEMENTS PROFESSIONNELS LA REPRÉSENTATION DES SALARIÉS<a id=105></a>
+#### Chapitre III : Mesures pour l'emploi et indemnisation du chômage<a id=107></a>
 
-### TITRE Ier : LES SYNDICATS PROFESSIONNELS<a id=106></a>
+###### Article L343-1
 
-#### CHAPITRE Ier : Statut juridique des syndicats<a id=107></a>
+Est passible d'une amende de 3 750 Euros quiconque aura fait de fausses déclarations ou fourni de fausses informations pour
+être inscrit ou demeurer inscrit sur la liste mentionnée à l'article L. 326-1.
 
-##### Section 1 : Objet et constitution.<a id=108></a>
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 6 () JORF 23 février 2002
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L326-1 (T)
+
+
+###### Article L343-2
+
+Est passible d'un emprisonnement de deux mois et d'une amende de 3 750 Euros ou de l'une de ces deux peines seulement
+quiconque se rend coupable de fraude ou de fausse déclaration pour obtenir ou faire obtenir ou tenter de faire obtenir des
+allocations d'aide aux travailleurs privés d'emploi. Le tribunal pourra en outre ordonner la restitution des sommes indûment
+perçues.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
+
+_Créé par_:
+
+  - Ordonnance n°2002-242 du 21 février 2002 - art. 6 () JORF 23 février 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-788 du 31 mai 2012 - art. 7
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. L313-1 (VT)
+
+
+## LIVRE IV : LES GROUPEMENTS PROFESSIONNELS LA REPRÉSENTATION DES SALARIÉS<a id=108></a>
+
+### TITRE Ier : LES SYNDICATS PROFESSIONNELS<a id=109></a>
+
+#### CHAPITRE Ier : Statut juridique des syndicats<a id=110></a>
+
+##### Section 1 : Objet et constitution.<a id=111></a>
 
 ###### Article L411-1
 
@@ -12764,7 +13914,7 @@ _Abrogé par_:
   - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 
-##### Section 2 : Capacité civile.<a id=109></a>
+##### Section 2 : Capacité civile.<a id=112></a>
 
 ###### Article L411-10
 
@@ -13017,7 +14167,7 @@ _Abrogé par_:
   - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 
-##### Section 3 : Unions de syndicats.<a id=110></a>
+##### Section 3 : Unions de syndicats.<a id=113></a>
 
 ###### Article L411-21
 
@@ -13090,7 +14240,7 @@ _Abrogé par_:
   - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 
-#### CHAPITRE II : Droit syndical et représentativité.<a id=111></a>
+#### CHAPITRE II : Droit syndical et représentativité.<a id=114></a>
 
 ###### Article L412-1
 
@@ -13217,7 +14367,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### CHAPITRE III : Marques syndicales.<a id=112></a>
+#### CHAPITRE III : Marques syndicales.<a id=115></a>
 
 ###### Article L413-1
 
@@ -13277,7 +14427,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L412-2 (M)
 
 
-### TITRE II : LA COMMISSION CONSULTATIVE DU TRAVAIL.<a id=113></a>
+### TITRE II : LA COMMISSION CONSULTATIVE DU TRAVAIL.<a id=116></a>
 
 ###### Article L420-1
 
@@ -13417,7 +14567,7 @@ _Abrogé par_:
   - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
-### TITRE III : PÉNALITÉS.<a id=114></a>
+### TITRE III : PÉNALITÉS.<a id=117></a>
 
 ###### Article L430-1
 
@@ -13483,13 +14633,13 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. L450-2 (V)
 
 
-## LIVRE V : CONFLITS DU TRAVAIL<a id=115></a>
+## LIVRE V : CONFLITS DU TRAVAIL<a id=118></a>
 
-### TITRE Ier : CONFLITS COLLECTIFS<a id=116></a>
+### TITRE Ier : CONFLITS COLLECTIFS<a id=119></a>
 
-#### CHAPITRE Ier : La grève<a id=117></a>
+#### CHAPITRE Ier : La grève<a id=120></a>
 
-##### Section 1 : Généralités.<a id=118></a>
+##### Section 1 : Généralités.<a id=121></a>
 
 ###### Article L511-1
 
@@ -13516,7 +14666,7 @@ _Abrogé par_:
   - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
-##### Section 2 : Grève dans les services publics.<a id=119></a>
+##### Section 2 : Grève dans les services publics.<a id=122></a>
 
 ###### Article L511-2
 
@@ -13637,7 +14787,7 @@ _Abrogé par_:
   - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
-#### CHAPITRE II : Dispositions générales concernant les procédures de règlement des conflits collectifs du travail.<a id=120></a>
+#### CHAPITRE II : Dispositions générales concernant les procédures de règlement des conflits collectifs du travail.<a id=123></a>
 
 ###### Article L512-1
 
@@ -13695,7 +14845,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L514-4 (VT)
 
 
-#### CHAPITRE III : Conciliation.<a id=121></a>
+#### CHAPITRE III : Conciliation.<a id=124></a>
 
 ###### Article L513-1
 
@@ -13865,7 +15015,7 @@ _Abrogé par_:
   - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
-#### CHAPITRE IV : Médiation.<a id=122></a>
+#### CHAPITRE IV : Médiation.<a id=125></a>
 
 ###### Article L514-1
 
@@ -14007,7 +15157,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L512-2 (VT)
 
 
-#### CHAPITRE V : Arbitrage.<a id=123></a>
+#### CHAPITRE V : Arbitrage.<a id=126></a>
 
 ###### Article L515-1
 
@@ -14109,7 +15259,7 @@ _Abrogé par_:
   - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
-#### CHAPITRE VI : Dispositions finales.<a id=124></a>
+#### CHAPITRE VI : Dispositions finales.<a id=127></a>
 
 ###### Article L516-1
 
@@ -14132,7 +15282,7 @@ _Abrogé par_:
   - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
-### TITRE II : PÉNALITÉS.<a id=125></a>
+### TITRE II : PÉNALITÉS.<a id=128></a>
 
 ###### Article L520-1
 
@@ -14170,9 +15320,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R514-4 (Ab)
 
 
-## LIVRE VI : CONTRÔLE DE L'APPLICATION DE LA LÉGISLATION ET DE LA RÉGLEMENTATION DU TRAVAIL<a id=126></a>
+## LIVRE VI : CONTRÔLE DE L'APPLICATION DE LA LÉGISLATION ET DE LA RÉGLEMENTATION DU TRAVAIL<a id=129></a>
 
-### TITRE Ier : SERVICES DE CONTRÔLE.<a id=127></a>
+### TITRE Ier : SERVICES DE CONTRÔLE.<a id=130></a>
 
 ###### Article L610-1
 
@@ -14625,7 +15775,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L124-1
 
 
-### TITRE II : OBLIGATIONS DES EMPLOYEURS.<a id=128></a>
+### TITRE II : OBLIGATIONS DES EMPLOYEURS.<a id=131></a>
 
 ###### Article L620-1
 
@@ -14838,7 +15988,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L620-3 (VT)
 
 
-### TITRE III : PÉNALITÉS.<a id=129></a>
+### TITRE III : PÉNALITÉS.<a id=132></a>
 
 ###### Article L630-1
 
@@ -14898,11 +16048,11 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L711-4 (Ab)
 
 
-## LIVRE VII : DE LA FORMATION PROFESSIONNELLE<a id=130></a>
+## LIVRE VII : DE LA FORMATION PROFESSIONNELLE<a id=133></a>
 
-### CHAPITRE II : CONTRATS DE FORMATION EN ALTERNANCE<a id=131></a>
+### CHAPITRE II : CONTRATS DE FORMATION EN ALTERNANCE<a id=134></a>
 
-#### Section 1 : Contrat de qualification<a id=132></a>
+#### Section 1 : Contrat de qualification<a id=135></a>
 
 ###### Article L711-5
 
@@ -15007,7 +16157,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L412-3 (M)
 
 
-#### Section 2 : Contrat d'orientation<a id=133></a>
+#### Section 2 : Contrat d'orientation<a id=136></a>
 
 ###### Article L711-7
 
@@ -15054,7 +16204,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. L324-10 (VT)
 
 
-#### Section 3 : Dispositions communes aux contrats de qualification et d'orientation<a id=134></a>
+#### Section 3 : Dispositions communes aux contrats de qualification et d'orientation<a id=137></a>
 
 ###### Article L711-8
 
@@ -15143,7 +16293,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L711-7 (T)
 
 
-### CHAPITRE 1ER : DISPOSITIONS GENERALES<a id=135></a>
+### CHAPITRE 1ER : DISPOSITIONS GENERALES<a id=138></a>
 
 ###### Article L711-1
 
@@ -15350,15 +16500,15 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R713-11 (VT)
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=136></a>
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=139></a>
 
-## LIVRE Ier : Conventions relatives au travail<a id=137></a>
+## LIVRE Ier : Conventions relatives au travail<a id=140></a>
 
-### TITRE II : Contrat de travail<a id=138></a>
+### TITRE II : Contrat de travail<a id=141></a>
 
-#### CHAPITRE II : Règles propres au contrat de travail<a id=139></a>
+#### CHAPITRE II : Règles propres au contrat de travail<a id=142></a>
 
-##### Section 1 : Règles générales.<a id=140></a>
+##### Section 1 : Règles générales.<a id=143></a>
 
 ###### Article R122-1
 
@@ -15432,7 +16582,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-##### Section 2 : Service national.<a id=141></a>
+##### Section 2 : Service national.<a id=144></a>
 
 ###### Article R122-5
 
@@ -15484,7 +16634,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R161-6 (Ab)
 
 
-##### Section 3 : Repos des femmes en couches et des femmes allaitant leurs enfants.<a id=142></a>
+##### Section 3 : Repos des femmes en couches et des femmes allaitant leurs enfants.<a id=145></a>
 
 ###### Article R122-7
 
@@ -15597,9 +16747,9 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 4 : Règlement intérieur, protection des salariés et droit disciplinaire<a id=143></a>
+##### Section 4 : Règlement intérieur, protection des salariés et droit disciplinaire<a id=146></a>
 
-##### Sous-section 1 : Règlement intérieur.<a id=144></a>
+##### Sous-section 1 : Règlement intérieur.<a id=147></a>
 
 ###### Article R122-11
 
@@ -15727,7 +16877,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L122-67
 
 
-##### Sous-section 2 : Protection des salariés et droit disciplinaire.<a id=145></a>
+##### Sous-section 2 : Protection des salariés et droit disciplinaire.<a id=148></a>
 
 ###### Article R122-16
 
@@ -15814,7 +16964,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L122-77
 
 
-#### CHAPITRE IV : Marchandage<a id=146></a>
+#### CHAPITRE IV : Marchandage<a id=149></a>
 
 ###### Article R124-1
 
@@ -15843,7 +16993,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R152-1 (Ab)
 
 
-#### CHAPITRE V : Cautionnements<a id=147></a>
+#### CHAPITRE V : Cautionnements<a id=150></a>
 
 ###### Article R125-1
 
@@ -15873,7 +17023,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R153-1 (Ab)
 
 
-#### CHAPITRE VI : Groupements d'employeurs<a id=148></a>
+#### CHAPITRE VI : Groupements d'employeurs<a id=151></a>
 
 ###### Article R126-1
 
@@ -16086,9 +17236,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R126-3 (Ab)
 
 
-### TITRE III : Conventions et accords collectifs de travail<a id=149></a>
+### TITRE III : Conventions et accords collectifs de travail<a id=152></a>
 
-#### CHAPITRE II : Nature et validité des conventions et accords collectifs de travail<a id=150></a>
+#### CHAPITRE II : Nature et validité des conventions et accords collectifs de travail<a id=153></a>
 
 ###### Article R132-1
 
@@ -16137,7 +17287,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Chapitre 3 : Conventions et accords collectifs susceptibles d'être étendus et procédure d'extension et d'élargissement.<a id=151></a>
+#### Chapitre 3 : Conventions et accords collectifs susceptibles d'être étendus et procédure d'extension et d'élargissement.<a id=154></a>
 
 ###### Article R133-1
 
@@ -16186,7 +17336,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R155-3 (T)
 
 
-#### CHAPITRE V : Application des conventions et accords collectifs de travail<a id=152></a>
+#### CHAPITRE V : Application des conventions et accords collectifs de travail<a id=155></a>
 
 ###### Article R135-1
 
@@ -16228,9 +17378,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R162-1 (Ab)
 
 
-### TITRE IV : Salaire<a id=153></a>
+### TITRE IV : Salaire<a id=156></a>
 
-#### CHAPITRE PRELIMINAIRE : Egalité de rémunération entre les hommes et les femmes<a id=154></a>
+#### CHAPITRE PRELIMINAIRE : Egalité de rémunération entre les hommes et les femmes<a id=157></a>
 
 ###### Article R140-1
 
@@ -16259,7 +17409,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R156-1 (Ab)
 
 
-#### CHAPITRE Ier : Salaire minimum interprofessionnel garanti<a id=155></a>
+#### CHAPITRE Ier : Salaire minimum interprofessionnel garanti<a id=158></a>
 
 ###### Article R141-1
 
@@ -16359,7 +17509,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-#### CHAPITRE III : Paiement du salaire<a id=156></a>
+#### CHAPITRE III : Paiement du salaire<a id=159></a>
 
 ###### Article R143-1
 
@@ -16456,9 +17606,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R312-7 (Ab)
 
 
-#### CHAPITRE V : Saisie-arrêt et cession de rémunérations dues par un employeur<a id=157></a>
+#### CHAPITRE V : Saisie-arrêt et cession de rémunérations dues par un employeur<a id=160></a>
 
-##### Section 1 : Règles générales.<a id=158></a>
+##### Section 1 : Règles générales.<a id=161></a>
 
 ###### Article R145-1
 
@@ -16510,7 +17660,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L145-1
 
 
-##### Section 2 : Procédure de cession et de saisie-arrêt.<a id=159></a>
+##### Section 2 : Procédure de cession et de saisie-arrêt.<a id=162></a>
 
 ###### Article R145-2
 
@@ -17153,7 +18303,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L125-2
 
 
-#### CHAPITRE VI : Règles particulières au contrôle et à la répartition des pourboires<a id=160></a>
+#### CHAPITRE VI : Règles particulières au contrôle et à la répartition des pourboires<a id=163></a>
 
 ###### Article R146-1
 
@@ -17213,11 +18363,11 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R156-3 (Ab)
 
 
-### TITRE V : Pénalités<a id=161></a>
+### TITRE V : Pénalités<a id=164></a>
 
-#### CHAPITRE Ier : Contrat d'apprentissage et contrat de travail<a id=162></a>
+#### CHAPITRE Ier : Contrat d'apprentissage et contrat de travail<a id=165></a>
 
-##### Section 1 : Contrat d'apprentissage.<a id=163></a>
+##### Section 1 : Contrat d'apprentissage.<a id=166></a>
 
 ###### Article R151-1
 
@@ -17366,7 +18516,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. R161-4 (Ab)
 
 
-##### Section 2 : Contrat de travail.<a id=164></a>
+##### Section 2 : Contrat de travail.<a id=167></a>
 
 ###### Article R151-5
 
@@ -17491,7 +18641,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. R161-8 (Ab)
 
 
-#### CHAPITRE II : Marchandages<a id=165></a>
+#### CHAPITRE II : Marchandages<a id=168></a>
 
 ###### Article R152-1
 
@@ -17517,7 +18667,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R124-1 (M)
 
 
-#### CHAPITRE III : Cautionnements<a id=166></a>
+#### CHAPITRE III : Cautionnements<a id=169></a>
 
 ###### Article R153-1
 
@@ -17545,7 +18695,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R125-1 (M)
 
 
-#### CHAPITRE IV : Groupements d'employeurs<a id=167></a>
+#### CHAPITRE IV : Groupements d'employeurs<a id=170></a>
 
 ###### Article R154-1
 
@@ -17580,7 +18730,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. R126-7 (Ab)
 
 
-#### CHAPITRE V : Conventions et accords collectifs de travail<a id=168></a>
+#### CHAPITRE V : Conventions et accords collectifs de travail<a id=171></a>
 
 ###### Article R155-1
 
@@ -17611,9 +18761,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. R162-1 (Ab)
 
 
-#### CHAPITRE VI : Salaire<a id=169></a>
+#### CHAPITRE VI : Salaire<a id=172></a>
 
-##### Section 1 : Egalité de rémunération entre les hommes et les femmes.<a id=170></a>
+##### Section 1 : Egalité de rémunération entre les hommes et les femmes.<a id=173></a>
 
 ###### Article R156-1
 
@@ -17658,7 +18808,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R140-1
 
 
-##### Section 2 : Salaire minimum garanti et rémunération mensuelle minimale garantie.<a id=171></a>
+##### Section 2 : Salaire minimum garanti et rémunération mensuelle minimale garantie.<a id=174></a>
 
 ###### Article R156-2
 
@@ -17702,7 +18852,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. R163-1 (Ab)
 
 
-##### Section 3 : Paiement du salaire.<a id=172></a>
+##### Section 3 : Paiement du salaire.<a id=175></a>
 
 ###### Article R156-3
 
@@ -17742,7 +18892,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R146-2
 
 
-##### Section 4 : Retenues sur le salaire.<a id=173></a>
+##### Section 4 : Retenues sur le salaire.<a id=176></a>
 
 ###### Article R156-4
 
@@ -17781,11 +18931,11 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. R163-2 (Ab)
 
 
-## LIVRE II : Réglementation du travail<a id=174></a>
+## LIVRE II : Réglementation du travail<a id=177></a>
 
-### TITRE Ier : Conditions de travail<a id=175></a>
+### TITRE Ier : Conditions de travail<a id=178></a>
 
-#### CHAPITRE II : Durée du travail<a id=176></a>
+#### CHAPITRE II : Durée du travail<a id=179></a>
 
 ###### Article R212-1
 
@@ -17843,7 +18993,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R212-1 (Ab)
 
 
-#### CHAPITRE III : Travail de nuit<a id=177></a>
+#### CHAPITRE III : Travail de nuit<a id=180></a>
 
 ###### Article R213-1
 
@@ -17898,9 +19048,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R213-1 (M)
 
 
-### TITRE II : Repos et congés<a id=178></a>
+### TITRE II : Repos et congés<a id=181></a>
 
-#### CHAPITRE Ier : Repos hebdomadaire<a id=179></a>
+#### CHAPITRE Ier : Repos hebdomadaire<a id=182></a>
 
 ###### Article R221-1
 
@@ -18071,7 +19221,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-#### CHAPITRE II : Jours fériés<a id=180></a>
+#### CHAPITRE II : Jours fériés<a id=183></a>
 
 ###### Article R222-1
 
@@ -18102,7 +19252,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R254-5 (Ab)
 
 
-#### CHAPITRE III : Congés annuels<a id=181></a>
+#### CHAPITRE III : Congés annuels<a id=184></a>
 
 ###### Article R223-1
 
@@ -18128,9 +19278,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D223-1 (Ab)
 
 
-### TITRE V : Pénalités<a id=182></a>
+### TITRE V : Pénalités<a id=185></a>
 
-#### Chapitre préliminaire.<a id=183></a>
+#### Chapitre préliminaire.<a id=186></a>
 
 ###### Article R250-1
 
@@ -18196,7 +19346,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R254-6
 
 
-#### Chapitre 1er : Hygiène et sécurité.<a id=184></a>
+#### Chapitre 1er : Hygiène et sécurité.<a id=187></a>
 
 ###### Article R251-1
 
@@ -18224,9 +19374,9 @@ _Cite_:
   - Code du travail applicable à Mayotte R230-9
 
 
-#### Chapitre 3 : Conditions du travail<a id=185></a>
+#### Chapitre 3 : Conditions du travail<a id=188></a>
 
-##### Section 1 : Age d'admission.<a id=186></a>
+##### Section 1 : Age d'admission.<a id=189></a>
 
 ###### Article R253-1
 
@@ -18258,9 +19408,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R250-2 (Ab)
 
 
-##### Section 2 : Durée du travail<a id=187></a>
+##### Section 2 : Durée du travail<a id=190></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=188></a>
+##### Paragraphe 1 : Dispositions générales<a id=191></a>
 
 ###### Article R253-2
 
@@ -18289,7 +19439,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L212-2
 
 
-##### Paragraphe 2 : Heures supplémentaires<a id=189></a>
+##### Paragraphe 2 : Heures supplémentaires<a id=192></a>
 
 ###### Article R253-3
 
@@ -18317,7 +19467,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L250-1
 
 
-##### Paragraphe 3 : Dispositions relatives aux jeunes travailleurs<a id=190></a>
+##### Paragraphe 3 : Dispositions relatives aux jeunes travailleurs<a id=193></a>
 
 ###### Article R253-4
 
@@ -18371,7 +19521,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L212-7
 
 
-##### Section 3 : Travail de nuit.<a id=191></a>
+##### Section 3 : Travail de nuit.<a id=194></a>
 
 ###### Article R253-6
 
@@ -18422,9 +19572,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L213-9
 
 
-#### Chapitre 4 : Repos et congés<a id=192></a>
+#### Chapitre 4 : Repos et congés<a id=195></a>
 
-##### Section 1 : Repos hebdomadaire.<a id=193></a>
+##### Section 1 : Repos hebdomadaire.<a id=196></a>
 
 ###### Article R254-1
 
@@ -18480,9 +19630,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L221-3
 
 
-##### Section 2 : Jours fériés<a id=194></a>
+##### Section 2 : Jours fériés<a id=197></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=195></a>
+##### Paragraphe 1 : Dispositions générales<a id=198></a>
 
 ###### Article R254-3
 
@@ -18537,7 +19687,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L222-5
 
 
-##### Paragraphe 2 : Dispositions particulières à la journée du 1er mai.<a id=196></a>
+##### Paragraphe 2 : Dispositions particulières à la journée du 1er mai.<a id=199></a>
 
 ###### Article R254-5
 
@@ -18566,7 +19716,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R222-1 (Ab)
 
 
-##### Section 3 : Congés annuels.<a id=197></a>
+##### Section 3 : Congés annuels.<a id=200></a>
 
 ###### Article R254-6
 
@@ -18598,11 +19748,11 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R250-2 (Ab)
 
 
-## LIVRE III : Emploi<a id=198></a>
+## LIVRE III : Emploi<a id=201></a>
 
-### TITRE Ier : Déclaration des mouvements de main-d'oeuvre - Travail clandestin<a id=199></a>
+### TITRE Ier : Déclaration des mouvements de main-d'oeuvre - Travail clandestin<a id=202></a>
 
-#### Chapitre 1er : Déclaration des mouvements de main-d'oeuvre.<a id=200></a>
+#### Chapitre 1er : Déclaration des mouvements de main-d'oeuvre.<a id=203></a>
 
 ###### Article R311-1
 
@@ -18649,7 +19799,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R342-2 (Ab)
 
 
-#### Chapitre 2 : Travail clandestin.<a id=201></a>
+#### Chapitre 2 : Travail clandestin.<a id=204></a>
 
 ###### Article R312-1
 
@@ -18673,9 +19823,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R341-1 (Ab)
 
 
-### TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité départementale<a id=202></a>
+### TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité départementale<a id=205></a>
 
-#### Chapitre 1er : Généralités.<a id=203></a>
+#### Chapitre 1er : Généralités.<a id=206></a>
 
 ###### Article R321-1
 
@@ -18812,7 +19962,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L321-2 (M)
 
 
-#### Chapitre 3 : Dispositions relatives au contrat de retour à l'emploi<a id=204></a>
+#### Chapitre 3 : Dispositions relatives au contrat de retour à l'emploi<a id=207></a>
 
 ###### Article R323-1
 
@@ -19020,7 +20170,7 @@ _Abrogé par_:
   - Décret n°2012-658 du 4 mai 2012 - art. 1
 
 
-#### Chapitre 5 : Dispositions relatives à l'aide à la création d'entreprise à l'initiative de demandeurs d'emploi<a id=205></a>
+#### Chapitre 5 : Dispositions relatives à l'aide à la création d'entreprise à l'initiative de demandeurs d'emploi<a id=208></a>
 
 ###### Article R325-1
 
@@ -19322,7 +20472,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R325-1 (M)
 
 
-### TITRE III : Main-d'oeuvre étrangère<a id=206></a>
+### TITRE III : Main-d'oeuvre étrangère<a id=209></a>
 
 ###### Article R330-1
 
@@ -19603,9 +20753,9 @@ _Anciens textes_:
   - Code du travail applicable à Mayotte. - art. R330-7 (T)
 
 
-### TITRE IV : Pénalités<a id=207></a>
+### TITRE IV : Pénalités<a id=210></a>
 
-#### CHAPITRE Ier : Travail clandestin<a id=208></a>
+#### CHAPITRE Ier : Travail clandestin<a id=211></a>
 
 ###### Article R341-1
 
@@ -19634,7 +20784,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R312-1
 
 
-#### CHAPITRE II : Déclaration des mouvements de main-d'oeuvre<a id=209></a>
+#### CHAPITRE II : Déclaration des mouvements de main-d'oeuvre<a id=212></a>
 
 ###### Article R342-1
 
@@ -19663,11 +20813,11 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R311-1 (M)
 
 
-## LIVRE IV : Les groupements professionnels - La représentation des salariés<a id=210></a>
+## LIVRE IV : Les groupements professionnels - La représentation des salariés<a id=213></a>
 
-### TITRE Ier : Les syndicats professionnels<a id=211></a>
+### TITRE Ier : Les syndicats professionnels<a id=214></a>
 
-#### CHAPITRE Ier : Statut juridique des syndicats<a id=212></a>
+#### CHAPITRE Ier : Statut juridique des syndicats<a id=215></a>
 
 ###### Article R411-1
 
@@ -19699,9 +20849,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R451-1 (V)
 
 
-#### CHAPITRE II : Droit syndical et représentativité des syndicats<a id=213></a>
+#### CHAPITRE II : Droit syndical et représentativité des syndicats<a id=216></a>
 
-##### Section 1 : Critères de représentativité<a id=214></a>
+##### Section 1 : Critères de représentativité<a id=217></a>
 
 ###### Article R412-1
 
@@ -19726,7 +20876,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L133-1
 
 
-### Titre 3 : Pénalités.<a id=215></a>
+### Titre 3 : Pénalités.<a id=218></a>
 
 ###### Article R430-1
 
@@ -19756,11 +20906,11 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R411-1 (M)
 
 
-## LIVRE V : Conflits du travail<a id=216></a>
+## LIVRE V : Conflits du travail<a id=219></a>
 
-### TITRE Ier : Conflits collectifs<a id=217></a>
+### TITRE Ier : Conflits collectifs<a id=220></a>
 
-#### CHAPITRE III : Conciliation<a id=218></a>
+#### CHAPITRE III : Conciliation<a id=221></a>
 
 ###### Article R513-1
 
@@ -19782,7 +20932,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 1 : Composition des commissions de conciliation.<a id=219></a>
+##### Section 1 : Composition des commissions de conciliation.<a id=222></a>
 
 ###### Article R513-2
 
@@ -19836,7 +20986,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 2 : Fonctionnement des commissions de conciliation.<a id=220></a>
+##### Section 2 : Fonctionnement des commissions de conciliation.<a id=223></a>
 
 ###### Article R513-4
 
@@ -20028,7 +21178,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-#### CHAPITRE IV : Médiation<a id=221></a>
+#### CHAPITRE IV : Médiation<a id=224></a>
 
 ###### Article R514-1
 
@@ -20189,7 +21339,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-#### CHAPITRE V : Arbitrage<a id=222></a>
+#### CHAPITRE V : Arbitrage<a id=225></a>
 
 ###### Article R515-1
 
@@ -20236,7 +21386,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-### TITRE II : Pénalités<a id=223></a>
+### TITRE II : Pénalités<a id=226></a>
 
 ###### Article R520-1
 
@@ -20264,9 +21414,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L153-1
 
 
-## LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=224></a>
+## LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=227></a>
 
-### TITRE Ier : Services de contrôle<a id=225></a>
+### TITRE Ier : Services de contrôle<a id=228></a>
 
 ###### Article R610-1
 
@@ -20337,7 +21487,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-### TITRE II : Obligations des employeurs<a id=226></a>
+### TITRE II : Obligations des employeurs<a id=229></a>
 
 ###### Article R620-1
 
@@ -20494,9 +21644,9 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-### TITRE III : Pénalités<a id=227></a>
+### TITRE III : Pénalités<a id=230></a>
 
-#### CHAPITRE Ier : Service de contrôle<a id=228></a>
+#### CHAPITRE Ier : Service de contrôle<a id=231></a>
 
 ###### Article R631-1
 
@@ -20524,7 +21674,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L610-8
 
 
-#### CHAPITRE II : Obligations des employeurs<a id=229></a>
+#### CHAPITRE II : Obligations des employeurs<a id=232></a>
 
 ###### Article R632-1
 
@@ -20584,15 +21734,15 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R632-1 (Ab)
 
 
-# Partie réglementaire  - Décrets simples<a id=230></a>
+# Partie réglementaire  - Décrets simples<a id=233></a>
 
-## Livre 1er : Conventions relatives au travail<a id=231></a>
+## Livre 1er : Conventions relatives au travail<a id=234></a>
 
-### Titre 4 : Salaire<a id=232></a>
+### Titre 4 : Salaire<a id=235></a>
 
-#### Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG*<a id=233></a>
+#### Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG*<a id=236></a>
 
-##### Section 1 : Dispositions générales<a id=234></a>
+##### Section 1 : Dispositions générales<a id=237></a>
 
 ###### Article D141-1
 
@@ -20655,7 +21805,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D141-2-2 (Ab)
 
 
-##### Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement<a id=235></a>
+##### Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement<a id=238></a>
 
 ###### Article D141-3
 
@@ -20828,11 +21978,11 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D141-2-7 (Ab)
 
 
-## Livre 2 : Réglementation du travail<a id=236></a>
+## Livre 2 : Réglementation du travail<a id=239></a>
 
-### Titre 1er : Conditions de travail<a id=237></a>
+### Titre 1er : Conditions de travail<a id=240></a>
 
-#### Chapitre 1er : Age d'admission<a id=238></a>
+#### Chapitre 1er : Age d'admission<a id=241></a>
 
 ###### Article D211-1
 
@@ -20916,9 +22066,9 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Chapitre 2 : Durée du travail<a id=239></a>
+#### Chapitre 2 : Durée du travail<a id=242></a>
 
-##### Section 1 : Récupération des heures perdues<a id=240></a>
+##### Section 1 : Récupération des heures perdues<a id=243></a>
 
 ###### Article D212-1
 
@@ -21078,9 +22228,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D212-8 (Ab)
 
 
-### Titre 2 : Repos et congés<a id=241></a>
+### Titre 2 : Repos et congés<a id=244></a>
 
-#### Chapitre 3 : Congés annuels<a id=242></a>
+#### Chapitre 3 : Congés annuels<a id=245></a>
 
 ###### Article D223-1
 
@@ -21204,11 +22354,11 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D223-5 (V)
 
 
-## Livre 3 : Emploi<a id=243></a>
+## Livre 3 : Emploi<a id=246></a>
 
-### Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin<a id=244></a>
+### Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin<a id=247></a>
 
-#### Chapitre 2 : Travail clandestin<a id=245></a>
+#### Chapitre 2 : Travail clandestin<a id=248></a>
 
 ###### Article D312-1
 
@@ -21248,11 +22398,11 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D312-9 (Ab)
 
 
-## Livre 5 : Conflits du travail<a id=246></a>
+## Livre 5 : Conflits du travail<a id=249></a>
 
-### Titre 1er : Conflits collectifs<a id=247></a>
+### Titre 1er : Conflits collectifs<a id=250></a>
 
-#### Chapitre 4 : Médiation<a id=248></a>
+#### Chapitre 4 : Médiation<a id=251></a>
 
 ###### Article D514-1
 
