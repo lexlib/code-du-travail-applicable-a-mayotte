@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2002-12-14
+Version Consolidée au 2003-01-01
 ## Contenu: 
   - [Partie législative (art. L000-1 à L711-4)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L000-1 à L000-2)](#2)
@@ -3320,10 +3320,6 @@ Dans le cas où pendant sa grossesse la femme a fait l'objet d'un changement d'a
 premier alinéa de l'article L. 122-46, elle est réintégrée dans l'emploi occupé avant cette affectation lorsqu'elle reprend
 son travail à l'issue de la période de suspension définie au présent article.
 
-Elle a le droit pendant cette période, à la charge de l'employeur, à la moitié du salaire qu'elle percevait au moment de la
-suspension du travail ; elle conserve le droit aux prestations en nature. La seconde moitié de son salaire lui est versée par
-la caisse de prévoyance sociale de Mayotte.
-
 Toute convention contraire est nulle de plein droit.
 
 Pendant une période de quinze mois à compter de la naissance de l'enfant, la mère a droit à des repos pour allaitement.
@@ -3342,7 +3338,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2002-242 du 21 février 2002 - art. 7 () JORF 23 février 2002
+  - Ordonnance n°2002-411 du 27 mars 2002 - art. 44 () JORF 28 mars 2002 en vigueur le 1er janvier 2003
 
 _Cité par_:
 
@@ -3355,10 +3351,6 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R122-7 (Ab)
   - Code du travail applicable à Mayotte. - art. R122-9 (Ab)
   - Code du travail applicable à Mayotte. - art. R232-64 (Ab)
-
-_Cite_:
-
-  - Code du travail applicable à Mayotte. - art. L122-46 (M)
 
 
 ###### Article L122-48-1
