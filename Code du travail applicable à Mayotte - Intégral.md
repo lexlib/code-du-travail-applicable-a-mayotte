@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2004-12-09
+Version Consolidée au 2005-01-01
 ## Contenu: 
   - [Partie législative (art. L000-1 à L711-4)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L000-1 à L000-2)](#2)
@@ -352,62 +352,69 @@ Version Consolidée au 2004-12-09
           - [Section 1 : Aide à la création d'entreprises à l'initiative des demandeurs d'emploi (art. R325-1 à R325-2)](#349)
           - [Section 3 : Agence mahoraise pour le développement d'activités d'utilité sociale (art. R325-3 à R325-8)](#350)
           - [Section 4 : Fonds pour l'emploi (art. R325-9)](#351)
-        - [CHAPITRE VII : Indemnisation du chômage (art. R327-10 à R327-14)](#352)
-          - [Section 2 : Perte temporaire de salaire (art. R327-10 à R327-14)](#353)
-      - [TITRE III : Main-d'oeuvre étrangère (art. R330-1 à R330-9)](#354)
-      - [TITRE IV : Pénalités (art. R341-1 à R342-1)](#355)
-        - [CHAPITRE Ier : Travail clandestin (art. R341-1)](#356)
-        - [CHAPITRE II : Déclaration des mouvements de main-d'oeuvre (art. R342-1)](#357)
-    - [LIVRE IV : Les groupements professionnels - La représentation des salariés (art. R411-1 à R430-1)](#358)
-      - [TITRE Ier : Les syndicats professionnels (art. R411-1 à R412-1)](#359)
-        - [CHAPITRE Ier : Statut juridique des syndicats (art. R411-1)](#360)
-        - [CHAPITRE II : Droit syndical et représentativité des syndicats (art. R412-1)](#361)
-          - [Section 1 : Critères de représentativité (art. R412-1)](#362)
-      - [Titre 3 : Pénalités. (art. R430-1)](#363)
-    - [LIVRE V : Conflits du travail (art. R513-1 à R520-1)](#364)
-      - [TITRE Ier : Conflits collectifs (art. R513-1 à R515-2)](#365)
-        - [CHAPITRE III : Conciliation (art. R513-1 à R513-10)](#366)
-          - [Section 1 : Composition des commissions de conciliation. (art. R513-2 à R513-3)](#367)
-          - [Section 2 : Fonctionnement des commissions de conciliation. (art. R513-4 à R513-10)](#368)
-        - [CHAPITRE IV : Médiation (art. R514-1 à R514-6)](#369)
-        - [CHAPITRE V : Arbitrage (art. R515-1 à R515-2)](#370)
-      - [TITRE II : Pénalités (art. R520-1)](#371)
-    - [LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail (art. R610-1 à R632-2)](#372)
-      - [TITRE Ier : Services de contrôle (art. R610-1 à R610-3)](#373)
-      - [TITRE II : Obligations des employeurs (art. R620-1 à R620-5)](#374)
-      - [TITRE III : Pénalités (art. R631-1 à R632-2)](#375)
-        - [CHAPITRE Ier : Service de contrôle (art. R631-1)](#376)
-        - [CHAPITRE II : Obligations des employeurs (art. R632-1 à R632-2)](#377)
-    - [LIVRE VII : Formation professionnelle (art. R711-1)](#378)
-      - [Chapitre unique : Dispositions communes aux contrats de qualification et aux contrats d'orientation (art. R711-1)](#379)
-  - [Partie réglementaire  - Décrets simples (art. D141-1 à D712-17)](#380)
-    - [Livre 1er : Conventions relatives au travail (art. D141-1 à D141-7)](#381)
-      - [Titre 4 : Salaire (art. D141-1 à D141-7)](#382)
-        - [Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG* (art. D141-1 à D141-7)](#383)
-          - [Section 1 : Dispositions générales (art. D141-1 à D141-2)](#384)
-          - [Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement (art. D141-3 à D141-7)](#385)
-    - [Livre 2 : Réglementation du travail (art. D211-1 à D223-4)](#386)
-      - [Titre 1er : Conditions de travail (art. D211-1 à D212-5)](#387)
-        - [Chapitre 1er : Age d'admission (art. D211-1 à D211-4)](#388)
-        - [Chapitre 2 : Durée du travail (art. D212-1 à D212-5)](#389)
-          - [Section 1 : Récupération des heures perdues (art. D212-1 à D212-5)](#390)
-      - [Titre 2 : Repos et congés (art. D223-1 à D223-4)](#391)
-        - [Chapitre 3 : Congés annuels (art. D223-1 à D223-4)](#392)
-    - [Livre 3 : Emploi (art. D312-1 à D327-10)](#393)
-      - [Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin (art. D312-1)](#394)
-        - [Chapitre 2 : Travail clandestin (art. D312-1)](#395)
-      - [Titre 2 : Aides à l'emploi - Intervention du fonds national de l'emploi (art. D324-9 à D327-10)](#396)
-        - [Chapitre 4 : Dispositions particulières relatives à l'emploi des jeunes - Projet initiative-jeune (art. D324-9)](#397)
-        - [Chapitre 5 : Dispositions relatives à la création d'entreprises et à la création d'emplois - Aide à la création d'entreprises à l'initiative des demandeurs d'emploi (art. D325-1)](#398)
-        - [Chapitre 7 : Indemnisation du chômage (art. D327-10)](#399)
-          - [Section 2 : Perte temporaire de salaire (art. D327-10)](#400)
-    - [Livre 5 : Conflits du travail (art. D514-1 à D514-4)](#401)
-      - [Titre 1er : Conflits collectifs (art. D514-1 à D514-4)](#402)
-        - [Chapitre 4 : Médiation (art. D514-1 à D514-4)](#403)
-    - [Livre 7 : De la formation professionnelle (art. D712-1 à D712-17)](#404)
-      - [Chapitre 2 : Contrats de formation en alternance Section 1 : Contrats de qualification (art. D712-1 à D712-7)](#405)
-      - [Chapitre 2 : Contrats de formation en alternance Section 2 : Contrats d'orientation (art. D712-8 à D712-11)](#406)
-      - [Chapitre 2 : Contrats de formation en alternance Section 3 : Dispositions communes aux contrats de qualification et d'orientation (art. D712-12 à D712-17)](#407)
+        - [CHAPITRE VI : Placement (art. R326-1 à R326-34)](#352)
+          - [Section 1 : Agence nationale pour l'emploi (art. R326-1 à R326-7)](#353)
+          - [Section 2 : Organismes qui concourent au service public du placement (art. R326-8 à R326-12)](#354)
+          - [Section 3 : Notification par les employeurs des places vacantes (art. R326-13)](#355)
+          - [Section 4 : Inscription et radiation de la liste des demandeurs d'emploi (art. R326-14 à R326-22)](#356)
+          - [Section 5 : Collectivités territoriales (art. R326-23 à R326-28)](#357)
+          - [Section 6 : Dispositions diverses (art. R326-29 à R326-34)](#358)
+        - [CHAPITRE VII : Indemnisation du chômage (art. R327-10 à R327-14)](#359)
+          - [Section 2 : Perte temporaire de salaire (art. R327-10 à R327-14)](#360)
+      - [TITRE III : Main-d'oeuvre étrangère (art. R330-1 à R330-9)](#361)
+      - [TITRE IV : Pénalités (art. R341-1 à R342-1)](#362)
+        - [CHAPITRE Ier : Travail clandestin (art. R341-1)](#363)
+        - [CHAPITRE II : Déclaration des mouvements de main-d'oeuvre (art. R342-1)](#364)
+    - [LIVRE IV : Les groupements professionnels - La représentation des salariés (art. R411-1 à R430-1)](#365)
+      - [TITRE Ier : Les syndicats professionnels (art. R411-1 à R412-1)](#366)
+        - [CHAPITRE Ier : Statut juridique des syndicats (art. R411-1)](#367)
+        - [CHAPITRE II : Droit syndical et représentativité des syndicats (art. R412-1)](#368)
+          - [Section 1 : Critères de représentativité (art. R412-1)](#369)
+      - [Titre 3 : Pénalités. (art. R430-1)](#370)
+    - [LIVRE V : Conflits du travail (art. R513-1 à R520-1)](#371)
+      - [TITRE Ier : Conflits collectifs (art. R513-1 à R515-2)](#372)
+        - [CHAPITRE III : Conciliation (art. R513-1 à R513-10)](#373)
+          - [Section 1 : Composition des commissions de conciliation. (art. R513-2 à R513-3)](#374)
+          - [Section 2 : Fonctionnement des commissions de conciliation. (art. R513-4 à R513-10)](#375)
+        - [CHAPITRE IV : Médiation (art. R514-1 à R514-6)](#376)
+        - [CHAPITRE V : Arbitrage (art. R515-1 à R515-2)](#377)
+      - [TITRE II : Pénalités (art. R520-1)](#378)
+    - [LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail (art. R610-1 à R632-2)](#379)
+      - [TITRE Ier : Services de contrôle (art. R610-1 à R610-3)](#380)
+      - [TITRE II : Obligations des employeurs (art. R620-1 à R620-5)](#381)
+      - [TITRE III : Pénalités (art. R631-1 à R632-2)](#382)
+        - [CHAPITRE Ier : Service de contrôle (art. R631-1)](#383)
+        - [CHAPITRE II : Obligations des employeurs (art. R632-1 à R632-2)](#384)
+    - [LIVRE VII : Formation professionnelle (art. R711-1)](#385)
+      - [Chapitre unique : Dispositions communes aux contrats de qualification et aux contrats d'orientation (art. R711-1)](#386)
+  - [Partie réglementaire  - Décrets simples (art. D141-1 à D712-17)](#387)
+    - [Livre 1er : Conventions relatives au travail (art. D141-1 à D141-7)](#388)
+      - [Titre 4 : Salaire (art. D141-1 à D141-7)](#389)
+        - [Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG* (art. D141-1 à D141-7)](#390)
+          - [Section 1 : Dispositions générales (art. D141-1 à D141-2)](#391)
+          - [Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement (art. D141-3 à D141-7)](#392)
+    - [Livre 2 : Réglementation du travail (art. D211-1 à D223-4)](#393)
+      - [Titre 1er : Conditions de travail (art. D211-1 à D212-5)](#394)
+        - [Chapitre 1er : Age d'admission (art. D211-1 à D211-4)](#395)
+        - [Chapitre 2 : Durée du travail (art. D212-1 à D212-5)](#396)
+          - [Section 1 : Récupération des heures perdues (art. D212-1 à D212-5)](#397)
+      - [Titre 2 : Repos et congés (art. D223-1 à D223-4)](#398)
+        - [Chapitre 3 : Congés annuels (art. D223-1 à D223-4)](#399)
+    - [Livre 3 : Emploi (art. D312-1 à D327-10)](#400)
+      - [Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin (art. D312-1)](#401)
+        - [Chapitre 2 : Travail clandestin (art. D312-1)](#402)
+      - [Titre 2 : Aides à l'emploi - Intervention du fonds national de l'emploi (art. D324-9 à D327-10)](#403)
+        - [Chapitre 4 : Dispositions particulières relatives à l'emploi des jeunes - Projet initiative-jeune (art. D324-9)](#404)
+        - [Chapitre 5 : Dispositions relatives à la création d'entreprises et à la création d'emplois - Aide à la création d'entreprises à l'initiative des demandeurs d'emploi (art. D325-1)](#405)
+        - [Chapitre 7 : Indemnisation du chômage (art. D327-10)](#406)
+          - [Section 2 : Perte temporaire de salaire (art. D327-10)](#407)
+    - [Livre 5 : Conflits du travail (art. D514-1 à D514-4)](#408)
+      - [Titre 1er : Conflits collectifs (art. D514-1 à D514-4)](#409)
+        - [Chapitre 4 : Médiation (art. D514-1 à D514-4)](#410)
+    - [Livre 7 : De la formation professionnelle (art. D712-1 à D712-17)](#411)
+      - [Chapitre 2 : Contrats de formation en alternance Section 1 : Contrats de qualification (art. D712-1 à D712-7)](#412)
+      - [Chapitre 2 : Contrats de formation en alternance Section 2 : Contrats d'orientation (art. D712-8 à D712-11)](#413)
+      - [Chapitre 2 : Contrats de formation en alternance Section 3 : Dispositions communes aux contrats de qualification et d'orientation (art. D712-12 à D712-17)](#414)
 # Partie législative<a id=1></a>
 
 ## LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES.<a id=2></a>
@@ -18201,34 +18208,34 @@ _Cité par_:
 
 ###### Article R128-14
 
-La déclaration nominative préalable à l'embauche mentionnée à l'article L. 128-1 doit comporter les mentions suivantes :
+La déclaration nominative préalable à l'embauche mentionnée à l'article L. 128-1 doit comporter les mentions suivantes : 
 
 a) Dénomination sociale ou nom et prénoms de l'employeur, numéro d'immatriculation de l'entreprise ou numéro sous lequel les
-cotisations de sécurité sociale sont versées ;
+cotisations de sécurité sociale sont versées ; 
 
-b) Nom patronymique, prénoms, nationalité, date et lieu de naissance du salarié ainsi que son numéro d'identification s'il
-est déjà immatriculé à la sécurité sociale ;
+b) Nom de famille, prénoms, nationalité, date et lieu de naissance du salarié ainsi que son numéro d'identification s'il est
+déjà immatriculé à la sécurité sociale ; 
 
-c) Date et heure d'embauche ;
+c) Date et heure d'embauche ; 
 
-d) Nature et durée du contrat.
+d) Nature et durée du contrat. 
 
 La déclaration nominative préalable à l'embauche est adressée au plus tôt dans les huit jours précédant la date prévisible de
-l'embauche par l'un des moyens suivants :
+l'embauche par l'un des moyens suivants : 
 
 1° Télécommunication, télématique ou échanges de données informatisées : l'organisme destinataire communique immédiatement à
-l'employeur un numéro de dossier.
+l'employeur un numéro de dossier. 
 
 2° Télécopie : l'avis de bonne réception émis par l'appareil doit être conservé avec le document transmis par l'employeur
 jusqu'à réception, dans les cinq jours ouvrables suivant celui de la réception de la déclaration, d'un document accusant
-réception de la déclaration et mentionnant les informations enregistrées.
+réception de la déclaration et mentionnant les informations enregistrées. 
 
 3° Lettre datée et signée de l'employeur, et postée en recommandé avec accusé de réception, au plus tard le dernier jour
 ouvrable précédent l'embauche, le cachet de la poste faisant foi : l'employeur conserve un double de la lettre et le
-récépissé postal jusqu'à réception du document accusant réception, mentionné au 2° ci-dessus.
+récépissé postal jusqu'à réception du document accusant réception, mentionné au 2° ci-dessus. 
 
 L'indisponibilité de l'un de ces moyens n'exonère pas l'employeur de son obligation de déclaration par l'un des deux autres
-moyens.
+moyens. 
 
 Un arrêté du ministre chargé du travail fixe le modèle des formulaires sur lesquels la déclaration peut être effectuée.
 
@@ -18238,9 +18245,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2004-253 du 19 mars 2004 - art. 13 () JORF 21 mars 2004
+  - Décret n°2004-1159 du 29 octobre 2004 - art. 19 (V) JORF 31 octobre 2004 en vigueur le 1er janvier 2005
 
 _Cite_:
 
@@ -35166,9 +35173,930 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L325-8 (V)
 
 
-#### CHAPITRE VII : Indemnisation du chômage<a id=352></a>
+#### CHAPITRE VI : Placement<a id=352></a>
 
-##### Section 2 : Perte temporaire de salaire<a id=353></a>
+##### Section 1 : Agence nationale pour l'emploi<a id=353></a>
+
+###### Article R326-1
+
+I. - La délégation de l'Agence nationale pour l'emploi de Mayotte est dirigée par un délégué nommé par le directeur général
+de l'Agence nationale pour l'emploi et placé sous son autorité. Le délégué est assisté dans l'exercice de ses missions par le
+comité de l'Agence nationale pour l'emploi de Mayotte.
+
+II. - Le fonctionnement des services de l'Agence nationale pour l'emploi de Mayotte est régi par les dispositions des
+articles R. 311-4-5, R. 311-4-14, R. 311-4-15, R. 311-4-16 et R. 311-4-18 du code du travail applicable dans les départements
+de métropole et d'outre-mer. Pour l'application de l'article R. 311-4-15, l'enveloppe budgétaire attribuée à la délégation de
+Mayotte est fixée de la même façon que celle attribuée à chaque délégation régionale de l'Agence nationale pour l'emploi.
+
+III. - Le directeur général de l'Agence nationale pour l'emploi :
+
+1° Rend compte aux ministres chargés de l'emploi et de l'outre-mer des activités du service public du placement qu'elle
+assure à Mayotte avec le concours des organismes visés aux articles L. 326-1 et L. 326-3 ;
+
+2° Communique chaque mois aux ministres chargés de l'emploi et de l'outre-mer les éléments permettant l'établissement des
+statistiques du marché du travail à Mayotte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte R311-4-5, R311-4-14, R311-4-15, R311-4-16, R311-4-18
+
+
+###### Article R326-2
+
+Le comité de l'Agence nationale pour l'emploi de Mayotte comprend :
+
+1° Un président ;
+
+2° Cinq membres représentant les employeurs et cinq membres représentant les salariés désignés par les organisations
+d'employeurs et de salariés représentatives au sens de l'article L. 412-3 ;
+
+3° Cinq membres représentant les administrations concernées, dont le directeur du travail, de l'emploi et de la formation
+professionnelle, désignés par le représentant de l'Etat à Mayotte.
+
+Le président est nommé par arrêté du représentant de l'Etat à Mayotte parmi les personnalités de Mayotte ayant une compétence
+en matière d'emploi.
+
+Les membres représentant les employeurs, les salariés ainsi que leurs suppléants sont nommés par arrêté du représentant de
+l'Etat à Mayotte.
+
+Le délégué et l'agent comptable secondaire participent aux séances avec voix consultative.
+
+Les membres du comité sont désignés pour trois ans. Leur mandat est renouvelable.
+
+Les membres décédés ou démissionnaires doivent être remplacés dans un délai de trois mois. Dans ce cas, le mandat des
+nouveaux membres expire à la date à laquelle aurait normalement pris fin celui de leur prédécesseur.
+
+Le comité élit pour un an un vice-président, pris alternativement parmi les représentants des employeurs et ceux des
+salariés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L412-3 (M)
+
+
+###### Article R326-3
+
+Le comité de l'Agence nationale pour l'emploi de Mayotte est réuni au moins quatre fois par an sur convocation de son
+président.
+
+L'ordre du jour de chaque réunion est arrêté par le président, sur proposition du délégué de l'Agence nationale pour l'emploi
+de Mayotte.
+
+Le président est tenu de convoquer le comité si le représentant de l'Etat à Mayotte, le délégué ou la majorité des membres le
+demande sur un ordre du jour déterminé.
+
+A sa demande, le représentant de l'Etat à Mayotte est entendu par le comité.
+
+Le comité ne peut valablement délibérer que si le nombre des membres présents est au moins égal à la moitié du nombre des
+membres en exercice. Si ce nombre n'est pas atteint, le comité est convoqué à nouveau dans un délai de quinze jours et peut
+se prononcer valablement quel que soit le nombre de membres présents.
+
+Le comité se prononce à la majorité des voix des membres présents.
+
+Le secrétariat du comité est assuré à la diligence du délégué.
+
+Les délibérations, signées par le président et le vice-président, sont transmises dans un délai de quinze jours au directeur
+général de l'Agence nationale pour l'emploi.
+
+Les procès-verbaux sont transmis aux membres du comité, au président du conseil d'administration et au directeur général de
+l'Agence nationale pour l'emploi.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+
+###### Article R326-4
+
+Le comité assiste le délégué de l'Agence nationale pour l'emploi de Mayotte.
+
+I. - Il fait des propositions sur :
+
+1° Les orientations spécifiques de l'Agence nationale pour l'emploi et les plans de développement de ses activités ;
+
+2° Le programme d'implantation des unités de l'Agence nationale pour l'emploi ;
+
+3° Les relations de l'agence et de ses usagers.
+
+II. - Il élabore :
+
+1° Le projet de répartition des dépenses de la délégation de l'Agence nationale pour l'emploi à Mayotte, dans la limite de
+l'enveloppe du budget de l'Agence nationale pour l'emploi qui lui est allouée ;
+
+2° Le rapport annuel d'activité.
+
+III. - Le comité donne également son avis sur les demandes de convention émanant des organismes mentionnés à l'article L.
+326-1 et sur les projets de convention avec les communes mentionnés à l'article L. 326-3.
+
+Le projet de répartition des dépenses mentionné au 1° ci-dessus est transmis au conseil d'administration de l'Agence
+nationale pour l'emploi.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L326-1 (T)
+  - Code du travail applicable à Mayotte. - art. L326-3 (T)
+
+
+###### Article R326-5
+
+Le représentant de l'Etat à Mayotte assisté par le directeur du travail, de l'emploi et de la formation professionnelle
+coordonne l'action de l'Agence nationale pour l'emploi avec celle des autres services et organismes chargés de la mise en
+oeuvre de la politique de l'emploi définie à Mayotte par les pouvoirs publics.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+
+###### Article R326-6
+
+Le délégué de l'Agence nationale pour l'emploi de Mayotte :
+
+1° Est ordonnateur secondaire ;
+
+2° Informe le représentant de l'Etat à Mayotte et le directeur du travail, de l'emploi et de la formation professionnelle de
+Mayotte des activités du service public du placement assuré par l'agence avec le concours des organismes visés aux articles
+L. 326-1 et L. 326-3 ;
+
+3° Fournit, sur sa demande, au directeur du travail, de l'emploi et de la formation professionnelle de Mayotte, les
+statistiques et informations relatives au marché du travail en sa possession et, notamment, les renseignements relatifs aux
+demandeurs d'emploi bénéficiaires d'un revenu de remplacement dans les conditions fixées par le chapitre VII du titre II du
+livre III du présent code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L326-1 (T)
+  - Code du travail applicable à Mayotte. - art. L326-3 (T)
+
+
+###### Article R326-7
+
+L'Agence nationale pour l'emploi de Mayotte apporte son concours à l'orientation et au placement des travailleurs handicapés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+
+##### Section 2 : Organismes qui concourent au service public du placement<a id=354></a>
+
+###### Article R326-8
+
+Les établissements publics, les organismes gérés paritairement par les organisations syndicales d'employeurs et de salariés
+et les associations mentionnées à l'article L. 326-1 acquièrent la qualité de correspondant de l'Agence nationale pour
+l'emploi dès qu'ils ont passé avec cette dernière la convention prévue audit article.
+
+Lorsque la demande de convention s'est heurtée à un refus de l'agence, les établissements, organismes et associations
+susmentionnés deviennent correspondants après avoir été agréés à cet effet par l'Etat. Une convention est alors passée avec
+l'Agence nationale pour l'emploi aux conditions fixées par l'agrément.
+
+L'agrément est donné et les conventions sont conclues pour une période déterminée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L326-1 (T)
+
+
+###### Article R326-9
+
+La convention prévue à l'article L. 326-1 est conclue par le délégué de l'Agence nationale pour l'emploi de Mayotte lorsque
+l'activité de l'établissement, de l'organisme ou de l'association n'excède pas les limites de la collectivité départementale
+et par le directeur général de l'Agence nationale pour l'emploi dans les autres cas.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L326-1 (T)
+
+
+###### Article R326-10
+
+L'établissement, l'organisme ou l'association qui sollicite le bénéfice d'une convention prévue à l'article L. 326-1 doit
+joindre à sa demande de convention et, le cas échéant, d'agrément copie des décisions de l'instance délibérative qui ont
+décidé ou approuvé la demande tendant à ce qu'il ou elle devienne correspondant de l'agence.
+
+A l'appui de leur demande, les associations doivent en outre fournir deux exemplaires de leurs statuts et indiquer les noms,
+prénoms et domiciles des personnes qui, à un titre quelconque, sont chargées de leur administration ou direction. La même
+obligation s'applique aux délégués locaux et aux personnes qui assurent les fonctions de direction de l'association
+lorsqu'elles sont distinctes de celles précédemment énumérées. L'Agence nationale pour l'emploi peut également demander aux
+associations communication de leur bilan ou compte financier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L326-1 (T)
+
+
+###### Article R326-11
+
+La convention est conclue et, le cas échéant, l'agrément accordé, compte tenu :
+
+1° Des garanties offertes par le demandeur quant à la gratuité, la moralité et la permanence ;
+
+2° Des moyens humains, techniques et financiers qu'il s'engage à mettre en oeuvre ;
+
+3° Des correspondants déjà existants dans le même champ géographique et professionnel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+
+###### Article R326-12
+
+L'agrément est accordé et retiré par :
+
+1° Le représentant de l'Etat lorsque l'activité de l'établissement, l'organisme ou de l'association n'excède pas les limites
+de Mayotte ;
+
+2° Le ministre chargé de l'emploi dans les autres cas.
+
+Le retrait d'agrément peut être prononcé soit en cas de manquement aux obligations résultant des dispositions législatives ou
+réglementaires en vigueur ou des stipulations de la convention, soit pour mauvais fonctionnement de l'établissement,
+l'organisme ou l'association de placement, soit lorsque ces derniers cessent d'être utiles au service public du placement.
+
+Le retrait d'agrément ne peut être prononcé sans que le correspondant ait été préalablement avisé des motifs de la mesure
+envisagée et mis en mesure de faire connaître ses observations.
+
+Le retrait d'agrément entraîne dénonciation de la convention et cessation de l'activité de placement à la date fixée par
+l'arrêté qui le prononce.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+
+##### Section 3 : Notification par les employeurs des places vacantes<a id=355></a>
+
+###### Article R326-13
+
+L'obligation de notification des places vacantes prévue à l'article L. 326-2 concerne celles auxquelles l'entreprise veut
+pourvoir par l'intermédiaire d'organismes ou de moyens d'information extérieurs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L326-2 (T)
+
+
+##### Section 4 : Inscription et radiation de la liste des demandeurs d'emploi<a id=356></a>
+
+###### Article R326-14
+
+I. - La liste des demandeurs d'emploi est tenue par l'Agence nationale pour l'emploi.
+
+II. - Pour demander leur inscription sur la liste des demandeurs d'emploi, les travailleurs recherchant un emploi doivent se
+présenter personnellement auprès des services de l'Agence nationale pour l'emploi.
+
+Ils sont tenus de justifier de leur identité et d'indiquer le lieu de leur domicile auprès des services mentionnés ci-dessus.
+Les travailleurs étrangers doivent en outre justifier de la régularité de leur situation au regard des dispositions qui
+réglementent l'exercice d'activités professionnelles par les étrangers.
+
+Lors de leur inscription, les demandeurs d'emploi sont informés de leurs droits et obligations.
+
+III. - Les travailleurs recherchant un emploi sont inscrits sur un registre spécial tenu par l'Agence nationale pour l'emploi
+qui mentionne leur nom, prénom, âge et adresse.
+
+L'agence les oriente vers les organismes compétents lorsqu'ils sont susceptibles de bénéficier des mesures relatives à la
+formation professionnelle ou à la mobilité géographique et professionnelle au regard des critères suivants : expériences et
+projets professionnels, âge et aptitudes, situation du marché local de l'emploi ou propre à certains secteurs ou professions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R326-15 (V)
+  - Code du travail applicable à Mayotte. - art. R326-22 (V)
+
+
+###### Article R326-15
+
+Les changements de situation que les demandeurs d'emploi sont tenus de porter à la connaissance de l'Agence nationale pour
+l'emploi et qui, affectant leur situation, sont susceptibles d'avoir une incidence sur leur inscription sur le registre prévu
+au III de l'article R. 326-14 sont les suivants :
+
+1° L'exercice de toute activité professionnelle, même occasionnelle ou réduite et quelle que soit sa durée ;
+
+2° Toute période d'indisponibilité due à une maladie, une maternité, un accident de travail ou une incarcération ;
+
+3° La participation à une action de formation, rémunérée ou non, y compris dans le cadre du service militaire adapté ;
+
+4° Pour les travailleurs étrangers, la date d'échéance de leur titre de travail.
+
+Les changements de situation doivent être portés à la connaissance de l'Agence nationale pour l'emploi dans un délai de
+soixante-douze heures.
+
+Les demandeurs d'emploi inscrits sur la liste sont en outre tenus d'informer l'Agence nationale pour l'emploi de toute
+absence de leur domicile habituel d'une durée supérieure à sept jours.
+
+Ils sont également tenus de signaler, dans le même délai, tout changement de domicile.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R326-14 (V)
+
+
+###### Article R326-16
+
+Sont considérées comme immédiatement disponibles pour occuper un emploi les personnes qui n'exercent aucune activité
+professionnelle, qui ne suivent aucune action de formation professionnelle et dont la situation personnelle leur permet
+d'occuper sans délai un emploi.
+
+Sont en outre réputées immédiatement disponibles les personnes qui, au moment de leur inscription à l'Agence nationale pour
+l'emploi ou du renouvellement de leur demande d'emploi :
+
+1° Exercent ou ont exercé au cours du mois précédent une activité occasionnelle ou réduite n'excédant pas soixante-dix-huit
+heures par mois ;
+
+2° Suivent une action de formation n'excédant pas au total quarante heures ou dont les modalités d'organisation, notamment
+sous forme de cours du soir ou par correspondance, leur permettent d'occuper simultanément un emploi ;
+
+3° S'absentent de leur domicile habituel, après en avoir avisé l'Agence nationale pour l'emploi, dans la limite de trente-
+cinq jours dans l'année ;
+
+4° Sont en congé de maladie ou en incapacité temporaire de travail, pour une durée n'excédant pas quinze jours ;
+
+5° Sont incarcérées pour une durée n'excédant pas quinze jours.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+
+###### Article R326-17
+
+Les demandeurs d'emploi immédiatement disponibles sont tenus d'accomplir de manière permanente, tant sur proposition de
+l'Agence nationale pour l'emploi que de leur propre initiative, toutes les démarches en leur pouvoir en vue de leur
+reclassement ou de leur insertion professionnelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+
+###### Article R326-18
+
+Le délégué de l'Agence nationale pour l'emploi de Mayotte radie de la liste des demandeurs d'emploi les personnes qui :
+
+1° Refusent, sans motif légitime :
+
+a) Un emploi compatible avec leur spécialité ou leur formation antérieure et rétribué à un taux de salaire normalement
+pratiqué dans la profession à Mayotte ;
+
+b) De suivre une action de formation prévue au livre VII ou une action d'insertion prévue au livre III du présent code ;
+
+c) Une proposition de contrat d'apprentissage ;
+
+d) De répondre à toute convocation de l'Agence nationale pour l'emploi ;
+
+e) De se soumettre à une visite médicale auprès des services médicaux du travail destinée à vérifier leur aptitude au travail
+ou à certains types d'emploi ;
+
+2° Ne peuvent justifier de l'accomplissement d'actes de recherche d'emploi. Le caractère réel et sérieux de ces actes est
+apprécié compte tenu de la situation du demandeur d'emploi et de la situation locale de l'emploi ;
+
+3° Ont fait de fausses déclarations pour être ou demeurer inscrites sur la liste des demandeurs d'emploi.
+
+Les décisions de radiation sont transmises sans délai au directeur du travail, de l'emploi et de la formation professionnelle
+de Mayotte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R326-19 (V)
+
+
+###### Article R326-19
+
+Le délégué de l'Agence nationale pour l'emploi de Mayotte peut, pour l'exercice des attributions définies à l'article R.
+326-18, déléguer sa signature aux agents placés sous son autorité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+_Cité par_:
+
+  - Décret n°2017-1119 du 29 juin 2017 - art. 23 (V)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R326-18 (V)
+
+
+###### Article R326-20
+
+La radiation de la liste des demandeurs d'emploi entraîne l'impossibilité d'obtenir une nouvelle inscription pendant une
+période comprise entre deux mois et six mois consécutifs.
+
+Toutefois, en cas de fausse déclaration, la durée de radiation sera comprise entre six mois et un an.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+
+###### Article R326-21
+
+La décision de radiation intervient après que l'intéressé a été mis à même de présenter préalablement ses observations.
+
+Les décisions de radiation de la liste des demandeurs d'emploi sont motivées et notifiées aux intéressés. Elles indiquent la
+durée de la radiation.
+
+Les personnes qui entendent les contester doivent former un recours préalable devant le délégué de l'Agence nationale pour
+l'emploi de Mayotte. Ce recours, qui n'est pas suspensif, est soumis pour avis à une commission composée du directeur du
+travail, de l'emploi et de la formation professionnelle, du délégué de l'Agence nationale pour l'emploi de Mayotte et
+d'employeurs et de salariés en nombre égal nommés par le représentant de l'Etat sur proposition des organisations
+professionnelles et syndicales représentatives au sens de l'article L. 412-3.
+
+L'avis de la commission lie le délégué de l'Agence nationale pour l'emploi de Mayotte.
+
+Le silence gardé pendant plus de quatre mois sur un recours gracieux vaut décision de rejet.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L412-3 (M)
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R326-22 (V)
+
+
+###### Article R326-22
+
+Les demandeurs d'emploi qui ne satisfont pas à l'obligation de renouvellement périodique de leur demande d'emploi ou pour
+lesquels l'employeur ou un organisme leur assurant une indemnisation, un avantage social ou une formation porte à la
+connaissance de l'Agence nationale pour l'emploi une reprise d'emploi ou d'activité, une entrée en formation ou tout autre
+changement affectant leur situation au regard des conditions d'inscription sur le registre prévu au III de l'article R.
+326-14 cessent d'être inscrits sur la liste des demandeurs d'emploi.
+
+La décision motivée par laquelle l'Agence nationale pour l'emploi constate la cessation d'inscription sur la liste des
+demandeurs d'emploi est notifiée à l'intéressé. Les personnes qui entendent la contester doivent former un recours préalable
+dans les conditions prévues à l'article R. 326-21.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R326-14 (V)
+  - Code du travail applicable à Mayotte. - art. R326-21 (V)
+
+
+##### Section 5 : Collectivités territoriales<a id=357></a>
+
+###### Article R326-23
+
+Lorsqu'elles entendent bénéficier des dispositions de l'article L. 326-3, les communes adressent leur demande de convention
+au représentant de l'Etat à Mayotte et au délégué de l'Agence nationale pour l'emploi de Mayotte.
+
+A cette demande est jointe copie de la délibération du conseil municipal autorisant le maire à passer convention avec
+l'agence.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L326-3 (T)
+
+
+###### Article R326-24
+
+Le projet de convention est soumis par le délégué ou, à défaut, par le représentant de l'Etat à Mayotte à l'avis du comité de
+l'Agence nationale pour l'emploi de Mayotte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+
+###### Article R326-25
+
+La convention prévue à l'article L. 326-3, par laquelle une commune devient correspondant de l'Agence nationale pour
+l'emploi, est conclue compte tenu des moyens que la commune est disposée à mettre en oeuvre au profit des usagers du service
+public du placement.
+
+La convention est signée par le représentant de l'Etat à Mayotte et par le délégué.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L326-3 (T)
+
+
+###### Article R326-26
+
+Lorsque des informations sont communiquées au maire au titre de l'article L. 326-5, elles comprennent les noms, prénoms et
+adresses des demandeurs d'emploi et, le cas échéant, l'indication qu'un revenu de remplacement mentionné au chapitre VII du
+titre II du livre III est versé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L326-5 (V)
+
+
+###### Article R326-27
+
+Les informations reçues par le maire en application de l'article L. 326-5 ne peuvent être partagées par lui qu'avec ses
+adjoints ayant reçu délégation en matière soit de placement soit d'attribution d'avantages sociaux ainsi qu'avec les services
+municipaux compétents dans l'un de ces domaines.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L326-5 (V)
+
+
+###### Article R326-28
+
+Les dépenses occasionnées par la communication au maire de la liste des demandeurs d'emploi sont réparties entre l'Agence
+nationale pour l'emploi et la commune dans les conditions fixées par arrêté des ministres chargés de l'outre-mer, du budget
+et de l'emploi.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+
+##### Section 6 : Dispositions diverses<a id=358></a>
+
+###### Article R326-29
+
+Les conventions conclues au titre de l'article L. 326-1 entre l'Agence nationale pour l'emploi et ses correspondants
+comprennent, d'une part, des clauses générales conformes à un cahier des charges type et, d'autre part, des clauses
+particulières.
+
+I. - Le cahier des charges type, approuvé par le ministre chargé de l'emploi, détermine notamment :
+
+1° Les obligations liées à la participation au service public du placement, relatives notamment à la protection des droits
+des usagers ;
+
+2° Les modalités et les délais de la transmission à l'Agence nationale pour l'emploi des offres recueillies par les
+correspondants ;
+
+3° Les motifs et conditions de résiliation des conventions ;
+
+4° La publicité des conventions.
+
+II. - Les clauses particulières des conventions déterminent :
+
+1° Le champ territorial et professionnel d'intervention du correspondant ;
+
+2° Les services qu'il fournit ;
+
+3° Les moyens que le correspondant met en oeuvre et le concours qu'apporte éventuellement l'Agence nationale pour l'emploi ;
+
+4° Les modalités d'examen avec l'Agence nationale pour l'emploi de l'activité du correspondant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L326-1 (T)
+
+
+###### Article R326-30
+
+Sans préjudice des conventions éventuellement conclues à d'autres fins que le placement, les conventions conclues entre
+l'Agence nationale pour l'emploi et ses correspondants ne peuvent donner droit à subvention de l'Etat ou de l'Agence
+nationale pour l'emploi.
+
+Les correspondants de l'Agence nationale pour l'emploi ne peuvent percevoir de leurs usagers, à l'occasion d'une opération de
+placement, une somme quelconque, même à titre de remboursement de frais.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+
+###### Article R326-31
+
+Les opérations de placement ne peuvent être effectuées par les correspondants de l'Agence nationale pour l'emploi qu'au
+profit des usagers qui entrent dans leur champ d'activité géographique et, le cas échéant, professionnel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. R811-1 (Ab)
+
+
+###### Article R326-32
+
+Les dispositions des sections 1 et 2 du présent chapitre sont applicables aux demandes de renouvellement des conventions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. R811-2 (Ab)
+
+
+###### Article R326-33
+
+Les agents de l'Agence nationale pour l'emploi à Mayotte peuvent avoir accès aux entreprises, administrations et services
+publics, après autorisation de leur responsable.
+
+Ils sont tenus de ne rien révéler des situations individuelles ou des procédés d'exploitation dont ils auraient connaissance
+à l'occasion de l'exercice de leurs fonctions.
+
+Les agents des services de l'Etat, de la collectivité départementale, des communes ou de leurs établissements publics sont
+tenus de prêter leur concours à ceux de l'Agence nationale pour l'emploi et de leur communiquer toute information nécessaire
+à l'accomplissement de leurs missions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. R811-3 (Ab)
+
+
+###### Article R326-34
+
+Les conditions et modalités réglementaires de remboursement des frais engagés par les personnels civils de l'Etat à
+l'occasion de leurs déplacements sont applicables aux déplacements de service du personnel de la délégation de l'Agence
+nationale pour l'emploi de Mayotte sous réserve de dispositions particulières concernant certains personnels et déterminées
+par arrêté conjoint des ministres chargés des départements d'outre-mer, de l'emploi, du budget et de la fonction publique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. R811-4 (Ab)
+
+
+#### CHAPITRE VII : Indemnisation du chômage<a id=359></a>
+
+##### Section 2 : Perte temporaire de salaire<a id=360></a>
 
 ###### Article R327-10
 
@@ -35410,7 +36338,7 @@ _Anciens textes_:
   - Code du travail applicable à Mayotte. - art. R327-23 (T)
 
 
-### TITRE III : Main-d'oeuvre étrangère<a id=354></a>
+### TITRE III : Main-d'oeuvre étrangère<a id=361></a>
 
 ###### Article R330-1
 
@@ -35691,9 +36619,9 @@ _Anciens textes_:
   - Code du travail applicable à Mayotte. - art. R330-7 (T)
 
 
-### TITRE IV : Pénalités<a id=355></a>
+### TITRE IV : Pénalités<a id=362></a>
 
-#### CHAPITRE Ier : Travail clandestin<a id=356></a>
+#### CHAPITRE Ier : Travail clandestin<a id=363></a>
 
 ###### Article R341-1
 
@@ -35722,7 +36650,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R312-1
 
 
-#### CHAPITRE II : Déclaration des mouvements de main-d'oeuvre<a id=357></a>
+#### CHAPITRE II : Déclaration des mouvements de main-d'oeuvre<a id=364></a>
 
 ###### Article R342-1
 
@@ -35751,11 +36679,11 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R311-1 (M)
 
 
-## LIVRE IV : Les groupements professionnels - La représentation des salariés<a id=358></a>
+## LIVRE IV : Les groupements professionnels - La représentation des salariés<a id=365></a>
 
-### TITRE Ier : Les syndicats professionnels<a id=359></a>
+### TITRE Ier : Les syndicats professionnels<a id=366></a>
 
-#### CHAPITRE Ier : Statut juridique des syndicats<a id=360></a>
+#### CHAPITRE Ier : Statut juridique des syndicats<a id=367></a>
 
 ###### Article R411-1
 
@@ -35787,9 +36715,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R451-1 (V)
 
 
-#### CHAPITRE II : Droit syndical et représentativité des syndicats<a id=361></a>
+#### CHAPITRE II : Droit syndical et représentativité des syndicats<a id=368></a>
 
-##### Section 1 : Critères de représentativité<a id=362></a>
+##### Section 1 : Critères de représentativité<a id=369></a>
 
 ###### Article R412-1
 
@@ -35814,7 +36742,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L133-1
 
 
-### Titre 3 : Pénalités.<a id=363></a>
+### Titre 3 : Pénalités.<a id=370></a>
 
 ###### Article R430-1
 
@@ -35844,11 +36772,11 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R411-1 (M)
 
 
-## LIVRE V : Conflits du travail<a id=364></a>
+## LIVRE V : Conflits du travail<a id=371></a>
 
-### TITRE Ier : Conflits collectifs<a id=365></a>
+### TITRE Ier : Conflits collectifs<a id=372></a>
 
-#### CHAPITRE III : Conciliation<a id=366></a>
+#### CHAPITRE III : Conciliation<a id=373></a>
 
 ###### Article R513-1
 
@@ -35870,7 +36798,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 1 : Composition des commissions de conciliation.<a id=367></a>
+##### Section 1 : Composition des commissions de conciliation.<a id=374></a>
 
 ###### Article R513-2
 
@@ -35924,7 +36852,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 2 : Fonctionnement des commissions de conciliation.<a id=368></a>
+##### Section 2 : Fonctionnement des commissions de conciliation.<a id=375></a>
 
 ###### Article R513-4
 
@@ -36116,7 +37044,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-#### CHAPITRE IV : Médiation<a id=369></a>
+#### CHAPITRE IV : Médiation<a id=376></a>
 
 ###### Article R514-1
 
@@ -36277,7 +37205,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-#### CHAPITRE V : Arbitrage<a id=370></a>
+#### CHAPITRE V : Arbitrage<a id=377></a>
 
 ###### Article R515-1
 
@@ -36324,7 +37252,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-### TITRE II : Pénalités<a id=371></a>
+### TITRE II : Pénalités<a id=378></a>
 
 ###### Article R520-1
 
@@ -36352,9 +37280,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L153-1
 
 
-## LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=372></a>
+## LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=379></a>
 
-### TITRE Ier : Services de contrôle<a id=373></a>
+### TITRE Ier : Services de contrôle<a id=380></a>
 
 ###### Article R610-1
 
@@ -36425,7 +37353,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-### TITRE II : Obligations des employeurs<a id=374></a>
+### TITRE II : Obligations des employeurs<a id=381></a>
 
 ###### Article R620-1
 
@@ -36582,9 +37510,9 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-### TITRE III : Pénalités<a id=375></a>
+### TITRE III : Pénalités<a id=382></a>
 
-#### CHAPITRE Ier : Service de contrôle<a id=376></a>
+#### CHAPITRE Ier : Service de contrôle<a id=383></a>
 
 ###### Article R631-1
 
@@ -36612,7 +37540,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L610-8
 
 
-#### CHAPITRE II : Obligations des employeurs<a id=377></a>
+#### CHAPITRE II : Obligations des employeurs<a id=384></a>
 
 ###### Article R632-1
 
@@ -36672,9 +37600,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R632-1 (Ab)
 
 
-## LIVRE VII : Formation professionnelle<a id=378></a>
+## LIVRE VII : Formation professionnelle<a id=385></a>
 
-### Chapitre unique : Dispositions communes aux contrats de qualification et aux contrats d'orientation<a id=379></a>
+### Chapitre unique : Dispositions communes aux contrats de qualification et aux contrats d'orientation<a id=386></a>
 
 ###### Article R711-1
 
@@ -36717,15 +37645,15 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. R712-12 (T)
 
 
-# Partie réglementaire  - Décrets simples<a id=380></a>
+# Partie réglementaire  - Décrets simples<a id=387></a>
 
-## Livre 1er : Conventions relatives au travail<a id=381></a>
+## Livre 1er : Conventions relatives au travail<a id=388></a>
 
-### Titre 4 : Salaire<a id=382></a>
+### Titre 4 : Salaire<a id=389></a>
 
-#### Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG*<a id=383></a>
+#### Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG*<a id=390></a>
 
-##### Section 1 : Dispositions générales<a id=384></a>
+##### Section 1 : Dispositions générales<a id=391></a>
 
 ###### Article D141-1
 
@@ -36788,7 +37716,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D141-2-2 (Ab)
 
 
-##### Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement<a id=385></a>
+##### Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement<a id=392></a>
 
 ###### Article D141-3
 
@@ -36961,11 +37889,11 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D141-2-7 (Ab)
 
 
-## Livre 2 : Réglementation du travail<a id=386></a>
+## Livre 2 : Réglementation du travail<a id=393></a>
 
-### Titre 1er : Conditions de travail<a id=387></a>
+### Titre 1er : Conditions de travail<a id=394></a>
 
-#### Chapitre 1er : Age d'admission<a id=388></a>
+#### Chapitre 1er : Age d'admission<a id=395></a>
 
 ###### Article D211-1
 
@@ -37049,9 +37977,9 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Chapitre 2 : Durée du travail<a id=389></a>
+#### Chapitre 2 : Durée du travail<a id=396></a>
 
-##### Section 1 : Récupération des heures perdues<a id=390></a>
+##### Section 1 : Récupération des heures perdues<a id=397></a>
 
 ###### Article D212-1
 
@@ -37211,9 +38139,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D212-8 (Ab)
 
 
-### Titre 2 : Repos et congés<a id=391></a>
+### Titre 2 : Repos et congés<a id=398></a>
 
-#### Chapitre 3 : Congés annuels<a id=392></a>
+#### Chapitre 3 : Congés annuels<a id=399></a>
 
 ###### Article D223-1
 
@@ -37337,11 +38265,11 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D223-5 (V)
 
 
-## Livre 3 : Emploi<a id=393></a>
+## Livre 3 : Emploi<a id=400></a>
 
-### Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin<a id=394></a>
+### Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin<a id=401></a>
 
-#### Chapitre 2 : Travail clandestin<a id=395></a>
+#### Chapitre 2 : Travail clandestin<a id=402></a>
 
 ###### Article D312-1
 
@@ -37381,9 +38309,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D312-9 (Ab)
 
 
-### Titre 2 : Aides à l'emploi - Intervention du fonds national de l'emploi<a id=396></a>
+### Titre 2 : Aides à l'emploi - Intervention du fonds national de l'emploi<a id=403></a>
 
-#### Chapitre 4 : Dispositions particulières relatives à l'emploi des jeunes - Projet initiative-jeune<a id=397></a>
+#### Chapitre 4 : Dispositions particulières relatives à l'emploi des jeunes - Projet initiative-jeune<a id=404></a>
 
 ###### Article D324-9
 
@@ -37418,7 +38346,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D324-2 (Ab)
 
 
-#### Chapitre 5 : Dispositions relatives à la création d'entreprises et à la création d'emplois - Aide à la création d'entreprises à l'initiative des demandeurs d'emploi<a id=398></a>
+#### Chapitre 5 : Dispositions relatives à la création d'entreprises et à la création d'emplois - Aide à la création d'entreprises à l'initiative des demandeurs d'emploi<a id=405></a>
 
 ###### Article D325-1
 
@@ -37467,9 +38395,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D325-1-1 (Ab)
 
 
-#### Chapitre 7 : Indemnisation du chômage<a id=399></a>
+#### Chapitre 7 : Indemnisation du chômage<a id=406></a>
 
-##### Section 2 : Perte temporaire de salaire<a id=400></a>
+##### Section 2 : Perte temporaire de salaire<a id=407></a>
 
 ###### Article D327-10
 
@@ -37499,11 +38427,11 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D321-12-1 (Ab)
 
 
-## Livre 5 : Conflits du travail<a id=401></a>
+## Livre 5 : Conflits du travail<a id=408></a>
 
-### Titre 1er : Conflits collectifs<a id=402></a>
+### Titre 1er : Conflits collectifs<a id=409></a>
 
-#### Chapitre 4 : Médiation<a id=403></a>
+#### Chapitre 4 : Médiation<a id=410></a>
 
 ###### Article D514-1
 
@@ -37620,9 +38548,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D514-10 (Ab)
 
 
-## Livre 7 : De la formation professionnelle<a id=404></a>
+## Livre 7 : De la formation professionnelle<a id=411></a>
 
-### Chapitre 2 : Contrats de formation en alternance Section 1 : Contrats de qualification<a id=405></a>
+### Chapitre 2 : Contrats de formation en alternance Section 1 : Contrats de qualification<a id=412></a>
 
 ###### Article D712-1
 
@@ -37867,7 +38795,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D711-8 (Ab)
 
 
-### Chapitre 2 : Contrats de formation en alternance Section 2 : Contrats d'orientation<a id=406></a>
+### Chapitre 2 : Contrats de formation en alternance Section 2 : Contrats d'orientation<a id=413></a>
 
 ###### Article D712-8
 
@@ -38048,7 +38976,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D711-12 (VT)
 
 
-### Chapitre 2 : Contrats de formation en alternance Section 3 : Dispositions communes aux contrats de qualification et d'orientation<a id=407></a>
+### Chapitre 2 : Contrats de formation en alternance Section 3 : Dispositions communes aux contrats de qualification et d'orientation<a id=414></a>
 
 ###### Article D712-12
 
