@@ -1,7 +1,7 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 1999-12-29
+Version Consolidée au 2000-04-01
 ## Contenu: 
-  - [Partie législative (art. L000-1 à L630-2)](#1)
+  - [Partie législative (art. L000-1 à L711-4)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L000-1 à L000-2)](#2)
     - [LIVRE Ier : CONVENTIONS RELATIVES AU TRAVAIL (art. L111-1 à L156-3)](#3)
       - [TITRE Ier : CONTRAT D'APPRENTISSAGE (art. L111-1 à L116-5)](#4)
@@ -85,11 +85,11 @@ Version Consolidée au 1999-12-29
           - [Section 2 : Durée du congé. (art. L223-2 à L223-8)](#82)
           - [Section 3 : Indemnités de congé. (art. L223-9 à L223-12)](#83)
         - [CHAPITRE IV : Congés pour événements familiaux. (art. L224-1)](#84)
-      - [TITRE III : HYGIÈNE, SÉCURITÉ ET CONDITIONS DE TRAVAIL. (art. L230-1 à L230-14)](#85)
+      - [TITRE III : HYGIÈNE, SÉCURITÉ ET CONDITIONS DE TRAVAIL. (art. L230-1 à L230-16)](#85)
       - [TITRE IV : SURVEILLANCE MÉDICALE. (art. L240-1 à L240-5)](#86)
       - [Titre 5 : Pénalités (art. L250-1 à L252-1)](#87)
         - [CHAPITRE PRÉLIMINAIRE. (art. L250-1 à L250-4)](#88)
-        - [CHAPITRE Ier : Hygiène et sécurité. (art. L251-1 à L251-9)](#89)
+        - [CHAPITRE Ier : Hygiène et sécurité. (art. L251-1 à L251-11)](#89)
         - [CHAPITRE II : Surveillance médicale. (art. L252-1)](#90)
     - [LIVRE III : EMPLOI (art. L311-1 à L342-2)](#91)
       - [TITRE Ier : DÉCLARATION DE MOUVEMENTS DE MAIN-D'OEUVRE TRAVAIL CLANDESTIN (art. L311-1 à L312-7)](#92)
@@ -97,7 +97,7 @@ Version Consolidée au 1999-12-29
         - [CHAPITRE II : Travail clandestin. (art. L312-1 à L312-7)](#94)
       - [TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité territoriale (art. L321-1 à L325-1)](#95)
         - [CHAPITRE Ier : Généralités. (art. L321-1 à L321-4)](#96)
-        - [CHAPITRE II : Dispositions relatives au contrat emploi-solidarité. (art. L322-1 à L322-6)](#97)
+        - [CHAPITRE II : Dispositions relatives au contrat emploi-solidarité. (art. L322-1 à L322-7)](#97)
         - [Chapitre III : Dispositions relatives aux contrats de retour à l'emploi (art. L323-1 à L323-4)](#98)
         - [Chapitre IV : Dispositions relatives au contrat emploi-jeune (art. L324-1 à L324-5)](#99)
         - [Chapitre V : Dispositions relatives à l'aide à la création d'entreprise à l'initiative de demandeurs d'emploi (art. L325-1)](#100)
@@ -130,119 +130,125 @@ Version Consolidée au 1999-12-29
       - [TITRE Ier : SERVICES DE CONTRÔLE. (art. L610-1 à L610-14)](#127)
       - [TITRE II : OBLIGATIONS DES EMPLOYEURS. (art. L620-1 à L620-7)](#128)
       - [TITRE III : PÉNALITÉS. (art. L630-1 à L630-2)](#129)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R122-1 à R632-2)](#130)
-    - [LIVRE Ier : Conventions relatives au travail (art. R122-1 à R156-4)](#131)
-      - [TITRE II : Contrat de travail (art. R122-1 à R126-6)](#132)
-        - [CHAPITRE II : Règles propres au contrat de travail (art. R122-1 à R122-18)](#133)
-          - [Section 1 : Règles générales. (art. R122-1 à R122-4)](#134)
-          - [Section 2 : Service national. (art. R122-5 à R122-6)](#135)
-          - [Section 3 : Repos des femmes en couches et des femmes allaitant leurs enfants. (art. R122-7 à R122-10)](#136)
-          - [Section 4 : Règlement intérieur, protection des salariés et droit disciplinaire (art. R122-11 à R122-18)](#137)
-            - [Sous-section 1 : Règlement intérieur. (art. R122-11 à R122-15)](#138)
-            - [Sous-section 2 : Protection des salariés et droit disciplinaire. (art. R122-16 à R122-18)](#139)
-        - [CHAPITRE IV : Marchandage (art. R124-1)](#140)
-        - [CHAPITRE V : Cautionnements (art. R125-1)](#141)
-        - [CHAPITRE VI : Groupements d'employeurs (art. R126-1 à R126-6)](#142)
-      - [TITRE III : Conventions et accords collectifs de travail (art. R132-1 à R135-1)](#143)
-        - [CHAPITRE II : Nature et validité des conventions et accords collectifs de travail (art. R132-1 à R132-2)](#144)
-        - [Chapitre 3 : Conventions et accords collectifs susceptibles d'être étendus et procédure d'extension et d'élargissement. (art. R133-1 à R133-2)](#145)
-        - [CHAPITRE V : Application des conventions et accords collectifs de travail (art. R135-1)](#146)
-      - [TITRE IV : Salaire (art. R140-1 à R146-2)](#147)
-        - [CHAPITRE PRELIMINAIRE : Egalité de rémunération entre les hommes et les femmes (art. R140-1)](#148)
-        - [CHAPITRE Ier : Salaire minimum interprofessionnel garanti (art. R141-1 à R141-3)](#149)
-        - [CHAPITRE III : Paiement du salaire (art. R143-1 à R143-2)](#150)
-        - [CHAPITRE V : Saisie-arrêt et cession de rémunérations dues par un employeur (art. R145-1 à R145-21)](#151)
-          - [Section 1 : Règles générales. (art. R145-1)](#152)
-          - [Section 2 : Procédure de cession et de saisie-arrêt. (art. R145-2 à R145-21)](#153)
-        - [CHAPITRE VI : Règles particulières au contrôle et à la répartition des pourboires (art. R146-1 à R146-2)](#154)
-      - [TITRE V : Pénalités (art. R151-1 à R156-4)](#155)
-        - [CHAPITRE Ier : Contrat d'apprentissage et contrat de travail (art. R151-1 à R151-8)](#156)
-          - [Section 1 : Contrat d'apprentissage. (art. R151-1 à R151-4)](#157)
-          - [Section 2 : Contrat de travail. (art. R151-5 à R151-8)](#158)
-        - [CHAPITRE II : Marchandages (art. R152-1)](#159)
-        - [CHAPITRE III : Cautionnements (art. R153-1)](#160)
-        - [CHAPITRE IV : Groupements d'employeurs (art. R154-1)](#161)
-        - [CHAPITRE V : Conventions et accords collectifs de travail (art. R155-1)](#162)
-        - [CHAPITRE VI : Salaire (art. R156-1 à R156-4)](#163)
-          - [Section 1 : Egalité de rémunération entre les hommes et les femmes. (art. R156-1)](#164)
-          - [Section 2 : Salaire minimum garanti et rémunération mensuelle minimale garantie. (art. R156-2)](#165)
-          - [Section 3 : Paiement du salaire. (art. R156-3)](#166)
-          - [Section 4 : Retenues sur le salaire. (art. R156-4)](#167)
-    - [LIVRE II : Réglementation du travail (art. R212-1 à R254-6)](#168)
-      - [TITRE Ier : Conditions de travail (art. R212-1 à R213-2)](#169)
-        - [CHAPITRE II : Durée du travail (art. R212-1 à R212-2)](#170)
-        - [CHAPITRE III : Travail de nuit (art. R213-1 à R213-2)](#171)
-      - [TITRE II : Repos et congés (art. R221-1 à R223-1)](#172)
-        - [CHAPITRE Ier : Repos hebdomadaire (art. R221-1 à R221-6)](#173)
-        - [CHAPITRE II : Jours fériés (art. R222-1)](#174)
-        - [CHAPITRE III : Congés annuels (art. R223-1)](#175)
-      - [TITRE V : Pénalités (art. R250-1 à R254-6)](#176)
-        - [Chapitre préliminaire. (art. R250-1 à R250-2)](#177)
-        - [Chapitre 1er : Hygiène et sécurité. (art. R251-1)](#178)
-        - [Chapitre 3 : Conditions du travail (art. R253-1 à R253-7)](#179)
-          - [Section 1 : Age d'admission. (art. R253-1)](#180)
-          - [Section 2 : Durée du travail (art. R253-2 à R253-5)](#181)
-            - [Paragraphe 1 : Dispositions générales (art. R253-2)](#182)
-            - [Paragraphe 2 : Heures supplémentaires (art. R253-3)](#183)
-            - [Paragraphe 3 : Dispositions relatives aux jeunes travailleurs (art. R253-4 à R253-5)](#184)
-          - [Section 3 : Travail de nuit. (art. R253-6 à R253-7)](#185)
-        - [Chapitre 4 : Repos et congés (art. R254-1 à R254-6)](#186)
-          - [Section 1 : Repos hebdomadaire. (art. R254-1 à R254-2)](#187)
-          - [Section 2 : Jours fériés (art. R254-3 à R254-5)](#188)
-            - [Paragraphe 1 : Dispositions générales (art. R254-3 à R254-4)](#189)
-            - [Paragraphe 2 : Dispositions particulières à la journée du 1er mai. (art. R254-5)](#190)
-          - [Section 3 : Congés annuels. (art. R254-6)](#191)
-    - [LIVRE III : Emploi (art. R311-1 à R342-1)](#192)
-      - [TITRE Ier : Déclaration des mouvements de main-d'oeuvre - Travail clandestin (art. R311-1 à R312-1)](#193)
-        - [Chapitre 1er : Déclaration des mouvements de main-d'oeuvre. (art. R311-1)](#194)
-        - [Chapitre 2 : Travail clandestin. (art. R312-1)](#195)
-      - [Titre 2 : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité territoriale (art. R321-1 à R325-9)](#196)
-        - [Chapitre 1er : Généralités. (art. R321-1 à R321-6)](#197)
-        - [Chapitre 3 : Dispositions relatives au contrat de retour à l'emploi (art. R323-1 à R323-7)](#198)
-        - [Chapitre 5 : Dispositions relatives à l'aide à la création d'entreprise à l'initiative de demandeurs d'emploi (art. R325-1 à R325-9)](#199)
-      - [TITRE III : Main-d'oeuvre étrangère (art. R330-1 à R330-9)](#200)
-      - [TITRE IV : Pénalités (art. R341-1 à R342-1)](#201)
-        - [CHAPITRE Ier : Travail clandestin (art. R341-1)](#202)
-        - [CHAPITRE II : Déclaration des mouvements de main-d'oeuvre (art. R342-1)](#203)
-    - [LIVRE IV : Les groupements professionnels - La représentation des salariés (art. R411-1 à R430-1)](#204)
-      - [TITRE Ier : Les syndicats professionnels (art. R411-1 à R412-1)](#205)
-        - [CHAPITRE Ier : Statut juridique des syndicats (art. R411-1)](#206)
-        - [CHAPITRE II : Droit syndical et représentativité des syndicats (art. R412-1)](#207)
-      - [Titre 3 : Pénalités. (art. R430-1)](#208)
-    - [LIVRE V : Conflits du travail (art. R513-1 à R520-1)](#209)
-      - [TITRE Ier : Conflits collectifs (art. R513-1 à R515-2)](#210)
-        - [CHAPITRE III : Conciliation (art. R513-1 à R513-10)](#211)
-          - [Section 1 : Composition des commissions de conciliation. (art. R513-2 à R513-3)](#212)
-          - [Section 2 : Fonctionnement des commissions de conciliation. (art. R513-4 à R513-10)](#213)
-        - [CHAPITRE IV : Médiation (art. R514-1 à R514-6)](#214)
-        - [CHAPITRE V : Arbitrage (art. R515-1 à R515-2)](#215)
-      - [TITRE II : Pénalités (art. R520-1)](#216)
-    - [LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail (art. R610-1 à R632-2)](#217)
-      - [TITRE Ier : Services de contrôle (art. R610-1 à R610-3)](#218)
-      - [TITRE II : Obligations des employeurs (art. R620-1 à R620-5)](#219)
-      - [TITRE III : Pénalités (art. R631-1 à R632-2)](#220)
-        - [CHAPITRE Ier : Service de contrôle (art. R631-1)](#221)
-        - [CHAPITRE II : Obligations des employeurs (art. R632-1 à R632-2)](#222)
-  - [Partie réglementaire  - Décrets simples (art. D141-1 à D514-4)](#223)
-    - [Livre 1er : Conventions relatives au travail (art. D141-1 à D141-7)](#224)
-      - [Titre 4 : Salaire (art. D141-1 à D141-7)](#225)
-        - [Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG* (art. D141-1 à D141-7)](#226)
-          - [Section 1 : Dispositions générales (art. D141-1 à D141-2)](#227)
-          - [Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement (art. D141-3 à D141-7)](#228)
-    - [Livre 2 : Réglementation du travail (art. D211-1 à D223-4)](#229)
-      - [Titre 1er : Conditions de travail (art. D211-1 à D212-5)](#230)
-        - [Chapitre 1er : Age d'admission (art. D211-1 à D211-4)](#231)
-        - [Chapitre 2 : Durée du travail (art. D212-1 à D212-5)](#232)
-          - [Section 1 : Récupération des heures perdues (art. D212-1 à D212-5)](#233)
-      - [Titre 2 : Repos et congés (art. D223-1 à D223-4)](#234)
-        - [Chapitre 3 : Congés annuels (art. D223-1 à D223-4)](#235)
-    - [Livre 3 : Emploi (art. D312-1)](#236)
-      - [Titre 1er : Déclarations de mouvements de main d'oeuvre (art. D312-1)](#237)
-        - [Travail clandestin (art. D312-1)](#238)
-          - [Chapitre 2 : Travail clandestin (art. D312-1)](#239)
-    - [Livre 5 : Conflits du travail (art. D514-1 à D514-4)](#240)
-      - [Titre 1er : Conflits collectifs (art. D514-1 à D514-4)](#241)
-        - [Chapitre 4 : Médiation (art. D514-1 à D514-4)](#242)
+    - [LIVRE VII : DE LA FORMATION PROFESSIONNELLE (art. L711-5 à L711-4)](#130)
+      - [CHAPITRE II : CONTRATS DE FORMATION EN ALTERNANCE (art. L711-5 à L711-10)](#131)
+        - [Section 1 : Contrat de qualification (art. L711-5 à L711-6)](#132)
+        - [Section 2 : Contrat d'orientation (art. L711-7)](#133)
+        - [Section 3 : Dispositions communes aux contrats de qualification et d'orientation (art. L711-8 à L711-10)](#134)
+      - [CHAPITRE 1ER : DISPOSITIONS GENERALES (art. L711-1 à L711-4)](#135)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R122-1 à R632-2)](#136)
+    - [LIVRE Ier : Conventions relatives au travail (art. R122-1 à R156-4)](#137)
+      - [TITRE II : Contrat de travail (art. R122-1 à R126-6)](#138)
+        - [CHAPITRE II : Règles propres au contrat de travail (art. R122-1 à R122-18)](#139)
+          - [Section 1 : Règles générales. (art. R122-1 à R122-4)](#140)
+          - [Section 2 : Service national. (art. R122-5 à R122-6)](#141)
+          - [Section 3 : Repos des femmes en couches et des femmes allaitant leurs enfants. (art. R122-7 à R122-10)](#142)
+          - [Section 4 : Règlement intérieur, protection des salariés et droit disciplinaire (art. R122-11 à R122-18)](#143)
+            - [Sous-section 1 : Règlement intérieur. (art. R122-11 à R122-15)](#144)
+            - [Sous-section 2 : Protection des salariés et droit disciplinaire. (art. R122-16 à R122-18)](#145)
+        - [CHAPITRE IV : Marchandage (art. R124-1)](#146)
+        - [CHAPITRE V : Cautionnements (art. R125-1)](#147)
+        - [CHAPITRE VI : Groupements d'employeurs (art. R126-1 à R126-6)](#148)
+      - [TITRE III : Conventions et accords collectifs de travail (art. R132-1 à R135-1)](#149)
+        - [CHAPITRE II : Nature et validité des conventions et accords collectifs de travail (art. R132-1 à R132-2)](#150)
+        - [Chapitre 3 : Conventions et accords collectifs susceptibles d'être étendus et procédure d'extension et d'élargissement. (art. R133-1 à R133-2)](#151)
+        - [CHAPITRE V : Application des conventions et accords collectifs de travail (art. R135-1)](#152)
+      - [TITRE IV : Salaire (art. R140-1 à R146-2)](#153)
+        - [CHAPITRE PRELIMINAIRE : Egalité de rémunération entre les hommes et les femmes (art. R140-1)](#154)
+        - [CHAPITRE Ier : Salaire minimum interprofessionnel garanti (art. R141-1 à R141-3)](#155)
+        - [CHAPITRE III : Paiement du salaire (art. R143-1 à R143-2)](#156)
+        - [CHAPITRE V : Saisie-arrêt et cession de rémunérations dues par un employeur (art. R145-1 à R145-21)](#157)
+          - [Section 1 : Règles générales. (art. R145-1)](#158)
+          - [Section 2 : Procédure de cession et de saisie-arrêt. (art. R145-2 à R145-21)](#159)
+        - [CHAPITRE VI : Règles particulières au contrôle et à la répartition des pourboires (art. R146-1 à R146-2)](#160)
+      - [TITRE V : Pénalités (art. R151-1 à R156-4)](#161)
+        - [CHAPITRE Ier : Contrat d'apprentissage et contrat de travail (art. R151-1 à R151-8)](#162)
+          - [Section 1 : Contrat d'apprentissage. (art. R151-1 à R151-4)](#163)
+          - [Section 2 : Contrat de travail. (art. R151-5 à R151-8)](#164)
+        - [CHAPITRE II : Marchandages (art. R152-1)](#165)
+        - [CHAPITRE III : Cautionnements (art. R153-1)](#166)
+        - [CHAPITRE IV : Groupements d'employeurs (art. R154-1)](#167)
+        - [CHAPITRE V : Conventions et accords collectifs de travail (art. R155-1)](#168)
+        - [CHAPITRE VI : Salaire (art. R156-1 à R156-4)](#169)
+          - [Section 1 : Egalité de rémunération entre les hommes et les femmes. (art. R156-1)](#170)
+          - [Section 2 : Salaire minimum garanti et rémunération mensuelle minimale garantie. (art. R156-2)](#171)
+          - [Section 3 : Paiement du salaire. (art. R156-3)](#172)
+          - [Section 4 : Retenues sur le salaire. (art. R156-4)](#173)
+    - [LIVRE II : Réglementation du travail (art. R212-1 à R254-6)](#174)
+      - [TITRE Ier : Conditions de travail (art. R212-1 à R213-2)](#175)
+        - [CHAPITRE II : Durée du travail (art. R212-1 à R212-2)](#176)
+        - [CHAPITRE III : Travail de nuit (art. R213-1 à R213-2)](#177)
+      - [TITRE II : Repos et congés (art. R221-1 à R223-1)](#178)
+        - [CHAPITRE Ier : Repos hebdomadaire (art. R221-1 à R221-6)](#179)
+        - [CHAPITRE II : Jours fériés (art. R222-1)](#180)
+        - [CHAPITRE III : Congés annuels (art. R223-1)](#181)
+      - [TITRE V : Pénalités (art. R250-1 à R254-6)](#182)
+        - [Chapitre préliminaire. (art. R250-1 à R250-2)](#183)
+        - [Chapitre 1er : Hygiène et sécurité. (art. R251-1)](#184)
+        - [Chapitre 3 : Conditions du travail (art. R253-1 à R253-7)](#185)
+          - [Section 1 : Age d'admission. (art. R253-1)](#186)
+          - [Section 2 : Durée du travail (art. R253-2 à R253-5)](#187)
+            - [Paragraphe 1 : Dispositions générales (art. R253-2)](#188)
+            - [Paragraphe 2 : Heures supplémentaires (art. R253-3)](#189)
+            - [Paragraphe 3 : Dispositions relatives aux jeunes travailleurs (art. R253-4 à R253-5)](#190)
+          - [Section 3 : Travail de nuit. (art. R253-6 à R253-7)](#191)
+        - [Chapitre 4 : Repos et congés (art. R254-1 à R254-6)](#192)
+          - [Section 1 : Repos hebdomadaire. (art. R254-1 à R254-2)](#193)
+          - [Section 2 : Jours fériés (art. R254-3 à R254-5)](#194)
+            - [Paragraphe 1 : Dispositions générales (art. R254-3 à R254-4)](#195)
+            - [Paragraphe 2 : Dispositions particulières à la journée du 1er mai. (art. R254-5)](#196)
+          - [Section 3 : Congés annuels. (art. R254-6)](#197)
+    - [LIVRE III : Emploi (art. R311-1 à R342-1)](#198)
+      - [TITRE Ier : Déclaration des mouvements de main-d'oeuvre - Travail clandestin (art. R311-1 à R312-1)](#199)
+        - [Chapitre 1er : Déclaration des mouvements de main-d'oeuvre. (art. R311-1)](#200)
+        - [Chapitre 2 : Travail clandestin. (art. R312-1)](#201)
+      - [Titre 2 : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité territoriale (art. R321-1 à R325-9)](#202)
+        - [Chapitre 1er : Généralités. (art. R321-1 à R321-6)](#203)
+        - [Chapitre 3 : Dispositions relatives au contrat de retour à l'emploi (art. R323-1 à R323-7)](#204)
+        - [Chapitre 5 : Dispositions relatives à l'aide à la création d'entreprise à l'initiative de demandeurs d'emploi (art. R325-1 à R325-9)](#205)
+      - [TITRE III : Main-d'oeuvre étrangère (art. R330-1 à R330-9)](#206)
+      - [TITRE IV : Pénalités (art. R341-1 à R342-1)](#207)
+        - [CHAPITRE Ier : Travail clandestin (art. R341-1)](#208)
+        - [CHAPITRE II : Déclaration des mouvements de main-d'oeuvre (art. R342-1)](#209)
+    - [LIVRE IV : Les groupements professionnels - La représentation des salariés (art. R411-1 à R430-1)](#210)
+      - [TITRE Ier : Les syndicats professionnels (art. R411-1 à R412-1)](#211)
+        - [CHAPITRE Ier : Statut juridique des syndicats (art. R411-1)](#212)
+        - [CHAPITRE II : Droit syndical et représentativité des syndicats (art. R412-1)](#213)
+      - [Titre 3 : Pénalités. (art. R430-1)](#214)
+    - [LIVRE V : Conflits du travail (art. R513-1 à R520-1)](#215)
+      - [TITRE Ier : Conflits collectifs (art. R513-1 à R515-2)](#216)
+        - [CHAPITRE III : Conciliation (art. R513-1 à R513-10)](#217)
+          - [Section 1 : Composition des commissions de conciliation. (art. R513-2 à R513-3)](#218)
+          - [Section 2 : Fonctionnement des commissions de conciliation. (art. R513-4 à R513-10)](#219)
+        - [CHAPITRE IV : Médiation (art. R514-1 à R514-6)](#220)
+        - [CHAPITRE V : Arbitrage (art. R515-1 à R515-2)](#221)
+      - [TITRE II : Pénalités (art. R520-1)](#222)
+    - [LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail (art. R610-1 à R632-2)](#223)
+      - [TITRE Ier : Services de contrôle (art. R610-1 à R610-3)](#224)
+      - [TITRE II : Obligations des employeurs (art. R620-1 à R620-5)](#225)
+      - [TITRE III : Pénalités (art. R631-1 à R632-2)](#226)
+        - [CHAPITRE Ier : Service de contrôle (art. R631-1)](#227)
+        - [CHAPITRE II : Obligations des employeurs (art. R632-1 à R632-2)](#228)
+  - [Partie réglementaire  - Décrets simples (art. D141-1 à D514-4)](#229)
+    - [Livre 1er : Conventions relatives au travail (art. D141-1 à D141-7)](#230)
+      - [Titre 4 : Salaire (art. D141-1 à D141-7)](#231)
+        - [Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG* (art. D141-1 à D141-7)](#232)
+          - [Section 1 : Dispositions générales (art. D141-1 à D141-2)](#233)
+          - [Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement (art. D141-3 à D141-7)](#234)
+    - [Livre 2 : Réglementation du travail (art. D211-1 à D223-4)](#235)
+      - [Titre 1er : Conditions de travail (art. D211-1 à D212-5)](#236)
+        - [Chapitre 1er : Age d'admission (art. D211-1 à D211-4)](#237)
+        - [Chapitre 2 : Durée du travail (art. D212-1 à D212-5)](#238)
+          - [Section 1 : Récupération des heures perdues (art. D212-1 à D212-5)](#239)
+      - [Titre 2 : Repos et congés (art. D223-1 à D223-4)](#240)
+        - [Chapitre 3 : Congés annuels (art. D223-1 à D223-4)](#241)
+    - [Livre 3 : Emploi (art. D312-1)](#242)
+      - [Titre 1er : Déclarations de mouvements de main d'oeuvre (art. D312-1)](#243)
+        - [Travail clandestin (art. D312-1)](#244)
+          - [Chapitre 2 : Travail clandestin (art. D312-1)](#245)
+    - [Livre 5 : Conflits du travail (art. D514-1 à D514-4)](#246)
+      - [Titre 1er : Conflits collectifs (art. D514-1 à D514-4)](#247)
+        - [Chapitre 4 : Médiation (art. D514-1 à D514-4)](#248)
 # Partie législative<a id=1></a>
 
 ## LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES.<a id=2></a>
@@ -1791,6 +1797,49 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L122-15 (VT)
   - Code du travail applicable à Mayotte. - art. L322-14 (VT)
   - Code du travail applicable à Mayotte. - art. L322-34 (VT)
+
+
+###### Article L122-1-1
+
+Un contrat de travail à durée déterminée peut également être conclu au titre de dispositions législatives ou réglementaires
+destinées à favoriser l'embauche de certaines catégories de personnes sans emploi ou lorsqu'un employeur s'engage, pour une
+durée déterminée, à assurer un complément de formation professionnelle au salarié.
+
+Ce contrat, qui peut être renouvelé, doit comporter un terme fixé avec précision dès sa conclusion. Les dispositions des deux
+derniers alinéas de l'article L. 122-1 et de l'article L. 122-13 ne lui sont pas applicables.
+
+Les modalités d'application du présent article sont fixées par arrêté du représentant du Gouvernement à Mayotte.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-1, L122-13
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. L127-11 (VT)
+  - Code du travail applicable à Mayotte. - art. L127-15 (VT)
+  - Code du travail applicable à Mayotte. - art. L127-5 (M)
+  - Code du travail applicable à Mayotte. - art. L322-2 (V)
+  - Code du travail applicable à Mayotte. - art. L322-34 (VT)
+  - Code du travail applicable à Mayotte. - art. L322-7 (V)
+  - Code du travail applicable à Mayotte. - art. L323-2 (Ab)
+  - Code du travail applicable à Mayotte. - art. L324-10 (VT)
+  - Code du travail applicable à Mayotte. - art. L324-8 (VT)
+  - Code du travail applicable à Mayotte. - art. L711-5 (T)
+  - Code du travail applicable à Mayotte. - art. L711-7 (T)
+  - Code rural et de la pêche maritime - art. D781-113 (V)
+  - Code rural et de la pêche maritime - art. L781-52 (VT)
 
 
 ###### Article L122-2
@@ -4007,11 +4056,11 @@ _Créé par_:
 ###### Article L122-72
 
 La décision de l'inspecteur du travail ou du fonctionnaire assimilé [*de retrait ou de modification des dispositions du
-réglement intérieur*] peut faire l'objet dans les deux mois [*délai*] d'un recours auprès du chef du service de l'inspection
-du travail à Mayotte.
+réglement intérieur*] peut faire l'objet dans les deux mois [*délai*] d'un recours auprès du directeur du travail, de
+l'emploi et de la formation professionnelle à Mayotte.
 
-La décision du chef du service de l'inspection du travail à Mayotte est notifiée à l'employeur et communiquée pour
-information aux représentants du personnel.
+La décision du directeur du travail, de l'emploi et de la formation professionnelle à Mayotte est notifiée à l'employeur et
+communiquée pour information aux représentants du personnel.
 
 **Liens relatifs à cet article**
 
@@ -4022,7 +4071,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance 98-522 1998-06-24 art. 30 3° JORF 27 juin 1998
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
 
 
 ##### Sous-section 2 : Protection des salariés et droit disciplinaire.<a id=26></a>
@@ -5119,7 +5168,7 @@ _Cité par_:
 ###### Article L132-10
 
 Les conventions et accords collectifs de travail, ainsi que leurs avenants et annexes, sont déposés par la partie la plus
-diligente auprès du service de l'inspection du travail.
+diligente auprès de la direction du travail, de l'emploi et de la formation professionnelle.
 
 La partie la plus diligente remet également un exemplaire de chaque convention ou accord collectif de travail au secrétariat-
 greffe de la juridiction du travail.
@@ -5136,9 +5185,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
 
 _Cité par_:
 
@@ -5514,8 +5563,8 @@ d'employeurs et de salariés représentatives dans le champ d'application consid
 
 Lorsque les circonstances l'exigent et notamment à la demande d'une organisation syndicale représentative, le représentant du
 Gouvernement à Mayotte peut convoquer une commission mixte composée comme il est dit à l'alinéa précédent et présidée par le
-chef du service de l'inspection du travail ou son représentant. Il doit convoquer cette commission lorsque deux des
-organisations susmentionnées en font la demande.
+directeur du travail, de l'emploi et de la formation professionnelle ou son représentant. Il doit convoquer cette commission
+lorsque deux des organisations susmentionnées en font la demande.
 
 **Liens relatifs à cet article**
 
@@ -5524,9 +5573,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
 
 _Cité par_:
 
@@ -7320,8 +7369,9 @@ _Modifié par_:
 
 ###### Article L152-1
 
-Toute infraction aux dispositions de l'article L. 124-1 est punie d'une amende de 25 000 F (1) [*montant*]. La récidive est
-punie d'une amende de 50 000 F (1) et d'un emprisonnement de six mois [*durée*] ou de l'une de ces deux peines seulement.
+Toute infraction aux dispositions des articles L. 124-1 et L. 124-3 est punie d'une amende de 25 000 F (1) [*montant*]. La
+récidive est punie d'une amende de 50 000 F (1) et d'un emprisonnement de six mois [*durée*] ou de l'une de ces deux peines
+seulement.
 
 Le tribunal peut prononcer, en outre, l'interdiction d'exercer l'activité de sous-entrepreneur de main-d'oeuvre pour une
 durée de deux ans à dix ans.
@@ -7339,13 +7389,13 @@ Dans tous les cas, le tribunal peut ordonner, aux frais de la personne condamné
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L124-1
-
 **Liens**:
 
   - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L124-1
+
+_Cite_:
+
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L124-1, L124-3
 
 _Codifié par_:
 
@@ -7354,7 +7404,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
 
 _Cité par_:
 
@@ -7718,16 +7768,27 @@ récupération.
 En cas de dénonciation ou de non-renouvellement de ces conventions ou accords collectifs, les dispositions de ces arrêtés
 auxquelles il avait été dérogé redeviennent applicables.
 
+Dans la perspective du maintien ou du développement de l'emploi, les employeurs, les organisations d'employeurs et de
+salariés peuvent, par convention ou accord collectif étendu ou par convention ou accord collectif d'entreprise ou
+d'établissement, fixer les conditions d'une nouvelle organisation du travail résultant d'une répartition de la durée du
+travail sur tout ou partie de l'année, à condition que, sur la période retenue, cette durée n'excède pas, en moyenne par
+semaine travaillée, la durée prévue au premier alinéa de l'article L. 212-1 ou une durée inférieure prévue par la convention
+ou l'accord.
+
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L212-1
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
 
 _Cité par_:
 
@@ -9466,6 +9527,44 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R620-4 (M)
 
 
+###### Article L230-1-1
+
+1° Les travailleurs indépendants ainsi que les employeurs, lorsqu'ils exercent directement une activité sur un chantier,
+doivent mettre en oeuvre vis-à-vis des autres personnes intervenant dans les opérations de bâtiment et de génie civil et
+d'eux-mêmes les règles de protection et de salubrité prévues aux articles L. 230-3, L. 230-5 et L. 230-6.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L230-3, L230-5, L230-6
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. L251-10 (Ab)
+  - Code du travail applicable à Mayotte. - art. R231-16 (M)
+  - Code du travail applicable à Mayotte. - art. R233-1 (M)
+  - Code du travail applicable à Mayotte. - art. R233-2 (M)
+  - Code du travail applicable à Mayotte. - art. R233-60 (MMN)
+  - Code du travail applicable à Mayotte. - art. R235-1 (M)
+  - Code du travail applicable à Mayotte. - art. R235-107 (M)
+  - Code du travail applicable à Mayotte. - art. R235-204 (M)
+  - Code du travail applicable à Mayotte. - art. R235-205 (M)
+  - Code du travail applicable à Mayotte. - art. R235-207 (M)
+  - Code du travail applicable à Mayotte. - art. R236-1 (M)
+  - Code du travail applicable à Mayotte. - art. R238-2-1 (M)
+  - Code du travail applicable à Mayotte. - art. R238-6-1 (M)
+
+
 ###### Article L230-2
 
 Les établissements et locaux où sont employés des salariés doivent être tenus dans un constant état de propreté et présenter
@@ -9540,7 +9639,7 @@ _Cité par_:
 ###### Article L230-4
 
 En tant que de besoin, des décrets en Conseil d'Etat déterminent les mesures nécessaires à l'application des règles de
-protection et de salubrité prévues aux articles L. 230-2 à L. 230-6. Ils déterminent notamment :
+protection et de salubrité prévues aux articles L. 230-1-1 à L. 230-6. Ils déterminent notamment :
 
 1° Les mesures générales de protection et de salubrité applicables à tous les établissements assujettis, notamment en ce qui
 concerne l'éclairage, l'aération ou la ventilation, les eaux potables, les fosses d'aisance, l'évacuation des poussières et
@@ -9557,14 +9656,22 @@ contrôleurs du travail assurent l'application des dispositions de l'article L23
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L230-1-1 à L230-6
+
+**Liens**:
+
+  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L610-3
+
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
 
 _Cité par_:
 
@@ -9575,14 +9682,6 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L230-7 (Ab)
   - Code du travail applicable à Mayotte. - art. R233-1 (M)
   - Code du travail applicable à Mayotte. - art. R238-6-22 (M)
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L230-2 à L230-6
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L610-3
 
 
 ###### Article L230-5
@@ -9778,9 +9877,9 @@ _Cité par_:
 ###### Article L230-9
 
 En l'absence de dispositions réglementaires, dans les établissements soumis au contrôle de l'inspection du travail ou des
-fonctionnaires de contrôle assimilés, le chef du service de l'inspection du travail à Mayotte, sur le rapport de l'inspecteur
-ou du contrôleur du travail, met en demeure les chefs d'établissement de réaliser toutes mesures utiles pour remédier aux
-infractions constatées aux dispositions des articles L. 230-2, L. 230-3 et L. 230-8.
+fonctionnaires de contrôle assimilés, le directeur du travail, de l'emploi et de la formation professionnelle à Mayotte, sur
+le rapport de l'inspecteur ou du contrôleur du travail, met en demeure les chefs d'établissement de réaliser toutes mesures
+utiles pour remédier aux infractions constatées aux dispositions des articles L. 230-2, L. 230-3 et L. 230-8.
 
 **Nota:**
 
@@ -9802,9 +9901,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
 
 _Cité par_:
 
@@ -9975,6 +10074,61 @@ _Codifié par_:
 _Créé par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+
+
+###### Article L230-15
+
+Les décrets en Conseil d'Etat prévus à l'article L. 230-4 déterminent les locaux et les dispositifs ou aménagements de toute
+nature dont doivent être dotés les bâtiments qu'ils désignent en vue d'améliorer les conditions d'hygiène et de sécurité des
+travailleurs appelés à exercer leur activité dans ces bâtiments pour leur construction ou leur entretien.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L230-4
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. L251-11 (T)
+
+
+###### Article L230-16
+
+Les maîtres d'ouvrage entreprenant la construction ou l'aménagement de bâtiments destinés à l'exercice des activités
+mentionnées à l'article L. 230-1 sont tenus de se conformer aux dispositions législatives et réglementaires prévues dans
+l'intérêt de l'hygiène et de la sécurité du travail.
+
+Les modalités d'application du présent article sont fixées par les décrets en Conseil d'Etat prévus à l'article L. 230-4.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L230-1, L230-4
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. L251-11 (T)
+  - Code du travail applicable à Mayotte. - art. R239-1 (M)
 
 
 ### TITRE IV : SURVEILLANCE MÉDICALE.<a id=86></a>
@@ -10315,9 +10469,9 @@ travail.
 A cet effet, la juridiction enjoint à l'entreprise de présenter, dans un délai qu'elle fixe, un plan de réalisation de ces
 mesures accompagné de l'avis motivé des représentants du personnel.
 
-Après avis du chef du service de l'inspection du travail, la juridiction adopte le plan présenté. A défaut de présentation ou
-d'adoption d'un tel plan, elle condamne l'entreprise à exécuter pendant une période qui ne saurait excéder cinq ans un plan
-de nature à faire disparaître les manquements visés ci-dessus.
+Après avis du directeur du travail, de l'emploi et de la formation professionnelle, la juridiction adopte le plan présenté. A
+défaut de présentation ou d'adoption d'un tel plan, elle condamne l'entreprise à exécuter pendant une période qui ne saurait
+excéder cinq ans un plan de nature à faire disparaître les manquements visés ci-dessus.
 
 Le contrôle de l'exécution des mesures prescrites est exercé par l'inspecteur du travail. S'il y a lieu, celui-ci saisit le
 juge des référés, qui peut ordonner la fermeture totale ou partielle de l'établissement pendant le temps nécessaire pour
@@ -10351,7 +10505,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
 
 _Cité par_:
 
@@ -10414,9 +10568,9 @@ _Cité par_:
 
 Nonobstant les dispositions de l'article L. 230-10, lorsqu'un risque sérieux d'atteinte à l'intégrité physique d'un
 travailleur résulte de l'inobservation des dispositions du titre III du présent livre ou des textes pris pour leur
-application, le chef du service de l'inspection du travail saisit le juge des référés [*autorité compétente*] pour voir
-ordonner toutes mesures propres à faire cesser ce risque, telles que la mise hors service, l'immobilisation, la saisie des
-matériels, machines, dispositifs, produits ou autres.
+application, le directeur du travail, de l'emploi et de la formation professionnelle saisit le juge des référés [*autorité
+compétente*] pour voir ordonner toutes mesures propres à faire cesser ce risque, telles que la mise hors service,
+l'immobilisation, la saisie des matériels, machines, dispositifs, produits ou autres.
 
 Le juge peut également ordonner la fermeture temporaire d'un atelier ou d'un chantier. Il peut assortir sa décision d'une
 astreinte qui sera liquidée au profit du Trésor.
@@ -10441,9 +10595,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
 
 _Cité par_:
 
@@ -10553,6 +10707,64 @@ _Codifié par_:
 _Créé par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+
+
+###### Article L251-10
+
+Les peines prévues par le premier alinéa de l'article L. 251-1 et, en cas de récidive, par le premier alinéa de l'article L.
+251-5 sont applicables aux travailleurs indépendants ainsi qu'aux employeurs, lorsqu'ils exercent eux-mêmes une activité sur
+un chantier de bâtiment ou de génie civil, qui n'ont pas mis en oeuvre les obligations qui leur incombent en application de
+l'article L. 230-1-1.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L251-1, L251-5, L230-1-1
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+
+_Anciens textes_:
+
+  - Code du travail applicable à Mayotte. - art. L251-11 (T)
+
+
+###### Article L251-11
+
+Le maître d'ouvrage qui a fait construire ou aménager un bâtiment en violation des obligations mises à sa charge en
+application des articles L. 230-15 ou L. 230-16 est puni des peines prévues aux articles L. 440-4 et L. 440-5 du code de
+l'urbanisme applicable dans la collectivité territoriale de Mayotte.
+
+En cas de condamnation, le tribunal statue soit sur la mise en conformité des lieux ou celle des bâtiments avec les
+dispositions législatives ou réglementaires, soit sur la démolition des bâtiments et le rétablissement des lieux dans leur
+état antérieur.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L230-15, L230-16
+  - Code de l'urbanisme L440-4, L440-5
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. L251-10 (VT)
 
 
 #### CHAPITRE II : Surveillance médicale.<a id=90></a>
@@ -11014,13 +11226,12 @@ _Cité par_:
 ###### Article L322-2
 
 Les contrats emploi-solidarité [*définition*] sont des contrats de travail de droit privé à durée déterminée et à temps
-partiel auxquels ne s'appliquent pas les restrictions prévues à l'article L. 122-2 [*absence de terme défini*].
+partiel passés en application de l'article L. 122-1-1 [*absence de terme défini*].
 
-Un arrêté du représentant du Gouvernement à Mayotte fixe la durée maximale de travail hebdomadaire ainsi que les durées
-minimale et maximale du contrat.
+Les contrats emploi-solidarité sont conclus pour une durée minimale de trois mois. Leur durée maximale est de douze mois.
+Elle peut être portée à vingt-quatre mois pour les personnes rencontrant des difficultés particulières d'emploi.
 
-Les contrats emploi-solidarité peuvent être renouvelés deux fois [*nombre*], dans la limite de la durée maximale du contrat
-fixée par l'arrêté prévu à l'alinéa précédent.
+Le nombre de renouvellements ne peut être supérieur à deux quelle que soit la durée totale du contrat.
 
 Par dérogation à l'article L. 122-5 et sous réserve de clauses contractuelles ou conventionnelles relatives aux bénéficiaires
 de contrats emploi-solidarité prévoyant une durée moindre, la période d'essai au titre de ces contrats est d'un mois.
@@ -11041,7 +11252,7 @@ y ait lieu à dommages et intérêts tels que prévus par l'article L. 122-10.
 
 _Cite_:
 
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-2, L122-5, L122-10
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-1-1, L122-5, L122-10
 
 _Codifié par_:
 
@@ -11050,7 +11261,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°94-638 du 25 juillet 1994 - art. 23 () JORF 27 juillet 1994
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
 
 _Cité par_:
 
@@ -11156,6 +11367,61 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R322-4 (Ab)
 
 
+###### Article L322-7
+
+L'Etat peut passer des conventions avec les employeurs mentionnés à l'article L. 322-1 pour favoriser l'embauche de personnes
+qui ne peuvent pas trouver un emploi ou bénéficier d'une formation à l'issue d'un contrat emploi-solidarité.
+
+La durée de ces conventions est de douze mois, renouvelables par voie d'avenant dans la limite d'une durée maximale de
+soixante mois.
+
+Le contrat de travail conclu en vertu de ces conventions est un contrat de travail de droit privé dénommé contrat emploi
+consolidé à durée indéterminée ou à durée déterminée passé en application de l'article L. 122-1-1. Lorsque ces contrats sont
+conclus pour une durée déterminée, leur durée initiale est de douze mois. Ils sont renouvelables chaque année par avenant
+dans la limite d'une durée totale de soixante mois.
+
+En application des conventions prévues au premier alinéa, l'Etat prend en charge tout ou partie de la rémunération versée aux
+personnes recrutées par un contrat emploi consolidé. Cette aide est versée à l'organisme employeur et ne donne lieu à aucune
+charge fiscale ou parafiscale. L'Etat peut également prendre en charge tout ou partie des frais engagés pour dispenser aux
+intéressés une formation complémentaire.
+
+Les aides prévues par le présent article ne peuvent être cumulées avec une autre aide de l'Etat à l'emploi.
+
+Les institutions représentatives du personnel mentionnées à l'article L. 322-1, lorsqu'elles existent, sont informées des
+conventions conclues.
+
+Les modalités d'application du présent article, et notamment la durée minimum hebdomadaire du travail, sont fixées par arrêté
+du représentant du Gouvernement à Mayotte.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L322-1, L122-1-1
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. D313-1 (Ab)
+  - Code du travail applicable à Mayotte. - art. D322-3 (T)
+  - Code du travail applicable à Mayotte. - art. L011-5 (VD)
+  - Code du travail applicable à Mayotte. - art. L322-21 (VD)
+  - Code du travail applicable à Mayotte. - art. L322-22 (VD)
+  - Code du travail applicable à Mayotte. - art. L322-23 (VD)
+  - Code du travail applicable à Mayotte. - art. L322-3 (VT)
+  - Code du travail applicable à Mayotte. - art. L324-7 (Ab)
+  - Code du travail applicable à Mayotte. - art. R324-1 (M)
+  - Code du travail applicable à Mayotte. - art. R325-9 (Ab)
+
+
 #### Chapitre III : Dispositions relatives aux contrats de retour à l'emploi<a id=98></a>
 
 ###### Article L323-1
@@ -11207,9 +11473,9 @@ _Cité par_:
 
 ###### Article L323-2
 
-Les contrats de retour à l'emploi sont des contrats de travail à durée indéterminée ou à durée déterminée, auxquels ne
-s'appliquent pas les restrictions prévues à l'article L. 122-1. Ils doivent avoir une durée d'au moins six mois. La durée du
-contrat à durée déterminée ne peut excéder vingt-quatre mois.
+Les contrats de retour à l'emploi sont des contrats de travail à durée indéterminée ou à durée déterminée passés en
+application de l'article L. 122-1-1. Ils doivent avoir une durée d'au moins six mois. La durée du contrat à durée déterminée
+ne peut excéder vingt-quatre mois.
 
 Ils sont passés par écrit et font l'objet d'un dépôt auprès de la direction du travail, de l'emploi et de la formation
 professionnelle.
@@ -11218,16 +11484,16 @@ professionnelle.
 
 _Cite_:
 
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-1
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-1-1
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-638 du 25 juillet 1994 - art. 24 () JORF 27 juillet 1994
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
 
 _Cité par_:
 
@@ -11412,10 +11678,14 @@ _Créé par_:
 
 ###### Article L325-1
 
-Ont droit à une aide de l'Etat les demandeurs d'emploi inscrits depuis six mois auprès de la direction du travail, de
-l'emploi et de la formation professionnelle qui créent ou reprennent une entreprise industrielle, commerciale, artisanale ou
-agricole, soit à titre individuel, soit sous la forme d'une société, à condition d'en exercer effectivement le contrôle, ou
-qui entreprennent l'exercice d'une autre profession non salariée.
+Ont droit à une aide de l'Etat les demandeurs d'emploi inscrits depuis plus de trois mois auprès de la direction du travail,
+de l'emploi et de la formation professionnelle qui créent ou reprennent une entreprise industrielle, commerciale, artisanale
+ou agricole, soit à titre individuel, soit sous la forme d'une société, à condition d'en exercer effectivement le contrôle,
+ou qui entreprennent l'exercice d'une autre profession non salariée.
+
+Pour l'obtention de l'aide prévue à l'alinéa précédent, les volontaires des armées ayant accompli leur temps de service comme
+stagiaire dans une unité du service militaire adapté sont réputés avoir satisfait aux conditions d'inscription prévues au
+même alinéa.
 
 Le montant de cette aide forfaitaire est fixé par décret. Elle est réputée accordée si un refus explicite n'intervient pas
 dans le mois qui suit la demande.
@@ -11432,9 +11702,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-638 du 25 juillet 1994 - art. 25 () JORF 27 juillet 1994
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
 
 _Cité par_:
 
@@ -12449,8 +12719,8 @@ _Créé par_:
 
 ###### Article L420-4
 
-Le chef du service de l'inspection du travail assiste [*membre*] de droit avec voix consultative aux séances de la commission
-[*consultative du travail*].
+Le directeur du travail, de l'emploi et de la formation professionnelle assiste [*membre*] de droit avec voix consultative
+aux séances de la commission [*consultative du travail*].
 
 **Liens relatifs à cet article**
 
@@ -12459,9 +12729,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
 
 
 ###### Article L420-5
@@ -12816,8 +13086,8 @@ durable du conflit, le représentant du Gouvernement à Mayotte [*autorité comp
 parties intéressées, soit de sa propre initiative, convoquer une commission de conciliation.
 
 Cette commission composée, par les soins du représentant du Gouvernement, de représentants des organisations patronales et
-des syndicats de salariés les plus représentatifs, en nombre égal, se réunit sous sa présidence ou sous celle du chef du
-service de l'inspection du travail.
+des syndicats de salariés les plus représentatifs, en nombre égal, se réunit sous sa présidence ou sous celle du directeur du
+travail, de l'emploi et de la formation professionnelle.
 
 **Liens relatifs à cet article**
 
@@ -12830,9 +13100,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
 
 _Cité par_:
 
@@ -13664,8 +13934,8 @@ prise en application de l'article 167 de la loi du 15 décembre 1952 susvisée p
 auprès du ministre chargé du travail.
 
 Avant l'expiration du délai prévu en application de l'article L. 230-10 ou de l'article L. 240-5 et au plus tard dans les
-quinze jours qui suivent la mise en demeure, le chef d'établissement peut saisir d'une réclamation le chef du service de
-l'inspection du travail à Mayotte.
+quinze jours qui suivent la mise en demeure, le chef d'établissement peut saisir d'une réclamation le directeur du travail,
+de l'emploi et de la formation professionnelle à Mayotte.
 
 Avant l'expiration du délai prévu en application de l'article L. 230-9 et au plus tard dans les quinze jours qui suivent la
 mise en demeure, le chef d'établissement peut saisir d'une réclamation le ministre chargé du travail.
@@ -13698,7 +13968,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance 98-522 1998-06-24 art. 30 4° JORF 27 juin 1998
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
 
 
 ###### Article L610-14
@@ -14063,15 +14333,462 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L711-4 (Ab)
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=130></a>
+## LIVRE VII : DE LA FORMATION PROFESSIONNELLE<a id=130></a>
 
-## LIVRE Ier : Conventions relatives au travail<a id=131></a>
+### CHAPITRE II : CONTRATS DE FORMATION EN ALTERNANCE<a id=131></a>
 
-### TITRE II : Contrat de travail<a id=132></a>
+#### Section 1 : Contrat de qualification<a id=132></a>
 
-#### CHAPITRE II : Règles propres au contrat de travail<a id=133></a>
+###### Article L711-5
 
-##### Section 1 : Règles générales.<a id=134></a>
+Les formations ayant pour objet l'acquisition d'une qualification professionnelle des personnes âgées de seize ans à moins de
+trente ans peuvent être dispensées dans le cadre d'un contrat de travail à durée déterminée mentionné à l'article L. 122-1-1,
+dénommé "contrat de qualification". Sa durée est comprise entre six mois et deux ans. Il est passé par écrit.
+
+L'employeur s'engage, pour la durée prévue, à fournir un emploi à l'intéressé et à assurer une formation qui lui permettra
+d'acquérir une qualification professionnelle sanctionnée par un diplôme de l'enseignement technologique ou professionnel, ou
+reconnue dans les classifications d'une convention collective ou d'un accord interprofessionnel, ou figurant sur une liste
+établie par un arrêté du représentant du Gouvernement à Mayotte, après consultation du comité de la formation
+professionnelle, de la promotion sociale et de l'emploi prévu à l'article 2 de la loi n° 88-1089 du 1er décembre 1988.
+
+Les enseignements généraux, professionnels et technologiques dispensés pendant la durée du contrat doivent être au minimum
+d'une durée égale à 33 % de la durée totale du contrat.
+
+Les dispositions du premier alinéa de l'article L. 122-12 ne s'appliquent pas au contrat de qualification.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-1-1, L122-12
+  - Loi n°88-1089 du 1 décembre 1988 - art. 2 (V)
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. D313-1 (Ab)
+  - Code du travail applicable à Mayotte. - art. D711-16 (VT)
+  - Code du travail applicable à Mayotte. - art. D711-2 (VT)
+  - Code du travail applicable à Mayotte. - art. D711-3 (Ab)
+  - Code du travail applicable à Mayotte. - art. D711-7 (Ab)
+  - Code du travail applicable à Mayotte. - art. D711-8 (VT)
+  - Code du travail applicable à Mayotte. - art. D712-16 (T)
+  - Code du travail applicable à Mayotte. - art. D712-2 (T)
+  - Code du travail applicable à Mayotte. - art. D712-7 (T)
+  - Code du travail applicable à Mayotte. - art. L325-2 (T)
+  - Code du travail applicable à Mayotte. - art. L711-1 (VT)
+  - Code du travail applicable à Mayotte. - art. R324-1 (M)
+  - Code du travail applicable à Mayotte. - art. R711-18 (Ab)
+  - Code du travail applicable à Mayotte. - art. R712-12 (T)
+  - Code du travail applicable à Mayotte. - art. R713-7 (VT)
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. L324-8 (VT)
+
+
+###### Article L711-6
+
+Seules les entreprises habilitées par l'autorité administrative compétente peuvent conclure des contrats de qualification.
+
+Cette habilitation est subordonnée soit à la conclusion par l'entreprise, après consultation des délégués du personnel, s'ils
+existent, d'une convention avec un établissement d'enseignement public ou un organisme de formation alternée public ou privé
+prévoyant les modalités d'organisation de la formation alternée, soit à l'adhésion de l'entreprise à un accord-cadre conclu
+entre l'Etat et une organisation professionnelle ou interprofessionnelle.
+
+Cet accord-cadre, conclu après consultation des organisations syndicales de salariés représentatives au sens de l'article L.
+412-3, définit les conditions dans lesquelles les entreprises qui y adhèrent et les établissements d'enseignement ou
+organismes de formation mentionnés à l'alinéa précédent participent à la mise en oeuvre d'un programme de formation alternée.
+Il détermine notamment le rôle des tuteurs chargés d'accueillir et de guider les salariés pendant leur temps de présence en
+entreprise.
+
+Un arrêté du représentant du Gouvernement à Mayotte détermine les garanties d'ordre technique et professionnel auxquelles est
+subordonnée l'habilitation.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L412-3
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+
+_Cité par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 12 (V)
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 9 (V)
+  - Code du travail applicable à Mayotte. - art. D711-2 (VT)
+  - Code du travail applicable à Mayotte. - art. D711-3 (Ab)
+  - Code du travail applicable à Mayotte. - art. D712-2 (T)
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. L324-9 (VT)
+
+
+#### Section 2 : Contrat d'orientation<a id=133></a>
+
+###### Article L711-7
+
+Les formations ayant pour objet de favoriser l'orientation professionnelle des jeunes de plus de seize ans et de moins de
+vingt-six ans rencontrant des difficultés d'accès à l'emploi sont dispensées dans le cadre d'un contrat de travail dénommé
+"contrat d'orientation". L'exécution de ce contrat ne peut conduire à remplacer des emplois permanents, temporaires ou
+saisonniers. Il est conclu après signature d'une convention entre l'entreprise et l'organisme réalisant les actions
+d'orientation professionnelle.
+
+Ce contrat est un contrat de travail à durée déterminée mentionné à l'article L. 122-1-1, d'une durée non renouvelable de
+neuf mois maximum, sauf dans les cas prévus au quatrième alinéa de l'article L. 711-10.
+
+Le contrat d'orientation peut être rompu avant l'échéance de son terme à l'initiative du salarié, lorsque cette rupture a
+pour objet de lui permettre d'occuper un autre emploi ou de suivre une formation conduisant à une qualification.
+
+La durée et les modalités des actions d'orientation professionnelle dispensées pendant le temps de travail ainsi que les
+missions du tuteur chargé d'accueillir et de guider le jeune dans l'entreprise et les moyens mis à sa disposition par
+l'employeur sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-1-1, L711-10
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. D313-1 (Ab)
+  - Code du travail applicable à Mayotte. - art. D711-16 (VT)
+  - Code du travail applicable à Mayotte. - art. D712-16 (T)
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. L324-10 (VT)
+
+
+#### Section 3 : Dispositions communes aux contrats de qualification et d'orientation<a id=134></a>
+
+###### Article L711-8
+
+Sous réserve de dispositions contractuelles plus favorables, les salariés titulaires des contrats mentionnés aux sections 1
+et 2 du présent chapitre perçoivent une rémunération déterminée en pourcentage du salaire minimum garanti. Ce pourcentage
+ainsi que les conditions de déduction des avantages en nature sont fixés par arrêté du représentant du Gouvernement à
+Mayotte. Ce pourcentage peut varier selon l'âge du bénéficiaire.
+
+Ces salariés ne peuvent effectuer d'heures supplémentaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+
+
+###### Article L711-9
+
+L'embauche d'un salarié dans le cadre des contrats mentionnés aux sections 1 et 2 du présent chapitre ouvre droit à
+l'exonération des cotisations à la charge de l'employeur dues au titre des assurances sociales, des accidents du travail et
+des allocations familiales.
+
+L'exonération porte sur les cotisations afférentes aux rémunérations dues jusqu'à la fin du contrat sous réserve du respect
+par l'employeur des obligations mises à sa charge par les sections 1 et 2 du présent chapitre. Un décret en Conseil d'Etat
+fixe les conditions dans lesquelles le bénéfice de l'exonération peut être retiré en cas de manquement à ces obligations.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R712-12 (T)
+
+
+###### Article L711-10
+
+Les salariés titulaires des contrats de travail mentionnés aux sections 1 et 2 du présent chapitre bénéficient de l'ensemble
+des dispositions du présent code applicables aux autres salariés dans la mesure où elles ne sont pas incompatibles avec leur
+situation de salariés en formation. En particulier, la durée du travail du salarié, incluant le temps passé en formation, ne
+peut excéder la durée légale hebdomadaire du travail dans l'entreprise ni la durée quotidienne du travail fixées par
+l'article L. 212-2. Ils bénéficient du repos hebdomadaire dans les conditions fixées par le chapitre Ier du titre II du livre
+II.
+
+Les titulaires desdits contrats ne sont pas pris en compte, pendant toute la durée du contrat, dans le calcul de l'effectif
+du personnel des entreprises dont ils relèvent pour l'application des dispositions législatives et réglementaires qui se
+réfèrent à une condition d'effectif minimum de salariés.
+
+Est nulle et de nul effet toute clause de remboursement par le salarié à l'employeur des dépenses de formation en cas de
+rupture du contrat de travail.
+
+Les contrats prévus par les sections 1 et 2 du présent chapitre peuvent être renouvelés une fois si les épreuves d'évaluation
+révèlent que leur objet n'a pu être atteint ou en cas de maladie du salarié, d'accident du travail ou de défaillance de
+l'organisme de formation.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L212-2
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. L711-7 (T)
+
+
+### CHAPITRE 1ER : DISPOSITIONS GENERALES<a id=135></a>
+
+###### Article L711-1
+
+La formation professionnelle continue des salariés et des personnes à la recherche d'un emploi est régie par les dispositions
+du présent livre. La collectivité territoriale de Mayotte, les communes, les établissements publics, les établissements
+d'enseignement publics et privés, les associations, les organisations syndicales d'employeurs et de salariés, les
+organisations familiales ainsi que les entreprises concourent à l'assurer.
+
+Le financement des actions de formation professionnelle continue, définies à l'article L. 711-2, est assuré par une
+contribution annuelle, versée à un fonds de la formation professionnelle continue, par tout employeur, sans préjudice des
+dépenses directes qu'il peut effectuer pour le compte de ses salariés. L'Etat et la collectivité territoriale de Mayotte
+peuvent participer au financement de ce fonds.
+
+Le taux de la contribution prévue à l'alinéa précédent est fixé à 1 % du montant des rémunérations brutes dans la limite d'un
+plafond.
+
+La contribution est contrôlée et recouvrée selon les modalités prévues pour la taxe d'apprentissage par le code des impôts
+applicable dans la collectivité territoriale de Mayotte.
+
+La gestion du fonds est assurée par un organisme paritaire créé par un accord professionnel de travail et agréé par arrêté du
+représentant du Gouvernement.
+
+Le plafond des rémunérations prises en compte pour l'assiette de la contribution et les modalités de contrôle de l'organisme
+gestionnaire du fonds sont précisés par arrêté du représentant du Gouvernement.
+
+Cet arrêté fixe également la part minimum des sommes collectées qui doivent être affectées aux actions de formation
+dispensées dans le cadre des contrats de formation en alternance mentionnées aux articles L. 711-5 à L. 711-7.
+
+Les organismes privés de formation intervenant dans la collectivité territoriale au titre des actions prévues à l'article L.
+711-2 font l'objet d'un agrément délivré par le représentant du Gouvernement. Il est tenu compte, pour la délivrance de
+l'agrément, des capacités financières de l'organisme, des moyens matériels et humains mis en oeuvre, de la régularité de la
+situation des candidats à l'agrément au regard de l'acquittement des cotisations sociales et des impositions de toute nature,
+ainsi que de la qualité de la formation dispensée.
+
+Les organismes existant à la date de promulgation de l'ordonnance n° 2000-285 du 30 mars 2000 portant actualisation et
+adaptation du droit du travail de l'outre-mer sont soumis aux mêmes obligations dans un délai de trois ans.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L711-2, L711-5 à L711-7
+  - Ordonnance 2000-285 2000-03-30
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. R541-4 (VD)
+  - Code du travail applicable à Mayotte. - art. D711-16 (VT)
+  - Code du travail applicable à Mayotte. - art. D711-4 (Ab)
+  - Code du travail applicable à Mayotte. - art. D712-16 (T)
+  - Code du travail applicable à Mayotte. - art. L322-27 (VT)
+  - Code du travail applicable à Mayotte. - art. L711-2 (VT)
+  - Code du travail applicable à Mayotte. - art. L711-3 (VT)
+  - Code du travail applicable à Mayotte. - art. L711-4 (Ab)
+  - Code du travail applicable à Mayotte. - art. L735-24 (VT)
+  - Code du travail applicable à Mayotte. - art. L741-1 (VT)
+  - Code du travail applicable à Mayotte. - art. R711-12 (Ab)
+  - Code du travail applicable à Mayotte. - art. R712-3 (VT)
+  - Code du travail applicable à Mayotte. - art. R712-4 (VT)
+  - Code du travail applicable à Mayotte. - art. R713-1 (VT)
+  - Code du travail applicable à Mayotte. - art. R713-12 (VT)
+  - Code rural et de la pêche maritime - art. D371-16 (Ab)
+  - Code rural et de la pêche maritime - art. D372-18 (Ab)
+
+
+###### Article L711-2
+
+Les actions de formation professionnelle continue prévues à l'article L. 711-1 concernent :
+
+1° La préformation et la préparation à la vie professionnelle des personnes sans qualification professionnelle ni contrat de
+travail ;
+
+2° L'adaptation des travailleurs titulaires d'un contrat de travail ;
+
+3° La promotion des travailleurs pour leur permettre d'acquérir une qualification plus élevée ;
+
+4° La préparation à un changement d'activité des travailleurs dont l'emploi est menacé ;
+
+5° L'accession à de nouvelles activités professionnelles pour les personnes à la recherche d'un emploi ;
+
+6° L'acquisition, l'entretien ou le perfectionnement des connaissances ;
+
+7° La réalisation d'un bilan de compétences professionnelles et personnelles pour définir un projet professionnel et, le cas
+échéant, de formation ;
+
+8° La lutte contre l'illettrisme.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Cité par_:
+
+  - Ordonnance n°96-1122 du 20 décembre 1996 - art. 20-7-1 (VD)
+  - Ordonnance n°2013-1208 du 24 décembre 2013 - art. 2
+  - Ordonnance n°2016-128 du 10 février 2016 - art. 42
+  - Décret n°2016-870 du 29 juin 2016 - art. 1
+  - Décret n°2016-870 du 29 juin 2016 - art. 2
+  - Code de l'action sociale et des familles - art. L549-1 (T)
+  - Code de la santé publique - art. L1513-1 (VT)
+  - Code de la santé publique - art. L1515-4 (V)
+  - Code du travail applicable à Mayotte. - art. L321-15 (VT)
+  - Code du travail applicable à Mayotte. - art. L322-52 (VT)
+  - Code du travail applicable à Mayotte. - art. L325-2 (T)
+  - Code du travail applicable à Mayotte. - art. L711-1 (VT)
+  - Code du travail applicable à Mayotte. - art. L711-1-1 (VT)
+  - Code du travail applicable à Mayotte. - art. L711-4-1 (Ab)
+  - Code du travail applicable à Mayotte. - art. L723-1 (VT)
+  - Code du travail applicable à Mayotte. - art. L731-2 (VT)
+  - Code du travail applicable à Mayotte. - art. L731-4 (VT)
+  - Code du travail applicable à Mayotte. - art. L731-5 (VT)
+  - Code du travail applicable à Mayotte. - art. L731-8 (VT)
+  - Code du travail applicable à Mayotte. - art. L732-11 (VT)
+  - Code du travail applicable à Mayotte. - art. L741-1 (VT)
+  - Code du travail applicable à Mayotte. - art. L742-6 (VT)
+  - Code du travail applicable à Mayotte. - art. L742-7 (VT)
+  - Code du travail applicable à Mayotte. - art. R324-1 (M)
+  - Code du travail applicable à Mayotte. - art. R712-3 (VT)
+  - Code du travail applicable à Mayotte. - art. R712-4 (VT)
+  - Code du travail applicable à Mayotte. - art. R721-1 (Ab)
+
+_Créé par_:
+
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+
+_Cite_:
+
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L711-1
+
+
+###### Article L711-3
+
+Les parties signataires de l'accord instituant l'organisme collecteur mentionné à l'article L. 711-1 définissent chaque année
+par avenant, agréé par arrêté du représentant du Gouvernement, la répartition des ressources du fonds entre :
+
+1° Les actions de formation professionnelle en cours d'emploi ;
+
+2° Les actions de formation en alternance ;
+
+3° Les actions d'insertion et de formation pour les demandeurs d'emploi.
+
+A défaut d'un tel avenant, cette répartition est fixée par un arrêté du représentant du Gouvernement à Mayotte.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L711-1
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+
+
+###### Article L711-4
+
+L'Etat exerce un contrôle administratif et financier sur l'ensemble des moyens financiers, techniques et pédagogiques mis en
+oeuvre pour la formation professionnelle continue. Ce contrôle porte sur les dépenses de formation exposées par les
+employeurs, les activités de l'organisme paritaire, des organismes de formation et les conditions d'exécution des actions de
+formation au financement desquelles participe l'Etat. Ces organismes sont tenus de présenter aux inspecteurs et contrôleurs
+du travail les documents nécessaires à ces contrôles. Les modalités d'application du présent article sont fixées par décret
+en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. L711-1-1 (VT)
+  - Code du travail applicable à Mayotte. - art. R712-1 (VT)
+  - Code du travail applicable à Mayotte. - art. R712-2 (VT)
+  - Code du travail applicable à Mayotte. - art. R712-5 (VT)
+  - Code du travail applicable à Mayotte. - art. R712-6 (VT)
+  - Code du travail applicable à Mayotte. - art. R712-7 (VT)
+  - Code du travail applicable à Mayotte. - art. R712-8 (VT)
+  - Code du travail applicable à Mayotte. - art. R713-11 (VT)
+
+
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=136></a>
+
+## LIVRE Ier : Conventions relatives au travail<a id=137></a>
+
+### TITRE II : Contrat de travail<a id=138></a>
+
+#### CHAPITRE II : Règles propres au contrat de travail<a id=139></a>
+
+##### Section 1 : Règles générales.<a id=140></a>
 
 ###### Article R122-1
 
@@ -14145,7 +14862,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-##### Section 2 : Service national.<a id=135></a>
+##### Section 2 : Service national.<a id=141></a>
 
 ###### Article R122-5
 
@@ -14188,7 +14905,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R151-6 (T)
 
 
-##### Section 3 : Repos des femmes en couches et des femmes allaitant leurs enfants.<a id=136></a>
+##### Section 3 : Repos des femmes en couches et des femmes allaitant leurs enfants.<a id=142></a>
 
 ###### Article R122-7
 
@@ -14289,9 +15006,9 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-##### Section 4 : Règlement intérieur, protection des salariés et droit disciplinaire<a id=137></a>
+##### Section 4 : Règlement intérieur, protection des salariés et droit disciplinaire<a id=143></a>
 
-##### Sous-section 1 : Règlement intérieur.<a id=138></a>
+##### Sous-section 1 : Règlement intérieur.<a id=144></a>
 
 ###### Article R122-11
 
@@ -14397,7 +15114,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-##### Sous-section 2 : Protection des salariés et droit disciplinaire.<a id=139></a>
+##### Sous-section 2 : Protection des salariés et droit disciplinaire.<a id=145></a>
 
 ###### Article R122-16
 
@@ -14470,7 +15187,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-#### CHAPITRE IV : Marchandage<a id=140></a>
+#### CHAPITRE IV : Marchandage<a id=146></a>
 
 ###### Article R124-1
 
@@ -14494,7 +15211,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R152-1 (Ab)
 
 
-#### CHAPITRE V : Cautionnements<a id=141></a>
+#### CHAPITRE V : Cautionnements<a id=147></a>
 
 ###### Article R125-1
 
@@ -14520,7 +15237,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R153-1 (Ab)
 
 
-#### CHAPITRE VI : Groupements d'employeurs<a id=142></a>
+#### CHAPITRE VI : Groupements d'employeurs<a id=148></a>
 
 ###### Article R126-1
 
@@ -14576,11 +15293,11 @@ _Cité par_:
 
 ###### Article R126-2
 
-L'agrément [*à la création du groupement d'employeurs*] prévu à l'article L. 126-2 est accordé par le représentant du
-Gouvernement après avis du chef du service de l'inspection du travail.
+L'agrément prévu à l'article L. 126-2 est accordé par le représentant du Gouvernement après avis du directeur du travail, de
+l'emploi et de la formation professionnelle.
 
 La demande d'agrément, datée et signée par la personne habilitée à cet effet par le groupement, est adressée par lettre
-recommandée avec demande d'avis de réception au chef du service de l'inspection du travail.
+recommandée avec demande d'avis de réception au directeur du travail, de l'emploi et de la formation professionnelle.
 
 **Liens relatifs à cet article**
 
@@ -14592,9 +15309,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
 
 
 ###### Article R126-3
@@ -14670,8 +15387,8 @@ _Créé par_:
 
 ###### Article R126-6
 
-Le représentant du Gouvernement peut, sur le rapport du chef du service de l'inspection du travail, mettre fin à tout moment
-à son agrément, par décision motivée :
+Le représentant du Gouvernement peut, sur le rapport du directeur du travail, de l'emploi et de la formation professionnelle,
+mettre fin à tout moment à son agrément, par décision motivée :
 
 1° Lorsque les dispositions législatives ou réglementaires relatives aux groupements d'employeurs ne sont pas respectées ;
 
@@ -14698,14 +15415,14 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
 
 
-### TITRE III : Conventions et accords collectifs de travail<a id=143></a>
+### TITRE III : Conventions et accords collectifs de travail<a id=149></a>
 
-#### CHAPITRE II : Nature et validité des conventions et accords collectifs de travail<a id=144></a>
+#### CHAPITRE II : Nature et validité des conventions et accords collectifs de travail<a id=150></a>
 
 ###### Article R132-1
 
@@ -14752,7 +15469,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-#### Chapitre 3 : Conventions et accords collectifs susceptibles d'être étendus et procédure d'extension et d'élargissement.<a id=145></a>
+#### Chapitre 3 : Conventions et accords collectifs susceptibles d'être étendus et procédure d'extension et d'élargissement.<a id=151></a>
 
 ###### Article R133-1
 
@@ -14800,7 +15517,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R155-3 (T)
 
 
-#### CHAPITRE V : Application des conventions et accords collectifs de travail<a id=146></a>
+#### CHAPITRE V : Application des conventions et accords collectifs de travail<a id=152></a>
 
 ###### Article R135-1
 
@@ -14837,9 +15554,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R155-1 (T)
 
 
-### TITRE IV : Salaire<a id=147></a>
+### TITRE IV : Salaire<a id=153></a>
 
-#### CHAPITRE PRELIMINAIRE : Egalité de rémunération entre les hommes et les femmes<a id=148></a>
+#### CHAPITRE PRELIMINAIRE : Egalité de rémunération entre les hommes et les femmes<a id=154></a>
 
 ###### Article R140-1
 
@@ -14868,7 +15585,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R156-1 (Ab)
 
 
-#### CHAPITRE Ier : Salaire minimum interprofessionnel garanti<a id=149></a>
+#### CHAPITRE Ier : Salaire minimum interprofessionnel garanti<a id=155></a>
 
 ###### Article R141-1
 
@@ -14950,7 +15667,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-#### CHAPITRE III : Paiement du salaire<a id=150></a>
+#### CHAPITRE III : Paiement du salaire<a id=156></a>
 
 ###### Article R143-1
 
@@ -15046,9 +15763,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R312-7 (Ab)
 
 
-#### CHAPITRE V : Saisie-arrêt et cession de rémunérations dues par un employeur<a id=151></a>
+#### CHAPITRE V : Saisie-arrêt et cession de rémunérations dues par un employeur<a id=157></a>
 
-##### Section 1 : Règles générales.<a id=152></a>
+##### Section 1 : Règles générales.<a id=158></a>
 
 ###### Article R145-1
 
@@ -15095,7 +15812,7 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. R612-2 (Ab)
 
 
-##### Section 2 : Procédure de cession et de saisie-arrêt.<a id=153></a>
+##### Section 2 : Procédure de cession et de saisie-arrêt.<a id=159></a>
 
 ###### Article R145-2
 
@@ -15640,7 +16357,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-#### CHAPITRE VI : Règles particulières au contrôle et à la répartition des pourboires<a id=154></a>
+#### CHAPITRE VI : Règles particulières au contrôle et à la répartition des pourboires<a id=160></a>
 
 ###### Article R146-1
 
@@ -15692,11 +16409,11 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R156-3 (Ab)
 
 
-### TITRE V : Pénalités<a id=155></a>
+### TITRE V : Pénalités<a id=161></a>
 
-#### CHAPITRE Ier : Contrat d'apprentissage et contrat de travail<a id=156></a>
+#### CHAPITRE Ier : Contrat d'apprentissage et contrat de travail<a id=162></a>
 
-##### Section 1 : Contrat d'apprentissage.<a id=157></a>
+##### Section 1 : Contrat d'apprentissage.<a id=163></a>
 
 ###### Article R151-1
 
@@ -15830,7 +16547,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. R161-4 (Ab)
 
 
-##### Section 2 : Contrat de travail.<a id=158></a>
+##### Section 2 : Contrat de travail.<a id=164></a>
 
 ###### Article R151-5
 
@@ -15963,7 +16680,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. R161-8 (Ab)
 
 
-#### CHAPITRE II : Marchandages<a id=159></a>
+#### CHAPITRE II : Marchandages<a id=165></a>
 
 ###### Article R152-1
 
@@ -15994,7 +16711,7 @@ _Modifié par_:
   - Décret n°93-726 1993-03-29 art. 1 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 
-#### CHAPITRE III : Cautionnements<a id=160></a>
+#### CHAPITRE III : Cautionnements<a id=166></a>
 
 ###### Article R153-1
 
@@ -16021,7 +16738,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-#### CHAPITRE IV : Groupements d'employeurs<a id=161></a>
+#### CHAPITRE IV : Groupements d'employeurs<a id=167></a>
 
 ###### Article R154-1
 
@@ -16055,7 +16772,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. R126-7 (Ab)
 
 
-#### CHAPITRE V : Conventions et accords collectifs de travail<a id=162></a>
+#### CHAPITRE V : Conventions et accords collectifs de travail<a id=168></a>
 
 ###### Article R155-1
 
@@ -16086,9 +16803,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. R162-1 (Ab)
 
 
-#### CHAPITRE VI : Salaire<a id=163></a>
+#### CHAPITRE VI : Salaire<a id=169></a>
 
-##### Section 1 : Egalité de rémunération entre les hommes et les femmes.<a id=164></a>
+##### Section 1 : Egalité de rémunération entre les hommes et les femmes.<a id=170></a>
 
 ###### Article R156-1
 
@@ -16131,7 +16848,7 @@ _Modifié par_:
   - Décret n°93-726 1993-03-29 art. 1 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 
-##### Section 2 : Salaire minimum garanti et rémunération mensuelle minimale garantie.<a id=165></a>
+##### Section 2 : Salaire minimum garanti et rémunération mensuelle minimale garantie.<a id=171></a>
 
 ###### Article R156-2
 
@@ -16174,7 +16891,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. R163-1 (Ab)
 
 
-##### Section 3 : Paiement du salaire.<a id=166></a>
+##### Section 3 : Paiement du salaire.<a id=172></a>
 
 ###### Article R156-3
 
@@ -16203,7 +16920,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-##### Section 4 : Retenues sur le salaire.<a id=167></a>
+##### Section 4 : Retenues sur le salaire.<a id=173></a>
 
 ###### Article R156-4
 
@@ -16238,11 +16955,11 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. R163-2 (Ab)
 
 
-## LIVRE II : Réglementation du travail<a id=168></a>
+## LIVRE II : Réglementation du travail<a id=174></a>
 
-### TITRE Ier : Conditions de travail<a id=169></a>
+### TITRE Ier : Conditions de travail<a id=175></a>
 
-#### CHAPITRE II : Durée du travail<a id=170></a>
+#### CHAPITRE II : Durée du travail<a id=176></a>
 
 ###### Article R212-1
 
@@ -16289,7 +17006,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-#### CHAPITRE III : Travail de nuit<a id=171></a>
+#### CHAPITRE III : Travail de nuit<a id=177></a>
 
 ###### Article R213-1
 
@@ -16339,9 +17056,9 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-### TITRE II : Repos et congés<a id=172></a>
+### TITRE II : Repos et congés<a id=178></a>
 
-#### CHAPITRE Ier : Repos hebdomadaire<a id=173></a>
+#### CHAPITRE Ier : Repos hebdomadaire<a id=179></a>
 
 ###### Article R221-1
 
@@ -16491,7 +17208,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-#### CHAPITRE II : Jours fériés<a id=174></a>
+#### CHAPITRE II : Jours fériés<a id=180></a>
 
 ###### Article R222-1
 
@@ -16514,7 +17231,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-#### CHAPITRE III : Congés annuels<a id=175></a>
+#### CHAPITRE III : Congés annuels<a id=181></a>
 
 ###### Article R223-1
 
@@ -16536,9 +17253,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D223-1 (Ab)
 
 
-### TITRE V : Pénalités<a id=176></a>
+### TITRE V : Pénalités<a id=182></a>
 
-#### Chapitre préliminaire.<a id=177></a>
+#### Chapitre préliminaire.<a id=183></a>
 
 ###### Article R250-1
 
@@ -16594,7 +17311,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-#### Chapitre 1er : Hygiène et sécurité.<a id=178></a>
+#### Chapitre 1er : Hygiène et sécurité.<a id=184></a>
 
 ###### Article R251-1
 
@@ -16626,9 +17343,9 @@ _Modifié par_:
   - Décret n°93-726 1993-03-29 art. 1 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 
-#### Chapitre 3 : Conditions du travail<a id=179></a>
+#### Chapitre 3 : Conditions du travail<a id=185></a>
 
-##### Section 1 : Age d'admission.<a id=180></a>
+##### Section 1 : Age d'admission.<a id=186></a>
 
 ###### Article R253-1
 
@@ -16660,9 +17377,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R250-2 (Ab)
 
 
-##### Section 2 : Durée du travail<a id=181></a>
+##### Section 2 : Durée du travail<a id=187></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=182></a>
+##### Paragraphe 1 : Dispositions générales<a id=188></a>
 
 ###### Article R253-2
 
@@ -16690,7 +17407,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-##### Paragraphe 2 : Heures supplémentaires<a id=183></a>
+##### Paragraphe 2 : Heures supplémentaires<a id=189></a>
 
 ###### Article R253-3
 
@@ -16717,7 +17434,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-##### Paragraphe 3 : Dispositions relatives aux jeunes travailleurs<a id=184></a>
+##### Paragraphe 3 : Dispositions relatives aux jeunes travailleurs<a id=190></a>
 
 ###### Article R253-4
 
@@ -16771,7 +17488,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-##### Section 3 : Travail de nuit.<a id=185></a>
+##### Section 3 : Travail de nuit.<a id=191></a>
 
 ###### Article R253-6
 
@@ -16822,9 +17539,9 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-#### Chapitre 4 : Repos et congés<a id=186></a>
+#### Chapitre 4 : Repos et congés<a id=192></a>
 
-##### Section 1 : Repos hebdomadaire.<a id=187></a>
+##### Section 1 : Repos hebdomadaire.<a id=193></a>
 
 ###### Article R254-1
 
@@ -16879,9 +17596,9 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-##### Section 2 : Jours fériés<a id=188></a>
+##### Section 2 : Jours fériés<a id=194></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=189></a>
+##### Paragraphe 1 : Dispositions générales<a id=195></a>
 
 ###### Article R254-3
 
@@ -16936,7 +17653,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-##### Paragraphe 2 : Dispositions particulières à la journée du 1er mai.<a id=190></a>
+##### Paragraphe 2 : Dispositions particulières à la journée du 1er mai.<a id=196></a>
 
 ###### Article R254-5
 
@@ -16964,7 +17681,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-##### Section 3 : Congés annuels.<a id=191></a>
+##### Section 3 : Congés annuels.<a id=197></a>
 
 ###### Article R254-6
 
@@ -16996,19 +17713,19 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R250-2 (Ab)
 
 
-## LIVRE III : Emploi<a id=192></a>
+## LIVRE III : Emploi<a id=198></a>
 
-### TITRE Ier : Déclaration des mouvements de main-d'oeuvre - Travail clandestin<a id=193></a>
+### TITRE Ier : Déclaration des mouvements de main-d'oeuvre - Travail clandestin<a id=199></a>
 
-#### Chapitre 1er : Déclaration des mouvements de main-d'oeuvre.<a id=194></a>
+#### Chapitre 1er : Déclaration des mouvements de main-d'oeuvre.<a id=200></a>
 
 ###### Article R311-1
 
-Les employeurs des établissements mentionnés à l'article L. 311-1 sont tenus [*obligation*] d'adresser, dans les huit
-premiers jours de chaque mois [*délai*], au chef du service de l'inspection du travail, le relevé des contrats de travail
+Les employeurs des établissements mentionnés à l'article L. 311-1 sont tenus d'adresser, dans les huit premiers jours de
+chaque mois, au directeur du travail, de l'emploi et de la formation professionnelle, le relevé des contrats de travail
 conclus ou résiliés au cours du mois précédent.
 
-Ce relevé doit contenir les mentions [*obligatoires*] suivantes :
+Ce relevé doit contenir les mentions suivantes :
 
 1° Nom et adresse de l'employeur ;
 
@@ -17029,9 +17746,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
 
 _Nouveaux textes_:
 
@@ -17043,7 +17760,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R342-2 (Ab)
 
 
-#### Chapitre 2 : Travail clandestin.<a id=195></a>
+#### Chapitre 2 : Travail clandestin.<a id=201></a>
 
 ###### Article R312-1
 
@@ -17067,9 +17784,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R341-1 (Ab)
 
 
-### Titre 2 : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité territoriale<a id=196></a>
+### Titre 2 : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité territoriale<a id=202></a>
 
-#### Chapitre 1er : Généralités.<a id=197></a>
+#### Chapitre 1er : Généralités.<a id=203></a>
 
 ###### Article R321-1
 
@@ -17205,7 +17922,7 @@ _Modifié par_:
   - Décret n°95-1163 du 6 novembre 1995 - art. 1 () JORF 8 novembre 1995
 
 
-#### Chapitre 3 : Dispositions relatives au contrat de retour à l'emploi<a id=198></a>
+#### Chapitre 3 : Dispositions relatives au contrat de retour à l'emploi<a id=204></a>
 
 ###### Article R323-1
 
@@ -17385,7 +18102,7 @@ _Créé par_:
   - Décret n°95-1163 du 6 novembre 1995 - art. 2 () JORF 8 novembre 1995
 
 
-#### Chapitre 5 : Dispositions relatives à l'aide à la création d'entreprise à l'initiative de demandeurs d'emploi<a id=199></a>
+#### Chapitre 5 : Dispositions relatives à l'aide à la création d'entreprise à l'initiative de demandeurs d'emploi<a id=205></a>
 
 ###### Article R325-1
 
@@ -17684,7 +18401,7 @@ _Créé par_:
   - Décret n°95-1163 du 6 novembre 1995 - art. 3 () JORF 8 novembre 1995
 
 
-### TITRE III : Main-d'oeuvre étrangère<a id=200></a>
+### TITRE III : Main-d'oeuvre étrangère<a id=206></a>
 
 ###### Article R330-1
 
@@ -17947,9 +18664,9 @@ _Anciens textes_:
   - Code du travail applicable à Mayotte. - art. R330-7 (T)
 
 
-### TITRE IV : Pénalités<a id=201></a>
+### TITRE IV : Pénalités<a id=207></a>
 
-#### CHAPITRE Ier : Travail clandestin<a id=202></a>
+#### CHAPITRE Ier : Travail clandestin<a id=208></a>
 
 ###### Article R341-1
 
@@ -17978,7 +18695,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-#### CHAPITRE II : Déclaration des mouvements de main-d'oeuvre<a id=203></a>
+#### CHAPITRE II : Déclaration des mouvements de main-d'oeuvre<a id=209></a>
 
 ###### Article R342-1
 
@@ -18006,11 +18723,11 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-## LIVRE IV : Les groupements professionnels - La représentation des salariés<a id=204></a>
+## LIVRE IV : Les groupements professionnels - La représentation des salariés<a id=210></a>
 
-### TITRE Ier : Les syndicats professionnels<a id=205></a>
+### TITRE Ier : Les syndicats professionnels<a id=211></a>
 
-#### CHAPITRE Ier : Statut juridique des syndicats<a id=206></a>
+#### CHAPITRE Ier : Statut juridique des syndicats<a id=212></a>
 
 ###### Article R411-1
 
@@ -18038,7 +18755,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R451-1 (V)
 
 
-#### CHAPITRE II : Droit syndical et représentativité des syndicats<a id=207></a>
+#### CHAPITRE II : Droit syndical et représentativité des syndicats<a id=213></a>
 
 ###### Article R412-1
 
@@ -18062,7 +18779,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-### Titre 3 : Pénalités.<a id=208></a>
+### Titre 3 : Pénalités.<a id=214></a>
 
 ###### Article R430-1
 
@@ -18088,11 +18805,11 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-## LIVRE V : Conflits du travail<a id=209></a>
+## LIVRE V : Conflits du travail<a id=215></a>
 
-### TITRE Ier : Conflits collectifs<a id=210></a>
+### TITRE Ier : Conflits collectifs<a id=216></a>
 
-#### CHAPITRE III : Conciliation<a id=211></a>
+#### CHAPITRE III : Conciliation<a id=217></a>
 
 ###### Article R513-1
 
@@ -18110,18 +18827,18 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-##### Section 1 : Composition des commissions de conciliation.<a id=212></a>
+##### Section 1 : Composition des commissions de conciliation.<a id=218></a>
 
 ###### Article R513-2
 
-Les membres des commissions de conciliation sont nommés pour trois ans [*durée*].
+Les membres des commissions de conciliation sont nommés pour trois ans.
 
 Les représentants des employeurs et ceux des salariés sont nommés sur proposition des organisations syndicales d'employeurs
 et de salariés les plus représentatives à Mayotte. Ces organisations soumettent à cet effet des listes comportant des noms en
 nombre double de celui des postes à pourvoir.
 
-Avant de procéder aux nominations, le représentant du Gouvernement prend l'avis du chef du service de l'inspection du
-travail.
+Avant de procéder aux nominations, le représentant du Gouvernement prend l'avis du directeur du travail, de l'emploi et de la
+formation professionnelle.
 
 Des membres suppléants, en nombre double de celui des membres titulaires, sont désignés dans les mêmes conditions que ces
 derniers. Ils ne peuvent siéger qu'en l'absence des titulaires.
@@ -18136,9 +18853,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
 
 
 ###### Article R513-3
@@ -18156,7 +18873,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-##### Section 2 : Fonctionnement des commissions de conciliation.<a id=213></a>
+##### Section 2 : Fonctionnement des commissions de conciliation.<a id=219></a>
 
 ###### Article R513-4
 
@@ -18313,7 +19030,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-#### CHAPITRE IV : Médiation<a id=214></a>
+#### CHAPITRE IV : Médiation<a id=220></a>
 
 ###### Article R514-1
 
@@ -18344,7 +19061,8 @@ _Créé par_:
 
 Lorsqu'il engage la procédure à son initiative ou lorsque les parties ne lui proposent pas une personnalité choisie d'un
 commun accord, le représentant du Gouvernement désigne un médiateur choisi en fonction de son autorité morale et de sa
-compétence dans le domaine économique et social, après avis du chef du service de l'inspection du travail.
+compétence dans le domaine économique et social, après avis du directeur du travail, de l'emploi et de la formation
+professionnelle.
 
 **Liens relatifs à cet article**
 
@@ -18352,9 +19070,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
 
 
 ###### Article R514-3
@@ -18437,7 +19155,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-#### CHAPITRE V : Arbitrage<a id=215></a>
+#### CHAPITRE V : Arbitrage<a id=221></a>
 
 ###### Article R515-1
 
@@ -18476,7 +19194,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-### TITRE II : Pénalités<a id=216></a>
+### TITRE II : Pénalités<a id=222></a>
 
 ###### Article R520-1
 
@@ -18500,9 +19218,9 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-## LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=217></a>
+## LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=223></a>
 
-### TITRE Ier : Services de contrôle<a id=218></a>
+### TITRE Ier : Services de contrôle<a id=224></a>
 
 ###### Article R610-1
 
@@ -18561,7 +19279,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-### TITRE II : Obligations des employeurs<a id=219></a>
+### TITRE II : Obligations des employeurs<a id=225></a>
 
 ###### Article R620-1
 
@@ -18684,9 +19402,9 @@ _Créé par_:
 Les chefs des établissements agricoles doivent indiquer, à la demande de l'inspecteur du travail, le lieu de travail de
 chacun de leurs salariés.
 
-Ils doivent, en outre, dans les huit jours [*délai*] de l'ouverture de tout chantier comptant plus de deux salariés et devant
-durer au moins un mois, en aviser par écrit le chef du service de l'inspection du travail, en précisant sa situation exacte,
-le nombre des salariés et la durée prévisible des travaux.
+Ils doivent, en outre, dans les huit jours de l'ouverture de tout chantier comptant plus de deux salariés et devant durer au
+moins un mois, en aviser par écrit le directeur du travail, de l'emploi et de la formation professionnelle, en précisant sa
+situation exacte, le nombre des salariés et la durée prévisible des travaux.
 
 **Liens relatifs à cet article**
 
@@ -18694,14 +19412,14 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
 
 
-### TITRE III : Pénalités<a id=220></a>
+### TITRE III : Pénalités<a id=226></a>
 
-#### CHAPITRE Ier : Service de contrôle<a id=221></a>
+#### CHAPITRE Ier : Service de contrôle<a id=227></a>
 
 ###### Article R631-1
 
@@ -18729,7 +19447,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-#### CHAPITRE II : Obligations des employeurs<a id=222></a>
+#### CHAPITRE II : Obligations des employeurs<a id=228></a>
 
 ###### Article R632-1
 
@@ -18780,15 +19498,15 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-# Partie réglementaire  - Décrets simples<a id=223></a>
+# Partie réglementaire  - Décrets simples<a id=229></a>
 
-## Livre 1er : Conventions relatives au travail<a id=224></a>
+## Livre 1er : Conventions relatives au travail<a id=230></a>
 
-### Titre 4 : Salaire<a id=225></a>
+### Titre 4 : Salaire<a id=231></a>
 
-#### Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG*<a id=226></a>
+#### Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG*<a id=232></a>
 
-##### Section 1 : Dispositions générales<a id=227></a>
+##### Section 1 : Dispositions générales<a id=233></a>
 
 ###### Article D141-1
 
@@ -18835,7 +19553,7 @@ _Créé par_:
   - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
 
 
-##### Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement<a id=228></a>
+##### Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement<a id=234></a>
 
 ###### Article D141-3
 
@@ -18968,11 +19686,11 @@ _Créé par_:
   - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
 
 
-## Livre 2 : Réglementation du travail<a id=229></a>
+## Livre 2 : Réglementation du travail<a id=235></a>
 
-### Titre 1er : Conditions de travail<a id=230></a>
+### Titre 1er : Conditions de travail<a id=236></a>
 
-#### Chapitre 1er : Age d'admission<a id=231></a>
+#### Chapitre 1er : Age d'admission<a id=237></a>
 
 ###### Article D211-1
 
@@ -19057,9 +19775,9 @@ _Créé par_:
   - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
 
 
-#### Chapitre 2 : Durée du travail<a id=232></a>
+#### Chapitre 2 : Durée du travail<a id=238></a>
 
-##### Section 1 : Récupération des heures perdues<a id=233></a>
+##### Section 1 : Récupération des heures perdues<a id=239></a>
 
 ###### Article D212-1
 
@@ -19159,7 +19877,7 @@ _Nouveaux textes_:
 ###### Article D212-5
 
 Les décisions visées aux alinéas 2 et 3 de l'article D. 212-3 et à l'article D. 212-4 sont prises par arrêté du représentant
-du Gouvernement à Mayotte, sur rapport du chef du service de l'inspection du travail.
+du Gouvernement à Mayotte, sur rapport du directeur du travail, de l'emploi et de la formation professionnelle.
 
 La commission consultative du travail est préalablement consultée dans les cas visés au troisième alinéa de l'article D.
 212-3 et à l'article D. 212-4.
@@ -19176,7 +19894,7 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
 
 _Anciens textes_:
 
@@ -19187,9 +19905,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D212-8 (Ab)
 
 
-### Titre 2 : Repos et congés<a id=234></a>
+### Titre 2 : Repos et congés<a id=240></a>
 
-#### Chapitre 3 : Congés annuels<a id=235></a>
+#### Chapitre 3 : Congés annuels<a id=241></a>
 
 ###### Article D223-1
 
@@ -19293,13 +20011,13 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D223-5 (V)
 
 
-## Livre 3 : Emploi<a id=236></a>
+## Livre 3 : Emploi<a id=242></a>
 
-### Titre 1er : Déclarations de mouvements de main d'oeuvre<a id=237></a>
+### Titre 1er : Déclarations de mouvements de main d'oeuvre<a id=243></a>
 
-#### Travail clandestin<a id=238></a>
+#### Travail clandestin<a id=244></a>
 
-##### Chapitre 2 : Travail clandestin<a id=239></a>
+##### Chapitre 2 : Travail clandestin<a id=245></a>
 
 ###### Article D312-1
 
@@ -19331,11 +20049,11 @@ _Créé par_:
   - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
 
 
-## Livre 5 : Conflits du travail<a id=240></a>
+## Livre 5 : Conflits du travail<a id=246></a>
 
-### Titre 1er : Conflits collectifs<a id=241></a>
+### Titre 1er : Conflits collectifs<a id=247></a>
 
-#### Chapitre 4 : Médiation<a id=242></a>
+#### Chapitre 4 : Médiation<a id=248></a>
 
 ###### Article D514-1
 
