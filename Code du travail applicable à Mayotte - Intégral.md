@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 1994-07-27
+Version Consolidée au 1995-11-08
 ## Contenu: 
   - [Partie législative (art. L000-1 à L630-2)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L000-1 à L000-2)](#2)
@@ -196,51 +196,53 @@ Version Consolidée au 1994-07-27
       - [TITRE Ier : Déclaration des mouvements de main-d'oeuvre - Travail clandestin (art. R311-1 à R312-1)](#193)
         - [Chapitre 1er : Déclaration des mouvements de main-d'oeuvre. (art. R311-1)](#194)
         - [Chapitre 2 : Travail clandestin. (art. R312-1)](#195)
-      - [Titre 2 : Aides à l'emploi - Intervention du fonds national de l'emploi (art. R321-1 à R321-6)](#196)
+      - [Titre 2 : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité territoriale (art. R321-1 à R325-9)](#196)
         - [Chapitre 1er : Généralités. (art. R321-1 à R321-6)](#197)
-      - [TITRE III : Main-d'oeuvre étrangère (art. R330-1 à R330-5)](#198)
-      - [TITRE IV : Pénalités (art. R341-1 à R342-1)](#199)
-        - [CHAPITRE Ier : Travail clandestin (art. R341-1)](#200)
-        - [CHAPITRE II : Déclaration des mouvements de main-d'oeuvre (art. R342-1)](#201)
-    - [LIVRE IV : Les groupements professionnels - La représentation des salariés (art. R411-1 à R430-1)](#202)
-      - [TITRE Ier : Les syndicats professionnels (art. R411-1 à R412-1)](#203)
-        - [CHAPITRE Ier : Statut juridique des syndicats (art. R411-1)](#204)
-        - [CHAPITRE II : Droit syndical et représentativité des syndicats (art. R412-1)](#205)
-      - [Titre 3 : Pénalités. (art. R430-1)](#206)
-    - [LIVRE V : Conflits du travail (art. R513-1 à R520-1)](#207)
-      - [TITRE Ier : Conflits collectifs (art. R513-1 à R515-2)](#208)
-        - [CHAPITRE III : Conciliation (art. R513-1 à R513-10)](#209)
-          - [Section 1 : Composition des commissions de conciliation. (art. R513-2 à R513-3)](#210)
-          - [Section 2 : Fonctionnement des commissions de conciliation. (art. R513-4 à R513-10)](#211)
-        - [CHAPITRE IV : Médiation (art. R514-1 à R514-6)](#212)
-        - [CHAPITRE V : Arbitrage (art. R515-1 à R515-2)](#213)
-      - [TITRE II : Pénalités (art. R520-1)](#214)
-    - [LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail (art. R610-1 à R632-2)](#215)
-      - [TITRE Ier : Services de contrôle (art. R610-1 à R610-3)](#216)
-      - [TITRE II : Obligations des employeurs (art. R620-1 à R620-5)](#217)
-      - [TITRE III : Pénalités (art. R631-1 à R632-2)](#218)
-        - [CHAPITRE Ier : Service de contrôle (art. R631-1)](#219)
-        - [CHAPITRE II : Obligations des employeurs (art. R632-1 à R632-2)](#220)
-  - [Partie réglementaire  - Décrets simples (art. D141-1 à D514-4)](#221)
-    - [Livre 1er : Conventions relatives au travail (art. D141-1 à D141-7)](#222)
-      - [Titre 4 : Salaire (art. D141-1 à D141-7)](#223)
-        - [Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG* (art. D141-1 à D141-7)](#224)
-          - [Section 1 : Dispositions générales (art. D141-1 à D141-2)](#225)
-          - [Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement (art. D141-3 à D141-7)](#226)
-    - [Livre 2 : Réglementation du travail (art. D211-1 à D223-4)](#227)
-      - [Titre 1er : Conditions de travail (art. D211-1 à D212-5)](#228)
-        - [Chapitre 1er : Age d'admission (art. D211-1 à D211-4)](#229)
-        - [Chapitre 2 : Durée du travail (art. D212-1 à D212-5)](#230)
-          - [Section 1 : Récupération des heures perdues (art. D212-1 à D212-5)](#231)
-      - [Titre 2 : Repos et congés (art. D223-1 à D223-4)](#232)
-        - [Chapitre 3 : Congés annuels (art. D223-1 à D223-4)](#233)
-    - [Livre 3 : Emploi (art. D312-1)](#234)
-      - [Titre 1er : Déclarations de mouvements de main d'oeuvre (art. D312-1)](#235)
-        - [Travail clandestin (art. D312-1)](#236)
-          - [Chapitre 2 : Travail clandestin (art. D312-1)](#237)
-    - [Livre 5 : Conflits du travail (art. D514-1 à D514-4)](#238)
-      - [Titre 1er : Conflits collectifs (art. D514-1 à D514-4)](#239)
-        - [Chapitre 4 : Médiation (art. D514-1 à D514-4)](#240)
+        - [Chapitre 3 : Dispositions relatives au contrat de retour à l'emploi (art. R323-1 à R323-7)](#198)
+        - [Chapitre 5 : Dispositions relatives à l'aide à la création d'entreprise à l'initiative de demandeurs d'emploi (art. R325-1 à R325-9)](#199)
+      - [TITRE III : Main-d'oeuvre étrangère (art. R330-1 à R330-5)](#200)
+      - [TITRE IV : Pénalités (art. R341-1 à R342-1)](#201)
+        - [CHAPITRE Ier : Travail clandestin (art. R341-1)](#202)
+        - [CHAPITRE II : Déclaration des mouvements de main-d'oeuvre (art. R342-1)](#203)
+    - [LIVRE IV : Les groupements professionnels - La représentation des salariés (art. R411-1 à R430-1)](#204)
+      - [TITRE Ier : Les syndicats professionnels (art. R411-1 à R412-1)](#205)
+        - [CHAPITRE Ier : Statut juridique des syndicats (art. R411-1)](#206)
+        - [CHAPITRE II : Droit syndical et représentativité des syndicats (art. R412-1)](#207)
+      - [Titre 3 : Pénalités. (art. R430-1)](#208)
+    - [LIVRE V : Conflits du travail (art. R513-1 à R520-1)](#209)
+      - [TITRE Ier : Conflits collectifs (art. R513-1 à R515-2)](#210)
+        - [CHAPITRE III : Conciliation (art. R513-1 à R513-10)](#211)
+          - [Section 1 : Composition des commissions de conciliation. (art. R513-2 à R513-3)](#212)
+          - [Section 2 : Fonctionnement des commissions de conciliation. (art. R513-4 à R513-10)](#213)
+        - [CHAPITRE IV : Médiation (art. R514-1 à R514-6)](#214)
+        - [CHAPITRE V : Arbitrage (art. R515-1 à R515-2)](#215)
+      - [TITRE II : Pénalités (art. R520-1)](#216)
+    - [LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail (art. R610-1 à R632-2)](#217)
+      - [TITRE Ier : Services de contrôle (art. R610-1 à R610-3)](#218)
+      - [TITRE II : Obligations des employeurs (art. R620-1 à R620-5)](#219)
+      - [TITRE III : Pénalités (art. R631-1 à R632-2)](#220)
+        - [CHAPITRE Ier : Service de contrôle (art. R631-1)](#221)
+        - [CHAPITRE II : Obligations des employeurs (art. R632-1 à R632-2)](#222)
+  - [Partie réglementaire  - Décrets simples (art. D141-1 à D514-4)](#223)
+    - [Livre 1er : Conventions relatives au travail (art. D141-1 à D141-7)](#224)
+      - [Titre 4 : Salaire (art. D141-1 à D141-7)](#225)
+        - [Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG* (art. D141-1 à D141-7)](#226)
+          - [Section 1 : Dispositions générales (art. D141-1 à D141-2)](#227)
+          - [Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement (art. D141-3 à D141-7)](#228)
+    - [Livre 2 : Réglementation du travail (art. D211-1 à D223-4)](#229)
+      - [Titre 1er : Conditions de travail (art. D211-1 à D212-5)](#230)
+        - [Chapitre 1er : Age d'admission (art. D211-1 à D211-4)](#231)
+        - [Chapitre 2 : Durée du travail (art. D212-1 à D212-5)](#232)
+          - [Section 1 : Récupération des heures perdues (art. D212-1 à D212-5)](#233)
+      - [Titre 2 : Repos et congés (art. D223-1 à D223-4)](#234)
+        - [Chapitre 3 : Congés annuels (art. D223-1 à D223-4)](#235)
+    - [Livre 3 : Emploi (art. D312-1)](#236)
+      - [Titre 1er : Déclarations de mouvements de main d'oeuvre (art. D312-1)](#237)
+        - [Travail clandestin (art. D312-1)](#238)
+          - [Chapitre 2 : Travail clandestin (art. D312-1)](#239)
+    - [Livre 5 : Conflits du travail (art. D514-1 à D514-4)](#240)
+      - [Titre 1er : Conflits collectifs (art. D514-1 à D514-4)](#241)
+        - [Chapitre 4 : Médiation (art. D514-1 à D514-4)](#242)
 # Partie législative<a id=1></a>
 
 ## LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES.<a id=2></a>
@@ -17041,7 +17043,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R341-1 (V)
 
 
-### Titre 2 : Aides à l'emploi - Intervention du fonds national de l'emploi<a id=196></a>
+### Titre 2 : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité territoriale<a id=196></a>
 
 #### Chapitre 1er : Généralités.<a id=197></a>
 
@@ -17062,9 +17064,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Décret n°95-1163 du 6 novembre 1995 - art. 1 () JORF 8 novembre 1995
 
 _Cité par_:
 
@@ -17087,9 +17089,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Décret n°95-1163 du 6 novembre 1995 - art. 1 () JORF 8 novembre 1995
 
 
 ###### Article R321-3
@@ -17103,9 +17105,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Décret n°95-1163 du 6 novembre 1995 - art. 1 () JORF 8 novembre 1995
 
 
 ###### Article R321-4
@@ -17132,9 +17134,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Décret n°95-1163 du 6 novembre 1995 - art. 1 () JORF 8 novembre 1995
 
 
 ###### Article R321-5
@@ -17151,9 +17153,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Décret n°95-1163 du 6 novembre 1995 - art. 1 () JORF 8 novembre 1995
 
 
 ###### Article R321-6
@@ -17174,12 +17176,491 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
+_Modifié par_:
+
+  - Décret n°95-1163 du 6 novembre 1995 - art. 1 () JORF 8 novembre 1995
+
+
+#### Chapitre 3 : Dispositions relatives au contrat de retour à l'emploi<a id=198></a>
+
+###### Article R323-1
+
+Peuvent bénéficier de contrats de retour à l'emploi, en application de l'article L. 323-1 :
+
+1° Les personnes qui ont été inscrites comme demandeurs d'emploi pendant au moins douze mois durant les dix-huit mois qui ont
+précédé la date d'embauche ;
+
+2° Les personnes âgées de plus de cinquante ans privées d'emploi depuis plus de trois mois ;
+
+3° A titre exceptionnel, des personnes ne remplissant pas les conditions prévues aux 1° et 2° ci-dessus et rencontrant des
+difficultés particulières d'accès à l'emploi.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L323-1
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
 _Créé par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Décret n°95-1163 du 6 novembre 1995 - art. 2 () JORF 8 novembre 1995
 
 
-### TITRE III : Main-d'oeuvre étrangère<a id=198></a>
+###### Article R323-2
+
+La durée hebdomadaire du travail ne peut être inférieure à vingt-quatre heures. Cette durée inclut, le cas échéant, le temps
+passé en formation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°95-1163 du 6 novembre 1995 - art. 2 () JORF 8 novembre 1995
+
+
+###### Article R323-3
+
+La demande de convention de contrat de retour à l'emploi doit être présentée à la direction du travail, de l'emploi et de la
+formation professionnelle avant la date d'embauche du salarié bénéficiaire ou dans un délai maximum d'un mois après celle-ci.
+
+Aucune convention ne peut être conclue pour une embauche bénéficiant d'une autre aide à l'emploi.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°95-1163 du 6 novembre 1995 - art. 2 () JORF 8 novembre 1995
+
+
+###### Article R323-4
+
+La convention doit préciser notamment :
+
+a) Le nom et l'adresse du bénéficiaire ;
+
+b) Son âge et son niveau de formation au moment de l'embauche ;
+
+c) L'identité et la qualité de l'employeur ;
+
+d) Les caractéristiques de l'emploi proposé ;
+
+e) La nature et la durée du contrat de travail ;
+
+f) La durée hebdomadaire de travail ;
+
+g) Le montant de la rémunération correspondante ;
+
+h) Les modalités de contrôle de l'application de la convention.
+
+Lorsque l'Etat concourt à la prise en charge d'une formation au titre de l'article L. 323-1, sont précisés dans la convention
+ou un avenant conclu ultérieurement :
+
+a) La nature de cette formation, sa durée et les modalités de son organisation ;
+
+b) La période pendant laquelle elle est dispensée ;
+
+c) Le nom et la qualification professionnelle de la personne chargée au sein de l'entreprise de suivre le déroulement de la
+formation ;
+
+d) La nature de la sanction de la formation dispensée ;
+
+e) Le montant et les modalités de la prise en charge de cette formation par l'Etat.
+
+La convention prend effet à compter de la date d'embauche du salarié. Copie en est remise au salarié.
+
+L'employeur doit signaler à la direction du travail, de l'emploi et de la formation professionnelle toute rupture du contrat
+de travail qui interviendrait avant la fin de la convention.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L323-1
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°95-1163 du 6 novembre 1995 - art. 2 () JORF 8 novembre 1995
+
+
+###### Article R323-5
+
+Lorsque la convention ou un avenant à celle-ci prévoit une formation, la durée de celle-ci doit être au minimum de 200 heures
+et au maximum égale à la moitié de la durée du contrat lorsqu'il est à durée déterminée. Cette formation doit être dispensée
+dans le cadre d'une convention avec un organisme de formation agréé par le représentant du Gouvernement.
+
+Les frais de formation pris en charge par l'Etat sont calculés sur une base forfaitaire par heure de formation dispensée et
+dans la limite de mille heures. Un premier versement égal à 40 p. 100 du coût de la formation est effectué à la date du début
+de la formation. Le solde est versé, au terme du sixième mois à compter de la date d'embauche du salarié ou au terme de la
+formation si celle-ci s'achève à une date ultérieure, sur présentation d'une attestation signée par l'organisme de formation,
+l'employeur et le salarié.
+
+Le montant horaire de cette aide forfaitaire est fixé par arrêté du représentant du Gouvernement à Mayotte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°95-1163 du 6 novembre 1995 - art. 2 () JORF 8 novembre 1995
+
+
+###### Article R323-6
+
+L'employeur est tenu d'adresser une copie de la convention à la caisse de prévoyance sociale pour pouvoir bénéficier de
+l'exonération des cotisations prévue à l'article L. 323-3.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L323-3
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°95-1163 du 6 novembre 1995 - art. 2 () JORF 8 novembre 1995
+
+
+###### Article R323-7
+
+En cas de rupture du contrat de travail à l'initiative de l'employeur avant le terme de la formation, les sommes déjà versées
+à l'employeur correspondant à des heures de formation non réalisées font l'objet d'un reversement à l'Etat. Si la convention
+ou l'avenant a prévu des heures de formation dispensées en entreprise, ces heures sont réputées être également réparties sur
+la période de formation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°95-1163 du 6 novembre 1995 - art. 2 () JORF 8 novembre 1995
+
+
+#### Chapitre 5 : Dispositions relatives à l'aide à la création d'entreprise à l'initiative de demandeurs d'emploi<a id=199></a>
+
+###### Article R325-1
+
+Pour l'application de l'article L. 325-1, sont considérées comme exerçant effectivement le contrôle d'une entreprise
+constituée sous la forme d'une société :
+
+1° La ou les personnes détenant individuellement ou collectivement plus de la moitié du capital ;
+
+2° La personne exerçant dans la société une fonction de dirigeant et détenant au moins un tiers du capital de celle-ci, dès
+lors qu'aucun autre actionnaire ne détient directement ou indirectement plus de la moitié du capital.
+
+Les parts de capital éventuellement acquises par le conjoint, les ascendants ou les descendants du demandeur de l'aide
+entrent en compte dans les montants de capital fixés aux 1° et 2° du présent article. Dans ce cas, toutefois, la ou les
+personnes mentionnées au 1° doivent posséder, à titre personnel, plus de 35 p. 100 du capital de l'entreprise ; la personne
+mentionnée au 2° doit posséder à titre personnel plus de 25 p. 100 dudit capital.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
+
+_Cite_:
+
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°95-1163 du 6 novembre 1995 - art. 3 () JORF 8 novembre 1995
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R325-4 (M)
+  - Code du travail applicable à Mayotte. - art. R325-9 (M)
+
+
+###### Article R325-2
+
+Dans le cas de détention collective de plus de la moitié du capital, le bénéfice de l'aide instituée par l'article L. 325-1
+est subordonné à l'acquisition par chaque demandeur d'emploi du dixième au moins de la fraction du capital détenue par la
+personne qui possède la fraction la plus forte de ce capital.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
+
+**Liens**:
+
+  - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°95-1163 du 6 novembre 1995 - art. 3 () JORF 8 novembre 1995
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R325-4 (M)
+
+
+###### Article R325-3
+
+I. - La demande tendant à obtenir l'aide instituée par l'article L. 325-1 doit être adressée au représentant du Gouvernement
+par pli recommandé avec demande d'avis de réception postal.
+
+Elle doit être préalable à la création ou à la reprise de l'entreprise ou à l'exercice de la nouvelle activité.
+
+La demande doit être accompagnée d'un dossier permettant d'apprécier la réalité et la consistance du projet de création ou de
+reprise de la nouvelle activité ; ce dossier doit comporter des indications précises sur le contenu du projet, les conditions
+d'acquisition des actifs, les apports de fonds propres et les concours financiers nécessaires pour assurer l'exploitation de
+l'entreprise ainsi que sur les conditions de l'exercice effectif du contrôle de celle-ci.
+
+Un arrêté du représentant du Gouvernement précise la composition du dossier.
+
+II. - Si le dossier est incomplet, la demande fait l'objet d'une décision de rejet en l'état dans le délai d'un mois à
+compter de sa réception. Cette décision fait connaître au demandeur la liste des pièces manquantes ou incomplètes.
+
+L'envoi au représentant du Gouvernement du complément de dossier, par pli recommandé avec demande d'avis de réception postal,
+fait courir de nouveau le délai d'un mois mentionné au deuxième alinéa de l'article L. 325-1.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
+
+**Liens**:
+
+  - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°95-1163 du 6 novembre 1995 - art. 3 () JORF 8 novembre 1995
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R325-4 (M)
+
+
+###### Article R325-4
+
+Le représentant du Gouvernement statue sur le droit au bénéfice de l'aide.
+
+Lorsque les conditions fixées par les articles R. 325-1 et R. 325-2 et par le I de l'article R. 325-3 sont remplies, le
+représentant du Gouvernement prend l'avis d'un comité composé du receveur particulier des finances, du directeur du travail,
+de l'emploi et de la formation professionnelle, du directeur de l'Institut d'émission d'outre-mer ou de leurs représentants
+et de deux personnalités qualifiées désignées par le représentant du Gouvernement en raison de leur expérience dans le
+domaine de la création et de la gestion d'entreprise ; ce comité est présidé par le représentant du Gouvernement ou par toute
+personne qu'il désigne pour le représenter.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
+
+_Cite_:
+
+  - Code du travail applicable dans la collectivité territoriale de Mayotte R325-1, R325-2, R325-3
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°95-1163 du 6 novembre 1995 - art. 3 () JORF 8 novembre 1995
+
+
+###### Article R325-5
+
+Lorsque le droit à l'aide institué par l'article L. 325-1 est reconnu, le représentant du Gouvernement délivre une
+attestation d'admission au bénéfice de l'article L. 325-1.
+
+Cette attestation est également délivrée par le représentant du Gouvernement, sur demande de l'intéressée, à la personne à
+laquelle l'aide doit être réputée accordée en application du deuxième alinéa de l'article L. 325-1.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
+
+**Liens**:
+
+  - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°95-1163 du 6 novembre 1995 - art. 3 () JORF 8 novembre 1995
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R325-7 (V)
+  - Code du travail applicable à Mayotte. - art. R325-8 (M)
+
+
+###### Article R325-6
+
+Lorsqu'une personne a obtenu l'aide de l'Etat au titre de l'article L. 325-1, elle ne peut obtenir à nouveau cette aide qu'à
+l'expiration d'un délai de trois ans suivant la précédente décision du représentant du Gouvernement.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
+
+**Liens**:
+
+  - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°95-1163 du 6 novembre 1995 - art. 3 () JORF 8 novembre 1995
+
+
+###### Article R325-7
+
+L'aide est versée en une fois, après constatation de l'exercice de la nouvelle activité, sous réserve que cette constatation
+puisse être opérée dans le délai de trois mois à compter de la notification de la décision du représentant du Gouvernement
+ou, le cas échéant, de l'expiration du délai au terme duquel l'aide doit être réputée accordée en application du deuxième
+alinéa de l'article L. 325-1.
+
+Cette aide doit être exclusivement employée à la couverture de dépenses directement nécessaires à l'exercice de la nouvelle
+activité.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
+
+_Cite_:
+
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°95-1163 du 6 novembre 1995 - art. 3 () JORF 8 novembre 1995
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R325-4 (Ab)
+  - Code du travail applicable à Mayotte. - art. R325-8 (M)
+
+
+###### Article R325-8
+
+L'aide allouée en application de l'article L. 325-1 est retirée par décision du représentant du Gouvernement s'il est établi
+qu'elle a été obtenue à la suite de fausses déclarations ou qu'elle n'a pas été utilisée conformément au deuxième alinéa de
+l'article R. 325-7.
+
+L'intéressé doit alors rembourser l'aide qu'il a perçue.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
+
+_Cite_:
+
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L325-1, R325-7
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°95-1163 du 6 novembre 1995 - art. 3 () JORF 8 novembre 1995
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R325-7 (V)
+
+
+###### Article R325-9
+
+L'accompagnement des personnes qui souhaitent créer ou reprendre une entreprise et qui répondent aux conditions fixées par
+les articles L. 325-1 et R. 325-1 est notamment assuré par la mise en place d'actions de conseil et de délivrance
+individuelle de chéquiers-conseil.
+
+La délivrance de chéquiers-conseil qui intervient avant la création ou la reprise effective de l'entreprise et dans l'année
+qui suit permet aux intéressés de consulter, pendant les trois années prévues à l'article L. 325-1, des organismes
+spécialisés répondant à leurs besoins sur la préparation, le démarrage, les problèmes techniques rencontrés à l'occasion de
+la mise en place de l'entreprise ou de son redressement si celle-ci est confrontée à des difficultés.
+
+Le représentant du Gouvernement désigne les organismes-conseil habilités à fournir ces prestations sur le territoire.
+
+L'Etat participe au financement des chéquiers-conseil dont les modalités de mise en oeuvre sont définies par arrêté du
+représentant du Gouvernement.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
+
+_Cite_:
+
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L325-1, R325-1
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Créé par_:
+
+  - Décret n°95-1163 du 6 novembre 1995 - art. 3 () JORF 8 novembre 1995
+
+
+### TITRE III : Main-d'oeuvre étrangère<a id=200></a>
 
 ###### Article R330-1
 
@@ -17284,9 +17765,9 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-### TITRE IV : Pénalités<a id=199></a>
+### TITRE IV : Pénalités<a id=201></a>
 
-#### CHAPITRE Ier : Travail clandestin<a id=200></a>
+#### CHAPITRE Ier : Travail clandestin<a id=202></a>
 
 ###### Article R341-1
 
@@ -17315,7 +17796,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-#### CHAPITRE II : Déclaration des mouvements de main-d'oeuvre<a id=201></a>
+#### CHAPITRE II : Déclaration des mouvements de main-d'oeuvre<a id=203></a>
 
 ###### Article R342-1
 
@@ -17343,11 +17824,11 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-## LIVRE IV : Les groupements professionnels - La représentation des salariés<a id=202></a>
+## LIVRE IV : Les groupements professionnels - La représentation des salariés<a id=204></a>
 
-### TITRE Ier : Les syndicats professionnels<a id=203></a>
+### TITRE Ier : Les syndicats professionnels<a id=205></a>
 
-#### CHAPITRE Ier : Statut juridique des syndicats<a id=204></a>
+#### CHAPITRE Ier : Statut juridique des syndicats<a id=206></a>
 
 ###### Article R411-1
 
@@ -17375,7 +17856,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R451-1 (V)
 
 
-#### CHAPITRE II : Droit syndical et représentativité des syndicats<a id=205></a>
+#### CHAPITRE II : Droit syndical et représentativité des syndicats<a id=207></a>
 
 ###### Article R412-1
 
@@ -17399,7 +17880,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-### Titre 3 : Pénalités.<a id=206></a>
+### Titre 3 : Pénalités.<a id=208></a>
 
 ###### Article R430-1
 
@@ -17425,11 +17906,11 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-## LIVRE V : Conflits du travail<a id=207></a>
+## LIVRE V : Conflits du travail<a id=209></a>
 
-### TITRE Ier : Conflits collectifs<a id=208></a>
+### TITRE Ier : Conflits collectifs<a id=210></a>
 
-#### CHAPITRE III : Conciliation<a id=209></a>
+#### CHAPITRE III : Conciliation<a id=211></a>
 
 ###### Article R513-1
 
@@ -17447,7 +17928,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-##### Section 1 : Composition des commissions de conciliation.<a id=210></a>
+##### Section 1 : Composition des commissions de conciliation.<a id=212></a>
 
 ###### Article R513-2
 
@@ -17493,7 +17974,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-##### Section 2 : Fonctionnement des commissions de conciliation.<a id=211></a>
+##### Section 2 : Fonctionnement des commissions de conciliation.<a id=213></a>
 
 ###### Article R513-4
 
@@ -17658,7 +18139,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-#### CHAPITRE IV : Médiation<a id=212></a>
+#### CHAPITRE IV : Médiation<a id=214></a>
 
 ###### Article R514-1
 
@@ -17790,7 +18271,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-#### CHAPITRE V : Arbitrage<a id=213></a>
+#### CHAPITRE V : Arbitrage<a id=215></a>
 
 ###### Article R515-1
 
@@ -17829,7 +18310,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-### TITRE II : Pénalités<a id=214></a>
+### TITRE II : Pénalités<a id=216></a>
 
 ###### Article R520-1
 
@@ -17853,9 +18334,9 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-## LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=215></a>
+## LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=217></a>
 
-### TITRE Ier : Services de contrôle<a id=216></a>
+### TITRE Ier : Services de contrôle<a id=218></a>
 
 ###### Article R610-1
 
@@ -17914,7 +18395,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-### TITRE II : Obligations des employeurs<a id=217></a>
+### TITRE II : Obligations des employeurs<a id=219></a>
 
 ###### Article R620-1
 
@@ -18060,9 +18541,9 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-### TITRE III : Pénalités<a id=218></a>
+### TITRE III : Pénalités<a id=220></a>
 
-#### CHAPITRE Ier : Service de contrôle<a id=219></a>
+#### CHAPITRE Ier : Service de contrôle<a id=221></a>
 
 ###### Article R631-1
 
@@ -18090,7 +18571,7 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-#### CHAPITRE II : Obligations des employeurs<a id=220></a>
+#### CHAPITRE II : Obligations des employeurs<a id=222></a>
 
 ###### Article R632-1
 
@@ -18145,15 +18626,15 @@ _Créé par_:
   - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
 
 
-# Partie réglementaire  - Décrets simples<a id=221></a>
+# Partie réglementaire  - Décrets simples<a id=223></a>
 
-## Livre 1er : Conventions relatives au travail<a id=222></a>
+## Livre 1er : Conventions relatives au travail<a id=224></a>
 
-### Titre 4 : Salaire<a id=223></a>
+### Titre 4 : Salaire<a id=225></a>
 
-#### Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG*<a id=224></a>
+#### Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG*<a id=226></a>
 
-##### Section 1 : Dispositions générales<a id=225></a>
+##### Section 1 : Dispositions générales<a id=227></a>
 
 ###### Article D141-1
 
@@ -18200,7 +18681,7 @@ _Créé par_:
   - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
 
 
-##### Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement<a id=226></a>
+##### Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement<a id=228></a>
 
 ###### Article D141-3
 
@@ -18333,11 +18814,11 @@ _Créé par_:
   - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
 
 
-## Livre 2 : Réglementation du travail<a id=227></a>
+## Livre 2 : Réglementation du travail<a id=229></a>
 
-### Titre 1er : Conditions de travail<a id=228></a>
+### Titre 1er : Conditions de travail<a id=230></a>
 
-#### Chapitre 1er : Age d'admission<a id=229></a>
+#### Chapitre 1er : Age d'admission<a id=231></a>
 
 ###### Article D211-1
 
@@ -18422,9 +18903,9 @@ _Créé par_:
   - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
 
 
-#### Chapitre 2 : Durée du travail<a id=230></a>
+#### Chapitre 2 : Durée du travail<a id=232></a>
 
-##### Section 1 : Récupération des heures perdues<a id=231></a>
+##### Section 1 : Récupération des heures perdues<a id=233></a>
 
 ###### Article D212-1
 
@@ -18536,9 +19017,9 @@ _Créé par_:
   - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
 
 
-### Titre 2 : Repos et congés<a id=232></a>
+### Titre 2 : Repos et congés<a id=234></a>
 
-#### Chapitre 3 : Congés annuels<a id=233></a>
+#### Chapitre 3 : Congés annuels<a id=235></a>
 
 ###### Article D223-1
 
@@ -18617,13 +19098,13 @@ _Créé par_:
   - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
 
 
-## Livre 3 : Emploi<a id=234></a>
+## Livre 3 : Emploi<a id=236></a>
 
-### Titre 1er : Déclarations de mouvements de main d'oeuvre<a id=235></a>
+### Titre 1er : Déclarations de mouvements de main d'oeuvre<a id=237></a>
 
-#### Travail clandestin<a id=236></a>
+#### Travail clandestin<a id=238></a>
 
-##### Chapitre 2 : Travail clandestin<a id=237></a>
+##### Chapitre 2 : Travail clandestin<a id=239></a>
 
 ###### Article D312-1
 
@@ -18655,11 +19136,11 @@ _Créé par_:
   - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
 
 
-## Livre 5 : Conflits du travail<a id=238></a>
+## Livre 5 : Conflits du travail<a id=240></a>
 
-### Titre 1er : Conflits collectifs<a id=239></a>
+### Titre 1er : Conflits collectifs<a id=241></a>
 
-#### Chapitre 4 : Médiation<a id=240></a>
+#### Chapitre 4 : Médiation<a id=242></a>
 
 ###### Article D514-1
 
