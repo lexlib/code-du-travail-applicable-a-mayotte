@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2004-03-21
+Version Consolidée au 2004-05-02
 ## Contenu: 
   - [Partie législative (art. L000-1 à L711-4)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L000-1 à L000-2)](#2)
@@ -212,111 +212,123 @@ Version Consolidée au 2004-03-21
         - [CHAPITRE VI : Mesures particulières de protection des salariés dans les établissements qui mettent en oeuvre des courants électriques (art. R236-21)](#209)
           - [Section 3 : Protection des salariés contre les risques de contact avec des conducteurs actifs ou des pièces conductrices habituellement sous tension (contact direct) (art. R236-21)](#210)
             - [Lignes de contact. (art. R236-21)](#211)
-        - [CHAPITRE VIII : Autres mesures particulières relatives à la protection des salariés (art. R238-7-1 à R238-7-4)](#212)
-          - [Section 7 : Mesures particulières relatives aux marins, aux ports, aux navires et autres bâtiments de mer. (art. R238-7-1 à R238-7-4)](#213)
-        - [CHAPITRE IX : Dispositions applicables aux opérations de construction dans l'intérêt de l'hygiène et de la sécurité du travail (art. R239-1 à R239-53)](#214)
-          - [Section 1 : Dispositions générales. (art. R239-1)](#215)
-          - [Section 2 : Règles d'hygiène (art. R239-2 à R239-15)](#216)
-            - [Sous-section 1 : Eclairage. (art. R239-2 à R239-5)](#217)
-            - [Sous-section 2 : Aération, assainissement. (art. R239-6 à R239-10)](#218)
-            - [Sous-section 3 : Température des locaux. (art. R239-11 à R239-12)](#219)
-            - [Sous-section 4 : Insonorisation. (art. R239-13)](#220)
-            - [Sous-section 5 : Installations sanitaires, restauration. (art. R239-14 à R239-15)](#221)
-          - [Section 3 : Règles de sécurité. (art. R239-16 à R239-37)](#222)
-          - [Section 4 : Prévention des incendies, évacuation (art. R239-38 à R239-52)](#223)
-            - [Sous-section 1 : Dispositions générales. (art. R239-38)](#224)
-            - [Sous-section 2 : Dégagements. (art. R239-39 à R239-45)](#225)
-            - [Sous-section 3 : Désenfumage. (art. R239-46)](#226)
-            - [Sous-section 4 : Locaux où sont entreposées ou manipulées des matières inflammables. (art. R239-47)](#227)
-            - [Sous-section 5 : Bâtiments dont le plancher bas du dernier niveau est situé à plus de 8 mètres du sol. (art. R239-48 à R239-50)](#228)
-            - [Sous-section 6 : Moyens de prévention et de lutte contre l'incendie. (art. R239-51)](#229)
-            - [Sous-section 7 : Mesures d'application. (art. R239-52)](#230)
-          - [Section 5 : Dossier de maintenance des lieux de travail. (art. R239-53)](#231)
-      - [TITRE V : Pénalités (art. R250-1 à R254-6)](#232)
-        - [Chapitre préliminaire. (art. R250-1 à R250-2)](#233)
-        - [Chapitre 1er : Hygiène et sécurité. (art. R251-1)](#234)
-        - [Chapitre 3 : Conditions du travail (art. R253-1 à R253-7)](#235)
-          - [Section 1 : Age d'admission. (art. R253-1)](#236)
-          - [Section 2 : Durée du travail (art. R253-2 à R253-5)](#237)
-            - [Paragraphe 1 : Dispositions générales (art. R253-2)](#238)
-            - [Paragraphe 2 : Heures supplémentaires (art. R253-3)](#239)
-            - [Paragraphe 3 : Dispositions relatives aux jeunes travailleurs (art. R253-4 à R253-5)](#240)
-          - [Section 3 : Travail de nuit. (art. R253-6 à R253-7)](#241)
-        - [Chapitre 4 : Repos et congés (art. R254-1 à R254-6)](#242)
-          - [Section 1 : Repos hebdomadaire. (art. R254-1 à R254-2)](#243)
-          - [Section 2 : Jours fériés (art. R254-3 à R254-5)](#244)
-            - [Paragraphe 1 : Dispositions générales (art. R254-3 à R254-4)](#245)
-            - [Paragraphe 2 : Dispositions particulières à la journée du 1er mai. (art. R254-5)](#246)
-          - [Section 3 : Congés annuels. (art. R254-6)](#247)
-    - [LIVRE III : Emploi (art. R311-1 à R342-1)](#248)
-      - [TITRE Ier : Déclaration des mouvements de main-d'oeuvre - Travail clandestin (art. R311-1 à R312-1)](#249)
-        - [Chapitre 1er : Déclaration des mouvements de main-d'oeuvre. (art. R311-1)](#250)
-        - [Chapitre 2 : Travail clandestin. (art. R312-1)](#251)
-      - [TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité départementale (art. R321-1 à R327-14)](#252)
-        - [Chapitre 1er : Généralités. (art. R321-1 à R321-6)](#253)
-        - [Chapitre 3 : Dispositions relatives au contrat de retour à l'emploi (art. R323-1 à R323-7)](#254)
-        - [CHAPITRE IV : Dispositions particulières relatives à l'emploi des jeunes (art. R324-1)](#255)
-          - [Projet initiative-jeune (art. R324-1)](#256)
-        - [CHAPITRE V : Dispositions relatives à la création d'entreprises et à la création d'emplois (art. R325-1 à R325-9)](#257)
-          - [Section 1 : Aide à la création d'entreprises à l'initiative des demandeurs d'emploi (art. R325-1 à R325-2)](#258)
-          - [Section 3 : Agence mahoraise pour le développement d'activités d'utilité sociale (art. R325-3 à R325-8)](#259)
-          - [Section 4 : Fonds pour l'emploi (art. R325-9)](#260)
-        - [CHAPITRE VII : Indemnisation du chômage (art. R327-10 à R327-14)](#261)
-          - [Section 2 : Perte temporaire de salaire (art. R327-10 à R327-14)](#262)
-      - [TITRE III : Main-d'oeuvre étrangère (art. R330-1 à R330-9)](#263)
-      - [TITRE IV : Pénalités (art. R341-1 à R342-1)](#264)
-        - [CHAPITRE Ier : Travail clandestin (art. R341-1)](#265)
-        - [CHAPITRE II : Déclaration des mouvements de main-d'oeuvre (art. R342-1)](#266)
-    - [LIVRE IV : Les groupements professionnels - La représentation des salariés (art. R411-1 à R430-1)](#267)
-      - [TITRE Ier : Les syndicats professionnels (art. R411-1 à R412-1)](#268)
-        - [CHAPITRE Ier : Statut juridique des syndicats (art. R411-1)](#269)
-        - [CHAPITRE II : Droit syndical et représentativité des syndicats (art. R412-1)](#270)
-          - [Section 1 : Critères de représentativité (art. R412-1)](#271)
-      - [Titre 3 : Pénalités. (art. R430-1)](#272)
-    - [LIVRE V : Conflits du travail (art. R513-1 à R520-1)](#273)
-      - [TITRE Ier : Conflits collectifs (art. R513-1 à R515-2)](#274)
-        - [CHAPITRE III : Conciliation (art. R513-1 à R513-10)](#275)
-          - [Section 1 : Composition des commissions de conciliation. (art. R513-2 à R513-3)](#276)
-          - [Section 2 : Fonctionnement des commissions de conciliation. (art. R513-4 à R513-10)](#277)
-        - [CHAPITRE IV : Médiation (art. R514-1 à R514-6)](#278)
-        - [CHAPITRE V : Arbitrage (art. R515-1 à R515-2)](#279)
-      - [TITRE II : Pénalités (art. R520-1)](#280)
-    - [LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail (art. R610-1 à R632-2)](#281)
-      - [TITRE Ier : Services de contrôle (art. R610-1 à R610-3)](#282)
-      - [TITRE II : Obligations des employeurs (art. R620-1 à R620-5)](#283)
-      - [TITRE III : Pénalités (art. R631-1 à R632-2)](#284)
-        - [CHAPITRE Ier : Service de contrôle (art. R631-1)](#285)
-        - [CHAPITRE II : Obligations des employeurs (art. R632-1 à R632-2)](#286)
-    - [LIVRE VII : Formation professionnelle (art. R711-1)](#287)
-      - [Chapitre unique : Dispositions communes aux contrats de qualification et aux contrats d'orientation (art. R711-1)](#288)
-  - [Partie réglementaire  - Décrets simples (art. D141-1 à D712-17)](#289)
-    - [Livre 1er : Conventions relatives au travail (art. D141-1 à D141-7)](#290)
-      - [Titre 4 : Salaire (art. D141-1 à D141-7)](#291)
-        - [Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG* (art. D141-1 à D141-7)](#292)
-          - [Section 1 : Dispositions générales (art. D141-1 à D141-2)](#293)
-          - [Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement (art. D141-3 à D141-7)](#294)
-    - [Livre 2 : Réglementation du travail (art. D211-1 à D223-4)](#295)
-      - [Titre 1er : Conditions de travail (art. D211-1 à D212-5)](#296)
-        - [Chapitre 1er : Age d'admission (art. D211-1 à D211-4)](#297)
-        - [Chapitre 2 : Durée du travail (art. D212-1 à D212-5)](#298)
-          - [Section 1 : Récupération des heures perdues (art. D212-1 à D212-5)](#299)
-      - [Titre 2 : Repos et congés (art. D223-1 à D223-4)](#300)
-        - [Chapitre 3 : Congés annuels (art. D223-1 à D223-4)](#301)
-    - [Livre 3 : Emploi (art. D312-1 à D327-10)](#302)
-      - [Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin (art. D312-1)](#303)
-        - [Chapitre 2 : Travail clandestin (art. D312-1)](#304)
-      - [Titre 2 : Aides à l'emploi - Intervention du fonds national de l'emploi (art. D324-9 à D327-10)](#305)
-        - [Chapitre 4 : Dispositions particulières relatives à l'emploi des jeunes - Projet initiative-jeune (art. D324-9)](#306)
-        - [Chapitre 5 : Dispositions relatives à la création d'entreprises et à la création d'emplois - Aide à la création d'entreprises à l'initiative des demandeurs d'emploi (art. D325-1)](#307)
-        - [Chapitre 7 : Indemnisation du chômage (art. D327-10)](#308)
-          - [Section 2 : Perte temporaire de salaire (art. D327-10)](#309)
-    - [Livre 5 : Conflits du travail (art. D514-1 à D514-4)](#310)
-      - [Titre 1er : Conflits collectifs (art. D514-1 à D514-4)](#311)
-        - [Chapitre 4 : Médiation (art. D514-1 à D514-4)](#312)
-    - [Livre 7 : De la formation professionnelle (art. D712-1 à D712-17)](#313)
-      - [Chapitre 2 : Contrats de formation en alternance Section 1 : Contrats de qualification (art. D712-1 à D712-7)](#314)
-      - [Chapitre 2 : Contrats de formation en alternance Section 2 : Contrats d'orientation (art. D712-8 à D712-11)](#315)
-      - [Chapitre 2 : Contrats de formation en alternance Section 3 : Dispositions communes aux contrats de qualification et d'orientation (art. D712-12 à D712-17)](#316)
+        - [CHAPITRE VIII : Autres mesures particulières relatives à la protection des salariés (art. R238-1-1 à R238-7-4)](#212)
+          - [Section 1 : Mesures particulières de protection relatives à l'emploi des explosifs. (art. R238-1-1 à R238-1-47)](#213)
+            - [Sous-section 1 : Dispositions applicables à tous les tirs de mine (art. R238-1-3 à R238-1-24)](#214)
+              - [I. - Obligations générales des personnes chargées des produits explosifs. (art. R238-1-3 à R238-1-6)](#215)
+              - [II. - Règles générales relatives aux produits explosifs. (art. R238-1-7 à R238-1-10)](#216)
+              - [III. - Règles générales de mise en oeuvre des produits explosifs. (art. R238-1-11 à R238-1-24)](#217)
+            - [Sous-section 2 : Dispositions complémentaires particulières à certains tirs de mine (art. R238-1-25 à R238-1-46)](#218)
+              - [I. - Tir à la mèche. (art. R238-1-25 à R238-1-29)](#219)
+              - [II. - Tir au cordeau détonant. (art. R238-1-30 à R238-1-32)](#220)
+              - [III. - Tir électrique. (art. R238-1-33 à R238-1-38)](#221)
+              - [IV. - Tir par mines longues (art. R238-1-39 à R238-1-44)](#222)
+              - [V. - Tirs spéciaux. (art. R238-1-45 à R238-1-46)](#223)
+            - [Sous-section 3 : Dispositions diverses (art. R238-1-47)](#224)
+          - [Section 7 : Mesures particulières relatives aux marins, aux ports, aux navires et autres bâtiments de mer. (art. R238-7-1 à R238-7-4)](#225)
+        - [CHAPITRE IX : Dispositions applicables aux opérations de construction dans l'intérêt de l'hygiène et de la sécurité du travail (art. R239-1 à R239-53)](#226)
+          - [Section 1 : Dispositions générales. (art. R239-1)](#227)
+          - [Section 2 : Règles d'hygiène (art. R239-2 à R239-15)](#228)
+            - [Sous-section 1 : Eclairage. (art. R239-2 à R239-5)](#229)
+            - [Sous-section 2 : Aération, assainissement. (art. R239-6 à R239-10)](#230)
+            - [Sous-section 3 : Température des locaux. (art. R239-11 à R239-12)](#231)
+            - [Sous-section 4 : Insonorisation. (art. R239-13)](#232)
+            - [Sous-section 5 : Installations sanitaires, restauration. (art. R239-14 à R239-15)](#233)
+          - [Section 3 : Règles de sécurité. (art. R239-16 à R239-37)](#234)
+          - [Section 4 : Prévention des incendies, évacuation (art. R239-38 à R239-52)](#235)
+            - [Sous-section 1 : Dispositions générales. (art. R239-38)](#236)
+            - [Sous-section 2 : Dégagements. (art. R239-39 à R239-45)](#237)
+            - [Sous-section 3 : Désenfumage. (art. R239-46)](#238)
+            - [Sous-section 4 : Locaux où sont entreposées ou manipulées des matières inflammables. (art. R239-47)](#239)
+            - [Sous-section 5 : Bâtiments dont le plancher bas du dernier niveau est situé à plus de 8 mètres du sol. (art. R239-48 à R239-50)](#240)
+            - [Sous-section 6 : Moyens de prévention et de lutte contre l'incendie. (art. R239-51)](#241)
+            - [Sous-section 7 : Mesures d'application. (art. R239-52)](#242)
+          - [Section 5 : Dossier de maintenance des lieux de travail. (art. R239-53)](#243)
+      - [TITRE V : Pénalités (art. R250-1 à R254-6)](#244)
+        - [Chapitre préliminaire. (art. R250-1 à R250-2)](#245)
+        - [Chapitre 1er : Hygiène et sécurité. (art. R251-1)](#246)
+        - [Chapitre 3 : Conditions du travail (art. R253-1 à R253-7)](#247)
+          - [Section 1 : Age d'admission. (art. R253-1)](#248)
+          - [Section 2 : Durée du travail (art. R253-2 à R253-5)](#249)
+            - [Paragraphe 1 : Dispositions générales (art. R253-2)](#250)
+            - [Paragraphe 2 : Heures supplémentaires (art. R253-3)](#251)
+            - [Paragraphe 3 : Dispositions relatives aux jeunes travailleurs (art. R253-4 à R253-5)](#252)
+          - [Section 3 : Travail de nuit. (art. R253-6 à R253-7)](#253)
+        - [Chapitre 4 : Repos et congés (art. R254-1 à R254-6)](#254)
+          - [Section 1 : Repos hebdomadaire. (art. R254-1 à R254-2)](#255)
+          - [Section 2 : Jours fériés (art. R254-3 à R254-5)](#256)
+            - [Paragraphe 1 : Dispositions générales (art. R254-3 à R254-4)](#257)
+            - [Paragraphe 2 : Dispositions particulières à la journée du 1er mai. (art. R254-5)](#258)
+          - [Section 3 : Congés annuels. (art. R254-6)](#259)
+    - [LIVRE III : Emploi (art. R311-1 à R342-1)](#260)
+      - [TITRE Ier : Déclaration des mouvements de main-d'oeuvre - Travail clandestin (art. R311-1 à R312-1)](#261)
+        - [Chapitre 1er : Déclaration des mouvements de main-d'oeuvre. (art. R311-1)](#262)
+        - [Chapitre 2 : Travail clandestin. (art. R312-1)](#263)
+      - [TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité départementale (art. R321-1 à R327-14)](#264)
+        - [Chapitre 1er : Généralités. (art. R321-1 à R321-6)](#265)
+        - [Chapitre 3 : Dispositions relatives au contrat de retour à l'emploi (art. R323-1 à R323-7)](#266)
+        - [CHAPITRE IV : Dispositions particulières relatives à l'emploi des jeunes (art. R324-1)](#267)
+          - [Projet initiative-jeune (art. R324-1)](#268)
+        - [CHAPITRE V : Dispositions relatives à la création d'entreprises et à la création d'emplois (art. R325-1 à R325-9)](#269)
+          - [Section 1 : Aide à la création d'entreprises à l'initiative des demandeurs d'emploi (art. R325-1 à R325-2)](#270)
+          - [Section 3 : Agence mahoraise pour le développement d'activités d'utilité sociale (art. R325-3 à R325-8)](#271)
+          - [Section 4 : Fonds pour l'emploi (art. R325-9)](#272)
+        - [CHAPITRE VII : Indemnisation du chômage (art. R327-10 à R327-14)](#273)
+          - [Section 2 : Perte temporaire de salaire (art. R327-10 à R327-14)](#274)
+      - [TITRE III : Main-d'oeuvre étrangère (art. R330-1 à R330-9)](#275)
+      - [TITRE IV : Pénalités (art. R341-1 à R342-1)](#276)
+        - [CHAPITRE Ier : Travail clandestin (art. R341-1)](#277)
+        - [CHAPITRE II : Déclaration des mouvements de main-d'oeuvre (art. R342-1)](#278)
+    - [LIVRE IV : Les groupements professionnels - La représentation des salariés (art. R411-1 à R430-1)](#279)
+      - [TITRE Ier : Les syndicats professionnels (art. R411-1 à R412-1)](#280)
+        - [CHAPITRE Ier : Statut juridique des syndicats (art. R411-1)](#281)
+        - [CHAPITRE II : Droit syndical et représentativité des syndicats (art. R412-1)](#282)
+          - [Section 1 : Critères de représentativité (art. R412-1)](#283)
+      - [Titre 3 : Pénalités. (art. R430-1)](#284)
+    - [LIVRE V : Conflits du travail (art. R513-1 à R520-1)](#285)
+      - [TITRE Ier : Conflits collectifs (art. R513-1 à R515-2)](#286)
+        - [CHAPITRE III : Conciliation (art. R513-1 à R513-10)](#287)
+          - [Section 1 : Composition des commissions de conciliation. (art. R513-2 à R513-3)](#288)
+          - [Section 2 : Fonctionnement des commissions de conciliation. (art. R513-4 à R513-10)](#289)
+        - [CHAPITRE IV : Médiation (art. R514-1 à R514-6)](#290)
+        - [CHAPITRE V : Arbitrage (art. R515-1 à R515-2)](#291)
+      - [TITRE II : Pénalités (art. R520-1)](#292)
+    - [LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail (art. R610-1 à R632-2)](#293)
+      - [TITRE Ier : Services de contrôle (art. R610-1 à R610-3)](#294)
+      - [TITRE II : Obligations des employeurs (art. R620-1 à R620-5)](#295)
+      - [TITRE III : Pénalités (art. R631-1 à R632-2)](#296)
+        - [CHAPITRE Ier : Service de contrôle (art. R631-1)](#297)
+        - [CHAPITRE II : Obligations des employeurs (art. R632-1 à R632-2)](#298)
+    - [LIVRE VII : Formation professionnelle (art. R711-1)](#299)
+      - [Chapitre unique : Dispositions communes aux contrats de qualification et aux contrats d'orientation (art. R711-1)](#300)
+  - [Partie réglementaire  - Décrets simples (art. D141-1 à D712-17)](#301)
+    - [Livre 1er : Conventions relatives au travail (art. D141-1 à D141-7)](#302)
+      - [Titre 4 : Salaire (art. D141-1 à D141-7)](#303)
+        - [Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG* (art. D141-1 à D141-7)](#304)
+          - [Section 1 : Dispositions générales (art. D141-1 à D141-2)](#305)
+          - [Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement (art. D141-3 à D141-7)](#306)
+    - [Livre 2 : Réglementation du travail (art. D211-1 à D223-4)](#307)
+      - [Titre 1er : Conditions de travail (art. D211-1 à D212-5)](#308)
+        - [Chapitre 1er : Age d'admission (art. D211-1 à D211-4)](#309)
+        - [Chapitre 2 : Durée du travail (art. D212-1 à D212-5)](#310)
+          - [Section 1 : Récupération des heures perdues (art. D212-1 à D212-5)](#311)
+      - [Titre 2 : Repos et congés (art. D223-1 à D223-4)](#312)
+        - [Chapitre 3 : Congés annuels (art. D223-1 à D223-4)](#313)
+    - [Livre 3 : Emploi (art. D312-1 à D327-10)](#314)
+      - [Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin (art. D312-1)](#315)
+        - [Chapitre 2 : Travail clandestin (art. D312-1)](#316)
+      - [Titre 2 : Aides à l'emploi - Intervention du fonds national de l'emploi (art. D324-9 à D327-10)](#317)
+        - [Chapitre 4 : Dispositions particulières relatives à l'emploi des jeunes - Projet initiative-jeune (art. D324-9)](#318)
+        - [Chapitre 5 : Dispositions relatives à la création d'entreprises et à la création d'emplois - Aide à la création d'entreprises à l'initiative des demandeurs d'emploi (art. D325-1)](#319)
+        - [Chapitre 7 : Indemnisation du chômage (art. D327-10)](#320)
+          - [Section 2 : Perte temporaire de salaire (art. D327-10)](#321)
+    - [Livre 5 : Conflits du travail (art. D514-1 à D514-4)](#322)
+      - [Titre 1er : Conflits collectifs (art. D514-1 à D514-4)](#323)
+        - [Chapitre 4 : Médiation (art. D514-1 à D514-4)](#324)
+    - [Livre 7 : De la formation professionnelle (art. D712-1 à D712-17)](#325)
+      - [Chapitre 2 : Contrats de formation en alternance Section 1 : Contrats de qualification (art. D712-1 à D712-7)](#326)
+      - [Chapitre 2 : Contrats de formation en alternance Section 2 : Contrats d'orientation (art. D712-8 à D712-11)](#327)
+      - [Chapitre 2 : Contrats de formation en alternance Section 3 : Dispositions communes aux contrats de qualification et d'orientation (art. D712-12 à D712-17)](#328)
 # Partie législative<a id=1></a>
 
 ## LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES.<a id=2></a>
@@ -22038,7 +22050,1241 @@ _Cite_:
 
 #### CHAPITRE VIII : Autres mesures particulières relatives à la protection des salariés<a id=212></a>
 
-##### Section 7 : Mesures particulières relatives aux marins, aux ports, aux navires et autres bâtiments de mer.<a id=213></a>
+##### Section 1 : Mesures particulières de protection relatives à l'emploi des explosifs.<a id=213></a>
+
+###### Article R238-1-1
+
+Les employeurs, chefs des établissements, gérants ou préposés énumérés à l'article L. 230-1 et L. 251-1 dont le personnel
+effectue, même à titre occasionnel, des travaux du bâtiment, des travaux publics ou des travaux agricoles nécessitant
+l'emploi d'explosifs sont tenus de prendre les mesures particulières énoncées dans la présente section.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L230-1 (M)
+
+
+###### Article R238-1-2
+
+La signification des termes techniques utilisés dans la présente section est la suivante :
+
+Accessoire de tir : produit explosif permettant d'amorcer ou de transmettre une inflammation ou une détonation, telles que
+détonateur, mèche, cordeau détonant, etc.
+
+Amorçage : opération qui consiste à mettre en place un détonateur. Si le détonateur est placé du côté du bourrage, l'amorçage
+est dit antérieur. Si le détonateur est placé du côté du fond du trou, l'amorçage est dit postérieur.
+
+Appareil de chargement utilisant l'énergie : appareil utilisé pour la mise en place de l'explosif en utilisant l'énergie
+produite par un moteur, l'air comprimé, etc.
+
+Bourrage : matériau neutre mis en place dans un trou de mine à la suite d'une charge pour faciliter son travail pendant
+l'explosion et réduire les projections. Désigne aussi l'opération de mise en place de ce matériau.
+
+Boutefeu : salarié effectuant ou surveillant les opérations de mise en oeuvre des produits explosifs.
+
+Cartouche amorce : cartouche munie d'un détonateur.
+
+Charge : ensemble de produits explosifs mis en place définitivement dans un trou de mine ou contre un bloc.
+
+Charge formée : charge aménagée pour obtenir un effet dirigé. Une charge creuse est une charge formée particulière.
+
+Circuit de tir : ensemble des circuits électriques qui sont raccordés entre eux au moment de la mise à feu.
+
+Fond de trou : extrémité du trou de mine qui est opposée à l'orifice et qui n'a pas été détruite par l'explosion.
+
+Ligne de tir : partie du circuit de tir entre le poste de tir et les lieux du tir.
+
+Matériel de tir : matériel non pyrotechnique tel qu'appareil de mise à feu, vérificateur de circuit de tir, bourroir, etc.
+
+Mine : trou de mine ayant reçu sa charge.
+
+Plan de tir : document indiquant l'emplacement et les caractéristiques des trous de mines ainsi que le détail de mise en
+oeuvre des produits explosifs.
+
+Produits explosifs : terme général désignant toute matière explosive et les objets en contenant.
+
+Purge : opération consistant à débarrasser un toit ou une paroi rocheuse de tout bloc de pierre ébranlé et instable.
+
+Relais retardateur : accessoire de tir inséré entre deux brins de cordeau détonant pour retarder la transmission de
+l'explosion.
+
+Tir par charge superficielle (ou tir à l'anglaise) : tir effectué sans trou de mine.
+
+Tir fente : tir effectué en plaçant l'explosif dans une fente naturelle du massif.
+
+Trou de mine : trou obtenu par forage et destiné à recevoir une charge.
+
+Trou ayant fait canon : trou de mine retrouvé pratiquement intact après explosion de sa charge.
+
+Trou raté : trou dont la charge n'a pas explosé en totalité lors de la mise à feu.
+
+Volée : ensemble de plusieurs mines mises à feu simultanément.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+##### Sous-section 1 : Dispositions applicables à tous les tirs de mine<a id=214></a>
+
+##### I. - Obligations générales des personnes chargées des produits explosifs.<a id=215></a>
+
+###### Article R238-1-3
+
+Tout chef d'établissement qui se propose d'utiliser des explosifs, détonateurs et autres accessoires de tir est tenu : 
+
+1° D'en informer les délégués du personnel ; 
+
+2° D'en faire la déclaration à l'agent de contrôle de l'inspection du travail ou au fonctionnaire qui en exerce les
+attributions ainsi qu'à l'organisme chargé du risque accidents du travail et maladies professionnelles en précisant les modes
+de tir qui seront pratiqués. Pour les chantiers occupant dix ouvriers au moins pendant plus d'une semaine, cette déclaration
+peut être faite à l'occasion de la déclaration d'ouverture de chantier prescrite par les articles R. 620-4 et R. 620-5.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R620-4 (Ab)
+
+
+###### Article R238-1-4
+
+Le chef d'établissement organise les activités relatives au stockage, au transport et à la mise en oeuvre des produits
+explosifs.
+
+Il doit notamment :
+
+a) Etablir des notes de prescriptions indiquant et commentant les règles à observer. Ces notes sont réunies dans un cahier de
+prescriptions ;
+
+b) Etablir les plans de tir ;
+
+c) Assurer la formation du personnel préposé au stockage, au transport et à la mise en oeuvre des explosifs ;
+
+d) S'assurer que le travail est exécuté selon les prescriptions qu'il a établies ;
+
+e) En cas d'accident, d'incident grave ou de manifestations anormales, prendre l'initiative de toutes mesures nécessaires
+pour la sécurité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R238-1-10 (Ab)
+  - Code du travail applicable à Mayotte. - art. R238-1-11 (Ab)
+  - Code du travail applicable à Mayotte. - art. R238-1-22 (Ab)
+  - Code du travail applicable à Mayotte. - art. R238-1-24 (Ab)
+  - Code du travail applicable à Mayotte. - art. R238-1-46 (Ab)
+  - Code du travail applicable à Mayotte. - art. R238-1-6 (Ab)
+  - Code du travail applicable à Mayotte. - art. R238-1-8 (Ab)
+  - Code du travail applicable à Mayotte. - art. R238-1-9 (Ab)
+
+
+###### Article R238-1-5
+
+Chaque boutefeu doit être nommément désigné par le chef d'établissement.
+
+Chaque boutefeu doit être titulaire d'un permis de tir délivré par le chef d'établissement dans les conditions déterminées
+par un arrêté du ministre chargé du travail.
+
+Le boutefeu effectue lui-même les opérations de mise en oeuvre des produits explosifs ou se fait aider dans cette tâche par
+des assistants boutefeux. Dans ce dernier cas, il assure la surveillance directe de ces opérations.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R238-1-6
+
+Au cours de la formation prévue au c de l'article R. 238-1-4, les notes de prescriptions doivent être remises au personnel
+concerné, expliquées et commentées par un salarié spécialement désigné par le chef d'établissement au regard de ses
+compétences. 
+
+Toute modification des notes de prescriptions est également remise au personnel concerné. 
+
+La formation initiale est complétée par des séances de formation d'une durée d'au moins deux heures par semestre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R238-1-4
+
+
+##### II. - Règles générales relatives aux produits explosifs.<a id=216></a>
+
+###### Article R238-1-7
+
+Ne peuvent être employés que les produits explosifs ayant reçu du ministre chargé des mines un agrément technique pour leur
+utilisation dans les départements de métropole et d'outre-mer.
+
+En outre, sauf dispositions contraires de la présente section, les prescriptions relatives aux conditions d'emploi des
+produits explosifs contenues prévues par les règles de l'art relatives aux travaux dans les mines et carrières s'appliquent
+dans les mêmes conditions aux travaux visés par la présente section.
+
+L'emploi de l'oxygène liquide et de la poudre noire est interdit.
+
+Les détonateurs électriques à retard, les relais retardateurs, les vérificateurs de circuits de tir, les appareils
+électriques de mise à feu, les bourroirs, sauf s'ils sont en bois, les dispositifs spéciaux de bourrage et tout matériel de
+chargement de l'explosif utilisant de l'énergie doivent être d'un modèle autorisé pour l'emploi dans les mines et carrières
+dans un département de métropole ou d'outre-mer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R238-1-8
+
+Sauf pour l'amorçage, les explosifs non autorisés pour l'emploi en vrac doivent être utilisés en cartouches dans l'état dans
+lequel ces cartouches sont livrées, sans modification de leur conditionnement. 
+
+Les explosifs sensibles à l'eau ne peuvent être utilisés en présence d'eau que sous encartouchage ou gaine imperméable. 
+
+Les produits explosifs doivent être tenus loin de toute flamme non protégée, à l'abri de l'eau, des éboulements, des
+explosions et de tout choc violent. Il est interdit de fumer pendant leur manipulation et leur transport. 
+
+Aucun produit explosif détérioré, suspect ou dont la date limite d'utilisation a été dépassée ne doit être utilisé. Il doit
+être détruit conformément à une note de prescriptions établie en application de l'article R. 238-1-4.
+
+L'organisation de la comptabilité des produits explosifs consommés doit être précisée dans une note de prescriptions établie
+en application de l'article R. 238-1-4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R238-1-4
+
+
+###### Article R238-1-9
+
+Quelles que soient les circonstances, les explosifs et cordeaux détonants, d'une part, les détonateurs et relais de
+détonation, d'autre part, ne peuvent être transportés que dans des récipients distincts portant à l'extérieur un signe
+permettant d'identifier leur contenu et séparés de telle sorte que l'explosion des détonateurs ne se transmette pas aux
+explosifs. Ils doivent être transportés dans des conditions assurant leur protection contre tout choc ou chute accidentelle
+et contre les risques dus à l'électricité statique. 
+
+Ne peuvent prendre place dans le véhicule ou le convoi transportant les explosifs ou les détonateurs que le personnel chargé
+du transport ou de la surveillance. 
+
+Les mesures à prendre envers les produits explosifs non utilisés en fin de journée doivent faire l'objet d'une note de
+prescriptions établie en application de l'article R. 238-1-4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R238-1-4
+
+
+###### Article R238-1-10
+
+Le chef d'établissement doit tenir à jour : 
+
+1° Le cahier des prescriptions prévu à l'article R. 238-1-4 ;
+
+2° Un dossier comprenant : 
+
+a) Les copies des permis de tir délivrés ; 
+
+b) Les plans de tir établis ; 
+
+c) Le relevé des ratés et des incidents ; 
+
+d) Le relevé des accidents graves et des enseignements qui en ont été tirés. 
+
+Ces documents doivent être tenus à la disposition de l'agent de contrôle de l'inspection du travail ou du fonctionnaire qui
+en exerce les attributions et des agents de l'organisme chargé du risque accidents du travail et maladies professionnelles.
+Ils doivent être également tenus à la disposition des délégués du personnel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R238-1-4
+
+
+##### III. - Règles générales de mise en oeuvre des produits explosifs.<a id=217></a>
+
+###### Article R238-1-11
+
+La mise en oeuvre des produits explosifs ne doit se faire qu'en présence du personnel strictement nécessaire à cette
+opération. 
+
+A l'exception des tirs spéciaux visés au V de la sous-section 2 de la présente section, l'explosif ne peut être mis à feu que
+dans un trou convenablement foré et obturé par un bourrage. 
+
+Lorsque les diverses opérations nécessaires au tir des mines exigent l'intervention d'équipes à des postes successifs, les
+modalités de passation des ordres et des consignes de sécurité doivent faire l'objet d'une note de prescriptions établie en
+application de l'article R. 238-1-4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R238-1-4
+
+
+###### Article R238-1-12
+
+Sauf exception prévue à l'article R. 238-1-22, la distance minimale entre tout point du trou à forer et toute partie du ou
+des trous en cours de chargement ou chargés doit être au minimum égale à la longueur du trou le plus profond sans être
+inférieure à 6 mètres. 
+
+Dans les travaux souterrains, le forage et le chargement des trous de mines ne peuvent être exécutés simultanément. 
+
+Les trous des mines doivent être placés et orientés de manière à ne pouvoir rencontrer un trou raté, un trou ayant fait canon
+ou un fond de trou. 
+
+Dans le cas d'utilisation d'un explosif encartouché, le trou de mine doit avoir sur toute sa longueur un diamètre supérieur à
+celui des cartouches utilisées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R238-1-22
+
+
+###### Article R238-1-13
+
+Avant chargement, le boutefeu doit s'assurer que les débris présents dans un trou de mine ne peuvent pas créer une gêne
+pendant le chargement ou pénétrer dans la charge.
+
+Tout matériel, en particulier tout véhicule, non indispensable aux opérations de chargement doit être évacué de la zone de
+mise en oeuvre des explosifs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R238-1-14
+
+L'amorçage d'une charge peut être fait par une seule cartouche amorce, le détonateur étant placé à l'une des extrémités de la
+charge, ou par un cordeau détonant. Tout autre procédé ne peut être utilisé que s'il est autorisé dans les mines et
+carrières.
+
+Avec les détonateurs à retard, l'amorçage doit être postérieur.
+
+La cartouche amorce ne doit être préparée qu'au moment de son emploi. Toute cartouche amorce qui n'a pu être introduite dans
+un trou de mine doit être désamorcée immédiatement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R238-1-15
+
+La charge doit être constituée et amorcée de façon que l'explosion puisse se développer sur toute sa longueur.
+
+En cas d'utilisation d'un explosif encartouché, la charge doit, à défaut d'une cartouche unique, être constituée par une file
+de cartouches étroitement en contact ou toutes reliées entre elles par un cordeau détonant.
+
+Toute charge peut être constituée d'explosifs différents sous réserve de leur compatibilité physico-chimique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R238-1-16
+
+Avant le chargement d'un trou de mine, le boutefeu doit s'assurer au moyen d'un bourroir calibré qu'il peut recevoir la
+charge sans opposer de résistance sur toute sa longueur. La charge amorcée doit toujours être introduite lentement et avec
+précaution.
+
+Les trous de mine ne doivent être chargés que le plus tard possible.
+
+Il est interdit d'introduire de force des cartouches d'explosifs dans un trou de mine.
+
+Le chargement d'un explosif avec un matériel utilisant de l'énergie n'est permis que si les arrêtés d'autorisation du
+ministre chargé des mines prévoient le chargement de l'un avec l'autre.
+
+Il est interdit :
+
+a) D'abandonner sans surveillance un trou de mine chargé ;
+
+b) D'enlever la charge d'un trou, qu'elle ait été mise à feu ou non.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R238-1-17
+
+Les trous de mine doivent être obturés par un bourrage. La longueur et la nature de celui-ci doivent être adaptées à la
+charge pour éviter des projections dangereuses ou le déplacement de la charge. 
+
+L'obturation des trous de mine doit être réalisée soit par l'introduction de matériaux appropriés qui remplissent toute la
+section du trou de mine, soit au moyen d'un dispositif autorisé dans les mines et carrières des départements de métropole ou
+d'outre-mer. 
+
+Elle ne doit provoquer ni compression de l'explosif ni détérioration du système d'amorçage. 
+
+Il est interdit de débourrer un trou de mine, sauf dans le cas et les conditions prévus à l'article R. 238-1-22. 
+
+Dans les travaux souterrains, le tir sans bourrage peut être pratiqué dans les conditions autorisées dans les mines et
+carrières des départements de métropole ou d'outre-mer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R238-1-22
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R238-1-43 (Ab)
+
+
+###### Article R238-1-18
+
+Avant le tir, le boutefeu doit :
+
+1° S'assurer qu'aucun produit explosif n'est resté à proximité des lieux de tir ;
+
+2° Assigner aux personnes des points de refuge où elles ne peuvent pas être atteintes par des projections, directement ou
+indirectement ;
+
+3° Prendre des mesures pour empêcher toute circulation dans la zone où des projections risquent de se produire, notamment en
+plaçant des gardes sur les accès à cette zone ;
+
+4° S'assurer que toute personne est hors d'atteinte des projections ou des chutes de blocs dues aux vibrations ;
+
+5° Prendre des dispositions pour qu'aucune personne ne puisse respirer des fumées de tir dangereuses ;
+
+6° Faire annoncer le tir par un signal sonore.
+
+Au cas où des projections risqueraient d'endommager des installations voisines du bon état desquelles dépend la sécurité des
+personnes, les trous de mine ou les installations doivent être recouverts de dispositifs appropriés empêchant tout dommage à
+ces installations.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R238-1-36 (Ab)
+  - Code du travail applicable à Mayotte. - art. R238-1-38 (Ab)
+
+
+###### Article R238-1-19
+
+Tous les trous de mine chargés doivent être tirés en même temps. Toutefois, le tir sur un même front d'abattage par volées
+distinctes est autorisé si aucune réaction ou altération des explosifs non tirés n'est à craindre, ou pour le traitement des
+ratés.
+
+A l'exception des tirs de pétardage et des tirs spéciaux, la mise à feu simultanée de plusieurs charges doit être faite
+conformément à un plan de tir établi par une personne compétente.
+
+Le boutefeu doit être le dernier à quitter les lieux de tir. La mise à feu est faite par lui-même ou par un aide-boutefeu
+opérant en sa présence et sous sa surveillance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R238-1-20
+
+Quel que soit le mode de mise à feu, tout le personnel y compris le boutefeu doit être maintenu à l'abri après le tir pendant
+un délai au moins égal à cinq minutes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R238-1-28 (Ab)
+
+
+###### Article R238-1-21
+
+Avant d'autoriser le retour du personnel, le boutefeu, assisté d'une autre personne, doit procéder à la reconnaissance des
+lieux qui ne peut intervenir qu'après assainissement de l'atmosphère. Il procède aux purges nécessaires, recherche les ratés,
+les trous ayant fait canon ainsi que les fonds de trou et signale d'une façon apparente ceux qu'il a découverts. 
+
+Lorsque le boutefeu a terminé la reconnaissance des lieux et constaté l'absence de tout danger, il ordonne la levée de la
+garde. La circulation dans la zone gardée peut alors reprendre et le personnel peut retourner au chantier. 
+
+Lorsqu'un produit explosif est retrouvé sur ou dans les déblais, l'opération de déblaiement doit être faite avec précaution.
+Les produits retrouvés sont mis en lieu sûr par le boutefeu en vue de leur destruction. 
+
+Si, au cours de la reconnaissance après le tir ou après cette reconnaissance, il est constaté qu'il reste des produits
+explosifs dans un trou de mine, l'activité normale ne peut être poursuivie qu'après traitement du raté conformément à
+l'article R. 238-1-22. 
+
+Dès la fin de l'opération de déblaiement, le boutefeu doit s'assurer qu'il ne reste pas de produit explosif dans un trou de
+mine ou un fond de trou. 
+
+Il est interdit d'abandonner sans surveillance et sans barrage efficace une zone de tir dans laquelle la reconnaissance n'a
+pas pu être effectuée ou si un raté n'a pas pu être traité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R238-1-22
+
+
+###### Article R238-1-22
+
+En présence d'un raté, une nouvelle tentative de mise à feu est permise si elle est possible sans intervention sur la charge.
+Si cette tentative est impossible ou échoue, le raté est traité par le boutefeu dans les conditions suivantes : 
+
+1° Lorsque le trou de mine n'a pas ou plus de bourrage, une cartouche amorcée peut être placée au contact de la charge pour
+procéder à son tir ; 
+
+2° Lorsque le trou de mine est bourré, son débourrage pourra être effectué et l'opération ci-dessus réalisée, sous les
+réserves suivantes : 
+
+a) Le débourrage est effectué sous l'autorité du boutefeu ; 
+
+b) L'amorçage par détonateur est postérieur ; 
+
+c) Le bourrage ne peut être enlevé qu'avec de l'eau injectée avec une canule non métallique et, dans le cas où l'amorçage
+n'est pas électrique, avec de l'air comprimé ; 
+
+d) Les dispositifs spéciaux de bourrage ne peuvent être enlevés que si leur arrêté d'agrément prévoit cette possibilité et
+dans les conditions qu'il précise. 
+
+Si les mesures ci-dessus ne sont pas applicables, des trous de dégagement peuvent être forés sur les instructions du chef de
+chantier et en accord avec le boutefeu. Leur profondeur ne doit pas être supérieure à deux fois la distance entre l'ancienne
+charge et un point quelconque du nouveau trou. En aucun cas, cette distance ne doit être inférieure à 0,20 mètre. 
+
+L'enlèvement des déblais d'un trou de mine de dégagement doit se faire avec les précautions propres à éviter l'explosion des
+produits explosifs qui auraient pu être projetés. 
+
+Le traitement des ratés doit faire l'objet d'une note de prescriptions établie en application de l'article R. 238-1-4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R238-1-12 (Ab)
+  - Code du travail applicable à Mayotte. - art. R238-1-17 (Ab)
+  - Code du travail applicable à Mayotte. - art. R238-1-21 (Ab)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R238-1-4
+
+
+###### Article R238-1-23
+
+Il est interdit d'approfondir ou de curer les trous ayant fait canon et les fonds de trous intacts après le tir.
+
+Les trous chargés ayant fait canon et les fonds de trou peuvent être rechargés par le boutefeu après lavage à l'eau.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R238-1-24
+
+Dans les chantiers à risque spécial en raison de la présence de gaz ou de poussières inflammables, des précautions
+particulières doivent être prises et faire l'objet d'une note de prescriptions établie en application de l'article R.
+238-1-4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R238-1-4
+
+
+##### Sous-section 2 : Dispositions complémentaires particulières à certains tirs de mine<a id=218></a>
+
+##### I. - Tir à la mèche.<a id=219></a>
+
+###### Article R238-1-25
+
+Le tir à la mèche n'est autorisé qu'en surface et dans les cas suivants :
+
+1. Amorçage d'un cordeau détonant ;
+
+2. Tir par charges superficielles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R238-1-26
+
+L'extrémité de la mèche introduite dans le détonateur doit être propre et coupée nettement.
+
+Le sertissage d'un détonateur sur une mèche doit être fait à l'aide d'une pince spéciale fournie par le chef d'établissement.
+
+La longueur des différentes mèches utilisées dans une même volée doit être telle que les explosions correspondant à chaque
+allumage de mèche par le boutefeu puissent être facilement distinguées. Cette longueur est fixée en fonction de la vitesse de
+combustion de la mèche utilisée.
+
+La durée de combustion d'une mèche d'une longueur d'un mètre doit être d'au moins une minute trente secondes. La longueur de
+toute mèche extérieure à une charge ou à un détonateur amorçant un cordeau détonant doit être d'au moins un mètre.
+
+Il est interdit d'effectuer des boucles sur les mèches.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R238-1-27
+
+Une volée ne peut contenir plus de cinq allumages de mèches. L'opération doit être faite par un seul boutefeu.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R238-1-28
+
+Le délai d'attente prévu à l'article R. 238-1-20 doit être porté à trente minutes au moins si le nombre d'explosions
+entendues ne correspond pas au nombre de mèches allumées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R238-1-20 (Ab)
+
+
+###### Article R238-1-29
+
+Toute tentative de dessertissage d'une mèche ou de rallumage d'un raté de tir à la mèche est interdite.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+##### II. - Tir au cordeau détonant.<a id=220></a>
+
+###### Article R238-1-30
+
+Lors de la manipulation d'un cordeau détonant, toutes les précautions doivent être prises pour éviter de rompre le cordeau,
+de fissurer son enveloppe ou de produire une altération quelconque de son âme explosive, notamment par choc, traction,
+torsion ou courbure de faible rayon.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R238-1-31
+
+Les raccords en leurs extrémités de deux longueurs de cordeau détonant doivent être opérés par la confection d'un noeud ou
+d'une torsade réalisée selon un mode opératoire efficace pour le genre de cordeau utilisé.
+
+La fixation d'un cordeau dérivé au cordeau maître doit être opérée par la confection d'un noeud, d'une attache ou d'une
+torsade réalisée selon un mode opératoire efficace ; en particulier le serrage du cordeau dérivé sur le cordeau maître doit
+être tel qu'il ne puisse se produire ensuite de relâchement.
+
+Tout cordeau dérivé doit être disposé de façon qu'il ne puisse pas être détruit avant son fonctionnement par la détonation du
+cordeau maître ou d'un cordeau voisin.
+
+La connexion d'un cordeau dérivé sur un cordeau maître doit se faire dans le sens où se propage l'onde explosive.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R238-1-32
+
+Toutes précautions doivent être prises pour éviter le dépôt d'humidité, de matière grasse ou de poussières sur les surfaces
+et sections droites ou axiales de cordeaux qui sont en contact dans un raccord ou une dérivation.
+
+Le cordeau doit, à l'intérieur du trou de mine, être toujours constitué par un brin d'un seul tenant sans raccord.
+
+Le bourrage doit être fait de façon à ne pas endommager le cordeau.
+
+Les cordeaux utilisés dans des conditions les exposant à l'action de l'eau doivent être imperméables. Leurs raccords ou
+dérivations doivent être, si nécessaire, protégés par des enveloppes imperméables.
+
+Lors du chargement de mines verticales profondes, le lestage du cordeau pour assurer sa descente ne devra pas excéder le
+poids que le cordeau peut supporter sans dommage.
+
+La liaison par ligature entre le cordeau maître et le détonateur doit assurer un contact étroit entre ceux-ci. Les
+précautions mentionnées à l'alinéa 1er ci-dessus doivent être appliquées aux sections et surfaces en contact. Le mode de
+liaison doit être efficace pour le type de cordeau employé ; il doit en être de même du mode d'insertion des relais
+retardateurs sur les cordeaux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+##### III. - Tir électrique.<a id=221></a>
+
+###### Article R238-1-33
+
+Les détonateurs électriques utilisés dans une même volée doivent provenir du même fabricant et avoir des têtes d'allumage
+identiques.
+
+Le tir avec des détonateurs à retard est interdit dans les terrains présentant des fissures très ouvertes et apparentes.
+
+Les détonateurs doivent être livrés sur le chantier avec les extrémités des tiges accolées et protégées par un isolant. Cette
+protection doit être maintenue jusqu'au raccordement au circuit de tir et après que la charge a été définitivement mise en
+place dans le trou de mine.
+
+Toute épissure de fils de détonateur est interdite dans un trou de mine.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R238-1-34
+
+Un appareil de chargement pneumatique doit être mis efficacement à la terre et sa canule de chargement doit être d'un type
+propre à éviter l'accumulation de charges électrostatiques.
+
+Pour le chargement, on ne peut utiliser que des détonateurs électriques des classes 1 et 2 définies par le ministre chargé
+des mines.
+
+Ces détonateurs doivent avoir les extrémités des tiges accolées et protégées par un isolant pendant le chargement de tous les
+trous de mines. Toutefois, pour les détonateurs de classe 1, les extrémités des tiges peuvent être séparées et dénudées après
+le chargement du trou correspondant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R238-1-35
+
+La ligne de tir doit être conçue et dimensionnée en fonction du service qu'elle doit assurer.
+
+La ligne de tir est amenée jusqu'à proximité immédiate des fronts. Elle doit être constituée sur toute sa longueur par des
+conducteurs isolés entre eux ainsi que par rapport à la terre et par rapport à toute masse métallique. L'isolement entre les
+conducteurs doit être mesuré au moins une fois par semaine à l'aide d'un vérificateur de ligne de tir.
+
+Les conducteurs de la ligne de tir ne doivent pas être câblés avec des conducteurs destinés à un autre usage, ni être placés
+dans un même tube qu'eux. Lorsque l'influence de courants induits est à craindre, ils doivent être câblés ou torsadés.
+
+La ligne de tir doit être vérifiée visuellement avant tout raccordement à une volée. Ses extrémités du côté du poste de tir
+doivent être reliées électriquement lorsqu'elles ne sont pas branchées sur un appareil de vérification ou de mise à feu.
+
+Lorsque plusieurs lignes de tir aboutissent à un même poste de tir, chacune d'entre elles doit y être identifiée par un
+repère.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R238-1-36
+
+Les raccords dénudés entre la ligne de tir et les fils des détonateurs ou ceux des fils des détonateurs entre eux ne doivent
+être en contact ni avec le terrain, ni avec le matériel. 
+
+Sauf prescriptions spéciales, le raccordement de la volée à la ligne de tir est la dernière opération à exécuter. 
+
+La continuité et la résistance du circuit de tir doivent être vérifiées lorsque ce circuit contient plus d'un détonateur.
+Cette opération est faite par le boutefeu au moyen d'un vérificateur de circuit de tir au poste de tir après que les
+précautions prévues à l'article R. 238-1-18 ont été prises. Toutefois, cette opération peut être faite à proximité des mines
+si l'arrêté du ministre chargé des mines portant approbation du vérificateur l'autorise. 
+
+Lorsque le circuit de tir possède des branchements en parallèle, il doit être conçu par un spécialiste.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R238-1-18
+
+
+###### Article R238-1-37
+
+L'énergie utilisée pour les tirs ne peut provenir que d'appareils électriques de mise à feu autonomes. Les caractéristiques
+de ces appareils ainsi que les conditions de leur emploi et de leur entretien doivent exclure tout risque de raté par défaut
+de puissance ; ils doivent faire l'objet d'une vérification au moins une fois par an.
+
+Une note de prescription doit fixer les conditions d'emploi de ces appareils, les règles à observer pour leur conservation et
+leur entretien ainsi que la périodicité des vérifications qui doit être adaptée à la fréquence des utilisations. Seul le
+boutefeu doit avoir la disposition de l'organe de manoeuvre. Il ne doit le mettre en place sur l'appareil de mise à feu qu'au
+moment du tir.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R238-1-38
+
+Lorsqu'un matériel électrique, une ligne électrique ou un émetteur d'ondes électromagnétiques est susceptible d'influencer
+dangereusement un circuit de tir, son fonctionnement doit être interrompu dès le début des opérations de mise en oeuvre des
+détonateurs. 
+
+Cependant, le matériel électrique dont le fonctionnement est indispensable dans la zone de mise en oeuvre des explosifs peut
+y être maintenu sous tension, sous réserve que tout courant de fuite ou de défaut soit contrôlé et limité à une valeur au
+plus égale à la moitié de l'intensité de non-fonctionnement d'un des détonateurs employés. 
+
+Dans le cas où les prescriptions énoncées dans les deux alinéas précédents ne peuvent être mises en oeuvre, seuls doivent
+être utilisés des détonateurs électriques haute intensité ou des dispositifs d'amorçage non électriques. 
+
+En cas de menace d'orage ou d'orage déclaré, les opérations de chargement et de branchement des détonateurs électriques
+doivent être interrompues. Si des trous sont déjà chargés et amorcés, le personnel doit être mis à l'abri et l'accès du
+chantier doit être interdit conformément aux dispositions de l'article R. 238-1-18. 
+
+Une note de prescriptions doit préciser les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R238-1-18 (Ab)
+
+
+##### IV. - Tir par mines longues<a id=222></a>
+
+###### Article R238-1-39
+
+On appelle mines longues toutes les mines dont la longueur est supérieure à 6 mètres.
+
+Lorsqu'elles sont descendantes et inclinées à plus de 65° par rapport à l'horizontale, elles constituent une catégorie
+particulière dénommée mines profondes verticales.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R238-1-40
+
+Tout tir de mine longue doit être effectué conformément à un plan de tir.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R238-1-41
+
+Le seul amorçage autorisé est l'amorçage au cordeau détonant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R238-1-42
+
+Dans les mines profondes verticales, lorsque l'explosif est encartouché, une cartouche ne peut être introduite en chute libre
+que si le bruit d'arrivée au fond de la cartouche précédente a été perçu ; en cas d'incertitude, la position de cette
+cartouche est vérifiée à l'aide d'un bourroir.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R238-1-43
+
+En complément des prescriptions de l'article R. 238-1-17, la longueur du bourrage doit être au moins égale à un mètre dans
+les mines longues des travaux à ciel ouvert.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R238-1-17 (Ab)
+
+
+###### Article R238-1-44
+
+Le traitement des ratés ne peut être fait que sous la responsabilité du chef d'établissement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+##### V. - Tirs spéciaux.<a id=223></a>
+
+###### Article R238-1-45
+
+Les tirs par charges superficielles sont autorisés si toutes dispositions ont été prises pour supprimer les projections
+dangereuses.
+
+Si l'explosif n'est pas constitué d'une charge formée, il doit être mis au contact du bloc et recouvert d'une calotte
+d'argile d'au moins 0,15 mètre d'épaisseur exempte de pierres ou de fragments de roches.
+
+Les tirs par charges superficielles sont interdits pour le purgeage des fronts ou pour l'abattage de la masse, à l'exception
+des tirs subaquatiques.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R238-1-46
+
+Les fronts de taille à ciel ouvert peuvent être abattus et purgés au moyen de tirs fentes où la charge est tirée dans une
+fissure du massif préalablement préparée pour la recevoir. 
+
+Ce mode de tir doit faire l'objet d'une note de prescriptions prévue à l'article R. 238-1-4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R238-1-4 (Ab)
+
+
+##### Sous-section 3 : Dispositions diverses<a id=224></a>
+
+###### Article R238-1-47
+
+Le ministre chargé du travail peut accorder des dérogations de portée générale à certaines des dispositions de la présente
+section par arrêté.
+
+Cet arrêté fixe des mesures compensatoires de sécurité auxquelles les dérogations sont subordonnées, ainsi que la durée pour
+laquelle ces dérogations sont accordées.
+
+Lorsque des circonstances particulières le justifient, il peut être accordé à un chef d'établissement, à titre exceptionnel
+et temporaire, dérogation à certaines des prescriptions de la présente section pour une ou plusieurs opérations déterminées.
+
+La décision de dérogation mentionnée à l'alinéa précédent, assortie de l'indication des mesures de sécurité nécessaires pour
+assurer aux salariés des garanties équivalentes, est prise par le directeur du travail, de l'emploi et de la formation
+professionnelle, après avis des délégués du personnel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Cité par_:
+
+  - Décret n°2014-1291 du 23 octobre 2014 - art. (VD)
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+##### Section 7 : Mesures particulières relatives aux marins, aux ports, aux navires et autres bâtiments de mer.<a id=225></a>
 
 ###### Article R238-7-1
 
@@ -22120,9 +23366,9 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-#### CHAPITRE IX : Dispositions applicables aux opérations de construction dans l'intérêt de l'hygiène et de la sécurité du travail<a id=214></a>
+#### CHAPITRE IX : Dispositions applicables aux opérations de construction dans l'intérêt de l'hygiène et de la sécurité du travail<a id=226></a>
 
-##### Section 1 : Dispositions générales.<a id=215></a>
+##### Section 1 : Dispositions générales.<a id=227></a>
 
 ###### Article R239-1
 
@@ -22148,9 +23394,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L230-16 (M)
 
 
-##### Section 2 : Règles d'hygiène<a id=216></a>
+##### Section 2 : Règles d'hygiène<a id=228></a>
 
-##### Sous-section 1 : Eclairage.<a id=217></a>
+##### Sous-section 1 : Eclairage.<a id=229></a>
 
 ###### Article R239-2
 
@@ -22253,7 +23499,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R239-53 (Ab)
 
 
-##### Sous-section 2 : Aération, assainissement.<a id=218></a>
+##### Sous-section 2 : Aération, assainissement.<a id=230></a>
 
 ###### Article R239-6
 
@@ -22435,7 +23681,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R239-53 (Ab)
 
 
-##### Sous-section 3 : Température des locaux.<a id=219></a>
+##### Sous-section 3 : Température des locaux.<a id=231></a>
 
 ###### Article R239-11
 
@@ -22485,7 +23731,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Sous-section 4 : Insonorisation.<a id=220></a>
+##### Sous-section 4 : Insonorisation.<a id=232></a>
 
 ###### Article R239-13
 
@@ -22515,7 +23761,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Sous-section 5 : Installations sanitaires, restauration.<a id=221></a>
+##### Sous-section 5 : Installations sanitaires, restauration.<a id=233></a>
 
 ###### Article R239-14
 
@@ -22579,7 +23825,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R232-22 (Ab)
 
 
-##### Section 3 : Règles de sécurité.<a id=222></a>
+##### Section 3 : Règles de sécurité.<a id=234></a>
 
 ###### Article R239-16
 
@@ -23177,9 +24423,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R232-14 (Ab)
 
 
-##### Section 4 : Prévention des incendies, évacuation<a id=223></a>
+##### Section 4 : Prévention des incendies, évacuation<a id=235></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=224></a>
+##### Sous-section 1 : Dispositions générales.<a id=236></a>
 
 ###### Article R239-38
 
@@ -23221,7 +24467,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R232-73 (Ab)
 
 
-##### Sous-section 2 : Dégagements.<a id=225></a>
+##### Sous-section 2 : Dégagements.<a id=237></a>
 
 ###### Article R239-39
 
@@ -23477,7 +24723,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Sous-section 3 : Désenfumage.<a id=226></a>
+##### Sous-section 3 : Désenfumage.<a id=238></a>
 
 ###### Article R239-46
 
@@ -23515,7 +24761,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Sous-section 4 : Locaux où sont entreposées ou manipulées des matières inflammables.<a id=227></a>
+##### Sous-section 4 : Locaux où sont entreposées ou manipulées des matières inflammables.<a id=239></a>
 
 ###### Article R239-47
 
@@ -23546,7 +24792,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R232-83 (Ab)
 
 
-##### Sous-section 5 : Bâtiments dont le plancher bas du dernier niveau est situé à plus de 8 mètres du sol.<a id=228></a>
+##### Sous-section 5 : Bâtiments dont le plancher bas du dernier niveau est situé à plus de 8 mètres du sol.<a id=240></a>
 
 ###### Article R239-48
 
@@ -23641,7 +24887,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R232-13 (Ab)
 
 
-##### Sous-section 6 : Moyens de prévention et de lutte contre l'incendie.<a id=229></a>
+##### Sous-section 6 : Moyens de prévention et de lutte contre l'incendie.<a id=241></a>
 
 ###### Article R239-51
 
@@ -23669,7 +24915,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R232-84 (Ab)
 
 
-##### Sous-section 7 : Mesures d'application.<a id=230></a>
+##### Sous-section 7 : Mesures d'application.<a id=242></a>
 
 ###### Article R239-52
 
@@ -23697,7 +24943,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 5 : Dossier de maintenance des lieux de travail.<a id=231></a>
+##### Section 5 : Dossier de maintenance des lieux de travail.<a id=243></a>
 
 ###### Article R239-53
 
@@ -23762,9 +25008,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R239-5 (Ab)
 
 
-### TITRE V : Pénalités<a id=232></a>
+### TITRE V : Pénalités<a id=244></a>
 
-#### Chapitre préliminaire.<a id=233></a>
+#### Chapitre préliminaire.<a id=245></a>
 
 ###### Article R250-1
 
@@ -23830,7 +25076,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R254-6
 
 
-#### Chapitre 1er : Hygiène et sécurité.<a id=234></a>
+#### Chapitre 1er : Hygiène et sécurité.<a id=246></a>
 
 ###### Article R251-1
 
@@ -23858,9 +25104,9 @@ _Cite_:
   - Code du travail applicable à Mayotte R230-9
 
 
-#### Chapitre 3 : Conditions du travail<a id=235></a>
+#### Chapitre 3 : Conditions du travail<a id=247></a>
 
-##### Section 1 : Age d'admission.<a id=236></a>
+##### Section 1 : Age d'admission.<a id=248></a>
 
 ###### Article R253-1
 
@@ -23892,9 +25138,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R250-2 (Ab)
 
 
-##### Section 2 : Durée du travail<a id=237></a>
+##### Section 2 : Durée du travail<a id=249></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=238></a>
+##### Paragraphe 1 : Dispositions générales<a id=250></a>
 
 ###### Article R253-2
 
@@ -23923,7 +25169,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L212-2
 
 
-##### Paragraphe 2 : Heures supplémentaires<a id=239></a>
+##### Paragraphe 2 : Heures supplémentaires<a id=251></a>
 
 ###### Article R253-3
 
@@ -23951,7 +25197,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L250-1
 
 
-##### Paragraphe 3 : Dispositions relatives aux jeunes travailleurs<a id=240></a>
+##### Paragraphe 3 : Dispositions relatives aux jeunes travailleurs<a id=252></a>
 
 ###### Article R253-4
 
@@ -24005,7 +25251,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L212-7
 
 
-##### Section 3 : Travail de nuit.<a id=241></a>
+##### Section 3 : Travail de nuit.<a id=253></a>
 
 ###### Article R253-6
 
@@ -24056,9 +25302,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L213-9
 
 
-#### Chapitre 4 : Repos et congés<a id=242></a>
+#### Chapitre 4 : Repos et congés<a id=254></a>
 
-##### Section 1 : Repos hebdomadaire.<a id=243></a>
+##### Section 1 : Repos hebdomadaire.<a id=255></a>
 
 ###### Article R254-1
 
@@ -24114,9 +25360,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L221-3
 
 
-##### Section 2 : Jours fériés<a id=244></a>
+##### Section 2 : Jours fériés<a id=256></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=245></a>
+##### Paragraphe 1 : Dispositions générales<a id=257></a>
 
 ###### Article R254-3
 
@@ -24171,7 +25417,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L222-5
 
 
-##### Paragraphe 2 : Dispositions particulières à la journée du 1er mai.<a id=246></a>
+##### Paragraphe 2 : Dispositions particulières à la journée du 1er mai.<a id=258></a>
 
 ###### Article R254-5
 
@@ -24200,7 +25446,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R222-1 (Ab)
 
 
-##### Section 3 : Congés annuels.<a id=247></a>
+##### Section 3 : Congés annuels.<a id=259></a>
 
 ###### Article R254-6
 
@@ -24232,11 +25478,11 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R250-2 (Ab)
 
 
-## LIVRE III : Emploi<a id=248></a>
+## LIVRE III : Emploi<a id=260></a>
 
-### TITRE Ier : Déclaration des mouvements de main-d'oeuvre - Travail clandestin<a id=249></a>
+### TITRE Ier : Déclaration des mouvements de main-d'oeuvre - Travail clandestin<a id=261></a>
 
-#### Chapitre 1er : Déclaration des mouvements de main-d'oeuvre.<a id=250></a>
+#### Chapitre 1er : Déclaration des mouvements de main-d'oeuvre.<a id=262></a>
 
 ###### Article R311-1
 
@@ -24283,7 +25529,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R342-2 (Ab)
 
 
-#### Chapitre 2 : Travail clandestin.<a id=251></a>
+#### Chapitre 2 : Travail clandestin.<a id=263></a>
 
 ###### Article R312-1
 
@@ -24307,9 +25553,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R341-1 (Ab)
 
 
-### TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité départementale<a id=252></a>
+### TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité départementale<a id=264></a>
 
-#### Chapitre 1er : Généralités.<a id=253></a>
+#### Chapitre 1er : Généralités.<a id=265></a>
 
 ###### Article R321-1
 
@@ -24446,7 +25692,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L321-2 (M)
 
 
-#### Chapitre 3 : Dispositions relatives au contrat de retour à l'emploi<a id=254></a>
+#### Chapitre 3 : Dispositions relatives au contrat de retour à l'emploi<a id=266></a>
 
 ###### Article R323-1
 
@@ -24654,9 +25900,9 @@ _Abrogé par_:
   - Décret n°2012-658 du 4 mai 2012 - art. 1
 
 
-#### CHAPITRE IV : Dispositions particulières relatives à l'emploi des jeunes<a id=255></a>
+#### CHAPITRE IV : Dispositions particulières relatives à l'emploi des jeunes<a id=267></a>
 
-##### Projet initiative-jeune<a id=256></a>
+##### Projet initiative-jeune<a id=268></a>
 
 ###### Article R324-1
 
@@ -24776,9 +26022,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R324-2 (Ab)
 
 
-#### CHAPITRE V : Dispositions relatives à la création d'entreprises et à la création d'emplois<a id=257></a>
+#### CHAPITRE V : Dispositions relatives à la création d'entreprises et à la création d'emplois<a id=269></a>
 
-##### Section 1 : Aide à la création d'entreprises à l'initiative des demandeurs d'emploi<a id=258></a>
+##### Section 1 : Aide à la création d'entreprises à l'initiative des demandeurs d'emploi<a id=270></a>
 
 ###### Article R325-1
 
@@ -24842,7 +26088,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R325-4 (M)
 
 
-##### Section 3 : Agence mahoraise pour le développement d'activités d'utilité sociale<a id=259></a>
+##### Section 3 : Agence mahoraise pour le développement d'activités d'utilité sociale<a id=271></a>
 
 ###### Article R325-3
 
@@ -25270,7 +26516,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R325-7 (Ab)
 
 
-##### Section 4 : Fonds pour l'emploi<a id=260></a>
+##### Section 4 : Fonds pour l'emploi<a id=272></a>
 
 ###### Article R325-9
 
@@ -25323,9 +26569,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L325-8 (V)
 
 
-#### CHAPITRE VII : Indemnisation du chômage<a id=261></a>
+#### CHAPITRE VII : Indemnisation du chômage<a id=273></a>
 
-##### Section 2 : Perte temporaire de salaire<a id=262></a>
+##### Section 2 : Perte temporaire de salaire<a id=274></a>
 
 ###### Article R327-10
 
@@ -25567,7 +26813,7 @@ _Anciens textes_:
   - Code du travail applicable à Mayotte. - art. R327-23 (T)
 
 
-### TITRE III : Main-d'oeuvre étrangère<a id=263></a>
+### TITRE III : Main-d'oeuvre étrangère<a id=275></a>
 
 ###### Article R330-1
 
@@ -25848,9 +27094,9 @@ _Anciens textes_:
   - Code du travail applicable à Mayotte. - art. R330-7 (T)
 
 
-### TITRE IV : Pénalités<a id=264></a>
+### TITRE IV : Pénalités<a id=276></a>
 
-#### CHAPITRE Ier : Travail clandestin<a id=265></a>
+#### CHAPITRE Ier : Travail clandestin<a id=277></a>
 
 ###### Article R341-1
 
@@ -25879,7 +27125,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R312-1
 
 
-#### CHAPITRE II : Déclaration des mouvements de main-d'oeuvre<a id=266></a>
+#### CHAPITRE II : Déclaration des mouvements de main-d'oeuvre<a id=278></a>
 
 ###### Article R342-1
 
@@ -25908,11 +27154,11 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R311-1 (M)
 
 
-## LIVRE IV : Les groupements professionnels - La représentation des salariés<a id=267></a>
+## LIVRE IV : Les groupements professionnels - La représentation des salariés<a id=279></a>
 
-### TITRE Ier : Les syndicats professionnels<a id=268></a>
+### TITRE Ier : Les syndicats professionnels<a id=280></a>
 
-#### CHAPITRE Ier : Statut juridique des syndicats<a id=269></a>
+#### CHAPITRE Ier : Statut juridique des syndicats<a id=281></a>
 
 ###### Article R411-1
 
@@ -25944,9 +27190,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R451-1 (V)
 
 
-#### CHAPITRE II : Droit syndical et représentativité des syndicats<a id=270></a>
+#### CHAPITRE II : Droit syndical et représentativité des syndicats<a id=282></a>
 
-##### Section 1 : Critères de représentativité<a id=271></a>
+##### Section 1 : Critères de représentativité<a id=283></a>
 
 ###### Article R412-1
 
@@ -25971,7 +27217,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L133-1
 
 
-### Titre 3 : Pénalités.<a id=272></a>
+### Titre 3 : Pénalités.<a id=284></a>
 
 ###### Article R430-1
 
@@ -26001,11 +27247,11 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R411-1 (M)
 
 
-## LIVRE V : Conflits du travail<a id=273></a>
+## LIVRE V : Conflits du travail<a id=285></a>
 
-### TITRE Ier : Conflits collectifs<a id=274></a>
+### TITRE Ier : Conflits collectifs<a id=286></a>
 
-#### CHAPITRE III : Conciliation<a id=275></a>
+#### CHAPITRE III : Conciliation<a id=287></a>
 
 ###### Article R513-1
 
@@ -26027,7 +27273,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 1 : Composition des commissions de conciliation.<a id=276></a>
+##### Section 1 : Composition des commissions de conciliation.<a id=288></a>
 
 ###### Article R513-2
 
@@ -26081,7 +27327,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 2 : Fonctionnement des commissions de conciliation.<a id=277></a>
+##### Section 2 : Fonctionnement des commissions de conciliation.<a id=289></a>
 
 ###### Article R513-4
 
@@ -26273,7 +27519,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-#### CHAPITRE IV : Médiation<a id=278></a>
+#### CHAPITRE IV : Médiation<a id=290></a>
 
 ###### Article R514-1
 
@@ -26434,7 +27680,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-#### CHAPITRE V : Arbitrage<a id=279></a>
+#### CHAPITRE V : Arbitrage<a id=291></a>
 
 ###### Article R515-1
 
@@ -26481,7 +27727,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-### TITRE II : Pénalités<a id=280></a>
+### TITRE II : Pénalités<a id=292></a>
 
 ###### Article R520-1
 
@@ -26509,9 +27755,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L153-1
 
 
-## LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=281></a>
+## LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=293></a>
 
-### TITRE Ier : Services de contrôle<a id=282></a>
+### TITRE Ier : Services de contrôle<a id=294></a>
 
 ###### Article R610-1
 
@@ -26582,7 +27828,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-### TITRE II : Obligations des employeurs<a id=283></a>
+### TITRE II : Obligations des employeurs<a id=295></a>
 
 ###### Article R620-1
 
@@ -26739,9 +27985,9 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-### TITRE III : Pénalités<a id=284></a>
+### TITRE III : Pénalités<a id=296></a>
 
-#### CHAPITRE Ier : Service de contrôle<a id=285></a>
+#### CHAPITRE Ier : Service de contrôle<a id=297></a>
 
 ###### Article R631-1
 
@@ -26769,7 +28015,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L610-8
 
 
-#### CHAPITRE II : Obligations des employeurs<a id=286></a>
+#### CHAPITRE II : Obligations des employeurs<a id=298></a>
 
 ###### Article R632-1
 
@@ -26829,9 +28075,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R632-1 (Ab)
 
 
-## LIVRE VII : Formation professionnelle<a id=287></a>
+## LIVRE VII : Formation professionnelle<a id=299></a>
 
-### Chapitre unique : Dispositions communes aux contrats de qualification et aux contrats d'orientation<a id=288></a>
+### Chapitre unique : Dispositions communes aux contrats de qualification et aux contrats d'orientation<a id=300></a>
 
 ###### Article R711-1
 
@@ -26874,15 +28120,15 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. R712-12 (T)
 
 
-# Partie réglementaire  - Décrets simples<a id=289></a>
+# Partie réglementaire  - Décrets simples<a id=301></a>
 
-## Livre 1er : Conventions relatives au travail<a id=290></a>
+## Livre 1er : Conventions relatives au travail<a id=302></a>
 
-### Titre 4 : Salaire<a id=291></a>
+### Titre 4 : Salaire<a id=303></a>
 
-#### Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG*<a id=292></a>
+#### Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG*<a id=304></a>
 
-##### Section 1 : Dispositions générales<a id=293></a>
+##### Section 1 : Dispositions générales<a id=305></a>
 
 ###### Article D141-1
 
@@ -26945,7 +28191,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D141-2-2 (Ab)
 
 
-##### Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement<a id=294></a>
+##### Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement<a id=306></a>
 
 ###### Article D141-3
 
@@ -27118,11 +28364,11 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D141-2-7 (Ab)
 
 
-## Livre 2 : Réglementation du travail<a id=295></a>
+## Livre 2 : Réglementation du travail<a id=307></a>
 
-### Titre 1er : Conditions de travail<a id=296></a>
+### Titre 1er : Conditions de travail<a id=308></a>
 
-#### Chapitre 1er : Age d'admission<a id=297></a>
+#### Chapitre 1er : Age d'admission<a id=309></a>
 
 ###### Article D211-1
 
@@ -27206,9 +28452,9 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Chapitre 2 : Durée du travail<a id=298></a>
+#### Chapitre 2 : Durée du travail<a id=310></a>
 
-##### Section 1 : Récupération des heures perdues<a id=299></a>
+##### Section 1 : Récupération des heures perdues<a id=311></a>
 
 ###### Article D212-1
 
@@ -27368,9 +28614,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D212-8 (Ab)
 
 
-### Titre 2 : Repos et congés<a id=300></a>
+### Titre 2 : Repos et congés<a id=312></a>
 
-#### Chapitre 3 : Congés annuels<a id=301></a>
+#### Chapitre 3 : Congés annuels<a id=313></a>
 
 ###### Article D223-1
 
@@ -27494,11 +28740,11 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D223-5 (V)
 
 
-## Livre 3 : Emploi<a id=302></a>
+## Livre 3 : Emploi<a id=314></a>
 
-### Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin<a id=303></a>
+### Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin<a id=315></a>
 
-#### Chapitre 2 : Travail clandestin<a id=304></a>
+#### Chapitre 2 : Travail clandestin<a id=316></a>
 
 ###### Article D312-1
 
@@ -27538,9 +28784,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D312-9 (Ab)
 
 
-### Titre 2 : Aides à l'emploi - Intervention du fonds national de l'emploi<a id=305></a>
+### Titre 2 : Aides à l'emploi - Intervention du fonds national de l'emploi<a id=317></a>
 
-#### Chapitre 4 : Dispositions particulières relatives à l'emploi des jeunes - Projet initiative-jeune<a id=306></a>
+#### Chapitre 4 : Dispositions particulières relatives à l'emploi des jeunes - Projet initiative-jeune<a id=318></a>
 
 ###### Article D324-9
 
@@ -27575,7 +28821,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D324-2 (Ab)
 
 
-#### Chapitre 5 : Dispositions relatives à la création d'entreprises et à la création d'emplois - Aide à la création d'entreprises à l'initiative des demandeurs d'emploi<a id=307></a>
+#### Chapitre 5 : Dispositions relatives à la création d'entreprises et à la création d'emplois - Aide à la création d'entreprises à l'initiative des demandeurs d'emploi<a id=319></a>
 
 ###### Article D325-1
 
@@ -27624,9 +28870,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D325-1-1 (Ab)
 
 
-#### Chapitre 7 : Indemnisation du chômage<a id=308></a>
+#### Chapitre 7 : Indemnisation du chômage<a id=320></a>
 
-##### Section 2 : Perte temporaire de salaire<a id=309></a>
+##### Section 2 : Perte temporaire de salaire<a id=321></a>
 
 ###### Article D327-10
 
@@ -27656,11 +28902,11 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D321-12-1 (Ab)
 
 
-## Livre 5 : Conflits du travail<a id=310></a>
+## Livre 5 : Conflits du travail<a id=322></a>
 
-### Titre 1er : Conflits collectifs<a id=311></a>
+### Titre 1er : Conflits collectifs<a id=323></a>
 
-#### Chapitre 4 : Médiation<a id=312></a>
+#### Chapitre 4 : Médiation<a id=324></a>
 
 ###### Article D514-1
 
@@ -27777,9 +29023,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D514-10 (Ab)
 
 
-## Livre 7 : De la formation professionnelle<a id=313></a>
+## Livre 7 : De la formation professionnelle<a id=325></a>
 
-### Chapitre 2 : Contrats de formation en alternance Section 1 : Contrats de qualification<a id=314></a>
+### Chapitre 2 : Contrats de formation en alternance Section 1 : Contrats de qualification<a id=326></a>
 
 ###### Article D712-1
 
@@ -28024,7 +29270,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D711-8 (Ab)
 
 
-### Chapitre 2 : Contrats de formation en alternance Section 2 : Contrats d'orientation<a id=315></a>
+### Chapitre 2 : Contrats de formation en alternance Section 2 : Contrats d'orientation<a id=327></a>
 
 ###### Article D712-8
 
@@ -28205,7 +29451,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D711-12 (VT)
 
 
-### Chapitre 2 : Contrats de formation en alternance Section 3 : Dispositions communes aux contrats de qualification et d'orientation<a id=316></a>
+### Chapitre 2 : Contrats de formation en alternance Section 3 : Dispositions communes aux contrats de qualification et d'orientation<a id=328></a>
 
 ###### Article D712-12
 
