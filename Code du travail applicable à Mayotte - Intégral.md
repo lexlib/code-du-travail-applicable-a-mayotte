@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2001-07-13
+Version Consolidée au 2001-07-13 00:00:01 +0200
 ## Contenu: 
   - [Partie législative (art. L000-1 à L711-4)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L000-1 à L000-2)](#2)
@@ -214,40 +214,41 @@ Version Consolidée au 2001-07-13
       - [TITRE Ier : Les syndicats professionnels (art. R411-1 à R412-1)](#211)
         - [CHAPITRE Ier : Statut juridique des syndicats (art. R411-1)](#212)
         - [CHAPITRE II : Droit syndical et représentativité des syndicats (art. R412-1)](#213)
-      - [Titre 3 : Pénalités. (art. R430-1)](#214)
-    - [LIVRE V : Conflits du travail (art. R513-1 à R520-1)](#215)
-      - [TITRE Ier : Conflits collectifs (art. R513-1 à R515-2)](#216)
-        - [CHAPITRE III : Conciliation (art. R513-1 à R513-10)](#217)
-          - [Section 1 : Composition des commissions de conciliation. (art. R513-2 à R513-3)](#218)
-          - [Section 2 : Fonctionnement des commissions de conciliation. (art. R513-4 à R513-10)](#219)
-        - [CHAPITRE IV : Médiation (art. R514-1 à R514-6)](#220)
-        - [CHAPITRE V : Arbitrage (art. R515-1 à R515-2)](#221)
-      - [TITRE II : Pénalités (art. R520-1)](#222)
-    - [LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail (art. R610-1 à R632-2)](#223)
-      - [TITRE Ier : Services de contrôle (art. R610-1 à R610-3)](#224)
-      - [TITRE II : Obligations des employeurs (art. R620-1 à R620-5)](#225)
-      - [TITRE III : Pénalités (art. R631-1 à R632-2)](#226)
-        - [CHAPITRE Ier : Service de contrôle (art. R631-1)](#227)
-        - [CHAPITRE II : Obligations des employeurs (art. R632-1 à R632-2)](#228)
-  - [Partie réglementaire  - Décrets simples (art. D141-1 à D514-4)](#229)
-    - [Livre 1er : Conventions relatives au travail (art. D141-1 à D141-7)](#230)
-      - [Titre 4 : Salaire (art. D141-1 à D141-7)](#231)
-        - [Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG* (art. D141-1 à D141-7)](#232)
-          - [Section 1 : Dispositions générales (art. D141-1 à D141-2)](#233)
-          - [Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement (art. D141-3 à D141-7)](#234)
-    - [Livre 2 : Réglementation du travail (art. D211-1 à D223-4)](#235)
-      - [Titre 1er : Conditions de travail (art. D211-1 à D212-5)](#236)
-        - [Chapitre 1er : Age d'admission (art. D211-1 à D211-4)](#237)
-        - [Chapitre 2 : Durée du travail (art. D212-1 à D212-5)](#238)
-          - [Section 1 : Récupération des heures perdues (art. D212-1 à D212-5)](#239)
-      - [Titre 2 : Repos et congés (art. D223-1 à D223-4)](#240)
-        - [Chapitre 3 : Congés annuels (art. D223-1 à D223-4)](#241)
-    - [Livre 3 : Emploi (art. D312-1)](#242)
-      - [Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin (art. D312-1)](#243)
-        - [Chapitre 2 : Travail clandestin (art. D312-1)](#244)
-    - [Livre 5 : Conflits du travail (art. D514-1 à D514-4)](#245)
-      - [Titre 1er : Conflits collectifs (art. D514-1 à D514-4)](#246)
-        - [Chapitre 4 : Médiation (art. D514-1 à D514-4)](#247)
+          - [Section 1 : Critères de représentativité (art. R412-1)](#214)
+      - [Titre 3 : Pénalités. (art. R430-1)](#215)
+    - [LIVRE V : Conflits du travail (art. R513-1 à R520-1)](#216)
+      - [TITRE Ier : Conflits collectifs (art. R513-1 à R515-2)](#217)
+        - [CHAPITRE III : Conciliation (art. R513-1 à R513-10)](#218)
+          - [Section 1 : Composition des commissions de conciliation. (art. R513-2 à R513-3)](#219)
+          - [Section 2 : Fonctionnement des commissions de conciliation. (art. R513-4 à R513-10)](#220)
+        - [CHAPITRE IV : Médiation (art. R514-1 à R514-6)](#221)
+        - [CHAPITRE V : Arbitrage (art. R515-1 à R515-2)](#222)
+      - [TITRE II : Pénalités (art. R520-1)](#223)
+    - [LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail (art. R610-1 à R632-2)](#224)
+      - [TITRE Ier : Services de contrôle (art. R610-1 à R610-3)](#225)
+      - [TITRE II : Obligations des employeurs (art. R620-1 à R620-5)](#226)
+      - [TITRE III : Pénalités (art. R631-1 à R632-2)](#227)
+        - [CHAPITRE Ier : Service de contrôle (art. R631-1)](#228)
+        - [CHAPITRE II : Obligations des employeurs (art. R632-1 à R632-2)](#229)
+  - [Partie réglementaire  - Décrets simples (art. D141-1 à D514-4)](#230)
+    - [Livre 1er : Conventions relatives au travail (art. D141-1 à D141-7)](#231)
+      - [Titre 4 : Salaire (art. D141-1 à D141-7)](#232)
+        - [Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG* (art. D141-1 à D141-7)](#233)
+          - [Section 1 : Dispositions générales (art. D141-1 à D141-2)](#234)
+          - [Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement (art. D141-3 à D141-7)](#235)
+    - [Livre 2 : Réglementation du travail (art. D211-1 à D223-4)](#236)
+      - [Titre 1er : Conditions de travail (art. D211-1 à D212-5)](#237)
+        - [Chapitre 1er : Age d'admission (art. D211-1 à D211-4)](#238)
+        - [Chapitre 2 : Durée du travail (art. D212-1 à D212-5)](#239)
+          - [Section 1 : Récupération des heures perdues (art. D212-1 à D212-5)](#240)
+      - [Titre 2 : Repos et congés (art. D223-1 à D223-4)](#241)
+        - [Chapitre 3 : Congés annuels (art. D223-1 à D223-4)](#242)
+    - [Livre 3 : Emploi (art. D312-1)](#243)
+      - [Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin (art. D312-1)](#244)
+        - [Chapitre 2 : Travail clandestin (art. D312-1)](#245)
+    - [Livre 5 : Conflits du travail (art. D514-1 à D514-4)](#246)
+      - [Titre 1er : Conflits collectifs (art. D514-1 à D514-4)](#247)
+        - [Chapitre 4 : Médiation (art. D514-1 à D514-4)](#248)
 # Partie législative<a id=1></a>
 
 ## LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES.<a id=2></a>
@@ -19470,29 +19471,28 @@ _Cité par_:
 
 #### CHAPITRE II : Droit syndical et représentativité des syndicats<a id=213></a>
 
+##### Section 1 : Critères de représentativité<a id=214></a>
+
 ###### Article R412-1
 
-Un arrêté du représentant de l'Etat fixe les conditions dans lesquelles sont allouées les indemnités de déplacement des
-membres de la commission consultative du travail, des commissions mixtes visées à l'article L. 133-1 et du comité de la
-formation professionnelle, de la promotion sociale et de l'emploi et, pour les membres autres que les fonctionnaires en
-activité, les vacations.
+Les enquêtes relatives à la détermination de la représentativité sont diligentées par le préfet.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe
+  - Décret n°91-1263 du 16 décembre 1991
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Décret n°2013-612 du 10 juillet 2013 - art. 4
 
 _Cite_:
 
-  - Code du travail applicable à Mayotte. - art. L133-1 (M)
+  - Code du travail applicable à Mayotte. - art. L133-1
 
 
-### Titre 3 : Pénalités.<a id=214></a>
+### Titre 3 : Pénalités.<a id=215></a>
 
 ###### Article R430-1
 
@@ -19522,11 +19522,11 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R411-1 (M)
 
 
-## LIVRE V : Conflits du travail<a id=215></a>
+## LIVRE V : Conflits du travail<a id=216></a>
 
-### TITRE Ier : Conflits collectifs<a id=216></a>
+### TITRE Ier : Conflits collectifs<a id=217></a>
 
-#### CHAPITRE III : Conciliation<a id=217></a>
+#### CHAPITRE III : Conciliation<a id=218></a>
 
 ###### Article R513-1
 
@@ -19544,7 +19544,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-##### Section 1 : Composition des commissions de conciliation.<a id=218></a>
+##### Section 1 : Composition des commissions de conciliation.<a id=219></a>
 
 ###### Article R513-2
 
@@ -19590,7 +19590,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-##### Section 2 : Fonctionnement des commissions de conciliation.<a id=219></a>
+##### Section 2 : Fonctionnement des commissions de conciliation.<a id=220></a>
 
 ###### Article R513-4
 
@@ -19754,7 +19754,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### CHAPITRE IV : Médiation<a id=220></a>
+#### CHAPITRE IV : Médiation<a id=221></a>
 
 ###### Article R514-1
 
@@ -19891,7 +19891,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### CHAPITRE V : Arbitrage<a id=221></a>
+#### CHAPITRE V : Arbitrage<a id=222></a>
 
 ###### Article R515-1
 
@@ -19930,7 +19930,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-### TITRE II : Pénalités<a id=222></a>
+### TITRE II : Pénalités<a id=223></a>
 
 ###### Article R520-1
 
@@ -19954,9 +19954,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L153-1 (V)
 
 
-## LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=223></a>
+## LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=224></a>
 
-### TITRE Ier : Services de contrôle<a id=224></a>
+### TITRE Ier : Services de contrôle<a id=225></a>
 
 ###### Article R610-1
 
@@ -20015,7 +20015,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-### TITRE II : Obligations des employeurs<a id=225></a>
+### TITRE II : Obligations des employeurs<a id=226></a>
 
 ###### Article R620-1
 
@@ -20160,9 +20160,9 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-### TITRE III : Pénalités<a id=226></a>
+### TITRE III : Pénalités<a id=227></a>
 
-#### CHAPITRE Ier : Service de contrôle<a id=227></a>
+#### CHAPITRE Ier : Service de contrôle<a id=228></a>
 
 ###### Article R631-1
 
@@ -20186,7 +20186,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L610-8 (V)
 
 
-#### CHAPITRE II : Obligations des employeurs<a id=228></a>
+#### CHAPITRE II : Obligations des employeurs<a id=229></a>
 
 ###### Article R632-1
 
@@ -20238,15 +20238,15 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R632-1 (V)
 
 
-# Partie réglementaire  - Décrets simples<a id=229></a>
+# Partie réglementaire  - Décrets simples<a id=230></a>
 
-## Livre 1er : Conventions relatives au travail<a id=230></a>
+## Livre 1er : Conventions relatives au travail<a id=231></a>
 
-### Titre 4 : Salaire<a id=231></a>
+### Titre 4 : Salaire<a id=232></a>
 
-#### Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG*<a id=232></a>
+#### Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG*<a id=233></a>
 
-##### Section 1 : Dispositions générales<a id=233></a>
+##### Section 1 : Dispositions générales<a id=234></a>
 
 ###### Article D141-1
 
@@ -20309,7 +20309,7 @@ _Cite_:
   - Code du travail applicable à la collectivité territoriale de Mayotte D141-1
 
 
-##### Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement<a id=234></a>
+##### Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement<a id=235></a>
 
 ###### Article D141-3
 
@@ -20482,11 +20482,11 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D141-2-7 (V)
 
 
-## Livre 2 : Réglementation du travail<a id=235></a>
+## Livre 2 : Réglementation du travail<a id=236></a>
 
-### Titre 1er : Conditions de travail<a id=236></a>
+### Titre 1er : Conditions de travail<a id=237></a>
 
-#### Chapitre 1er : Age d'admission<a id=237></a>
+#### Chapitre 1er : Age d'admission<a id=238></a>
 
 ###### Article D211-1
 
@@ -20570,9 +20570,9 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Chapitre 2 : Durée du travail<a id=238></a>
+#### Chapitre 2 : Durée du travail<a id=239></a>
 
-##### Section 1 : Récupération des heures perdues<a id=239></a>
+##### Section 1 : Récupération des heures perdues<a id=240></a>
 
 ###### Article D212-1
 
@@ -20724,9 +20724,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D212-8 (V)
 
 
-### Titre 2 : Repos et congés<a id=240></a>
+### Titre 2 : Repos et congés<a id=241></a>
 
-#### Chapitre 3 : Congés annuels<a id=241></a>
+#### Chapitre 3 : Congés annuels<a id=242></a>
 
 ###### Article D223-1
 
@@ -20837,11 +20837,11 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D223-5 (V)
 
 
-## Livre 3 : Emploi<a id=242></a>
+## Livre 3 : Emploi<a id=243></a>
 
-### Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin<a id=243></a>
+### Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin<a id=244></a>
 
-#### Chapitre 2 : Travail clandestin<a id=244></a>
+#### Chapitre 2 : Travail clandestin<a id=245></a>
 
 ###### Article D312-1
 
@@ -20881,11 +20881,11 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D312-9 (V)
 
 
-## Livre 5 : Conflits du travail<a id=245></a>
+## Livre 5 : Conflits du travail<a id=246></a>
 
-### Titre 1er : Conflits collectifs<a id=246></a>
+### Titre 1er : Conflits collectifs<a id=247></a>
 
-#### Chapitre 4 : Médiation<a id=247></a>
+#### Chapitre 4 : Médiation<a id=248></a>
 
 ###### Article D514-1
 
