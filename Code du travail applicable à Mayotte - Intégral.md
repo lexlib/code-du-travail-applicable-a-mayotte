@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 1998-06-27
+Version Consolidée au 1999-12-29
 ## Contenu: 
   - [Partie législative (art. L000-1 à L630-2)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L000-1 à L000-2)](#2)
@@ -6328,7 +6328,7 @@ _Cité par_:
 ###### Article L141-4
 
 Sont réputées non écrites, dans les conventions ou accords collectifs de travail, les clauses comportant des indexations sur
-le salaire minimum garanti ou des références à ce dernier en vue de la fixation et de la révision des salaires prévu par ces
+le salaire minimum garanti ou des références à ce dernier en vue de la fixation et de la révision des salaires prévus par ces
 conventions ou accords.
 
 **Liens relatifs à cet article**
@@ -6338,9 +6338,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 98-522 1998-06-24 art. 30 1° JORF 27 juin 1998
+  - Loi n°99-1123 du 28 décembre 1999 - art. 7 () JORF 29 décembre 1999
 
 
 #### CHAPITRE II : Heures supplémentaires.<a id=48></a>
