@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 1997-08-01
+Version Consolidée au 1998-06-27
 ## Contenu: 
   - [Partie législative (art. L000-1 à L630-2)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L000-1 à L000-2)](#2)
@@ -47,7 +47,7 @@ Version Consolidée au 1997-08-01
         - [CHAPITRE VI : Dispositions finales. (art. L136-1)](#44)
       - [TITRE IV : SALAIRE (art. L140-1 à L147-1)](#45)
         - [CHAPITRE PRÉLIMINAIRE : Egalité de rémunération entre les hommes et les femmes. (art. L140-1 à L140-6)](#46)
-        - [CHAPITRE Ier : Salaire minimum interprofessionnel garanti *SMIG*. (art. L141-1 à L141-3)](#47)
+        - [CHAPITRE Ier : Salaire minimum interprofessionnel garanti *SMIG*. (art. L141-1 à L141-4)](#47)
         - [CHAPITRE II : Heures supplémentaires. (art. L142-1)](#48)
         - [CHAPITRE III : Paiement du salaire (art. L143-1 à L143-15)](#49)
           - [Section 1 : Mode de paiement du salaire. (art. L143-1 à L143-5)](#50)
@@ -2795,16 +2795,12 @@ _Cité par_:
 
 ###### Article L122-35
 
+Le contrat de travail d'un salarié ou d'un apprenti, appelé au service national en application du livre II du code du service
+national, est suspendu pendant toute la durée du service national actif.
+
 Lorsqu'il connaît la date de sa libération de service national actif et, au plus tard, dans le mois suivant celle-ci, le
 travailleur qui désire reprendre l'emploi occupé par lui au moment où il a été appelé au service national doit en avertir son
-ancien employeur.
-
-Le travailleur qui a manifesté son intention de reprendre son emploi, comme il est dit à l'alinéa précédent, est réintégré
-dans l'entreprise, à moins que l'emploi occupé par lui ou un emploi ressortissant à la même catégorie professionnelle que le
-sien ait été supprimé.
-
-Lorsqu'elle est possible, la réintégration dans l'entreprise doit avoir lieu dans le mois suivant la date à laquelle
-l'employeur a été avisé par le salarié de l'intention de celui-ci de reprendre son emploi.
+ancien employeur. La réintégration dans l'entreprise est de droit.
 
 Le travailleur réintégré bénéficie de tous les avantages qu'il avait acquis au moment de son départ.
 
@@ -2823,9 +2819,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Ordonnance n°98-522 du 24 juin 1998 - art. 34 () JORF 27 juin 1998
 
 _Cité par_:
 
@@ -2834,66 +2830,43 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R161-6 (Ab)
 
 
-###### Article L122-36
-
-Un droit de priorité à l'embauchage valable durant une année à dater de sa libération est réservé à tout travailleur qui
-n'aura pu être réemployé à l'expiration du service national actif dans l'établissement où il travaillait au moment de son
-départ.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-37
-
-_Codifié par_:
-
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-_Créé par_:
-
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
-
-_Abrogé par_:
-
-  - Ordonnance n°98-522 du 24 juin 1998 - art. 34 () JORF 27 juin 1998
-
-
 ###### Article L122-37
 
-Les dispositions des articles L. 122-35 et L. 122-36 ci-dessus sont applicables, lors de leur renvoi dans leurs foyers, aux
-personnes qui, ayant accompli leur service actif, ont été maintenues au service national.
+Les dispositions de l'article L. 122-35 ci-dessus sont applicables, lors de leur renvoi dans leurs foyers, aux personnes qui,
+ayant accompli leur service actif, ont été maintenues au service national.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-35, L122-36
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-35
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+**Liens**:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - SPEC_APPLI: Ordonnance 98-522 1998-06-24 art. 34 I 3° : conditions d'application
+
+_Modifié par_:
+
+  - Ordonnance n°98-522 du 24 juin 1998 - art. 34 () JORF 27 juin 1998
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. R151-6 (T)
 
 
-###### Article L122-38
+###### Article L122-37-1
 
-En matière de contrat de travail, si un employeur, un salarié ou un apprenti se trouve astreint aux obligations imposées par
-le service préparatoire ou se trouve appelé au service national en exécution d'un engagement pour la durée de la guerre, ou
-rappelé au service national à un titre quelconque, le contrat de travail ou d'apprentissage ne peut être rompu de ce fait.
+Tout salarié ou apprenti, âgé de seize à vingt-cinq ans, qui doit participer à l'appel de préparation à la défense, bénéficie
+d'une autorisation d'absence exceptionnelle d'un jour.
+
+Cette absence exceptionnelle a pour but exclusif de permettre au salarié ou à l'apprenti de participer à l'appel de
+préparation à la défense. Elle n'entraîne pas de réduction de rémunération. Elle est assimilée à une période de travail
+effectif pour la détermination de la durée de congé annuel.
 
 **Liens relatifs à cet article**
 
@@ -2904,7 +2877,29 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Ordonnance n°98-522 du 24 juin 1998 - art. 34 () JORF 27 juin 1998
+
+
+###### Article L122-38
+
+Aucun employeur ne peut résilier le contrat de travail d'un salarié ou d'un apprenti au motif que lui-même, le salarié ou
+l'apprenti se trouve astreint aux obligations du service national, ou se trouve appelé au service national en exécution d'un
+engagement pour la durée de la guerre ou rappelé au service national à un titre quelconque.
+
+Toutefois, l'employeur peut résilier le contrat s'il justifie d'une faute grave de l'intéressé, non liée aux obligations de
+l'alinéa précédent, ou s'il se trouve dans l'impossibilité de maintenir ledit contrat pour un motif étranger auxdites
+obligations.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°98-522 du 24 juin 1998 - art. 34 () JORF 27 juin 1998
 
 
 ###### Article L122-39
@@ -3973,10 +3968,10 @@ _Anciens textes_:
 ###### Article L122-72
 
 La décision de l'inspecteur du travail ou du fonctionnaire assimilé peut faire l'objet dans les deux mois d'un recours auprès
-du directeur du travail chargé de la coordination des départements d'outre-mer et des collectivités territoriales.
+du chef du service de l'inspection du travail à Mayotte.
 
-La décision du directeur du travail chargé de cette coordination est notifiée à l'employeur et communiquée pour information
-aux représentants du personnel.
+La décision du chef du service de l'inspection du travail à Mayotte est notifiée à l'employeur et communiquée pour
+information aux représentants du personnel.
 
 **Liens relatifs à cet article**
 
@@ -3985,9 +3980,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Ordonnance 98-522 1998-06-24 art. 30 3° JORF 27 juin 1998
 
 
 ##### Sous-section 2 : Protection des salariés et droit disciplinaire.<a id=26></a>
@@ -6304,6 +6299,24 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R141-2 (Ab)
   - Code du travail applicable à Mayotte. - art. R156-2 (T)
   - Code du travail applicable à Mayotte. - art. R163-1 (Ab)
+
+
+###### Article L141-4
+
+Sont réputées non écrites, dans les conventions ou accords collectifs de travail, les clauses comportant des indexations sur
+le salaire minimum garanti ou des références à ce dernier en vue de la fixation et de la révision des salaires prévu par ces
+conventions ou accords.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance 98-522 1998-06-24 art. 30 1° JORF 27 juin 1998
 
 
 #### CHAPITRE II : Heures supplémentaires.<a id=48></a>
@@ -11437,10 +11450,10 @@ Est puni d'une amende l'étranger qui exerce une activité professionnelle salar
 autorisation de travail. Le montant maximum de l'amende est égal à vingt-cinq fois le taux horaire du salaire minimum
 interprofessionnel garanti en vigueur dans la collectivité territoriale.
 
-Sans préjudice des poursuites judiciaires qui peuvent être intentées à son encontre, l'employeur qui engage ou conserve à son
-service un étranger non muni d'une autorisation de travail est également puni d'une amende. Le montant maximum de celle-ci
-est égal à cent fois le taux horaire du salaire minimum interprofessionnel garanti en vigueur dans la collectivité
-territoriale. L'amende est due pour chaque étranger employé sans titre de travail.
+L'employeur qui engage ou conserve à son service un étranger non muni d'une autorisation de travail est puni d'une amende
+sauf si des poursuites judiciaires sont intentées à son encontre pour les mêmes faits. Le montant maximum de celle-ci est
+égal à cent fois le taux horaire du salaire minimum interprofessionnel garanti en vigueur dans la collectivité territoriale.
+L'amende est due pour chaque étranger employé sans titre de travail.
 
 Le montant de l'amende due par l'étranger ou l'employeur varie en fonction de la durée de l'emploi.
 
@@ -11462,9 +11475,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-638 du 25 juillet 1994 - art. 27 () JORF 27 juillet 1994
+  - Ordonnance 98-522 1998-06-24 art. 30 2° JORF 27 juin 1998
 
 _Cité par_:
 
@@ -13556,12 +13569,18 @@ _Cité par_:
 
 ###### Article L610-13
 
-Avant l'expiration du délai prévu, en application des articles L. 230-9, L. 230-10 ou L. 240-5 et au plus tard dans les
-quinze jours qui suivent la mise en demeure prononcée sur le fondement de l'un ou de l'autre de ces articles, le chef
-d'établissement peut saisir d'une réclamation le directeur du travail, chargé de la coordination des départements d'outre-mer
-et des collectivités territoriales.
+Dans la collectivité territoriale de Mayotte, la décision intéressant la demande de licenciement d'un délégué du personnel
+prise en application de l'article 167 de la loi du 15 décembre 1952 susvisée peut faire l'objet d'un recours hiérarchique
+auprès du ministre chargé du travail.
 
-Cette réclamation est suspensive. Il y est statué dans un délai de deux mois.
+Avant l'expiration du délai prévu en application de l'article L. 230-10 ou de l'article L. 240-5 et au plus tard dans les
+quinze jours qui suivent la mise en demeure, le chef d'établissement peut saisir d'une réclamation le chef du service de
+l'inspection du travail à Mayotte.
+
+Avant l'expiration du délai prévu en application de l'article L. 230-9 et au plus tard dans les quinze jours qui suivent la
+mise en demeure, le chef d'établissement peut saisir d'une réclamation le ministre chargé du travail.
+
+Ces réclamations sont suspensives. Il y est statué dans un délai de deux mois.
 
 La non-communication au chef d'établissement de la décision du fonctionnaire ci-dessus dans le délai prévu à l'article
 précédent vaut acceptation de la réclamation. Tout refus doit être motivé.
@@ -13574,7 +13593,8 @@ précédent vaut acceptation de la réclamation. Tout refus doit être motivé.
 
 _Cite_:
 
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L230-9, L230-10, L240-5
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L230-10, L240-5, L230-9
+  - Loi n°52-1322 du 15 décembre 1952 - art. 167 (V)
 
 **Liens**:
 
@@ -13585,9 +13605,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Ordonnance 98-522 1998-06-24 art. 30 4° JORF 27 juin 1998
 
 
 ###### Article L610-14
