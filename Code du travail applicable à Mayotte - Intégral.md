@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2005-01-01
+Version Consolidée au 2005-01-22
 ## Contenu: 
   - [Partie législative (art. L000-1 à L711-4)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L000-1 à L000-2)](#2)
@@ -110,7 +110,7 @@ Version Consolidée au 2005-01-01
         - [CHAPITRE Ier : Travail clandestin. (art. L341-1)](#107)
         - [CHAPITRE II : Main-d'oeuvre étrangère. (art. L342-1 à L342-2)](#108)
         - [Chapitre III : Mesures pour l'emploi et indemnisation du chômage (art. L343-1 à L343-2)](#109)
-    - [LIVRE IV : LES GROUPEMENTS PROFESSIONNELS LA REPRÉSENTATION DES SALARIÉS (art. L411-1 à L430-2)](#110)
+    - [LIVRE IV : LES GROUPEMENTS PROFESSIONNELS LA REPRÉSENTATION DES SALARIÉS (art. L411-1 à L435-3)](#110)
       - [TITRE Ier : LES SYNDICATS PROFESSIONNELS (art. L411-1 à L413-2)](#111)
         - [CHAPITRE Ier : Statut juridique des syndicats (art. L411-1 à L411-23)](#112)
           - [Section 1 : Objet et constitution. (art. L411-1 à L411-9)](#113)
@@ -120,301 +120,303 @@ Version Consolidée au 2005-01-01
         - [CHAPITRE III : Marques syndicales. (art. L413-1 à L413-2)](#117)
       - [TITRE II : LA COMMISSION CONSULTATIVE DU TRAVAIL. (art. L420-1 à L420-6)](#118)
       - [TITRE III : PÉNALITÉS. (art. L430-1 à L430-2)](#119)
-    - [LIVRE V : CONFLITS DU TRAVAIL (art. L511-1 à L520-1)](#120)
-      - [TITRE Ier : CONFLITS COLLECTIFS (art. L511-1 à L516-1)](#121)
-        - [CHAPITRE Ier : La grève (art. L511-1 à L511-5)](#122)
-          - [Section 1 : Généralités. (art. L511-1)](#123)
-          - [Section 2 : Grève dans les services publics. (art. L511-2 à L511-5)](#124)
-        - [CHAPITRE II : Dispositions générales concernant les procédures de règlement des conflits collectifs du travail. (art. L512-1 à L512-2)](#125)
-        - [CHAPITRE III : Conciliation. (art. L513-1 à L513-6)](#126)
-        - [CHAPITRE IV : Médiation. (art. L514-1 à L514-4)](#127)
-        - [CHAPITRE V : Arbitrage. (art. L515-1 à L515-4)](#128)
-        - [CHAPITRE VI : Dispositions finales. (art. L516-1)](#129)
-      - [TITRE II : PÉNALITÉS. (art. L520-1)](#130)
-    - [LIVRE VI : CONTRÔLE DE L'APPLICATION DE LA LÉGISLATION ET DE LA RÉGLEMENTATION DU TRAVAIL (art. L610-1 à L630-2)](#131)
-      - [TITRE Ier : SERVICES DE CONTRÔLE. (art. L610-1 à L610-14)](#132)
-      - [TITRE II : OBLIGATIONS DES EMPLOYEURS. (art. L620-1 à L620-7)](#133)
-      - [TITRE III : PÉNALITÉS. (art. L630-1 à L630-2)](#134)
-    - [LIVRE VII : DE LA FORMATION PROFESSIONNELLE (art. L711-5 à L711-4)](#135)
-      - [CHAPITRE II : CONTRATS DE FORMATION EN ALTERNANCE (art. L711-5 à L711-10)](#136)
-        - [Section 1 : Contrat de qualification (art. L711-5 à L711-6)](#137)
-        - [Section 2 : Contrat d'orientation (art. L711-7)](#138)
-        - [Section 3 : Dispositions communes aux contrats de qualification et d'orientation (art. L711-8 à L711-10)](#139)
-      - [CHAPITRE 1ER : DISPOSITIONS GENERALES (art. L711-1 à L711-4)](#140)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R122-1 à R711-1)](#141)
-    - [LIVRE Ier : Conventions relatives au travail (art. R122-1 à R156-4)](#142)
-      - [TITRE II : Contrat de travail (art. R122-1 à R128-14)](#143)
-        - [CHAPITRE II : Règles propres au contrat de travail (art. R122-1 à R122-18)](#144)
-          - [Section 1 : Règles générales. (art. R122-1 à R122-4)](#145)
-          - [Section 2 : Service national. (art. R122-5 à R122-6)](#146)
-          - [Section 3 : Repos des femmes en couches et des femmes allaitant leurs enfants. (art. R122-7 à R122-10)](#147)
-          - [Section 4 : Règlement intérieur, protection des salariés et droit disciplinaire (art. R122-11 à R122-18)](#148)
-            - [Sous-section 1 : Règlement intérieur. (art. R122-11 à R122-15)](#149)
-            - [Sous-section 2 : Protection des salariés et droit disciplinaire. (art. R122-16 à R122-18)](#150)
-        - [CHAPITRE IV : Marchandage (art. R124-1)](#151)
-        - [CHAPITRE V : Cautionnements (art. R125-1)](#152)
-        - [CHAPITRE VI : Groupements d'employeurs (art. R126-1 à R126-6)](#153)
-        - [CHAPITRE VIII : Titre de travail simplifié (art. R128-1 à R128-14)](#154)
-      - [TITRE III : Conventions et accords collectifs de travail (art. R132-1 à R135-1)](#155)
-        - [CHAPITRE II : Nature et validité des conventions et accords collectifs de travail (art. R132-1 à R132-2)](#156)
-        - [Chapitre 3 : Conventions et accords collectifs susceptibles d'être étendus et procédure d'extension et d'élargissement. (art. R133-1 à R133-2)](#157)
-        - [CHAPITRE V : Application des conventions et accords collectifs de travail (art. R135-1)](#158)
-      - [TITRE IV : Salaire (art. R140-1 à R146-2)](#159)
-        - [CHAPITRE PRELIMINAIRE : Egalité de rémunération entre les hommes et les femmes (art. R140-1)](#160)
-        - [CHAPITRE Ier : Salaire minimum interprofessionnel garanti (art. R141-1 à R141-3)](#161)
-        - [CHAPITRE III : Paiement du salaire (art. R143-1 à R143-2)](#162)
-        - [CHAPITRE V : Saisie-arrêt et cession de rémunérations dues par un employeur (art. R145-1 à R145-21)](#163)
-          - [Section 1 : Règles générales. (art. R145-1)](#164)
-          - [Section 2 : Procédure de cession et de saisie-arrêt. (art. R145-2 à R145-21)](#165)
-        - [CHAPITRE VI : Règles particulières au contrôle et à la répartition des pourboires (art. R146-1 à R146-2)](#166)
-      - [TITRE V : Pénalités (art. R151-1 à R156-4)](#167)
-        - [CHAPITRE Ier : Contrat d'apprentissage et contrat de travail (art. R151-1 à R151-8)](#168)
-          - [Section 1 : Contrat d'apprentissage. (art. R151-1 à R151-4)](#169)
-          - [Section 2 : Contrat de travail. (art. R151-5 à R151-8)](#170)
-        - [CHAPITRE II : Marchandages (art. R152-1)](#171)
-        - [CHAPITRE III : Cautionnements (art. R153-1)](#172)
-        - [CHAPITRE IV : Groupements d'employeurs (art. R154-1)](#173)
-        - [CHAPITRE V : Conventions et accords collectifs de travail (art. R155-1)](#174)
-        - [CHAPITRE VI : Salaire (art. R156-1 à R156-4)](#175)
-          - [Section 1 : Egalité de rémunération entre les hommes et les femmes. (art. R156-1)](#176)
-          - [Section 2 : Salaire minimum garanti et rémunération mensuelle minimale garantie. (art. R156-2)](#177)
-          - [Section 3 : Paiement du salaire. (art. R156-3)](#178)
-          - [Section 4 : Retenues sur le salaire. (art. R156-4)](#179)
-    - [LIVRE II : Réglementation du travail (art. R212-1 à R254-6)](#180)
-      - [TITRE Ier : Conditions de travail (art. R212-1 à R213-2)](#181)
-        - [CHAPITRE II : Durée du travail (art. R212-1 à R212-2)](#182)
-        - [CHAPITRE III : Travail de nuit (art. R213-1 à R213-2)](#183)
-      - [TITRE II : Repos et congés (art. R221-1 à R223-1)](#184)
-        - [CHAPITRE Ier : Repos hebdomadaire (art. R221-1 à R221-6)](#185)
-        - [CHAPITRE II : Jours fériés (art. R222-1)](#186)
-        - [CHAPITRE III : Congés annuels (art. R223-1)](#187)
-      - [TITRE III : Hygiène, sécurité et conditions de travail (art. R231-50 à R239-53)](#188)
-        - [CHAPITRE Ier : Dispositions générales (art. R231-50 à R231-64)](#189)
-          - [Section 3 : Manutention des charges. (art. R231-50 à R231-56)](#190)
-          - [Section 4 : Transport du personnel dans des véhicules de transport de marchandises. (art. R231-57 à R231-64)](#191)
-        - [CHAPITRE II : Hygiène, aménagement des lieux de travail, prévention des incendies (art. R232-6 à R232-84)](#192)
-          - [Section 1 : Aménagement et hygiène des lieux de travail (art. R232-6 à R232-20)](#193)
-            - [Sous-section 1 : Dispositions générales relatives à l'aménagement des lieux de travail. (art. R232-6 à R232-15)](#194)
-            - [Sous-section 2 : Installations sanitaires. (art. R232-20)](#195)
-          - [Section 2 : Ambiances des lieux de travail (art. R232-56)](#196)
-            - [Sous-section 3 : Prévention des risques dûs au bruit. (art. R232-56)](#197)
-          - [Section 4 : Prévention des incendies - Evacuation (art. R232-81 à R232-84)](#198)
-            - [Sous-section 3 : Emploi des matières inflammables. (art. R232-81 à R232-82)](#199)
-            - [Sous-section 4 : Moyens de prévention et de lutte contre l'incendie. (art. R232-84)](#200)
-        - [CHAPITRE III : Sécurité (art. R233-1 à R233-41)](#201)
-          - [Section 1 : Règles générales d'utilisation des équipements de travail et moyens de protection, y compris les équipements de protection individuelle. (art. R233-1 à R233-4)](#202)
-          - [Section 2 : Mesures d'organisation et conditions de mise en oeuvre des équipements de travail (art. R233-5 à R233-22)](#203)
-            - [Sous-section 1 : Mesures générales. (art. R233-5 à R233-12)](#204)
-            - [Sous-section 2 : Mesures particulières applicables à l'utilisation de certains équipements de travail ou à certaines situations de travail. (art. R233-13 à R233-19)](#205)
-            - [Sous-section 3 : Mesures complémentaires applicables à l'utilisation des équipements de travail mobiles. (art. R233-20 à R233-22)](#206)
-          - [Section 3 : Prescriptions techniques applicables pour l'utilisation des équipements de travail. (art. R233-24 à R233-41)](#207)
-        - [CHAPITRE IV : Dispositions particulières aux femmes et aux jeunes travailleurs. (art. R234-1 à R234-23)](#208)
-          - [Section 1 : Hygiène. (art. R234-3 à R234-4)](#209)
-          - [Section 2 : Limitation des charges. (art. R234-5 à R234-6)](#210)
-          - [Section 3 : Travaux interdits aux femmes. (art. R234-7 à R234-8)](#211)
-          - [Section 4 : Travaux interdits aux jeunes travailleurs. (art. R234-9 à R234-23)](#212)
-        - [CHAPITRE V : Mesures particulières de protection et de salubrité applicables aux établissements dont les salariés exécutent des travaux de bâtiment, des travaux publics et tous autres travaux concernant les immeubles (art. R235-1 à R235-214)](#213)
-          - [Section 1 : Mesures générales de sécurité (art. R235-2 à R235-24)](#214)
-            - [Sous-section 1 : Résistance et stabilité. (art. R235-2 à R235-4)](#215)
-            - [Sous-section 2 : Mesures de protection collective destinées à empêcher les chutes des salariés. (art. R235-5 à R235-12)](#216)
-            - [Sous-section 3 : Mesures de protection destinées à empêcher les chutes d'objets et de matériaux et les accidents dus aux planches munies de pointes saillantes. (art. R235-13 à R235-15)](#217)
-            - [Sous-section 4 : Mesures de protection individuelle. (art. R235-16 à R235-18)](#218)
-            - [Sous-section 5 : Travaux exécutés par grands vents. (art. R235-19)](#219)
-            - [Sous-section 6 : Dispositions concernant la circulation des véhicules, appareils et engins de chantier. (art. R235-20 à R235-21)](#220)
-            - [Sous-section 7 : Examens, vérifications, registres. (art. R235-22 à R235-24)](#221)
-          - [Section 2 : Appareils de levage, câbles, chaînes, cordages et crochets (art. R235-25 à R235-63)](#222)
-            - [Sous-section 1 : Appareils de levage mus mécaniquement. (art. R235-25 à R235-45)](#223)
-              - [I. - Installation des appareils et des voies. (art. R235-26 à R235-30)](#224)
-              - [II. - Organes et dispositifs annexes. (art. R235-31 à R235-37)](#225)
-              - [III. - Recettes. (art. R235-38)](#226)
-              - [IV. - Manoeuvres. (art. R235-39 à R235-42)](#227)
-              - [V. - Transport ou élévation des salariés. (art. R235-43 à R235-44)](#228)
-              - [VI. - Epreuves, examens et inspections. (art. R235-45)](#229)
-            - [Sous-section 2 : Appareils de levage mus à la main (art. R235-46 à R235-54)](#230)
-              - [I. - Installation et résistance des appareils. (art. R235-46 à R235-48)](#231)
-              - [II. - Treuils, recettes, manoeuvres. (art. R235-49 à R235-51)](#232)
-              - [III. - Transport ou élévation des salariés. (art. R235-52 à R235-54)](#233)
-            - [Sous-section 3 : Câbles, chaînes, cordages et crochets. (art. R235-55 à R235-63)](#234)
-          - [Section 3 : Travaux de terrassement à ciel ouvert et travaux souterrains (art. R235-64 à R235-96)](#235)
-            - [Sous-section 1 : Travaux de terrassement à ciel ouvert. (art. R235-64 à R235-79)](#236)
-            - [Sous-section 2 : Travaux souterrains (art. R235-80 à R235-96)](#237)
-              - [I. - Mesures à prendre pour éviter les éboulements et les chutes de blocs. (art. R235-80 à R235-82)](#238)
-              - [II. - Ventilation. (art. R235-83 à R235-89)](#239)
-              - [III. - Circulation. (art. R235-90 à R235-94)](#240)
-              - [IV. - Signalisation, éclairage. (art. R235-95 à R235-96)](#241)
-          - [Section 4 : Travaux de démolition. (art. R235-97 à R235-105)](#242)
-          - [Section 5 : Echafaudages, plates-formes, passerelles et escaliers (art. R235-106 à R235-157)](#243)
-            - [Sous-section 1 : Echafaudages (art. R235-106 à R235-142)](#244)
-              - [I. - Dispositions générales. (art. R235-106 à R235-109)](#245)
-              - [II. - Dispositions communes aux échafaudages fixes en bois ou en métal. (art. R235-110 à R235-122)](#246)
-              - [III. - Dispositions particulières aux échafaudages fixes en bois. (art. R235-123 à R235-129)](#247)
-              - [IV. - Dispositions particulières aux échafaudages fixes en métal. (art. R235-130)](#248)
-              - [V. - Echafaudages montés sur roues. (art. R235-131)](#249)
-              - [VI. - Echafaudages volants. (art. R235-132 à R235-135)](#250)
-              - [VII. - Dispositions diverses. (art. R235-136 à R235-142)](#251)
-            - [Sous-section 2 : Plates-formes, passerelles et escaliers. (art. R235-143 à R235-150)](#252)
-            - [Sous-section 3 : Echelles. (art. R235-151 à R235-157)](#253)
-          - [Section 6 : Travaux sur les toitures, travaux de montage, de démontage et de levage de charpentes et ossatures et travaux de construction comportant la mise en oeuvre d'éléments préfabriqués lourds (art. R235-158 à R235-172)](#254)
-            - [Sous-section 1 : Travaux sur les toitures. (art. R235-158 à R235-165)](#255)
-            - [Sous-section 2 : Travaux de montage, de démontage et de levage de charpentes et ossatures. (art. R235-166 à R235-171)](#256)
-            - [Sous-section 3 : Travaux de construction comportant la mise en oeuvre d'éléments préfabriqués lourds. (art. R235-172)](#257)
-          - [Section 7 : Travaux au voisinage de lignes, canalisations et installations électriques (art. R235-173 à R235-187)](#258)
-            - [Sous-section 1. (art. R235-173 à R235-183)](#259)
-            - [Sous-section 2. (art. R235-184 à R235-187)](#260)
-          - [Section 8 : Mesures générales d'hygiène et logement provisoire des salariés (art. R235-188 à R235-198)](#261)
-            - [Sous-section 1 : Mesures générales d'hygiène. (art. R235-188 à R235-195)](#262)
-            - [Sous-section 2 : Logement provisoire des salariés - Réfectoires et cuisines. (art. R235-196 à R235-198)](#263)
-          - [Section 9 : Dispositions diverses. (art. R235-199 à R235-214)](#264)
-        - [CHAPITRE VI : Mesures particulières de protection des salariés dans les établissements qui mettent en oeuvre des courants électriques (art. R236-21)](#265)
-          - [Section 3 : Protection des salariés contre les risques de contact avec des conducteurs actifs ou des pièces conductrices habituellement sous tension (contact direct) (art. R236-21)](#266)
-            - [Lignes de contact. (art. R236-21)](#267)
-        - [CHAPITRE VIII : Autres mesures particulières relatives à la protection des salariés (art. R238-1-1 à R238-7-4)](#268)
-          - [Section 1 : Mesures particulières de protection relatives à l'emploi des explosifs. (art. R238-1-1 à R238-1-47)](#269)
-            - [Sous-section 1 : Dispositions applicables à tous les tirs de mine (art. R238-1-3 à R238-1-24)](#270)
-              - [I. - Obligations générales des personnes chargées des produits explosifs. (art. R238-1-3 à R238-1-6)](#271)
-              - [II. - Règles générales relatives aux produits explosifs. (art. R238-1-7 à R238-1-10)](#272)
-              - [III. - Règles générales de mise en oeuvre des produits explosifs. (art. R238-1-11 à R238-1-24)](#273)
-            - [Sous-section 2 : Dispositions complémentaires particulières à certains tirs de mine (art. R238-1-25 à R238-1-46)](#274)
-              - [I. - Tir à la mèche. (art. R238-1-25 à R238-1-29)](#275)
-              - [II. - Tir au cordeau détonant. (art. R238-1-30 à R238-1-32)](#276)
-              - [III. - Tir électrique. (art. R238-1-33 à R238-1-38)](#277)
-              - [IV. - Tir par mines longues (art. R238-1-39 à R238-1-44)](#278)
-              - [V. - Tirs spéciaux. (art. R238-1-45 à R238-1-46)](#279)
-            - [Sous-section 3 : Dispositions diverses (art. R238-1-47)](#280)
-          - [Section 2 : Mesures particulières de sécurité relatives aux appareils de levage. (art. R238-2-1 à R238-2-42)](#281)
-            - [Sous-section 1 : Installation des appareils et des voies. (art. R238-2-2 à R238-2-5)](#282)
-            - [Sous-section 2 : Installations électriques. (art. R238-2-6 à R238-2-9)](#283)
-            - [Sous-section 3 : Cabines et moyens d'accès. (art. R238-2-10 à R238-2-19)](#284)
-            - [Sous-section 4 : Moteurs, chaînes et câbles, limiteurs de course. (art. R238-2-20 à R238-2-24)](#285)
-            - [Sous-section 5 : Manoeuvres. (art. R238-2-25 à R238-2-30)](#286)
-            - [Sous-section 6 : Visites et entretien. (art. R238-2-31 à R238-2-36)](#287)
-            - [Sous-section 7 : Dispositions diverses (art. R238-2-37 à R238-2-42)](#288)
-          - [Section 3 : Mesures particulières relatives à la protection des salariés qui exécutent des travaux de peinture et de pulvérisation. (art. R238-3-1 à R238-3-20)](#289)
-            - [Sous-section 1 : Prévention des intoxications. (art. R238-3-2 à R238-3-8)](#290)
-            - [Sous-section 2 : Prévention des incendies. (art. R238-3-9 à R238-3-18)](#291)
-            - [Sous-section 3 : Dispositions finales. (art. R238-3-19 à R238-3-20)](#292)
-          - [Section 4 : Mesures particulières de protection applicables aux établissements dans lesquels sont entreposés ou manipulés certains liquides particulièrement inflammables. (art. R238-4-1 à R238-4-10)](#293)
-          - [Section 5 : Mesures particulières relatives à la manipulation du linge sale dans les ateliers de blanchissage. (art. R238-5-1 à R238-5-8)](#294)
-          - [Section 6 : Mesures particulières relatives à la protection des salariés intervenant en milieu hyperbare (art. R238-6-1 à R238-6-39)](#295)
-            - [Sous-section 1 : Champ d'application, définitions. (art. R238-6-1 à R238-6-2)](#296)
-            - [Sous-section 2 : Conditions d'accès en milieu hyperbare. (art. R238-6-3 à R238-6-4)](#297)
-            - [Sous-section 3 : Gaz respiratoires. (art. R238-6-5 à R238-6-12)](#298)
-            - [Sous-section 4 : Equipement collectif. (art. R238-6-13 à R238-6-24)](#299)
-            - [Sous-section 5 : Equipement individuel. (art. R238-6-25 à R238-6-27)](#300)
-            - [Sous-section 6 : Procédures de sécurité. (art. R238-6-28 à R238-6-32)](#301)
-            - [Sous-section 7 : Surveillance médicale du personnel. (art. R238-6-33 à R238-6-36)](#302)
-            - [Sous-section 8 : Dispositions diverses (art. R238-6-37 à R238-6-39)](#303)
-          - [Section 7 : Mesures particulières relatives aux marins, aux ports, aux navires et autres bâtiments de mer. (art. R238-7-1 à R238-7-4)](#304)
-        - [CHAPITRE IX : Dispositions applicables aux opérations de construction dans l'intérêt de l'hygiène et de la sécurité du travail (art. R239-1 à R239-53)](#305)
-          - [Section 1 : Dispositions générales. (art. R239-1)](#306)
-          - [Section 2 : Règles d'hygiène (art. R239-2 à R239-15)](#307)
-            - [Sous-section 1 : Eclairage. (art. R239-2 à R239-5)](#308)
-            - [Sous-section 2 : Aération, assainissement. (art. R239-6 à R239-10)](#309)
-            - [Sous-section 3 : Température des locaux. (art. R239-11 à R239-12)](#310)
-            - [Sous-section 4 : Insonorisation. (art. R239-13)](#311)
-            - [Sous-section 5 : Installations sanitaires, restauration. (art. R239-14 à R239-15)](#312)
-          - [Section 3 : Règles de sécurité. (art. R239-16 à R239-37)](#313)
-          - [Section 4 : Prévention des incendies, évacuation (art. R239-38 à R239-52)](#314)
-            - [Sous-section 1 : Dispositions générales. (art. R239-38)](#315)
-            - [Sous-section 2 : Dégagements. (art. R239-39 à R239-45)](#316)
-            - [Sous-section 3 : Désenfumage. (art. R239-46)](#317)
-            - [Sous-section 4 : Locaux où sont entreposées ou manipulées des matières inflammables. (art. R239-47)](#318)
-            - [Sous-section 5 : Bâtiments dont le plancher bas du dernier niveau est situé à plus de 8 mètres du sol. (art. R239-48 à R239-50)](#319)
-            - [Sous-section 6 : Moyens de prévention et de lutte contre l'incendie. (art. R239-51)](#320)
-            - [Sous-section 7 : Mesures d'application. (art. R239-52)](#321)
-          - [Section 5 : Dossier de maintenance des lieux de travail. (art. R239-53)](#322)
-      - [TITRE V : Pénalités (art. R250-1 à R254-6)](#323)
-        - [Chapitre préliminaire. (art. R250-1 à R250-2)](#324)
-        - [Chapitre 1er : Hygiène et sécurité. (art. R251-1)](#325)
-        - [Chapitre 3 : Conditions du travail (art. R253-1 à R253-7)](#326)
-          - [Section 1 : Age d'admission. (art. R253-1)](#327)
-          - [Section 2 : Durée du travail (art. R253-2 à R253-5)](#328)
-            - [Paragraphe 1 : Dispositions générales (art. R253-2)](#329)
-            - [Paragraphe 2 : Heures supplémentaires (art. R253-3)](#330)
-            - [Paragraphe 3 : Dispositions relatives aux jeunes travailleurs (art. R253-4 à R253-5)](#331)
-          - [Section 3 : Travail de nuit. (art. R253-6 à R253-7)](#332)
-        - [Chapitre 4 : Repos et congés (art. R254-1 à R254-6)](#333)
-          - [Section 1 : Repos hebdomadaire. (art. R254-1 à R254-2)](#334)
-          - [Section 2 : Jours fériés (art. R254-3 à R254-5)](#335)
-            - [Paragraphe 1 : Dispositions générales (art. R254-3 à R254-4)](#336)
-            - [Paragraphe 2 : Dispositions particulières à la journée du 1er mai. (art. R254-5)](#337)
-          - [Section 3 : Congés annuels. (art. R254-6)](#338)
-    - [LIVRE III : Emploi (art. R311-1 à R342-1)](#339)
-      - [TITRE Ier : Déclaration des mouvements de main-d'oeuvre - Travail clandestin (art. R311-1 à R312-1)](#340)
-        - [Chapitre 1er : Déclaration des mouvements de main-d'oeuvre. (art. R311-1)](#341)
-        - [Chapitre 2 : Travail clandestin. (art. R312-1)](#342)
-      - [TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité départementale (art. R321-1 à R327-14)](#343)
-        - [Chapitre 1er : Généralités. (art. R321-1 à R321-6)](#344)
-        - [Chapitre 3 : Dispositions relatives au contrat de retour à l'emploi (art. R323-1 à R323-7)](#345)
-        - [CHAPITRE IV : Dispositions particulières relatives à l'emploi des jeunes (art. R324-1)](#346)
-          - [Projet initiative-jeune (art. R324-1)](#347)
-        - [CHAPITRE V : Dispositions relatives à la création d'entreprises et à la création d'emplois (art. R325-1 à R325-9)](#348)
-          - [Section 1 : Aide à la création d'entreprises à l'initiative des demandeurs d'emploi (art. R325-1 à R325-2)](#349)
-          - [Section 3 : Agence mahoraise pour le développement d'activités d'utilité sociale (art. R325-3 à R325-8)](#350)
-          - [Section 4 : Fonds pour l'emploi (art. R325-9)](#351)
-        - [CHAPITRE VI : Placement (art. R326-1 à R326-34)](#352)
-          - [Section 1 : Agence nationale pour l'emploi (art. R326-1 à R326-7)](#353)
-          - [Section 2 : Organismes qui concourent au service public du placement (art. R326-8 à R326-12)](#354)
-          - [Section 3 : Notification par les employeurs des places vacantes (art. R326-13)](#355)
-          - [Section 4 : Inscription et radiation de la liste des demandeurs d'emploi (art. R326-14 à R326-22)](#356)
-          - [Section 5 : Collectivités territoriales (art. R326-23 à R326-28)](#357)
-          - [Section 6 : Dispositions diverses (art. R326-29 à R326-34)](#358)
-        - [CHAPITRE VII : Indemnisation du chômage (art. R327-10 à R327-14)](#359)
-          - [Section 2 : Perte temporaire de salaire (art. R327-10 à R327-14)](#360)
-      - [TITRE III : Main-d'oeuvre étrangère (art. R330-1 à R330-9)](#361)
-      - [TITRE IV : Pénalités (art. R341-1 à R342-1)](#362)
-        - [CHAPITRE Ier : Travail clandestin (art. R341-1)](#363)
-        - [CHAPITRE II : Déclaration des mouvements de main-d'oeuvre (art. R342-1)](#364)
-    - [LIVRE IV : Les groupements professionnels - La représentation des salariés (art. R411-1 à R430-1)](#365)
-      - [TITRE Ier : Les syndicats professionnels (art. R411-1 à R412-1)](#366)
-        - [CHAPITRE Ier : Statut juridique des syndicats (art. R411-1)](#367)
-        - [CHAPITRE II : Droit syndical et représentativité des syndicats (art. R412-1)](#368)
-          - [Section 1 : Critères de représentativité (art. R412-1)](#369)
-      - [Titre 3 : Pénalités. (art. R430-1)](#370)
-    - [LIVRE V : Conflits du travail (art. R513-1 à R520-1)](#371)
-      - [TITRE Ier : Conflits collectifs (art. R513-1 à R515-2)](#372)
-        - [CHAPITRE III : Conciliation (art. R513-1 à R513-10)](#373)
-          - [Section 1 : Composition des commissions de conciliation. (art. R513-2 à R513-3)](#374)
-          - [Section 2 : Fonctionnement des commissions de conciliation. (art. R513-4 à R513-10)](#375)
-        - [CHAPITRE IV : Médiation (art. R514-1 à R514-6)](#376)
-        - [CHAPITRE V : Arbitrage (art. R515-1 à R515-2)](#377)
-      - [TITRE II : Pénalités (art. R520-1)](#378)
-    - [LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail (art. R610-1 à R632-2)](#379)
-      - [TITRE Ier : Services de contrôle (art. R610-1 à R610-3)](#380)
-      - [TITRE II : Obligations des employeurs (art. R620-1 à R620-5)](#381)
-      - [TITRE III : Pénalités (art. R631-1 à R632-2)](#382)
-        - [CHAPITRE Ier : Service de contrôle (art. R631-1)](#383)
-        - [CHAPITRE II : Obligations des employeurs (art. R632-1 à R632-2)](#384)
-    - [LIVRE VII : Formation professionnelle (art. R711-1)](#385)
-      - [Chapitre unique : Dispositions communes aux contrats de qualification et aux contrats d'orientation (art. R711-1)](#386)
-  - [Partie réglementaire  - Décrets simples (art. D141-1 à D712-17)](#387)
-    - [Livre 1er : Conventions relatives au travail (art. D141-1 à D141-7)](#388)
-      - [Titre 4 : Salaire (art. D141-1 à D141-7)](#389)
-        - [Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG* (art. D141-1 à D141-7)](#390)
-          - [Section 1 : Dispositions générales (art. D141-1 à D141-2)](#391)
-          - [Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement (art. D141-3 à D141-7)](#392)
-    - [Livre 2 : Réglementation du travail (art. D211-1 à D223-4)](#393)
-      - [Titre 1er : Conditions de travail (art. D211-1 à D212-5)](#394)
-        - [Chapitre 1er : Age d'admission (art. D211-1 à D211-4)](#395)
-        - [Chapitre 2 : Durée du travail (art. D212-1 à D212-5)](#396)
-          - [Section 1 : Récupération des heures perdues (art. D212-1 à D212-5)](#397)
-      - [Titre 2 : Repos et congés (art. D223-1 à D223-4)](#398)
-        - [Chapitre 3 : Congés annuels (art. D223-1 à D223-4)](#399)
-    - [Livre 3 : Emploi (art. D312-1 à D327-10)](#400)
-      - [Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin (art. D312-1)](#401)
-        - [Chapitre 2 : Travail clandestin (art. D312-1)](#402)
-      - [Titre 2 : Aides à l'emploi - Intervention du fonds national de l'emploi (art. D324-9 à D327-10)](#403)
-        - [Chapitre 4 : Dispositions particulières relatives à l'emploi des jeunes - Projet initiative-jeune (art. D324-9)](#404)
-        - [Chapitre 5 : Dispositions relatives à la création d'entreprises et à la création d'emplois - Aide à la création d'entreprises à l'initiative des demandeurs d'emploi (art. D325-1)](#405)
-        - [Chapitre 7 : Indemnisation du chômage (art. D327-10)](#406)
-          - [Section 2 : Perte temporaire de salaire (art. D327-10)](#407)
-    - [Livre 5 : Conflits du travail (art. D514-1 à D514-4)](#408)
-      - [Titre 1er : Conflits collectifs (art. D514-1 à D514-4)](#409)
-        - [Chapitre 4 : Médiation (art. D514-1 à D514-4)](#410)
-    - [Livre 7 : De la formation professionnelle (art. D712-1 à D712-17)](#411)
-      - [Chapitre 2 : Contrats de formation en alternance Section 1 : Contrats de qualification (art. D712-1 à D712-7)](#412)
-      - [Chapitre 2 : Contrats de formation en alternance Section 2 : Contrats d'orientation (art. D712-8 à D712-11)](#413)
-      - [Chapitre 2 : Contrats de formation en alternance Section 3 : Dispositions communes aux contrats de qualification et d'orientation (art. D712-12 à D712-17)](#414)
+      - [TITRE III : LES DÉLÉGUÉS DU PERSONNEL (art. L435-1 à L435-3)](#120)
+        - [CHAPITRE V : Licenciement des délégués du personnel. (art. L435-1 à L435-3)](#121)
+    - [LIVRE V : CONFLITS DU TRAVAIL (art. L511-1 à L520-1)](#122)
+      - [TITRE Ier : CONFLITS COLLECTIFS (art. L511-1 à L516-1)](#123)
+        - [CHAPITRE Ier : La grève (art. L511-1 à L511-5)](#124)
+          - [Section 1 : Généralités. (art. L511-1)](#125)
+          - [Section 2 : Grève dans les services publics. (art. L511-2 à L511-5)](#126)
+        - [CHAPITRE II : Dispositions générales concernant les procédures de règlement des conflits collectifs du travail. (art. L512-1 à L512-2)](#127)
+        - [CHAPITRE III : Conciliation. (art. L513-1 à L513-6)](#128)
+        - [CHAPITRE IV : Médiation. (art. L514-1 à L514-4)](#129)
+        - [CHAPITRE V : Arbitrage. (art. L515-1 à L515-4)](#130)
+        - [CHAPITRE VI : Dispositions finales. (art. L516-1)](#131)
+      - [TITRE II : PÉNALITÉS. (art. L520-1)](#132)
+    - [LIVRE VI : CONTRÔLE DE L'APPLICATION DE LA LÉGISLATION ET DE LA RÉGLEMENTATION DU TRAVAIL (art. L610-1 à L630-2)](#133)
+      - [TITRE Ier : SERVICES DE CONTRÔLE. (art. L610-1 à L610-14)](#134)
+      - [TITRE II : OBLIGATIONS DES EMPLOYEURS. (art. L620-1 à L620-7)](#135)
+      - [TITRE III : PÉNALITÉS. (art. L630-1 à L630-2)](#136)
+    - [LIVRE VII : DE LA FORMATION PROFESSIONNELLE (art. L711-5 à L711-4)](#137)
+      - [CHAPITRE II : CONTRATS DE FORMATION EN ALTERNANCE (art. L711-5 à L711-10)](#138)
+        - [Section 1 : Contrat de qualification (art. L711-5 à L711-6)](#139)
+        - [Section 2 : Contrat d'orientation (art. L711-7)](#140)
+        - [Section 3 : Dispositions communes aux contrats de qualification et d'orientation (art. L711-8 à L711-10)](#141)
+      - [CHAPITRE 1ER : DISPOSITIONS GENERALES (art. L711-1 à L711-4)](#142)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R122-1 à R711-1)](#143)
+    - [LIVRE Ier : Conventions relatives au travail (art. R122-1 à R156-4)](#144)
+      - [TITRE II : Contrat de travail (art. R122-1 à R128-14)](#145)
+        - [CHAPITRE II : Règles propres au contrat de travail (art. R122-1 à R122-18)](#146)
+          - [Section 1 : Règles générales. (art. R122-1 à R122-4)](#147)
+          - [Section 2 : Service national. (art. R122-5 à R122-6)](#148)
+          - [Section 3 : Repos des femmes en couches et des femmes allaitant leurs enfants. (art. R122-7 à R122-10)](#149)
+          - [Section 4 : Règlement intérieur, protection des salariés et droit disciplinaire (art. R122-11 à R122-18)](#150)
+            - [Sous-section 1 : Règlement intérieur. (art. R122-11 à R122-15)](#151)
+            - [Sous-section 2 : Protection des salariés et droit disciplinaire. (art. R122-16 à R122-18)](#152)
+        - [CHAPITRE IV : Marchandage (art. R124-1)](#153)
+        - [CHAPITRE V : Cautionnements (art. R125-1)](#154)
+        - [CHAPITRE VI : Groupements d'employeurs (art. R126-1 à R126-6)](#155)
+        - [CHAPITRE VIII : Titre de travail simplifié (art. R128-1 à R128-14)](#156)
+      - [TITRE III : Conventions et accords collectifs de travail (art. R132-1 à R135-1)](#157)
+        - [CHAPITRE II : Nature et validité des conventions et accords collectifs de travail (art. R132-1 à R132-2)](#158)
+        - [Chapitre 3 : Conventions et accords collectifs susceptibles d'être étendus et procédure d'extension et d'élargissement. (art. R133-1 à R133-2)](#159)
+        - [CHAPITRE V : Application des conventions et accords collectifs de travail (art. R135-1)](#160)
+      - [TITRE IV : Salaire (art. R140-1 à R146-2)](#161)
+        - [CHAPITRE PRELIMINAIRE : Egalité de rémunération entre les hommes et les femmes (art. R140-1)](#162)
+        - [CHAPITRE Ier : Salaire minimum interprofessionnel garanti (art. R141-1 à R141-3)](#163)
+        - [CHAPITRE III : Paiement du salaire (art. R143-1 à R143-2)](#164)
+        - [CHAPITRE V : Saisie-arrêt et cession de rémunérations dues par un employeur (art. R145-1 à R145-21)](#165)
+          - [Section 1 : Règles générales. (art. R145-1)](#166)
+          - [Section 2 : Procédure de cession et de saisie-arrêt. (art. R145-2 à R145-21)](#167)
+        - [CHAPITRE VI : Règles particulières au contrôle et à la répartition des pourboires (art. R146-1 à R146-2)](#168)
+      - [TITRE V : Pénalités (art. R151-1 à R156-4)](#169)
+        - [CHAPITRE Ier : Contrat d'apprentissage et contrat de travail (art. R151-1 à R151-8)](#170)
+          - [Section 1 : Contrat d'apprentissage. (art. R151-1 à R151-4)](#171)
+          - [Section 2 : Contrat de travail. (art. R151-5 à R151-8)](#172)
+        - [CHAPITRE II : Marchandages (art. R152-1)](#173)
+        - [CHAPITRE III : Cautionnements (art. R153-1)](#174)
+        - [CHAPITRE IV : Groupements d'employeurs (art. R154-1)](#175)
+        - [CHAPITRE V : Conventions et accords collectifs de travail (art. R155-1)](#176)
+        - [CHAPITRE VI : Salaire (art. R156-1 à R156-4)](#177)
+          - [Section 1 : Egalité de rémunération entre les hommes et les femmes. (art. R156-1)](#178)
+          - [Section 2 : Salaire minimum garanti et rémunération mensuelle minimale garantie. (art. R156-2)](#179)
+          - [Section 3 : Paiement du salaire. (art. R156-3)](#180)
+          - [Section 4 : Retenues sur le salaire. (art. R156-4)](#181)
+    - [LIVRE II : Réglementation du travail (art. R212-1 à R254-6)](#182)
+      - [TITRE Ier : Conditions de travail (art. R212-1 à R213-2)](#183)
+        - [CHAPITRE II : Durée du travail (art. R212-1 à R212-2)](#184)
+        - [CHAPITRE III : Travail de nuit (art. R213-1 à R213-2)](#185)
+      - [TITRE II : Repos et congés (art. R221-1 à R223-1)](#186)
+        - [CHAPITRE Ier : Repos hebdomadaire (art. R221-1 à R221-6)](#187)
+        - [CHAPITRE II : Jours fériés (art. R222-1)](#188)
+        - [CHAPITRE III : Congés annuels (art. R223-1)](#189)
+      - [TITRE III : Hygiène, sécurité et conditions de travail (art. R231-50 à R239-53)](#190)
+        - [CHAPITRE Ier : Dispositions générales (art. R231-50 à R231-64)](#191)
+          - [Section 3 : Manutention des charges. (art. R231-50 à R231-56)](#192)
+          - [Section 4 : Transport du personnel dans des véhicules de transport de marchandises. (art. R231-57 à R231-64)](#193)
+        - [CHAPITRE II : Hygiène, aménagement des lieux de travail, prévention des incendies (art. R232-6 à R232-84)](#194)
+          - [Section 1 : Aménagement et hygiène des lieux de travail (art. R232-6 à R232-20)](#195)
+            - [Sous-section 1 : Dispositions générales relatives à l'aménagement des lieux de travail. (art. R232-6 à R232-15)](#196)
+            - [Sous-section 2 : Installations sanitaires. (art. R232-20)](#197)
+          - [Section 2 : Ambiances des lieux de travail (art. R232-56)](#198)
+            - [Sous-section 3 : Prévention des risques dûs au bruit. (art. R232-56)](#199)
+          - [Section 4 : Prévention des incendies - Evacuation (art. R232-81 à R232-84)](#200)
+            - [Sous-section 3 : Emploi des matières inflammables. (art. R232-81 à R232-82)](#201)
+            - [Sous-section 4 : Moyens de prévention et de lutte contre l'incendie. (art. R232-84)](#202)
+        - [CHAPITRE III : Sécurité (art. R233-1 à R233-41)](#203)
+          - [Section 1 : Règles générales d'utilisation des équipements de travail et moyens de protection, y compris les équipements de protection individuelle. (art. R233-1 à R233-4)](#204)
+          - [Section 2 : Mesures d'organisation et conditions de mise en oeuvre des équipements de travail (art. R233-5 à R233-22)](#205)
+            - [Sous-section 1 : Mesures générales. (art. R233-5 à R233-12)](#206)
+            - [Sous-section 2 : Mesures particulières applicables à l'utilisation de certains équipements de travail ou à certaines situations de travail. (art. R233-13 à R233-19)](#207)
+            - [Sous-section 3 : Mesures complémentaires applicables à l'utilisation des équipements de travail mobiles. (art. R233-20 à R233-22)](#208)
+          - [Section 3 : Prescriptions techniques applicables pour l'utilisation des équipements de travail. (art. R233-24 à R233-41)](#209)
+        - [CHAPITRE IV : Dispositions particulières aux femmes et aux jeunes travailleurs. (art. R234-1 à R234-23)](#210)
+          - [Section 1 : Hygiène. (art. R234-3 à R234-4)](#211)
+          - [Section 2 : Limitation des charges. (art. R234-5 à R234-6)](#212)
+          - [Section 3 : Travaux interdits aux femmes. (art. R234-7 à R234-8)](#213)
+          - [Section 4 : Travaux interdits aux jeunes travailleurs. (art. R234-9 à R234-23)](#214)
+        - [CHAPITRE V : Mesures particulières de protection et de salubrité applicables aux établissements dont les salariés exécutent des travaux de bâtiment, des travaux publics et tous autres travaux concernant les immeubles (art. R235-1 à R235-214)](#215)
+          - [Section 1 : Mesures générales de sécurité (art. R235-2 à R235-24)](#216)
+            - [Sous-section 1 : Résistance et stabilité. (art. R235-2 à R235-4)](#217)
+            - [Sous-section 2 : Mesures de protection collective destinées à empêcher les chutes des salariés. (art. R235-5 à R235-12)](#218)
+            - [Sous-section 3 : Mesures de protection destinées à empêcher les chutes d'objets et de matériaux et les accidents dus aux planches munies de pointes saillantes. (art. R235-13 à R235-15)](#219)
+            - [Sous-section 4 : Mesures de protection individuelle. (art. R235-16 à R235-18)](#220)
+            - [Sous-section 5 : Travaux exécutés par grands vents. (art. R235-19)](#221)
+            - [Sous-section 6 : Dispositions concernant la circulation des véhicules, appareils et engins de chantier. (art. R235-20 à R235-21)](#222)
+            - [Sous-section 7 : Examens, vérifications, registres. (art. R235-22 à R235-24)](#223)
+          - [Section 2 : Appareils de levage, câbles, chaînes, cordages et crochets (art. R235-25 à R235-63)](#224)
+            - [Sous-section 1 : Appareils de levage mus mécaniquement. (art. R235-25 à R235-45)](#225)
+              - [I. - Installation des appareils et des voies. (art. R235-26 à R235-30)](#226)
+              - [II. - Organes et dispositifs annexes. (art. R235-31 à R235-37)](#227)
+              - [III. - Recettes. (art. R235-38)](#228)
+              - [IV. - Manoeuvres. (art. R235-39 à R235-42)](#229)
+              - [V. - Transport ou élévation des salariés. (art. R235-43 à R235-44)](#230)
+              - [VI. - Epreuves, examens et inspections. (art. R235-45)](#231)
+            - [Sous-section 2 : Appareils de levage mus à la main (art. R235-46 à R235-54)](#232)
+              - [I. - Installation et résistance des appareils. (art. R235-46 à R235-48)](#233)
+              - [II. - Treuils, recettes, manoeuvres. (art. R235-49 à R235-51)](#234)
+              - [III. - Transport ou élévation des salariés. (art. R235-52 à R235-54)](#235)
+            - [Sous-section 3 : Câbles, chaînes, cordages et crochets. (art. R235-55 à R235-63)](#236)
+          - [Section 3 : Travaux de terrassement à ciel ouvert et travaux souterrains (art. R235-64 à R235-96)](#237)
+            - [Sous-section 1 : Travaux de terrassement à ciel ouvert. (art. R235-64 à R235-79)](#238)
+            - [Sous-section 2 : Travaux souterrains (art. R235-80 à R235-96)](#239)
+              - [I. - Mesures à prendre pour éviter les éboulements et les chutes de blocs. (art. R235-80 à R235-82)](#240)
+              - [II. - Ventilation. (art. R235-83 à R235-89)](#241)
+              - [III. - Circulation. (art. R235-90 à R235-94)](#242)
+              - [IV. - Signalisation, éclairage. (art. R235-95 à R235-96)](#243)
+          - [Section 4 : Travaux de démolition. (art. R235-97 à R235-105)](#244)
+          - [Section 5 : Echafaudages, plates-formes, passerelles et escaliers (art. R235-106 à R235-157)](#245)
+            - [Sous-section 1 : Echafaudages (art. R235-106 à R235-142)](#246)
+              - [I. - Dispositions générales. (art. R235-106 à R235-109)](#247)
+              - [II. - Dispositions communes aux échafaudages fixes en bois ou en métal. (art. R235-110 à R235-122)](#248)
+              - [III. - Dispositions particulières aux échafaudages fixes en bois. (art. R235-123 à R235-129)](#249)
+              - [IV. - Dispositions particulières aux échafaudages fixes en métal. (art. R235-130)](#250)
+              - [V. - Echafaudages montés sur roues. (art. R235-131)](#251)
+              - [VI. - Echafaudages volants. (art. R235-132 à R235-135)](#252)
+              - [VII. - Dispositions diverses. (art. R235-136 à R235-142)](#253)
+            - [Sous-section 2 : Plates-formes, passerelles et escaliers. (art. R235-143 à R235-150)](#254)
+            - [Sous-section 3 : Echelles. (art. R235-151 à R235-157)](#255)
+          - [Section 6 : Travaux sur les toitures, travaux de montage, de démontage et de levage de charpentes et ossatures et travaux de construction comportant la mise en oeuvre d'éléments préfabriqués lourds (art. R235-158 à R235-172)](#256)
+            - [Sous-section 1 : Travaux sur les toitures. (art. R235-158 à R235-165)](#257)
+            - [Sous-section 2 : Travaux de montage, de démontage et de levage de charpentes et ossatures. (art. R235-166 à R235-171)](#258)
+            - [Sous-section 3 : Travaux de construction comportant la mise en oeuvre d'éléments préfabriqués lourds. (art. R235-172)](#259)
+          - [Section 7 : Travaux au voisinage de lignes, canalisations et installations électriques (art. R235-173 à R235-187)](#260)
+            - [Sous-section 1. (art. R235-173 à R235-183)](#261)
+            - [Sous-section 2. (art. R235-184 à R235-187)](#262)
+          - [Section 8 : Mesures générales d'hygiène et logement provisoire des salariés (art. R235-188 à R235-198)](#263)
+            - [Sous-section 1 : Mesures générales d'hygiène. (art. R235-188 à R235-195)](#264)
+            - [Sous-section 2 : Logement provisoire des salariés - Réfectoires et cuisines. (art. R235-196 à R235-198)](#265)
+          - [Section 9 : Dispositions diverses. (art. R235-199 à R235-214)](#266)
+        - [CHAPITRE VI : Mesures particulières de protection des salariés dans les établissements qui mettent en oeuvre des courants électriques (art. R236-21)](#267)
+          - [Section 3 : Protection des salariés contre les risques de contact avec des conducteurs actifs ou des pièces conductrices habituellement sous tension (contact direct) (art. R236-21)](#268)
+            - [Lignes de contact. (art. R236-21)](#269)
+        - [CHAPITRE VIII : Autres mesures particulières relatives à la protection des salariés (art. R238-1-1 à R238-7-4)](#270)
+          - [Section 1 : Mesures particulières de protection relatives à l'emploi des explosifs. (art. R238-1-1 à R238-1-47)](#271)
+            - [Sous-section 1 : Dispositions applicables à tous les tirs de mine (art. R238-1-3 à R238-1-24)](#272)
+              - [I. - Obligations générales des personnes chargées des produits explosifs. (art. R238-1-3 à R238-1-6)](#273)
+              - [II. - Règles générales relatives aux produits explosifs. (art. R238-1-7 à R238-1-10)](#274)
+              - [III. - Règles générales de mise en oeuvre des produits explosifs. (art. R238-1-11 à R238-1-24)](#275)
+            - [Sous-section 2 : Dispositions complémentaires particulières à certains tirs de mine (art. R238-1-25 à R238-1-46)](#276)
+              - [I. - Tir à la mèche. (art. R238-1-25 à R238-1-29)](#277)
+              - [II. - Tir au cordeau détonant. (art. R238-1-30 à R238-1-32)](#278)
+              - [III. - Tir électrique. (art. R238-1-33 à R238-1-38)](#279)
+              - [IV. - Tir par mines longues (art. R238-1-39 à R238-1-44)](#280)
+              - [V. - Tirs spéciaux. (art. R238-1-45 à R238-1-46)](#281)
+            - [Sous-section 3 : Dispositions diverses (art. R238-1-47)](#282)
+          - [Section 2 : Mesures particulières de sécurité relatives aux appareils de levage. (art. R238-2-1 à R238-2-42)](#283)
+            - [Sous-section 1 : Installation des appareils et des voies. (art. R238-2-2 à R238-2-5)](#284)
+            - [Sous-section 2 : Installations électriques. (art. R238-2-6 à R238-2-9)](#285)
+            - [Sous-section 3 : Cabines et moyens d'accès. (art. R238-2-10 à R238-2-19)](#286)
+            - [Sous-section 4 : Moteurs, chaînes et câbles, limiteurs de course. (art. R238-2-20 à R238-2-24)](#287)
+            - [Sous-section 5 : Manoeuvres. (art. R238-2-25 à R238-2-30)](#288)
+            - [Sous-section 6 : Visites et entretien. (art. R238-2-31 à R238-2-36)](#289)
+            - [Sous-section 7 : Dispositions diverses (art. R238-2-37 à R238-2-42)](#290)
+          - [Section 3 : Mesures particulières relatives à la protection des salariés qui exécutent des travaux de peinture et de pulvérisation. (art. R238-3-1 à R238-3-20)](#291)
+            - [Sous-section 1 : Prévention des intoxications. (art. R238-3-2 à R238-3-8)](#292)
+            - [Sous-section 2 : Prévention des incendies. (art. R238-3-9 à R238-3-18)](#293)
+            - [Sous-section 3 : Dispositions finales. (art. R238-3-19 à R238-3-20)](#294)
+          - [Section 4 : Mesures particulières de protection applicables aux établissements dans lesquels sont entreposés ou manipulés certains liquides particulièrement inflammables. (art. R238-4-1 à R238-4-10)](#295)
+          - [Section 5 : Mesures particulières relatives à la manipulation du linge sale dans les ateliers de blanchissage. (art. R238-5-1 à R238-5-8)](#296)
+          - [Section 6 : Mesures particulières relatives à la protection des salariés intervenant en milieu hyperbare (art. R238-6-1 à R238-6-39)](#297)
+            - [Sous-section 1 : Champ d'application, définitions. (art. R238-6-1 à R238-6-2)](#298)
+            - [Sous-section 2 : Conditions d'accès en milieu hyperbare. (art. R238-6-3 à R238-6-4)](#299)
+            - [Sous-section 3 : Gaz respiratoires. (art. R238-6-5 à R238-6-12)](#300)
+            - [Sous-section 4 : Equipement collectif. (art. R238-6-13 à R238-6-24)](#301)
+            - [Sous-section 5 : Equipement individuel. (art. R238-6-25 à R238-6-27)](#302)
+            - [Sous-section 6 : Procédures de sécurité. (art. R238-6-28 à R238-6-32)](#303)
+            - [Sous-section 7 : Surveillance médicale du personnel. (art. R238-6-33 à R238-6-36)](#304)
+            - [Sous-section 8 : Dispositions diverses (art. R238-6-37 à R238-6-39)](#305)
+          - [Section 7 : Mesures particulières relatives aux marins, aux ports, aux navires et autres bâtiments de mer. (art. R238-7-1 à R238-7-4)](#306)
+        - [CHAPITRE IX : Dispositions applicables aux opérations de construction dans l'intérêt de l'hygiène et de la sécurité du travail (art. R239-1 à R239-53)](#307)
+          - [Section 1 : Dispositions générales. (art. R239-1)](#308)
+          - [Section 2 : Règles d'hygiène (art. R239-2 à R239-15)](#309)
+            - [Sous-section 1 : Eclairage. (art. R239-2 à R239-5)](#310)
+            - [Sous-section 2 : Aération, assainissement. (art. R239-6 à R239-10)](#311)
+            - [Sous-section 3 : Température des locaux. (art. R239-11 à R239-12)](#312)
+            - [Sous-section 4 : Insonorisation. (art. R239-13)](#313)
+            - [Sous-section 5 : Installations sanitaires, restauration. (art. R239-14 à R239-15)](#314)
+          - [Section 3 : Règles de sécurité. (art. R239-16 à R239-37)](#315)
+          - [Section 4 : Prévention des incendies, évacuation (art. R239-38 à R239-52)](#316)
+            - [Sous-section 1 : Dispositions générales. (art. R239-38)](#317)
+            - [Sous-section 2 : Dégagements. (art. R239-39 à R239-45)](#318)
+            - [Sous-section 3 : Désenfumage. (art. R239-46)](#319)
+            - [Sous-section 4 : Locaux où sont entreposées ou manipulées des matières inflammables. (art. R239-47)](#320)
+            - [Sous-section 5 : Bâtiments dont le plancher bas du dernier niveau est situé à plus de 8 mètres du sol. (art. R239-48 à R239-50)](#321)
+            - [Sous-section 6 : Moyens de prévention et de lutte contre l'incendie. (art. R239-51)](#322)
+            - [Sous-section 7 : Mesures d'application. (art. R239-52)](#323)
+          - [Section 5 : Dossier de maintenance des lieux de travail. (art. R239-53)](#324)
+      - [TITRE V : Pénalités (art. R250-1 à R254-6)](#325)
+        - [Chapitre préliminaire. (art. R250-1 à R250-2)](#326)
+        - [Chapitre 1er : Hygiène et sécurité. (art. R251-1)](#327)
+        - [Chapitre 3 : Conditions du travail (art. R253-1 à R253-7)](#328)
+          - [Section 1 : Age d'admission. (art. R253-1)](#329)
+          - [Section 2 : Durée du travail (art. R253-2 à R253-5)](#330)
+            - [Paragraphe 1 : Dispositions générales (art. R253-2)](#331)
+            - [Paragraphe 2 : Heures supplémentaires (art. R253-3)](#332)
+            - [Paragraphe 3 : Dispositions relatives aux jeunes travailleurs (art. R253-4 à R253-5)](#333)
+          - [Section 3 : Travail de nuit. (art. R253-6 à R253-7)](#334)
+        - [Chapitre 4 : Repos et congés (art. R254-1 à R254-6)](#335)
+          - [Section 1 : Repos hebdomadaire. (art. R254-1 à R254-2)](#336)
+          - [Section 2 : Jours fériés (art. R254-3 à R254-5)](#337)
+            - [Paragraphe 1 : Dispositions générales (art. R254-3 à R254-4)](#338)
+            - [Paragraphe 2 : Dispositions particulières à la journée du 1er mai. (art. R254-5)](#339)
+          - [Section 3 : Congés annuels. (art. R254-6)](#340)
+    - [LIVRE III : Emploi (art. R311-1 à R342-1)](#341)
+      - [TITRE Ier : Déclaration des mouvements de main-d'oeuvre - Travail clandestin (art. R311-1 à R312-1)](#342)
+        - [Chapitre 1er : Déclaration des mouvements de main-d'oeuvre. (art. R311-1)](#343)
+        - [Chapitre 2 : Travail clandestin. (art. R312-1)](#344)
+      - [TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité départementale (art. R321-1 à R327-14)](#345)
+        - [Chapitre 1er : Généralités. (art. R321-1 à R321-6)](#346)
+        - [Chapitre 3 : Dispositions relatives au contrat de retour à l'emploi (art. R323-1 à R323-7)](#347)
+        - [CHAPITRE IV : Dispositions particulières relatives à l'emploi des jeunes (art. R324-1)](#348)
+          - [Projet initiative-jeune (art. R324-1)](#349)
+        - [CHAPITRE V : Dispositions relatives à la création d'entreprises et à la création d'emplois (art. R325-1 à R325-9)](#350)
+          - [Section 1 : Aide à la création d'entreprises à l'initiative des demandeurs d'emploi (art. R325-1 à R325-2)](#351)
+          - [Section 3 : Agence mahoraise pour le développement d'activités d'utilité sociale (art. R325-3 à R325-8)](#352)
+          - [Section 4 : Fonds pour l'emploi (art. R325-9)](#353)
+        - [CHAPITRE VI : Placement (art. R326-1 à R326-34)](#354)
+          - [Section 1 : Agence nationale pour l'emploi (art. R326-1 à R326-7)](#355)
+          - [Section 2 : Organismes qui concourent au service public du placement (art. R326-8 à R326-12)](#356)
+          - [Section 3 : Notification par les employeurs des places vacantes (art. R326-13)](#357)
+          - [Section 4 : Inscription et radiation de la liste des demandeurs d'emploi (art. R326-14 à R326-22)](#358)
+          - [Section 5 : Collectivités territoriales (art. R326-23 à R326-28)](#359)
+          - [Section 6 : Dispositions diverses (art. R326-29 à R326-34)](#360)
+        - [CHAPITRE VII : Indemnisation du chômage (art. R327-10 à R327-14)](#361)
+          - [Section 2 : Perte temporaire de salaire (art. R327-10 à R327-14)](#362)
+      - [TITRE III : Main-d'oeuvre étrangère (art. R330-1 à R330-9)](#363)
+      - [TITRE IV : Pénalités (art. R341-1 à R342-1)](#364)
+        - [CHAPITRE Ier : Travail clandestin (art. R341-1)](#365)
+        - [CHAPITRE II : Déclaration des mouvements de main-d'oeuvre (art. R342-1)](#366)
+    - [LIVRE IV : Les groupements professionnels - La représentation des salariés (art. R411-1 à R430-1)](#367)
+      - [TITRE Ier : Les syndicats professionnels (art. R411-1 à R412-1)](#368)
+        - [CHAPITRE Ier : Statut juridique des syndicats (art. R411-1)](#369)
+        - [CHAPITRE II : Droit syndical et représentativité des syndicats (art. R412-1)](#370)
+          - [Section 1 : Critères de représentativité (art. R412-1)](#371)
+      - [Titre 3 : Pénalités. (art. R430-1)](#372)
+    - [LIVRE V : Conflits du travail (art. R513-1 à R520-1)](#373)
+      - [TITRE Ier : Conflits collectifs (art. R513-1 à R515-2)](#374)
+        - [CHAPITRE III : Conciliation (art. R513-1 à R513-10)](#375)
+          - [Section 1 : Composition des commissions de conciliation. (art. R513-2 à R513-3)](#376)
+          - [Section 2 : Fonctionnement des commissions de conciliation. (art. R513-4 à R513-10)](#377)
+        - [CHAPITRE IV : Médiation (art. R514-1 à R514-6)](#378)
+        - [CHAPITRE V : Arbitrage (art. R515-1 à R515-2)](#379)
+      - [TITRE II : Pénalités (art. R520-1)](#380)
+    - [LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail (art. R610-1 à R632-2)](#381)
+      - [TITRE Ier : Services de contrôle (art. R610-1 à R610-3)](#382)
+      - [TITRE II : Obligations des employeurs (art. R620-1 à R620-5)](#383)
+      - [TITRE III : Pénalités (art. R631-1 à R632-2)](#384)
+        - [CHAPITRE Ier : Service de contrôle (art. R631-1)](#385)
+        - [CHAPITRE II : Obligations des employeurs (art. R632-1 à R632-2)](#386)
+    - [LIVRE VII : Formation professionnelle (art. R711-1)](#387)
+      - [Chapitre unique : Dispositions communes aux contrats de qualification et aux contrats d'orientation (art. R711-1)](#388)
+  - [Partie réglementaire  - Décrets simples (art. D141-1 à D712-17)](#389)
+    - [Livre 1er : Conventions relatives au travail (art. D141-1 à D141-7)](#390)
+      - [Titre 4 : Salaire (art. D141-1 à D141-7)](#391)
+        - [Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG* (art. D141-1 à D141-7)](#392)
+          - [Section 1 : Dispositions générales (art. D141-1 à D141-2)](#393)
+          - [Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement (art. D141-3 à D141-7)](#394)
+    - [Livre 2 : Réglementation du travail (art. D211-1 à D223-4)](#395)
+      - [Titre 1er : Conditions de travail (art. D211-1 à D212-5)](#396)
+        - [Chapitre 1er : Age d'admission (art. D211-1 à D211-4)](#397)
+        - [Chapitre 2 : Durée du travail (art. D212-1 à D212-5)](#398)
+          - [Section 1 : Récupération des heures perdues (art. D212-1 à D212-5)](#399)
+      - [Titre 2 : Repos et congés (art. D223-1 à D223-4)](#400)
+        - [Chapitre 3 : Congés annuels (art. D223-1 à D223-4)](#401)
+    - [Livre 3 : Emploi (art. D312-1 à D327-10)](#402)
+      - [Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin (art. D312-1)](#403)
+        - [Chapitre 2 : Travail clandestin (art. D312-1)](#404)
+      - [Titre 2 : Aides à l'emploi - Intervention du fonds national de l'emploi (art. D324-9 à D327-10)](#405)
+        - [Chapitre 4 : Dispositions particulières relatives à l'emploi des jeunes - Projet initiative-jeune (art. D324-9)](#406)
+        - [Chapitre 5 : Dispositions relatives à la création d'entreprises et à la création d'emplois - Aide à la création d'entreprises à l'initiative des demandeurs d'emploi (art. D325-1)](#407)
+        - [Chapitre 7 : Indemnisation du chômage (art. D327-10)](#408)
+          - [Section 2 : Perte temporaire de salaire (art. D327-10)](#409)
+    - [Livre 5 : Conflits du travail (art. D514-1 à D514-4)](#410)
+      - [Titre 1er : Conflits collectifs (art. D514-1 à D514-4)](#411)
+        - [Chapitre 4 : Médiation (art. D514-1 à D514-4)](#412)
+    - [Livre 7 : De la formation professionnelle (art. D712-1 à D712-17)](#413)
+      - [Chapitre 2 : Contrats de formation en alternance Section 1 : Contrats de qualification (art. D712-1 à D712-7)](#414)
+      - [Chapitre 2 : Contrats de formation en alternance Section 2 : Contrats d'orientation (art. D712-8 à D712-11)](#415)
+      - [Chapitre 2 : Contrats de formation en alternance Section 3 : Dispositions communes aux contrats de qualification et d'orientation (art. D712-12 à D712-17)](#416)
 # Partie législative<a id=1></a>
 
 ## LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES.<a id=2></a>
@@ -15164,13 +15166,188 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. L450-2 (V)
 
 
-## LIVRE V : CONFLITS DU TRAVAIL<a id=120></a>
+### TITRE III : LES DÉLÉGUÉS DU PERSONNEL<a id=120></a>
 
-### TITRE Ier : CONFLITS COLLECTIFS<a id=121></a>
+#### CHAPITRE V : Licenciement des délégués du personnel.<a id=121></a>
 
-#### CHAPITRE Ier : La grève<a id=122></a>
+###### Article L435-1
 
-##### Section 1 : Généralités.<a id=123></a>
+Tout licenciement envisagé par l'employeur d'un délégué du personnel, titulaire ou suppléant, est obligatoirement soumis au
+comité d'entreprise qui donne un avis sur le projet de licenciement.
+
+Le licenciement ne peut intervenir que sur autorisation de l'inspecteur du travail dont dépend l'établissement. Lorsqu'il
+n'existe pas de comité d'entreprise, l'inspecteur du travail est saisi directement.
+
+Toutefois, en cas de faute grave, le chef d'entreprise a la faculté de prononcer la mise à pied immédiate de l'intéressé en
+attendant la décision définitive. En cas de refus de licenciement, la mise à pied est annulée et ses effets supprimés de
+plein droit.
+
+La même procédure est applicable au licenciement des anciens délégués du personnel les six premiers mois qui suivent
+l'expiration de leur mandat ou la disparition de l'institution.
+
+La même procédure s'applique lorsque la lettre du syndicat notifiant à l'employeur la candidature aux fonctions de délégué du
+personnel a été reçue par l'employeur ou lorsque le salarié a fait la preuve que l'employeur a eu connaissance de l'imminence
+de sa candidature avant que le candidat n'ait été convoqué à l'entretien préalable au licenciement prévu à l'article L.
+122-27.
+
+Lorsqu'un délégué du personnel est compris dans un transfert partiel d'entreprise ou d'établissement, par application du
+deuxième alinéa de l'article L. 122-24, le transfert de ce salarié doit être soumis à l'autorisation préalable de
+l'inspecteur du travail, qui s'assure que le salarié ne fait pas l'objet d'une mesure discriminatoire. Si l'autorisation de
+transfert est refusée, l'employeur doit proposer au salarié un emploi similaire assorti d'une rémunération équivalente dans
+un autre établissement ou une autre partie de l'entreprise.
+
+La durée fixée au quatrième alinéa est également de six mois pour les candidats, au premier comme au second tour, aux
+fonctions de délégué du personnel à partir de la publication des candidatures. La durée de six mois court à partir de
+l'envoi, par lettre recommandée à l'employeur, des listes de candidatures ou à partir de la date de leur remise contre
+décharge.
+
+Afin de faciliter la mise en place de l'institution des délégués, les salariés qui ont demandé à l'employeur d'organiser les
+élections de délégués du personnel, ou d'accepter d'organiser ces élections, bénéficient de la procédure prévue aux alinéas
+ci-dessus pendant une durée de six mois qui court à compter de l'envoi à l'employeur de la lettre recommandée par laquelle
+une organisation a, la première, demandé ou accepté qu'il soit procédé à des élections ou à compter de la date où ce document
+est remis à l'employeur ou à son représentant en main propre contre décharge.
+
+La procédure prévue à l'alinéa précédent ne peut s'appliquer qu'à un seul salarié par organisation syndicale ainsi qu'au
+premier salarié, non mandaté par une organisation syndicale, qui a demandé l'organisation des élections.
+
+Cette procédure est également applicable aux délégués du personnel institués par voie conventionnelle.
+
+En cas de redressement ou de liquidation judiciaire, tout licenciement d'un salarié mentionné aux précédents alinéas est
+soumis à la procédure définie au présent article.
+
+**Nota:**
+
+Nota : Ordonnance 2005-44 2005-01-20 art. 36 : les dispositions du chapitre V du titre III du livre IV du code du travail
+applicable à Mayotte relatives au licenciement des délégués du personnel, introduites dans ce code par l'art. 22 de la
+présente ordonnance, entrent en vigueur à la date de publication de celle-ci.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005
+
+_Cité par_:
+
+  - Décret n°2014-1291 du 23 octobre 2014 - art. (V)
+  - Code du travail applicable à Mayotte. - art. L435-2 (VT)
+  - Code du travail applicable à Mayotte. - art. L435-3 (VT)
+  - Code du travail applicable à Mayotte. - art. R414-12 (V)
+  - Code du travail applicable à Mayotte. - art. R414-7 (V)
+  - Code du travail applicable à Mayotte. - art. R435-1 (V)
+  - Code du travail applicable à Mayotte. - art. R445-1 (V)
+  - Code du travail applicable à Mayotte. - art. R445-10 (V)
+  - Code du travail applicable à Mayotte. - art. R445-5 (V)
+  - Code du travail applicable à Mayotte. - art. R445-9 (V)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-24 (M)
+  - Code du travail applicable à Mayotte. - art. L122-27 (M)
+
+
+###### Article L435-2
+
+Lorsque le salarié, délégué du personnel, ancien délégué ou candidat aux fonctions de délégué, est titulaire d'un contrat à
+durée déterminée, les dispositions de l'article L. 435-1 sont applicables si l'employeur envisage de rompre le contrat avant
+l'échéance du terme en raison d'une faute grave du salarié, ou n'envisage pas de renouveler le contrat qui comporte une
+clause de report de terme.
+
+L'arrivée du terme du contrat n'entraîne la cessation du lien contractuel qu'après constatation par l'inspecteur du travail,
+saisi dans les conditions prévues à l'article L. 435-1, que le salarié ne fait pas l'objet d'une mesure discriminatoire. Un
+mois avant l'arrivée du terme du contrat, l'employeur doit saisir l'inspecteur du travail, qui doit statuer avant la date du
+terme du contrat.
+
+Les dispositions des deux alinéas précédents sont applicables pendant les délais prévus à l'article précédent.
+
+**Nota:**
+
+Ordonnance 2005-44 2005-01-20 art. 36 : les dispositions du chapitre V du titre III du livre IV du code du travail applicable
+à Mayotte relatives au licenciement des délégués du personnel, introduites dans ce code par l'art. 22 de la présente
+ordonnance, entrent en vigueur à la date de publication de celle-ci.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 du 28 décembre 1991
+
+_Créé par_:
+
+  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L435-1
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. L435-3 (VT)
+
+
+###### Article L435-3
+
+L'annulation sur recours hiérarchique par le ministre chargé du travail d'une décision de l'inspecteur du travail autorisant
+le licenciement d'un salarié mentionné aux articles L. 435-1 et L. 435-2 emporte, pour le salarié concerné et s'il le demande
+dans un délai de deux mois à compter de la notification de la décision, droit à réintégration dans son emploi ou dans un
+emploi équivalent.
+
+Il en est de même dans le cas où, sauf sursis à exécution ordonné par le Conseil d'Etat, le juge administratif a annulé une
+décision de l'inspecteur du travail ou du ministre chargé du travail autorisant un tel licenciement.
+
+Le salarié concerné est rétabli dans ses fonctions de délégué si l'institution n'a pas été renouvelée. Dans le cas contraire,
+il bénéficie pendant une durée de six mois, à compter du jour où il retrouve sa place dans l'entreprise, de la procédure
+prévue à l'article L. 435-1.
+
+Lorsque l'annulation de la décision d'autorisation est devenue définitive, le délégué du personnel a droit au paiement d'une
+indemnité correspondant à la totalité du préjudice subi au cours de la période qui s'est écoulée entre son licenciement et sa
+réintégration, s'il l'a demandée dans le délai prévu au premier alinéa, ou l'expiration de ce délai dans le cas contraire. Ce
+paiement s'accompagne du versement des cotisations afférentes à ladite indemnité, qui constitue un complément de salaire.
+
+**Nota:**
+
+Ordonnance 2005-44 2005-01-20 art. 36 : les dispositions du chapitre V du titre III du livre IV du code du travail applicable
+à Mayotte relatives au licenciement des délégués du personnel, introduites dans ce code par l'art. 22 de la présente
+ordonnance, entrent en vigueur à la date de publication de celle-ci.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 22 () JORF 22 janvier 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L435-1
+  - Code du travail applicable à Mayotte. - art. L435-2 (VT)
+
+
+## LIVRE V : CONFLITS DU TRAVAIL<a id=122></a>
+
+### TITRE Ier : CONFLITS COLLECTIFS<a id=123></a>
+
+#### CHAPITRE Ier : La grève<a id=124></a>
+
+##### Section 1 : Généralités.<a id=125></a>
 
 ###### Article L511-1
 
@@ -15197,7 +15374,7 @@ _Abrogé par_:
   - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
-##### Section 2 : Grève dans les services publics.<a id=124></a>
+##### Section 2 : Grève dans les services publics.<a id=126></a>
 
 ###### Article L511-2
 
@@ -15318,7 +15495,7 @@ _Abrogé par_:
   - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
-#### CHAPITRE II : Dispositions générales concernant les procédures de règlement des conflits collectifs du travail.<a id=125></a>
+#### CHAPITRE II : Dispositions générales concernant les procédures de règlement des conflits collectifs du travail.<a id=127></a>
 
 ###### Article L512-1
 
@@ -15376,7 +15553,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L514-4 (VT)
 
 
-#### CHAPITRE III : Conciliation.<a id=126></a>
+#### CHAPITRE III : Conciliation.<a id=128></a>
 
 ###### Article L513-1
 
@@ -15546,7 +15723,7 @@ _Abrogé par_:
   - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
-#### CHAPITRE IV : Médiation.<a id=127></a>
+#### CHAPITRE IV : Médiation.<a id=129></a>
 
 ###### Article L514-1
 
@@ -15688,7 +15865,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L512-2 (VT)
 
 
-#### CHAPITRE V : Arbitrage.<a id=128></a>
+#### CHAPITRE V : Arbitrage.<a id=130></a>
 
 ###### Article L515-1
 
@@ -15790,7 +15967,7 @@ _Abrogé par_:
   - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
-#### CHAPITRE VI : Dispositions finales.<a id=129></a>
+#### CHAPITRE VI : Dispositions finales.<a id=131></a>
 
 ###### Article L516-1
 
@@ -15813,7 +15990,7 @@ _Abrogé par_:
   - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
-### TITRE II : PÉNALITÉS.<a id=130></a>
+### TITRE II : PÉNALITÉS.<a id=132></a>
 
 ###### Article L520-1
 
@@ -15851,9 +16028,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R514-4 (V)
 
 
-## LIVRE VI : CONTRÔLE DE L'APPLICATION DE LA LÉGISLATION ET DE LA RÉGLEMENTATION DU TRAVAIL<a id=131></a>
+## LIVRE VI : CONTRÔLE DE L'APPLICATION DE LA LÉGISLATION ET DE LA RÉGLEMENTATION DU TRAVAIL<a id=133></a>
 
-### TITRE Ier : SERVICES DE CONTRÔLE.<a id=132></a>
+### TITRE Ier : SERVICES DE CONTRÔLE.<a id=134></a>
 
 ###### Article L610-1
 
@@ -16318,7 +16495,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L124-1
 
 
-### TITRE II : OBLIGATIONS DES EMPLOYEURS.<a id=133></a>
+### TITRE II : OBLIGATIONS DES EMPLOYEURS.<a id=135></a>
 
 ###### Article L620-1
 
@@ -16531,7 +16708,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L620-3 (VT)
 
 
-### TITRE III : PÉNALITÉS.<a id=134></a>
+### TITRE III : PÉNALITÉS.<a id=136></a>
 
 ###### Article L630-1
 
@@ -16591,11 +16768,11 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L711-4 (Ab)
 
 
-## LIVRE VII : DE LA FORMATION PROFESSIONNELLE<a id=135></a>
+## LIVRE VII : DE LA FORMATION PROFESSIONNELLE<a id=137></a>
 
-### CHAPITRE II : CONTRATS DE FORMATION EN ALTERNANCE<a id=136></a>
+### CHAPITRE II : CONTRATS DE FORMATION EN ALTERNANCE<a id=138></a>
 
-#### Section 1 : Contrat de qualification<a id=137></a>
+#### Section 1 : Contrat de qualification<a id=139></a>
 
 ###### Article L711-5
 
@@ -16692,7 +16869,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L412-3 (M)
 
 
-#### Section 2 : Contrat d'orientation<a id=138></a>
+#### Section 2 : Contrat d'orientation<a id=140></a>
 
 ###### Article L711-7
 
@@ -16735,7 +16912,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L711-10 (M)
 
 
-#### Section 3 : Dispositions communes aux contrats de qualification et d'orientation<a id=139></a>
+#### Section 3 : Dispositions communes aux contrats de qualification et d'orientation<a id=141></a>
 
 ###### Article L711-8
 
@@ -16824,7 +17001,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L711-7 (T)
 
 
-### CHAPITRE 1ER : DISPOSITIONS GENERALES<a id=140></a>
+### CHAPITRE 1ER : DISPOSITIONS GENERALES<a id=142></a>
 
 ###### Article L711-1
 
@@ -17031,15 +17208,15 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R713-11 (VT)
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=141></a>
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=143></a>
 
-## LIVRE Ier : Conventions relatives au travail<a id=142></a>
+## LIVRE Ier : Conventions relatives au travail<a id=144></a>
 
-### TITRE II : Contrat de travail<a id=143></a>
+### TITRE II : Contrat de travail<a id=145></a>
 
-#### CHAPITRE II : Règles propres au contrat de travail<a id=144></a>
+#### CHAPITRE II : Règles propres au contrat de travail<a id=146></a>
 
-##### Section 1 : Règles générales.<a id=145></a>
+##### Section 1 : Règles générales.<a id=147></a>
 
 ###### Article R122-1
 
@@ -17117,7 +17294,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-##### Section 2 : Service national.<a id=146></a>
+##### Section 2 : Service national.<a id=148></a>
 
 ###### Article R122-5
 
@@ -17161,7 +17338,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R161-6 (V)
 
 
-##### Section 3 : Repos des femmes en couches et des femmes allaitant leurs enfants.<a id=147></a>
+##### Section 3 : Repos des femmes en couches et des femmes allaitant leurs enfants.<a id=149></a>
 
 ###### Article R122-7
 
@@ -17276,9 +17453,9 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-##### Section 4 : Règlement intérieur, protection des salariés et droit disciplinaire<a id=148></a>
+##### Section 4 : Règlement intérieur, protection des salariés et droit disciplinaire<a id=150></a>
 
-##### Sous-section 1 : Règlement intérieur.<a id=149></a>
+##### Sous-section 1 : Règlement intérieur.<a id=151></a>
 
 ###### Article R122-11
 
@@ -17406,7 +17583,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L122-67
 
 
-##### Sous-section 2 : Protection des salariés et droit disciplinaire.<a id=150></a>
+##### Sous-section 2 : Protection des salariés et droit disciplinaire.<a id=152></a>
 
 ###### Article R122-16
 
@@ -17493,7 +17670,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L122-77
 
 
-#### CHAPITRE IV : Marchandage<a id=151></a>
+#### CHAPITRE IV : Marchandage<a id=153></a>
 
 ###### Article R124-1
 
@@ -17518,7 +17695,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R152-1 (V)
 
 
-#### CHAPITRE V : Cautionnements<a id=152></a>
+#### CHAPITRE V : Cautionnements<a id=154></a>
 
 ###### Article R125-1
 
@@ -17548,7 +17725,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R153-1 (V)
 
 
-#### CHAPITRE VI : Groupements d'employeurs<a id=153></a>
+#### CHAPITRE VI : Groupements d'employeurs<a id=155></a>
 
 ###### Article R126-1
 
@@ -17737,7 +17914,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R126-3 (V)
 
 
-#### CHAPITRE VIII : Titre de travail simplifié<a id=154></a>
+#### CHAPITRE VIII : Titre de travail simplifié<a id=156></a>
 
 ###### Article R128-1
 
@@ -18141,9 +18318,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R128-4 (V)
 
 
-### TITRE III : Conventions et accords collectifs de travail<a id=155></a>
+### TITRE III : Conventions et accords collectifs de travail<a id=157></a>
 
-#### CHAPITRE II : Nature et validité des conventions et accords collectifs de travail<a id=156></a>
+#### CHAPITRE II : Nature et validité des conventions et accords collectifs de travail<a id=158></a>
 
 ###### Article R132-1
 
@@ -18192,7 +18369,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Chapitre 3 : Conventions et accords collectifs susceptibles d'être étendus et procédure d'extension et d'élargissement.<a id=157></a>
+#### Chapitre 3 : Conventions et accords collectifs susceptibles d'être étendus et procédure d'extension et d'élargissement.<a id=159></a>
 
 ###### Article R133-1
 
@@ -18242,7 +18419,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R162-3 (V)
 
 
-#### CHAPITRE V : Application des conventions et accords collectifs de travail<a id=158></a>
+#### CHAPITRE V : Application des conventions et accords collectifs de travail<a id=160></a>
 
 ###### Article R135-1
 
@@ -18280,9 +18457,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R162-1 (V)
 
 
-### TITRE IV : Salaire<a id=159></a>
+### TITRE IV : Salaire<a id=161></a>
 
-#### CHAPITRE PRELIMINAIRE : Egalité de rémunération entre les hommes et les femmes<a id=160></a>
+#### CHAPITRE PRELIMINAIRE : Egalité de rémunération entre les hommes et les femmes<a id=162></a>
 
 ###### Article R140-1
 
@@ -18312,7 +18489,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R156-1 (Ab)
 
 
-#### CHAPITRE Ier : Salaire minimum interprofessionnel garanti<a id=161></a>
+#### CHAPITRE Ier : Salaire minimum interprofessionnel garanti<a id=163></a>
 
 ###### Article R141-1
 
@@ -18400,7 +18577,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### CHAPITRE III : Paiement du salaire<a id=162></a>
+#### CHAPITRE III : Paiement du salaire<a id=164></a>
 
 ###### Article R143-1
 
@@ -18498,9 +18675,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R312-7 (V)
 
 
-#### CHAPITRE V : Saisie-arrêt et cession de rémunérations dues par un employeur<a id=163></a>
+#### CHAPITRE V : Saisie-arrêt et cession de rémunérations dues par un employeur<a id=165></a>
 
-##### Section 1 : Règles générales.<a id=164></a>
+##### Section 1 : Règles générales.<a id=166></a>
 
 ###### Article R145-1
 
@@ -18548,7 +18725,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L145-1 (V)
 
 
-##### Section 2 : Procédure de cession et de saisie-arrêt.<a id=165></a>
+##### Section 2 : Procédure de cession et de saisie-arrêt.<a id=167></a>
 
 ###### Article R145-2
 
@@ -19111,7 +19288,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L125-2 (Ab)
 
 
-#### CHAPITRE VI : Règles particulières au contrôle et à la répartition des pourboires<a id=166></a>
+#### CHAPITRE VI : Règles particulières au contrôle et à la répartition des pourboires<a id=168></a>
 
 ###### Article R146-1
 
@@ -19171,11 +19348,11 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R156-3 (Ab)
 
 
-### TITRE V : Pénalités<a id=167></a>
+### TITRE V : Pénalités<a id=169></a>
 
-#### CHAPITRE Ier : Contrat d'apprentissage et contrat de travail<a id=168></a>
+#### CHAPITRE Ier : Contrat d'apprentissage et contrat de travail<a id=170></a>
 
-##### Section 1 : Contrat d'apprentissage.<a id=169></a>
+##### Section 1 : Contrat d'apprentissage.<a id=171></a>
 
 ###### Article R151-1
 
@@ -19324,7 +19501,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. R161-4 (V)
 
 
-##### Section 2 : Contrat de travail.<a id=170></a>
+##### Section 2 : Contrat de travail.<a id=172></a>
 
 ###### Article R151-5
 
@@ -19449,7 +19626,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. R161-8 (V)
 
 
-#### CHAPITRE II : Marchandages<a id=171></a>
+#### CHAPITRE II : Marchandages<a id=173></a>
 
 ###### Article R152-1
 
@@ -19479,7 +19656,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R152-7 (V)
 
 
-#### CHAPITRE III : Cautionnements<a id=172></a>
+#### CHAPITRE III : Cautionnements<a id=174></a>
 
 ###### Article R153-1
 
@@ -19507,7 +19684,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R125-1 (M)
 
 
-#### CHAPITRE IV : Groupements d'employeurs<a id=173></a>
+#### CHAPITRE IV : Groupements d'employeurs<a id=175></a>
 
 ###### Article R154-1
 
@@ -19542,7 +19719,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. R126-7 (V)
 
 
-#### CHAPITRE V : Conventions et accords collectifs de travail<a id=174></a>
+#### CHAPITRE V : Conventions et accords collectifs de travail<a id=176></a>
 
 ###### Article R155-1
 
@@ -19569,9 +19746,9 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### CHAPITRE VI : Salaire<a id=175></a>
+#### CHAPITRE VI : Salaire<a id=177></a>
 
-##### Section 1 : Egalité de rémunération entre les hommes et les femmes.<a id=176></a>
+##### Section 1 : Egalité de rémunération entre les hommes et les femmes.<a id=178></a>
 
 ###### Article R156-1
 
@@ -19616,7 +19793,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R140-1
 
 
-##### Section 2 : Salaire minimum garanti et rémunération mensuelle minimale garantie.<a id=177></a>
+##### Section 2 : Salaire minimum garanti et rémunération mensuelle minimale garantie.<a id=179></a>
 
 ###### Article R156-2
 
@@ -19660,7 +19837,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. R163-1 (V)
 
 
-##### Section 3 : Paiement du salaire.<a id=178></a>
+##### Section 3 : Paiement du salaire.<a id=180></a>
 
 ###### Article R156-3
 
@@ -19700,7 +19877,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R146-2
 
 
-##### Section 4 : Retenues sur le salaire.<a id=179></a>
+##### Section 4 : Retenues sur le salaire.<a id=181></a>
 
 ###### Article R156-4
 
@@ -19739,11 +19916,11 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. R163-2 (V)
 
 
-## LIVRE II : Réglementation du travail<a id=180></a>
+## LIVRE II : Réglementation du travail<a id=182></a>
 
-### TITRE Ier : Conditions de travail<a id=181></a>
+### TITRE Ier : Conditions de travail<a id=183></a>
 
-#### CHAPITRE II : Durée du travail<a id=182></a>
+#### CHAPITRE II : Durée du travail<a id=184></a>
 
 ###### Article R212-1
 
@@ -19793,7 +19970,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R212-1 (V)
 
 
-#### CHAPITRE III : Travail de nuit<a id=183></a>
+#### CHAPITRE III : Travail de nuit<a id=185></a>
 
 ###### Article R213-1
 
@@ -19848,9 +20025,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R213-1 (M)
 
 
-### TITRE II : Repos et congés<a id=184></a>
+### TITRE II : Repos et congés<a id=186></a>
 
-#### CHAPITRE Ier : Repos hebdomadaire<a id=185></a>
+#### CHAPITRE Ier : Repos hebdomadaire<a id=187></a>
 
 ###### Article R221-1
 
@@ -19997,7 +20174,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### CHAPITRE II : Jours fériés<a id=186></a>
+#### CHAPITRE II : Jours fériés<a id=188></a>
 
 ###### Article R222-1
 
@@ -20024,7 +20201,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R254-5 (V)
 
 
-#### CHAPITRE III : Congés annuels<a id=187></a>
+#### CHAPITRE III : Congés annuels<a id=189></a>
 
 ###### Article R223-1
 
@@ -20050,11 +20227,11 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D223-1 (V)
 
 
-### TITRE III : Hygiène, sécurité et conditions de travail<a id=188></a>
+### TITRE III : Hygiène, sécurité et conditions de travail<a id=190></a>
 
-#### CHAPITRE Ier : Dispositions générales<a id=189></a>
+#### CHAPITRE Ier : Dispositions générales<a id=191></a>
 
-##### Section 3 : Manutention des charges.<a id=190></a>
+##### Section 3 : Manutention des charges.<a id=192></a>
 
 ###### Article R231-50
 
@@ -20184,7 +20361,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R231-3 (V)
 
 
-##### Section 4 : Transport du personnel dans des véhicules de transport de marchandises.<a id=191></a>
+##### Section 4 : Transport du personnel dans des véhicules de transport de marchandises.<a id=193></a>
 
 ###### Article R231-57
 
@@ -20314,11 +20491,11 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R231-59 (V)
 
 
-#### CHAPITRE II : Hygiène, aménagement des lieux de travail, prévention des incendies<a id=192></a>
+#### CHAPITRE II : Hygiène, aménagement des lieux de travail, prévention des incendies<a id=194></a>
 
-##### Section 1 : Aménagement et hygiène des lieux de travail<a id=193></a>
+##### Section 1 : Aménagement et hygiène des lieux de travail<a id=195></a>
 
-##### Sous-section 1 : Dispositions générales relatives à l'aménagement des lieux de travail.<a id=194></a>
+##### Sous-section 1 : Dispositions générales relatives à l'aménagement des lieux de travail.<a id=196></a>
 
 ###### Article R232-6
 
@@ -20398,7 +20575,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R231-19 (V)
 
 
-##### Sous-section 2 : Installations sanitaires.<a id=195></a>
+##### Sous-section 2 : Installations sanitaires.<a id=197></a>
 
 ###### Article R232-20
 
@@ -20427,9 +20604,9 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Section 2 : Ambiances des lieux de travail<a id=196></a>
+##### Section 2 : Ambiances des lieux de travail<a id=198></a>
 
-##### Sous-section 3 : Prévention des risques dûs au bruit.<a id=197></a>
+##### Sous-section 3 : Prévention des risques dûs au bruit.<a id=199></a>
 
 ###### Article R232-56
 
@@ -20490,9 +20667,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L240-3 (V)
 
 
-##### Section 4 : Prévention des incendies - Evacuation<a id=198></a>
+##### Section 4 : Prévention des incendies - Evacuation<a id=200></a>
 
-##### Sous-section 3 : Emploi des matières inflammables.<a id=199></a>
+##### Sous-section 3 : Emploi des matières inflammables.<a id=201></a>
 
 ###### Article R232-81
 
@@ -20555,7 +20732,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R239-47 (V)
 
 
-##### Sous-section 4 : Moyens de prévention et de lutte contre l'incendie.<a id=200></a>
+##### Sous-section 4 : Moyens de prévention et de lutte contre l'incendie.<a id=202></a>
 
 ###### Article R232-84
 
@@ -20597,9 +20774,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R239-51 (V)
 
 
-#### CHAPITRE III : Sécurité<a id=201></a>
+#### CHAPITRE III : Sécurité<a id=203></a>
 
-##### Section 1 : Règles générales d'utilisation des équipements de travail et moyens de protection, y compris les équipements de protection individuelle.<a id=202></a>
+##### Section 1 : Règles générales d'utilisation des équipements de travail et moyens de protection, y compris les équipements de protection individuelle.<a id=204></a>
 
 ###### Article R233-1
 
@@ -20726,9 +20903,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R233-60 (V)
 
 
-##### Section 2 : Mesures d'organisation et conditions de mise en oeuvre des équipements de travail<a id=203></a>
+##### Section 2 : Mesures d'organisation et conditions de mise en oeuvre des équipements de travail<a id=205></a>
 
-##### Sous-section 1 : Mesures générales.<a id=204></a>
+##### Sous-section 1 : Mesures générales.<a id=206></a>
 
 ###### Article R233-5
 
@@ -20896,7 +21073,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Sous-section 2 : Mesures particulières applicables à l'utilisation de certains équipements de travail ou à certaines situations de travail.<a id=205></a>
+##### Sous-section 2 : Mesures particulières applicables à l'utilisation de certains équipements de travail ou à certaines situations de travail.<a id=207></a>
 
 ###### Article R233-13
 
@@ -20965,7 +21142,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R233-60 (V)
 
 
-##### Sous-section 3 : Mesures complémentaires applicables à l'utilisation des équipements de travail mobiles.<a id=206></a>
+##### Sous-section 3 : Mesures complémentaires applicables à l'utilisation des équipements de travail mobiles.<a id=208></a>
 
 ###### Article R233-20
 
@@ -21012,7 +21189,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Section 3 : Prescriptions techniques applicables pour l'utilisation des équipements de travail.<a id=207></a>
+##### Section 3 : Prescriptions techniques applicables pour l'utilisation des équipements de travail.<a id=209></a>
 
 ###### Article R233-24
 
@@ -21332,7 +21509,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R233-25 (V)
 
 
-#### CHAPITRE IV : Dispositions particulières aux femmes et aux jeunes travailleurs.<a id=208></a>
+#### CHAPITRE IV : Dispositions particulières aux femmes et aux jeunes travailleurs.<a id=210></a>
 
 ###### Article R234-1
 
@@ -21364,7 +21541,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Section 1 : Hygiène.<a id=209></a>
+##### Section 1 : Hygiène.<a id=211></a>
 
 ###### Article R234-3
 
@@ -21397,7 +21574,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Section 2 : Limitation des charges.<a id=210></a>
+##### Section 2 : Limitation des charges.<a id=212></a>
 
 ###### Article R234-5
 
@@ -21481,7 +21658,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Section 3 : Travaux interdits aux femmes.<a id=211></a>
+##### Section 3 : Travaux interdits aux femmes.<a id=213></a>
 
 ###### Article R234-7
 
@@ -21531,7 +21708,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Section 4 : Travaux interdits aux jeunes travailleurs.<a id=212></a>
+##### Section 4 : Travaux interdits aux jeunes travailleurs.<a id=214></a>
 
 ###### Article R234-9
 
@@ -21960,7 +22137,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-#### CHAPITRE V : Mesures particulières de protection et de salubrité applicables aux établissements dont les salariés exécutent des travaux de bâtiment, des travaux publics et tous autres travaux concernant les immeubles<a id=213></a>
+#### CHAPITRE V : Mesures particulières de protection et de salubrité applicables aux établissements dont les salariés exécutent des travaux de bâtiment, des travaux publics et tous autres travaux concernant les immeubles<a id=215></a>
 
 ###### Article R235-1
 
@@ -22003,9 +22180,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R235-25 (V)
 
 
-##### Section 1 : Mesures générales de sécurité<a id=214></a>
+##### Section 1 : Mesures générales de sécurité<a id=216></a>
 
-##### Sous-section 1 : Résistance et stabilité.<a id=215></a>
+##### Sous-section 1 : Résistance et stabilité.<a id=217></a>
 
 ###### Article R235-2
 
@@ -22059,7 +22236,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Sous-section 2 : Mesures de protection collective destinées à empêcher les chutes des salariés.<a id=216></a>
+##### Sous-section 2 : Mesures de protection collective destinées à empêcher les chutes des salariés.<a id=218></a>
 
 ###### Article R235-5
 
@@ -22215,7 +22392,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Sous-section 3 : Mesures de protection destinées à empêcher les chutes d'objets et de matériaux et les accidents dus aux planches munies de pointes saillantes.<a id=217></a>
+##### Sous-section 3 : Mesures de protection destinées à empêcher les chutes d'objets et de matériaux et les accidents dus aux planches munies de pointes saillantes.<a id=219></a>
 
 ###### Article R235-13
 
@@ -22252,7 +22429,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Sous-section 4 : Mesures de protection individuelle.<a id=218></a>
+##### Sous-section 4 : Mesures de protection individuelle.<a id=220></a>
 
 ###### Article R235-16
 
@@ -22310,7 +22487,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Sous-section 5 : Travaux exécutés par grands vents.<a id=219></a>
+##### Sous-section 5 : Travaux exécutés par grands vents.<a id=221></a>
 
 ###### Article R235-19
 
@@ -22333,7 +22510,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Sous-section 6 : Dispositions concernant la circulation des véhicules, appareils et engins de chantier.<a id=220></a>
+##### Sous-section 6 : Dispositions concernant la circulation des véhicules, appareils et engins de chantier.<a id=222></a>
 
 ###### Article R235-20
 
@@ -22365,7 +22542,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Sous-section 7 : Examens, vérifications, registres.<a id=221></a>
+##### Sous-section 7 : Examens, vérifications, registres.<a id=223></a>
 
 ###### Article R235-22
 
@@ -22454,9 +22631,9 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Section 2 : Appareils de levage, câbles, chaînes, cordages et crochets<a id=222></a>
+##### Section 2 : Appareils de levage, câbles, chaînes, cordages et crochets<a id=224></a>
 
-##### Sous-section 1 : Appareils de levage mus mécaniquement.<a id=223></a>
+##### Sous-section 1 : Appareils de levage mus mécaniquement.<a id=225></a>
 
 ###### Article R235-25
 
@@ -22476,7 +22653,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R235-26 (V)
 
 
-##### I. - Installation des appareils et des voies.<a id=224></a>
+##### I. - Installation des appareils et des voies.<a id=226></a>
 
 ###### Article R235-26
 
@@ -22570,7 +22747,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### II. - Organes et dispositifs annexes.<a id=225></a>
+##### II. - Organes et dispositifs annexes.<a id=227></a>
 
 ###### Article R235-31
 
@@ -22696,7 +22873,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### III. - Recettes.<a id=226></a>
+##### III. - Recettes.<a id=228></a>
 
 ###### Article R235-38
 
@@ -22719,7 +22896,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R235-50 (V)
 
 
-##### IV. - Manoeuvres.<a id=227></a>
+##### IV. - Manoeuvres.<a id=229></a>
 
 ###### Article R235-39
 
@@ -22797,7 +22974,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### V. - Transport ou élévation des salariés.<a id=228></a>
+##### V. - Transport ou élévation des salariés.<a id=230></a>
 
 ###### Article R235-43
 
@@ -22903,7 +23080,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R238-2-19 (V)
 
 
-##### VI. - Epreuves, examens et inspections.<a id=229></a>
+##### VI. - Epreuves, examens et inspections.<a id=231></a>
 
 ###### Article R235-45
 
@@ -22929,9 +23106,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R238-2-28 (V)
 
 
-##### Sous-section 2 : Appareils de levage mus à la main<a id=230></a>
+##### Sous-section 2 : Appareils de levage mus à la main<a id=232></a>
 
-##### I. - Installation et résistance des appareils.<a id=231></a>
+##### I. - Installation et résistance des appareils.<a id=233></a>
 
 ###### Article R235-46
 
@@ -22974,7 +23151,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### II. - Treuils, recettes, manoeuvres.<a id=232></a>
+##### II. - Treuils, recettes, manoeuvres.<a id=234></a>
 
 ###### Article R235-49
 
@@ -23021,7 +23198,7 @@ _Cite_:
   - Code du travail applicable à Mayotte R235-39 à R235-42
 
 
-##### III. - Transport ou élévation des salariés.<a id=233></a>
+##### III. - Transport ou élévation des salariés.<a id=235></a>
 
 ###### Article R235-52
 
@@ -23092,7 +23269,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R235-53 (V)
 
 
-##### Sous-section 3 : Câbles, chaînes, cordages et crochets.<a id=234></a>
+##### Sous-section 3 : Câbles, chaînes, cordages et crochets.<a id=236></a>
 
 ###### Article R235-55
 
@@ -23236,9 +23413,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R235-22 (V)
 
 
-##### Section 3 : Travaux de terrassement à ciel ouvert et travaux souterrains<a id=235></a>
+##### Section 3 : Travaux de terrassement à ciel ouvert et travaux souterrains<a id=237></a>
 
-##### Sous-section 1 : Travaux de terrassement à ciel ouvert.<a id=236></a>
+##### Sous-section 1 : Travaux de terrassement à ciel ouvert.<a id=238></a>
 
 ###### Article R235-64
 
@@ -23478,9 +23655,9 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Sous-section 2 : Travaux souterrains<a id=237></a>
+##### Sous-section 2 : Travaux souterrains<a id=239></a>
 
-##### I. - Mesures à prendre pour éviter les éboulements et les chutes de blocs.<a id=238></a>
+##### I. - Mesures à prendre pour éviter les éboulements et les chutes de blocs.<a id=240></a>
 
 ###### Article R235-80
 
@@ -23534,7 +23711,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### II. - Ventilation.<a id=239></a>
+##### II. - Ventilation.<a id=241></a>
 
 ###### Article R235-83
 
@@ -23658,7 +23835,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### III. - Circulation.<a id=240></a>
+##### III. - Circulation.<a id=242></a>
 
 ###### Article R235-90
 
@@ -23735,7 +23912,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### IV. - Signalisation, éclairage.<a id=241></a>
+##### IV. - Signalisation, éclairage.<a id=243></a>
 
 ###### Article R235-95
 
@@ -23780,7 +23957,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Section 4 : Travaux de démolition.<a id=242></a>
+##### Section 4 : Travaux de démolition.<a id=244></a>
 
 ###### Article R235-97
 
@@ -23932,11 +24109,11 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R235-5 (V)
 
 
-##### Section 5 : Echafaudages, plates-formes, passerelles et escaliers<a id=243></a>
+##### Section 5 : Echafaudages, plates-formes, passerelles et escaliers<a id=245></a>
 
-##### Sous-section 1 : Echafaudages<a id=244></a>
+##### Sous-section 1 : Echafaudages<a id=246></a>
 
-##### I. - Dispositions générales.<a id=245></a>
+##### I. - Dispositions générales.<a id=247></a>
 
 ###### Article R235-106
 
@@ -23993,7 +24170,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### II. - Dispositions communes aux échafaudages fixes en bois ou en métal.<a id=246></a>
+##### II. - Dispositions communes aux échafaudages fixes en bois ou en métal.<a id=248></a>
 
 ###### Article R235-110
 
@@ -24266,7 +24443,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### III. - Dispositions particulières aux échafaudages fixes en bois.<a id=247></a>
+##### III. - Dispositions particulières aux échafaudages fixes en bois.<a id=249></a>
 
 ###### Article R235-123
 
@@ -24368,7 +24545,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### IV. - Dispositions particulières aux échafaudages fixes en métal.<a id=248></a>
+##### IV. - Dispositions particulières aux échafaudages fixes en métal.<a id=250></a>
 
 ###### Article R235-130
 
@@ -24389,7 +24566,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### V. - Echafaudages montés sur roues.<a id=249></a>
+##### V. - Echafaudages montés sur roues.<a id=251></a>
 
 ###### Article R235-131
 
@@ -24415,7 +24592,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R235-112 (V)
 
 
-##### VI. - Echafaudages volants.<a id=250></a>
+##### VI. - Echafaudages volants.<a id=252></a>
 
 ###### Article R235-132
 
@@ -24528,7 +24705,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### VII. - Dispositions diverses.<a id=251></a>
+##### VII. - Dispositions diverses.<a id=253></a>
 
 ###### Article R235-136
 
@@ -24656,7 +24833,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R238-2-27 (V)
 
 
-##### Sous-section 2 : Plates-formes, passerelles et escaliers.<a id=252></a>
+##### Sous-section 2 : Plates-formes, passerelles et escaliers.<a id=254></a>
 
 ###### Article R235-143
 
@@ -24799,7 +24976,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Sous-section 3 : Echelles.<a id=253></a>
+##### Sous-section 3 : Echelles.<a id=255></a>
 
 ###### Article R235-151
 
@@ -24888,9 +25065,9 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Section 6 : Travaux sur les toitures, travaux de montage, de démontage et de levage de charpentes et ossatures et travaux de construction comportant la mise en oeuvre d'éléments préfabriqués lourds<a id=254></a>
+##### Section 6 : Travaux sur les toitures, travaux de montage, de démontage et de levage de charpentes et ossatures et travaux de construction comportant la mise en oeuvre d'éléments préfabriqués lourds<a id=256></a>
 
-##### Sous-section 1 : Travaux sur les toitures.<a id=255></a>
+##### Sous-section 1 : Travaux sur les toitures.<a id=257></a>
 
 ###### Article R235-158
 
@@ -25025,7 +25202,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Sous-section 2 : Travaux de montage, de démontage et de levage de charpentes et ossatures.<a id=256></a>
+##### Sous-section 2 : Travaux de montage, de démontage et de levage de charpentes et ossatures.<a id=258></a>
 
 ###### Article R235-166
 
@@ -25173,7 +25350,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Sous-section 3 : Travaux de construction comportant la mise en oeuvre d'éléments préfabriqués lourds.<a id=257></a>
+##### Sous-section 3 : Travaux de construction comportant la mise en oeuvre d'éléments préfabriqués lourds.<a id=259></a>
 
 ###### Article R235-172
 
@@ -25192,9 +25369,9 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Section 7 : Travaux au voisinage de lignes, canalisations et installations électriques<a id=258></a>
+##### Section 7 : Travaux au voisinage de lignes, canalisations et installations électriques<a id=260></a>
 
-##### Sous-section 1.<a id=259></a>
+##### Sous-section 1.<a id=261></a>
 
 ###### Article R235-173
 
@@ -25501,7 +25678,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R235-179 (V)
 
 
-##### Sous-section 2.<a id=260></a>
+##### Sous-section 2.<a id=262></a>
 
 ###### Article R235-184
 
@@ -25592,9 +25769,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R235-185 (V)
 
 
-##### Section 8 : Mesures générales d'hygiène et logement provisoire des salariés<a id=261></a>
+##### Section 8 : Mesures générales d'hygiène et logement provisoire des salariés<a id=263></a>
 
-##### Sous-section 1 : Mesures générales d'hygiène.<a id=262></a>
+##### Sous-section 1 : Mesures générales d'hygiène.<a id=264></a>
 
 ###### Article R235-188
 
@@ -25768,7 +25945,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R235-193 (V)
 
 
-##### Sous-section 2 : Logement provisoire des salariés - Réfectoires et cuisines.<a id=263></a>
+##### Sous-section 2 : Logement provisoire des salariés - Réfectoires et cuisines.<a id=265></a>
 
 ###### Article R235-196
 
@@ -25827,7 +26004,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Section 9 : Dispositions diverses.<a id=264></a>
+##### Section 9 : Dispositions diverses.<a id=266></a>
 
 ###### Article R235-199
 
@@ -26108,11 +26285,11 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R235-23 (V)
 
 
-#### CHAPITRE VI : Mesures particulières de protection des salariés dans les établissements qui mettent en oeuvre des courants électriques<a id=265></a>
+#### CHAPITRE VI : Mesures particulières de protection des salariés dans les établissements qui mettent en oeuvre des courants électriques<a id=267></a>
 
-##### Section 3 : Protection des salariés contre les risques de contact avec des conducteurs actifs ou des pièces conductrices habituellement sous tension (contact direct)<a id=266></a>
+##### Section 3 : Protection des salariés contre les risques de contact avec des conducteurs actifs ou des pièces conductrices habituellement sous tension (contact direct)<a id=268></a>
 
-##### Lignes de contact.<a id=267></a>
+##### Lignes de contact.<a id=269></a>
 
 ###### Article R236-21
 
@@ -26156,9 +26333,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R236-48 (V)
 
 
-#### CHAPITRE VIII : Autres mesures particulières relatives à la protection des salariés<a id=268></a>
+#### CHAPITRE VIII : Autres mesures particulières relatives à la protection des salariés<a id=270></a>
 
-##### Section 1 : Mesures particulières de protection relatives à l'emploi des explosifs.<a id=269></a>
+##### Section 1 : Mesures particulières de protection relatives à l'emploi des explosifs.<a id=271></a>
 
 ###### Article R238-1-1
 
@@ -26240,9 +26417,9 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Sous-section 1 : Dispositions applicables à tous les tirs de mine<a id=270></a>
+##### Sous-section 1 : Dispositions applicables à tous les tirs de mine<a id=272></a>
 
-##### I. - Obligations générales des personnes chargées des produits explosifs.<a id=271></a>
+##### I. - Obligations générales des personnes chargées des produits explosifs.<a id=273></a>
 
 ###### Article R238-1-3
 
@@ -26341,7 +26518,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R238-1-4 (V)
 
 
-##### II. - Règles générales relatives aux produits explosifs.<a id=272></a>
+##### II. - Règles générales relatives aux produits explosifs.<a id=274></a>
 
 ###### Article R238-1-7
 
@@ -26449,7 +26626,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R238-1-4 (V)
 
 
-##### III. - Règles générales de mise en oeuvre des produits explosifs.<a id=273></a>
+##### III. - Règles générales de mise en oeuvre des produits explosifs.<a id=275></a>
 
 ###### Article R238-1-11
 
@@ -26784,9 +26961,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R238-1-4 (V)
 
 
-##### Sous-section 2 : Dispositions complémentaires particulières à certains tirs de mine<a id=274></a>
+##### Sous-section 2 : Dispositions complémentaires particulières à certains tirs de mine<a id=276></a>
 
-##### I. - Tir à la mèche.<a id=275></a>
+##### I. - Tir à la mèche.<a id=277></a>
 
 ###### Article R238-1-25
 
@@ -26863,7 +27040,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### II. - Tir au cordeau détonant.<a id=276></a>
+##### II. - Tir au cordeau détonant.<a id=278></a>
 
 ###### Article R238-1-30
 
@@ -26926,7 +27103,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### III. - Tir électrique.<a id=277></a>
+##### III. - Tir électrique.<a id=279></a>
 
 ###### Article R238-1-33
 
@@ -27064,7 +27241,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R238-1-18 (V)
 
 
-##### IV. - Tir par mines longues<a id=278></a>
+##### IV. - Tir par mines longues<a id=280></a>
 
 ###### Article R238-1-39
 
@@ -27142,7 +27319,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### V. - Tirs spéciaux.<a id=279></a>
+##### V. - Tirs spéciaux.<a id=281></a>
 
 ###### Article R238-1-45
 
@@ -27180,7 +27357,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R238-1-4 (V)
 
 
-##### Sous-section 3 : Dispositions diverses<a id=280></a>
+##### Sous-section 3 : Dispositions diverses<a id=282></a>
 
 ###### Article R238-1-47
 
@@ -27208,7 +27385,7 @@ _Cité par_:
   - Décret n°2014-1291 du 23 octobre 2014 - art. (V)
 
 
-##### Section 2 : Mesures particulières de sécurité relatives aux appareils de levage.<a id=281></a>
+##### Section 2 : Mesures particulières de sécurité relatives aux appareils de levage.<a id=283></a>
 
 ###### Article R238-2-1
 
@@ -27236,7 +27413,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L230-1-1 (M)
 
 
-##### Sous-section 1 : Installation des appareils et des voies.<a id=282></a>
+##### Sous-section 1 : Installation des appareils et des voies.<a id=284></a>
 
 ###### Article R238-2-2
 
@@ -27319,7 +27496,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R238-2-42 (V)
 
 
-##### Sous-section 2 : Installations électriques.<a id=283></a>
+##### Sous-section 2 : Installations électriques.<a id=285></a>
 
 ###### Article R238-2-6
 
@@ -27406,7 +27583,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Sous-section 3 : Cabines et moyens d'accès.<a id=284></a>
+##### Sous-section 3 : Cabines et moyens d'accès.<a id=286></a>
 
 ###### Article R238-2-10
 
@@ -27620,7 +27797,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R235-44 (V)
 
 
-##### Sous-section 4 : Moteurs, chaînes et câbles, limiteurs de course.<a id=285></a>
+##### Sous-section 4 : Moteurs, chaînes et câbles, limiteurs de course.<a id=287></a>
 
 ###### Article R238-2-20
 
@@ -27717,7 +27894,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Sous-section 5 : Manoeuvres.<a id=286></a>
+##### Sous-section 5 : Manoeuvres.<a id=288></a>
 
 ###### Article R238-2-25
 
@@ -27880,7 +28057,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Sous-section 6 : Visites et entretien.<a id=287></a>
+##### Sous-section 6 : Visites et entretien.<a id=289></a>
 
 ###### Article R238-2-31
 
@@ -28019,7 +28196,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Sous-section 7 : Dispositions diverses<a id=288></a>
+##### Sous-section 7 : Dispositions diverses<a id=290></a>
 
 ###### Article R238-2-37
 
@@ -28204,7 +28381,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R238-2-8 (V)
 
 
-##### Section 3 : Mesures particulières relatives à la protection des salariés qui exécutent des travaux de peinture et de pulvérisation.<a id=289></a>
+##### Section 3 : Mesures particulières relatives à la protection des salariés qui exécutent des travaux de peinture et de pulvérisation.<a id=291></a>
 
 ###### Article R238-3-1
 
@@ -28235,7 +28412,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R238-3-14 (V)
 
 
-##### Sous-section 1 : Prévention des intoxications.<a id=290></a>
+##### Sous-section 1 : Prévention des intoxications.<a id=292></a>
 
 ###### Article R238-3-2
 
@@ -28385,7 +28562,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R238-3-7 (V)
 
 
-##### Sous-section 2 : Prévention des incendies.<a id=291></a>
+##### Sous-section 2 : Prévention des incendies.<a id=293></a>
 
 ###### Article R238-3-9
 
@@ -28550,7 +28727,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Sous-section 3 : Dispositions finales.<a id=292></a>
+##### Sous-section 3 : Dispositions finales.<a id=294></a>
 
 ###### Article R238-3-19
 
@@ -28636,7 +28813,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R238-3-9 (V)
 
 
-##### Section 4 : Mesures particulières de protection applicables aux établissements dans lesquels sont entreposés ou manipulés certains liquides particulièrement inflammables.<a id=293></a>
+##### Section 4 : Mesures particulières de protection applicables aux établissements dans lesquels sont entreposés ou manipulés certains liquides particulièrement inflammables.<a id=295></a>
 
 ###### Article R238-4-1
 
@@ -28842,7 +29019,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Section 5 : Mesures particulières relatives à la manipulation du linge sale dans les ateliers de blanchissage.<a id=294></a>
+##### Section 5 : Mesures particulières relatives à la manipulation du linge sale dans les ateliers de blanchissage.<a id=296></a>
 
 ###### Article R238-5-1
 
@@ -28979,9 +29156,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R238-5-6 (V)
 
 
-##### Section 6 : Mesures particulières relatives à la protection des salariés intervenant en milieu hyperbare<a id=295></a>
+##### Section 6 : Mesures particulières relatives à la protection des salariés intervenant en milieu hyperbare<a id=297></a>
 
-##### Sous-section 1 : Champ d'application, définitions.<a id=296></a>
+##### Sous-section 1 : Champ d'application, définitions.<a id=298></a>
 
 ###### Article R238-6-1
 
@@ -29029,7 +29206,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R238-6-1 (V)
 
 
-##### Sous-section 2 : Conditions d'accès en milieu hyperbare.<a id=297></a>
+##### Sous-section 2 : Conditions d'accès en milieu hyperbare.<a id=299></a>
 
 ###### Article R238-6-3
 
@@ -29088,7 +29265,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Sous-section 3 : Gaz respiratoires.<a id=298></a>
+##### Sous-section 3 : Gaz respiratoires.<a id=300></a>
 
 ###### Article R238-6-5
 
@@ -29288,7 +29465,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R238-6-8 (V)
 
 
-##### Sous-section 4 : Equipement collectif.<a id=299></a>
+##### Sous-section 4 : Equipement collectif.<a id=301></a>
 
 ###### Article R238-6-13
 
@@ -29505,7 +29682,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Sous-section 5 : Equipement individuel.<a id=300></a>
+##### Sous-section 5 : Equipement individuel.<a id=302></a>
 
 ###### Article R238-6-25
 
@@ -29544,7 +29721,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Sous-section 6 : Procédures de sécurité.<a id=301></a>
+##### Sous-section 6 : Procédures de sécurité.<a id=303></a>
 
 ###### Article R238-6-28
 
@@ -29691,7 +29868,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R238-6-30 (V)
 
 
-##### Sous-section 7 : Surveillance médicale du personnel.<a id=302></a>
+##### Sous-section 7 : Surveillance médicale du personnel.<a id=304></a>
 
 ###### Article R238-6-33
 
@@ -29807,7 +29984,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R238-6-34 (V)
 
 
-##### Sous-section 8 : Dispositions diverses<a id=303></a>
+##### Sous-section 8 : Dispositions diverses<a id=305></a>
 
 ###### Article R238-6-37
 
@@ -29884,7 +30061,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R238-6-34 (V)
 
 
-##### Section 7 : Mesures particulières relatives aux marins, aux ports, aux navires et autres bâtiments de mer.<a id=304></a>
+##### Section 7 : Mesures particulières relatives aux marins, aux ports, aux navires et autres bâtiments de mer.<a id=306></a>
 
 ###### Article R238-7-1
 
@@ -29950,9 +30127,9 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-#### CHAPITRE IX : Dispositions applicables aux opérations de construction dans l'intérêt de l'hygiène et de la sécurité du travail<a id=305></a>
+#### CHAPITRE IX : Dispositions applicables aux opérations de construction dans l'intérêt de l'hygiène et de la sécurité du travail<a id=307></a>
 
-##### Section 1 : Dispositions générales.<a id=306></a>
+##### Section 1 : Dispositions générales.<a id=308></a>
 
 ###### Article R239-1
 
@@ -29978,9 +30155,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L230-16 (M)
 
 
-##### Section 2 : Règles d'hygiène<a id=307></a>
+##### Section 2 : Règles d'hygiène<a id=309></a>
 
-##### Sous-section 1 : Eclairage.<a id=308></a>
+##### Sous-section 1 : Eclairage.<a id=310></a>
 
 ###### Article R239-2
 
@@ -30067,7 +30244,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R239-53 (V)
 
 
-##### Sous-section 2 : Aération, assainissement.<a id=309></a>
+##### Sous-section 2 : Aération, assainissement.<a id=311></a>
 
 ###### Article R239-6
 
@@ -30229,7 +30406,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R239-53 (V)
 
 
-##### Sous-section 3 : Température des locaux.<a id=310></a>
+##### Sous-section 3 : Température des locaux.<a id=312></a>
 
 ###### Article R239-11
 
@@ -30271,7 +30448,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Sous-section 4 : Insonorisation.<a id=311></a>
+##### Sous-section 4 : Insonorisation.<a id=313></a>
 
 ###### Article R239-13
 
@@ -30297,7 +30474,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Sous-section 5 : Installations sanitaires, restauration.<a id=312></a>
+##### Sous-section 5 : Installations sanitaires, restauration.<a id=314></a>
 
 ###### Article R239-14
 
@@ -30353,7 +30530,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R232-22 (V)
 
 
-##### Section 3 : Règles de sécurité.<a id=313></a>
+##### Section 3 : Règles de sécurité.<a id=315></a>
 
 ###### Article R239-16
 
@@ -30863,9 +31040,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R232-14 (V)
 
 
-##### Section 4 : Prévention des incendies, évacuation<a id=314></a>
+##### Section 4 : Prévention des incendies, évacuation<a id=316></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=315></a>
+##### Sous-section 1 : Dispositions générales.<a id=317></a>
 
 ###### Article R239-38
 
@@ -30903,7 +31080,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R232-73 (V)
 
 
-##### Sous-section 2 : Dégagements.<a id=316></a>
+##### Sous-section 2 : Dégagements.<a id=318></a>
 
 ###### Article R239-39
 
@@ -31131,7 +31308,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Sous-section 3 : Désenfumage.<a id=317></a>
+##### Sous-section 3 : Désenfumage.<a id=319></a>
 
 ###### Article R239-46
 
@@ -31165,7 +31342,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Sous-section 4 : Locaux où sont entreposées ou manipulées des matières inflammables.<a id=318></a>
+##### Sous-section 4 : Locaux où sont entreposées ou manipulées des matières inflammables.<a id=320></a>
 
 ###### Article R239-47
 
@@ -31192,7 +31369,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R232-83 (V)
 
 
-##### Sous-section 5 : Bâtiments dont le plancher bas du dernier niveau est situé à plus de 8 mètres du sol.<a id=319></a>
+##### Sous-section 5 : Bâtiments dont le plancher bas du dernier niveau est situé à plus de 8 mètres du sol.<a id=321></a>
 
 ###### Article R239-48
 
@@ -31275,7 +31452,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R232-13 (V)
 
 
-##### Sous-section 6 : Moyens de prévention et de lutte contre l'incendie.<a id=320></a>
+##### Sous-section 6 : Moyens de prévention et de lutte contre l'incendie.<a id=322></a>
 
 ###### Article R239-51
 
@@ -31299,7 +31476,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R232-84 (V)
 
 
-##### Sous-section 7 : Mesures d'application.<a id=321></a>
+##### Sous-section 7 : Mesures d'application.<a id=323></a>
 
 ###### Article R239-52
 
@@ -31323,7 +31500,7 @@ _Codifié par_:
   - Décret n°2004-196 2004-02-25
 
 
-##### Section 5 : Dossier de maintenance des lieux de travail.<a id=322></a>
+##### Section 5 : Dossier de maintenance des lieux de travail.<a id=324></a>
 
 ###### Article R239-53
 
@@ -31384,9 +31561,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R239-5 (V)
 
 
-### TITRE V : Pénalités<a id=323></a>
+### TITRE V : Pénalités<a id=325></a>
 
-#### Chapitre préliminaire.<a id=324></a>
+#### Chapitre préliminaire.<a id=326></a>
 
 ###### Article R250-1
 
@@ -31444,7 +31621,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R254-6 (V)
 
 
-#### Chapitre 1er : Hygiène et sécurité.<a id=325></a>
+#### Chapitre 1er : Hygiène et sécurité.<a id=327></a>
 
 ###### Article R251-1
 
@@ -31472,9 +31649,9 @@ _Cite_:
   - Code du travail applicable à Mayotte R230-9
 
 
-#### Chapitre 3 : Conditions du travail<a id=326></a>
+#### Chapitre 3 : Conditions du travail<a id=328></a>
 
-##### Section 1 : Age d'admission.<a id=327></a>
+##### Section 1 : Age d'admission.<a id=329></a>
 
 ###### Article R253-1
 
@@ -31502,9 +31679,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R250-2 (V)
 
 
-##### Section 2 : Durée du travail<a id=328></a>
+##### Section 2 : Durée du travail<a id=330></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=329></a>
+##### Paragraphe 1 : Dispositions générales<a id=331></a>
 
 ###### Article R253-2
 
@@ -31529,7 +31706,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L212-2 (V)
 
 
-##### Paragraphe 2 : Heures supplémentaires<a id=330></a>
+##### Paragraphe 2 : Heures supplémentaires<a id=332></a>
 
 ###### Article R253-3
 
@@ -31553,7 +31730,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L250-1 (V)
 
 
-##### Paragraphe 3 : Dispositions relatives aux jeunes travailleurs<a id=331></a>
+##### Paragraphe 3 : Dispositions relatives aux jeunes travailleurs<a id=333></a>
 
 ###### Article R253-4
 
@@ -31599,7 +31776,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L212-7 (V)
 
 
-##### Section 3 : Travail de nuit.<a id=332></a>
+##### Section 3 : Travail de nuit.<a id=334></a>
 
 ###### Article R253-6
 
@@ -31642,9 +31819,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L213-9 (V)
 
 
-#### Chapitre 4 : Repos et congés<a id=333></a>
+#### Chapitre 4 : Repos et congés<a id=335></a>
 
-##### Section 1 : Repos hebdomadaire.<a id=334></a>
+##### Section 1 : Repos hebdomadaire.<a id=336></a>
 
 ###### Article R254-1
 
@@ -31692,9 +31869,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L221-3 (V)
 
 
-##### Section 2 : Jours fériés<a id=335></a>
+##### Section 2 : Jours fériés<a id=337></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=336></a>
+##### Paragraphe 1 : Dispositions générales<a id=338></a>
 
 ###### Article R254-3
 
@@ -31741,7 +31918,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L222-5 (V)
 
 
-##### Paragraphe 2 : Dispositions particulières à la journée du 1er mai.<a id=337></a>
+##### Paragraphe 2 : Dispositions particulières à la journée du 1er mai.<a id=339></a>
 
 ###### Article R254-5
 
@@ -31766,7 +31943,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R222-1 (V)
 
 
-##### Section 3 : Congés annuels.<a id=338></a>
+##### Section 3 : Congés annuels.<a id=340></a>
 
 ###### Article R254-6
 
@@ -31794,11 +31971,11 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R250-2 (V)
 
 
-## LIVRE III : Emploi<a id=339></a>
+## LIVRE III : Emploi<a id=341></a>
 
-### TITRE Ier : Déclaration des mouvements de main-d'oeuvre - Travail clandestin<a id=340></a>
+### TITRE Ier : Déclaration des mouvements de main-d'oeuvre - Travail clandestin<a id=342></a>
 
-#### Chapitre 1er : Déclaration des mouvements de main-d'oeuvre.<a id=341></a>
+#### Chapitre 1er : Déclaration des mouvements de main-d'oeuvre.<a id=343></a>
 
 ###### Article R311-1
 
@@ -31845,7 +32022,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R342-2 (V)
 
 
-#### Chapitre 2 : Travail clandestin.<a id=342></a>
+#### Chapitre 2 : Travail clandestin.<a id=344></a>
 
 ###### Article R312-1
 
@@ -31869,9 +32046,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R341-1 (V)
 
 
-### TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité départementale<a id=343></a>
+### TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité départementale<a id=345></a>
 
-#### Chapitre 1er : Généralités.<a id=344></a>
+#### Chapitre 1er : Généralités.<a id=346></a>
 
 ###### Article R321-1
 
@@ -32008,7 +32185,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L321-2 (M)
 
 
-#### Chapitre 3 : Dispositions relatives au contrat de retour à l'emploi<a id=345></a>
+#### Chapitre 3 : Dispositions relatives au contrat de retour à l'emploi<a id=347></a>
 
 ###### Article R323-1
 
@@ -32216,9 +32393,9 @@ _Abrogé par_:
   - Décret n°2012-658 du 4 mai 2012 - art. 1
 
 
-#### CHAPITRE IV : Dispositions particulières relatives à l'emploi des jeunes<a id=346></a>
+#### CHAPITRE IV : Dispositions particulières relatives à l'emploi des jeunes<a id=348></a>
 
-##### Projet initiative-jeune<a id=347></a>
+##### Projet initiative-jeune<a id=349></a>
 
 ###### Article R324-1
 
@@ -32339,9 +32516,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R324-3 (V)
 
 
-#### CHAPITRE V : Dispositions relatives à la création d'entreprises et à la création d'emplois<a id=348></a>
+#### CHAPITRE V : Dispositions relatives à la création d'entreprises et à la création d'emplois<a id=350></a>
 
-##### Section 1 : Aide à la création d'entreprises à l'initiative des demandeurs d'emploi<a id=349></a>
+##### Section 1 : Aide à la création d'entreprises à l'initiative des demandeurs d'emploi<a id=351></a>
 
 ###### Article R325-1
 
@@ -32405,7 +32582,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R325-4 (M)
 
 
-##### Section 3 : Agence mahoraise pour le développement d'activités d'utilité sociale<a id=350></a>
+##### Section 3 : Agence mahoraise pour le développement d'activités d'utilité sociale<a id=352></a>
 
 ###### Article R325-3
 
@@ -32833,7 +33010,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R325-7 (V)
 
 
-##### Section 4 : Fonds pour l'emploi<a id=351></a>
+##### Section 4 : Fonds pour l'emploi<a id=353></a>
 
 ###### Article R325-9
 
@@ -32886,9 +33063,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L325-8 (V)
 
 
-#### CHAPITRE VI : Placement<a id=352></a>
+#### CHAPITRE VI : Placement<a id=354></a>
 
-##### Section 1 : Agence nationale pour l'emploi<a id=353></a>
+##### Section 1 : Agence nationale pour l'emploi<a id=355></a>
 
 ###### Article R326-1
 
@@ -33109,7 +33286,7 @@ _Créé par_:
   - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
 
 
-##### Section 2 : Organismes qui concourent au service public du placement<a id=354></a>
+##### Section 2 : Organismes qui concourent au service public du placement<a id=356></a>
 
 ###### Article R326-8
 
@@ -33237,7 +33414,7 @@ _Créé par_:
   - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
 
 
-##### Section 3 : Notification par les employeurs des places vacantes<a id=355></a>
+##### Section 3 : Notification par les employeurs des places vacantes<a id=357></a>
 
 ###### Article R326-13
 
@@ -33259,7 +33436,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L326-2 (T)
 
 
-##### Section 4 : Inscription et radiation de la liste des demandeurs d'emploi<a id=356></a>
+##### Section 4 : Inscription et radiation de la liste des demandeurs d'emploi<a id=358></a>
 
 ###### Article R326-14
 
@@ -33531,7 +33708,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R326-21 (V)
 
 
-##### Section 5 : Collectivités territoriales<a id=357></a>
+##### Section 5 : Collectivités territoriales<a id=359></a>
 
 ###### Article R326-23
 
@@ -33658,7 +33835,7 @@ _Créé par_:
   - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
 
 
-##### Section 6 : Dispositions diverses<a id=358></a>
+##### Section 6 : Dispositions diverses<a id=360></a>
 
 ###### Article R326-29
 
@@ -33795,9 +33972,9 @@ _Créé par_:
   - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
 
 
-#### CHAPITRE VII : Indemnisation du chômage<a id=359></a>
+#### CHAPITRE VII : Indemnisation du chômage<a id=361></a>
 
-##### Section 2 : Perte temporaire de salaire<a id=360></a>
+##### Section 2 : Perte temporaire de salaire<a id=362></a>
 
 ###### Article R327-10
 
@@ -34021,7 +34198,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R327-13
 
 
-### TITRE III : Main-d'oeuvre étrangère<a id=361></a>
+### TITRE III : Main-d'oeuvre étrangère<a id=363></a>
 
 ###### Article R330-1
 
@@ -34302,9 +34479,9 @@ _Anciens textes_:
   - Code du travail applicable à Mayotte. - art. R330-7 (T)
 
 
-### TITRE IV : Pénalités<a id=362></a>
+### TITRE IV : Pénalités<a id=364></a>
 
-#### CHAPITRE Ier : Travail clandestin<a id=363></a>
+#### CHAPITRE Ier : Travail clandestin<a id=365></a>
 
 ###### Article R341-1
 
@@ -34329,7 +34506,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R312-1 (V)
 
 
-#### CHAPITRE II : Déclaration des mouvements de main-d'oeuvre<a id=364></a>
+#### CHAPITRE II : Déclaration des mouvements de main-d'oeuvre<a id=366></a>
 
 ###### Article R342-1
 
@@ -34358,11 +34535,11 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R311-1 (M)
 
 
-## LIVRE IV : Les groupements professionnels - La représentation des salariés<a id=365></a>
+## LIVRE IV : Les groupements professionnels - La représentation des salariés<a id=367></a>
 
-### TITRE Ier : Les syndicats professionnels<a id=366></a>
+### TITRE Ier : Les syndicats professionnels<a id=368></a>
 
-#### CHAPITRE Ier : Statut juridique des syndicats<a id=367></a>
+#### CHAPITRE Ier : Statut juridique des syndicats<a id=369></a>
 
 ###### Article R411-1
 
@@ -34394,9 +34571,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R451-1 (V)
 
 
-#### CHAPITRE II : Droit syndical et représentativité des syndicats<a id=368></a>
+#### CHAPITRE II : Droit syndical et représentativité des syndicats<a id=370></a>
 
-##### Section 1 : Critères de représentativité<a id=369></a>
+##### Section 1 : Critères de représentativité<a id=371></a>
 
 ###### Article R412-1
 
@@ -34417,7 +34594,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L133-1
 
 
-### Titre 3 : Pénalités.<a id=370></a>
+### Titre 3 : Pénalités.<a id=372></a>
 
 ###### Article R430-1
 
@@ -34447,11 +34624,11 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R411-1 (M)
 
 
-## LIVRE V : Conflits du travail<a id=371></a>
+## LIVRE V : Conflits du travail<a id=373></a>
 
-### TITRE Ier : Conflits collectifs<a id=372></a>
+### TITRE Ier : Conflits collectifs<a id=374></a>
 
-#### CHAPITRE III : Conciliation<a id=373></a>
+#### CHAPITRE III : Conciliation<a id=375></a>
 
 ###### Article R513-1
 
@@ -34469,7 +34646,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-##### Section 1 : Composition des commissions de conciliation.<a id=374></a>
+##### Section 1 : Composition des commissions de conciliation.<a id=376></a>
 
 ###### Article R513-2
 
@@ -34515,7 +34692,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-##### Section 2 : Fonctionnement des commissions de conciliation.<a id=375></a>
+##### Section 2 : Fonctionnement des commissions de conciliation.<a id=377></a>
 
 ###### Article R513-4
 
@@ -34679,7 +34856,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### CHAPITRE IV : Médiation<a id=376></a>
+#### CHAPITRE IV : Médiation<a id=378></a>
 
 ###### Article R514-1
 
@@ -34816,7 +34993,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### CHAPITRE V : Arbitrage<a id=377></a>
+#### CHAPITRE V : Arbitrage<a id=379></a>
 
 ###### Article R515-1
 
@@ -34855,7 +35032,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-### TITRE II : Pénalités<a id=378></a>
+### TITRE II : Pénalités<a id=380></a>
 
 ###### Article R520-1
 
@@ -34879,9 +35056,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L153-1 (V)
 
 
-## LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=379></a>
+## LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=381></a>
 
-### TITRE Ier : Services de contrôle<a id=380></a>
+### TITRE Ier : Services de contrôle<a id=382></a>
 
 ###### Article R610-1
 
@@ -34940,7 +35117,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-### TITRE II : Obligations des employeurs<a id=381></a>
+### TITRE II : Obligations des employeurs<a id=383></a>
 
 ###### Article R620-1
 
@@ -35085,9 +35262,9 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-### TITRE III : Pénalités<a id=382></a>
+### TITRE III : Pénalités<a id=384></a>
 
-#### CHAPITRE Ier : Service de contrôle<a id=383></a>
+#### CHAPITRE Ier : Service de contrôle<a id=385></a>
 
 ###### Article R631-1
 
@@ -35111,7 +35288,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L610-8 (V)
 
 
-#### CHAPITRE II : Obligations des employeurs<a id=384></a>
+#### CHAPITRE II : Obligations des employeurs<a id=386></a>
 
 ###### Article R632-1
 
@@ -35163,9 +35340,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R632-1 (V)
 
 
-## LIVRE VII : Formation professionnelle<a id=385></a>
+## LIVRE VII : Formation professionnelle<a id=387></a>
 
-### Chapitre unique : Dispositions communes aux contrats de qualification et aux contrats d'orientation<a id=386></a>
+### Chapitre unique : Dispositions communes aux contrats de qualification et aux contrats d'orientation<a id=388></a>
 
 ###### Article R711-1
 
@@ -35204,15 +35381,15 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. D711-13 (VT)
 
 
-# Partie réglementaire  - Décrets simples<a id=387></a>
+# Partie réglementaire  - Décrets simples<a id=389></a>
 
-## Livre 1er : Conventions relatives au travail<a id=388></a>
+## Livre 1er : Conventions relatives au travail<a id=390></a>
 
-### Titre 4 : Salaire<a id=389></a>
+### Titre 4 : Salaire<a id=391></a>
 
-#### Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG*<a id=390></a>
+#### Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG*<a id=392></a>
 
-##### Section 1 : Dispositions générales<a id=391></a>
+##### Section 1 : Dispositions générales<a id=393></a>
 
 ###### Article D141-1
 
@@ -35275,7 +35452,7 @@ _Cite_:
   - Code du travail applicable à la collectivité territoriale de Mayotte D141-1
 
 
-##### Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement<a id=392></a>
+##### Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement<a id=394></a>
 
 ###### Article D141-3
 
@@ -35448,11 +35625,11 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D141-2-7 (V)
 
 
-## Livre 2 : Réglementation du travail<a id=393></a>
+## Livre 2 : Réglementation du travail<a id=395></a>
 
-### Titre 1er : Conditions de travail<a id=394></a>
+### Titre 1er : Conditions de travail<a id=396></a>
 
-#### Chapitre 1er : Age d'admission<a id=395></a>
+#### Chapitre 1er : Age d'admission<a id=397></a>
 
 ###### Article D211-1
 
@@ -35536,9 +35713,9 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Chapitre 2 : Durée du travail<a id=396></a>
+#### Chapitre 2 : Durée du travail<a id=398></a>
 
-##### Section 1 : Récupération des heures perdues<a id=397></a>
+##### Section 1 : Récupération des heures perdues<a id=399></a>
 
 ###### Article D212-1
 
@@ -35690,9 +35867,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D212-8 (V)
 
 
-### Titre 2 : Repos et congés<a id=398></a>
+### Titre 2 : Repos et congés<a id=400></a>
 
-#### Chapitre 3 : Congés annuels<a id=399></a>
+#### Chapitre 3 : Congés annuels<a id=401></a>
 
 ###### Article D223-1
 
@@ -35803,11 +35980,11 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D223-5 (V)
 
 
-## Livre 3 : Emploi<a id=400></a>
+## Livre 3 : Emploi<a id=402></a>
 
-### Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin<a id=401></a>
+### Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin<a id=403></a>
 
-#### Chapitre 2 : Travail clandestin<a id=402></a>
+#### Chapitre 2 : Travail clandestin<a id=404></a>
 
 ###### Article D312-1
 
@@ -35847,9 +36024,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D312-9 (V)
 
 
-### Titre 2 : Aides à l'emploi - Intervention du fonds national de l'emploi<a id=403></a>
+### Titre 2 : Aides à l'emploi - Intervention du fonds national de l'emploi<a id=405></a>
 
-#### Chapitre 4 : Dispositions particulières relatives à l'emploi des jeunes - Projet initiative-jeune<a id=404></a>
+#### Chapitre 4 : Dispositions particulières relatives à l'emploi des jeunes - Projet initiative-jeune<a id=406></a>
 
 ###### Article D324-9
 
@@ -35884,7 +36061,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D324-2 (Ab)
 
 
-#### Chapitre 5 : Dispositions relatives à la création d'entreprises et à la création d'emplois - Aide à la création d'entreprises à l'initiative des demandeurs d'emploi<a id=405></a>
+#### Chapitre 5 : Dispositions relatives à la création d'entreprises et à la création d'emplois - Aide à la création d'entreprises à l'initiative des demandeurs d'emploi<a id=407></a>
 
 ###### Article D325-1
 
@@ -35933,9 +36110,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D325-1-1 (Ab)
 
 
-#### Chapitre 7 : Indemnisation du chômage<a id=406></a>
+#### Chapitre 7 : Indemnisation du chômage<a id=408></a>
 
-##### Section 2 : Perte temporaire de salaire<a id=407></a>
+##### Section 2 : Perte temporaire de salaire<a id=409></a>
 
 ###### Article D327-10
 
@@ -35965,11 +36142,11 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D321-12-1 (Ab)
 
 
-## Livre 5 : Conflits du travail<a id=408></a>
+## Livre 5 : Conflits du travail<a id=410></a>
 
-### Titre 1er : Conflits collectifs<a id=409></a>
+### Titre 1er : Conflits collectifs<a id=411></a>
 
-#### Chapitre 4 : Médiation<a id=410></a>
+#### Chapitre 4 : Médiation<a id=412></a>
 
 ###### Article D514-1
 
@@ -36086,9 +36263,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D514-10 (V)
 
 
-## Livre 7 : De la formation professionnelle<a id=411></a>
+## Livre 7 : De la formation professionnelle<a id=413></a>
 
-### Chapitre 2 : Contrats de formation en alternance Section 1 : Contrats de qualification<a id=412></a>
+### Chapitre 2 : Contrats de formation en alternance Section 1 : Contrats de qualification<a id=414></a>
 
 ###### Article D712-1
 
@@ -36326,7 +36503,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D711-8 (VT)
 
 
-### Chapitre 2 : Contrats de formation en alternance Section 2 : Contrats d'orientation<a id=413></a>
+### Chapitre 2 : Contrats de formation en alternance Section 2 : Contrats d'orientation<a id=415></a>
 
 ###### Article D712-8
 
@@ -36503,7 +36680,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D711-12 (VT)
 
 
-### Chapitre 2 : Contrats de formation en alternance Section 3 : Dispositions communes aux contrats de qualification et d'orientation<a id=414></a>
+### Chapitre 2 : Contrats de formation en alternance Section 3 : Dispositions communes aux contrats de qualification et d'orientation<a id=416></a>
 
 ###### Article D712-12
 
