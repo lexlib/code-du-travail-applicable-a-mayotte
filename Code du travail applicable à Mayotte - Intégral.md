@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2001-03-31
+Version Consolidée au 2001-07-13
 ## Contenu: 
   - [Partie législative (art. L000-1 à L711-4)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L000-1 à L000-2)](#2)
@@ -95,7 +95,7 @@ Version Consolidée au 2001-03-31
       - [TITRE Ier : DÉCLARATION DE MOUVEMENTS DE MAIN-D'OEUVRE TRAVAIL CLANDESTIN (art. L311-1 à L312-7)](#92)
         - [CHAPITRE Ier : Déclaration de mouvements de main-d'oeuvre. (art. L311-1)](#93)
         - [CHAPITRE II : Travail clandestin. (art. L312-1 à L312-7)](#94)
-      - [TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité territoriale (art. L321-1 à L325-1)](#95)
+      - [TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité départementale (art. L321-1 à L325-1)](#95)
         - [CHAPITRE Ier : Généralités. (art. L321-1 à L321-4)](#96)
         - [CHAPITRE II : Dispositions relatives au contrat emploi-solidarité. (art. L322-1 à L322-7)](#97)
         - [Chapitre III : Dispositions relatives aux contrats de retour à l'emploi (art. L323-1 à L323-4)](#98)
@@ -202,7 +202,7 @@ Version Consolidée au 2001-03-31
       - [TITRE Ier : Déclaration des mouvements de main-d'oeuvre - Travail clandestin (art. R311-1 à R312-1)](#199)
         - [Chapitre 1er : Déclaration des mouvements de main-d'oeuvre. (art. R311-1)](#200)
         - [Chapitre 2 : Travail clandestin. (art. R312-1)](#201)
-      - [Titre 2 : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité territoriale (art. R321-1 à R325-9)](#202)
+      - [TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité départementale (art. R321-1 à R325-9)](#202)
         - [Chapitre 1er : Généralités. (art. R321-1 à R321-6)](#203)
         - [Chapitre 3 : Dispositions relatives au contrat de retour à l'emploi (art. R323-1 à R323-7)](#204)
         - [Chapitre 5 : Dispositions relatives à l'aide à la création d'entreprise à l'initiative de demandeurs d'emploi (art. R325-1 à R325-9)](#205)
@@ -243,12 +243,11 @@ Version Consolidée au 2001-03-31
       - [Titre 2 : Repos et congés (art. D223-1 à D223-4)](#240)
         - [Chapitre 3 : Congés annuels (art. D223-1 à D223-4)](#241)
     - [Livre 3 : Emploi (art. D312-1)](#242)
-      - [Titre 1er : Déclarations de mouvements de main d'oeuvre (art. D312-1)](#243)
-        - [Travail clandestin (art. D312-1)](#244)
-          - [Chapitre 2 : Travail clandestin (art. D312-1)](#245)
-    - [Livre 5 : Conflits du travail (art. D514-1 à D514-4)](#246)
-      - [Titre 1er : Conflits collectifs (art. D514-1 à D514-4)](#247)
-        - [Chapitre 4 : Médiation (art. D514-1 à D514-4)](#248)
+      - [Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin (art. D312-1)](#243)
+        - [Chapitre 2 : Travail clandestin (art. D312-1)](#244)
+    - [Livre 5 : Conflits du travail (art. D514-1 à D514-4)](#245)
+      - [Titre 1er : Conflits collectifs (art. D514-1 à D514-4)](#246)
+        - [Chapitre 4 : Médiation (art. D514-1 à D514-4)](#247)
 # Partie législative<a id=1></a>
 
 ## LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES.<a id=2></a>
@@ -257,7 +256,7 @@ Version Consolidée au 2001-03-31
 
 Le présent code du travail s'applique :
 
-1° A tous les salariés exerçant leur activité dans la collectivité territoriale ;
+1° A tous les salariés exerçant leur activité dans la collectivité départementale ;
 
 2° A toute personne physique ou morale qui emploie un ou plusieurs de ces salariés.
 
@@ -270,9 +269,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -284,7 +283,7 @@ _Cité par_:
 
 ###### Article L000-2
 
-L'entreprise qui a son siège social ou son établissement principal dans la collectivité territoriale de Mayotte et qui
+L'entreprise qui a son siège social ou son établissement principal dans la collectivité départementale de Mayotte et qui
 effectue une prestation de services dans un département rémunère les salariés qu'elle y envoie selon des dispositions des
 conventions collectives étendues qui s'appliquent dans ce département. A défaut, elle les rémunère au salaire minimum de
 croissance applicable dans ce département.
@@ -294,11 +293,15 @@ croissance applicable dans ce département.
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-638 du 25 juillet 1994 - art. 22 () JORF 27 juillet 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 1
 
 
 ## LIVRE Ier : CONVENTIONS RELATIVES AU TRAVAIL<a id=3></a>
@@ -324,24 +327,25 @@ entreprises susceptibles d'accueillir temporairement l'apprenti est fixé par l'
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L112-2, L116-4
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
   - Ordonnance n°2016-160 du 18 février 2016 - art. 1 (V)
   - Code des pensions militaires d'invalidité et de... - art. R441-4 (V)
   - Code du travail applicable à Mayotte. - art. R324-1 (M)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L112-2 (M)
+  - Code du travail applicable à Mayotte. - art. L116-4 (M)
 
 
 ###### Article L111-2
@@ -363,18 +367,19 @@ Il n'est exigé aucune condition de délai entre deux contrats.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L113-8, L116-4
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L113-8 (M)
+  - Code du travail applicable à Mayotte. - art. L116-4 (M)
 
 
 #### CHAPITRE II : Des centres de formation d'apprentis.<a id=6></a>
@@ -389,27 +394,24 @@ Ils doivent, parmi leurs missions, développer l'aptitude à tirer profit d'acti
 à poursuivre des études par les voies de l'apprentissage, de l'enseignement professionnel ou technologique, ou par toute
 autre voie.
 
-**Nota:**
-
-[*Nota : Code du travail applicable dans la collectivité territoriale de Mayotte L112-2 : dérogation à l'article L112-1.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L112-2
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
+  - Code du travail applicable à Mayotte. - art. L112-2 (VT)
   - Code du travail applicable à Mayotte. - art. L116-5 (Ab)
 
 
@@ -423,25 +425,21 @@ des formations technologiques et pratiques normalement dispensées par le centre
 
 - un centre de formation d'apprentis peut conclure, avec un établissement d'enseignement public, une convention aux termes de
 laquelle cet établissement assure tout ou partie des enseignements normalement dispensés par le centre de formation
-d'apprentis et met à disposition des équipements pédagogiques ou d'hébergement.
+d'apprentis et met à disposition des équipements pédagogiques ou d'hébergement. 
 
 Dans les cas visés aux alinéas ci-dessus, les centres de formation d'apprentis conservent la responsabilité administrative et
 pédagogique des enseignements dispensés.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L112-1
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -449,15 +447,23 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L111-1 (VT)
   - Code du travail applicable à Mayotte. - art. L114-2 (VT)
   - Code du travail applicable à Mayotte. - art. L114-7 (VT)
-  - Code du travail applicable à Mayotte. - art. L116-3 (V)
+  - Code du travail applicable à Mayotte. - art. L116-3 (VT)
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L112-1 (VT)
 
 
 ###### Article L112-3
 
-Les centres de formation d'apprentis sont créés par des conventions conclues par la collectivité territoriale de Mayotte avec
-les communes, les établissements publics, et notamment la chambre professionnelle, les établissements d'enseignement privés,
-les organisations professionnelles, les associations, les entreprises ou toute autre personne physique ou morale, dans les
-conditions prévues par la loi n° 88-1089 du 1er décembre 1988 susvisée.
+Les centres de formation d'apprentis sont créés par des conventions conclues par la collectivité départementale de Mayotte
+avec les communes, les établissements publics, et notamment la chambre professionnelle, les établissements d'enseignement
+privés, les organisations professionnelles, les associations, les entreprises ou toute autre personne physique ou morale,
+dans les conditions prévues par la loi n° 88-1089 du 1er décembre 1988 susvisée.
 
 **Liens relatifs à cet article**
 
@@ -470,9 +476,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -483,7 +489,7 @@ _Cité par_:
 
 La durée de la formation dispensée dans les centres de formation d'apprentis est fixée par la convention prévue à l'article
 L. 112-3, sans pouvoir être inférieure à 400 heures par an en moyenne sur les années d'application du contrat. Elle tient
-compte des exigences propres à chaque niveau de qualification ainsi que du niveau initial des connaissances des apprentis.
+compte des exigences propres à chaque niveau de qualification ainsi que du niveau initial des connaissances des apprentis. 
 
 Pour les apprentis dont l'apprentissage a été prolongé en application des dispositions de l'article L. 113-8, l'horaire
 minimum est fixé par la convention prévue à l'article L. 112-3, sans pouvoir être inférieur à 240 heures par an en cas de
@@ -492,30 +498,35 @@ d'une prolongation d'une durée inférieure.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L112-3, L113-8
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L112-3
+  - Code du travail applicable à Mayotte. - art. L113-8
 
 
 ###### Article L112-5
 
 Les centres de formation d'apprentis sont soumis au contrôle pédagogique de l'Etat et au contrôle technique et financier de
-la collectivité territoriale.
+la collectivité départementale.
 
 Si ces contrôles révèlent des insuffisances graves ou des manquements aux obligations résultant du présent code et des textes
-pris pour son application ou de la convention, celle-ci peut être dénoncée par le représentant du Gouvernement à Mayotte,
-après mise en demeure non suivie d'effet.
+pris pour son application ou de la convention, celle-ci peut être dénoncée par le représentant de l'Etat, après mise en
+demeure non suivie d'effet.
 
-Cette dénonciation entraîne la fermeture du centre.La collectivité territoriale prend les mesures nécessaires d'ordre
+Cette dénonciation entraîne la fermeture du centre. La collectivité départementale prend les mesures nécessaires d'ordre
 administratif et pédagogique de nature à permettre l'achèvement des formations en cours.
 
 Le cas échéant, un administrateur provisoire peut être désigné afin d'assurer, pour le compte de l'organisme gestionnaire,
@@ -525,12 +536,16 @@ l'achèvement des formations en cours.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L112-6
@@ -543,18 +558,22 @@ centres de formation d'apprentis.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L116-4
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L116-4
 
 
 ###### Article L112-7
@@ -577,9 +596,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 #### CHAPITRE III : Du contrat d'apprentissage<a id=7></a>
@@ -594,29 +613,25 @@ méthodique et complète, dispensée pour partie en entreprise et pour partie en
 s'oblige, en retour, en vue de sa formation, à travailler pour cet employeur, pendant la durée du contrat, et à suivre la
 formation dispensée en centre de formation d'apprentis et en entreprise.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L116-5 : les cours d'enseignement général et
-professionnel organisés par le représentant du Gouvernement tiennent lieu de la formation prévue à l'article L112-1.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L116-5
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. D313-1 (V)
+  - Code du travail applicable à Mayotte. - art. L113-14 (VT)
   - Code du travail applicable à Mayotte. - art. L113-15 (VT)
 
 
@@ -627,25 +642,20 @@ relations de travail entre employeurs et salariés dans la branche ou l'entrepri
 ces conventions ou accords collectifs de travail ne sont pas contraires aux dispositions du présent code et des textes pris
 pour son application.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L116-5 : les cours d'enseignement général et
-professionnel organisés par le représentant du Gouvernement tiennent lieu de la formation prévue à l'article L112-1.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L116-5
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ##### Section 2 : Conditions du contrat.<a id=9></a>
@@ -656,29 +666,24 @@ Nul ne peut être engagé en qualité d'apprenti s'il n'est âgé de seize ans a
 l'apprentissage. Toutefois, les jeunes âgés d'au moins quinze ans peuvent souscrire un contrat d'apprentissage, s'ils
 justifient avoir effectué la scolarité du premier cycle de l'enseignement secondaire.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L116-5 : les cours d'enseignement général et
-professionnel organisés par le représentant du Gouvernement tiennent lieu de la formation prévue à l'article L112-1.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L116-5
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
-  - Code du travail applicable à Mayotte. - art. L211-1 (V)
+  - Code du travail applicable à Mayotte. - art. L211-1 (VT)
   - Code du travail applicable à Mayotte. - art. R151-1 (T)
   - Code du travail applicable à Mayotte. - art. R161-1 (V)
 
@@ -687,25 +692,20 @@ _Cité par_:
 
 Nul ne peut recevoir des apprentis s'il n'est majeur ou émancipé.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L116-5 : les cours d'enseignement général et
-professionnel organisés par le représentant du Gouvernement tiennent lieu de la formation prévue à l'article L112-1.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L116-5
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -720,48 +720,31 @@ utilisées, des conditions de travail, d'hygiène et de sécurité dans l'entrep
 ou de la personne responsable de sa formation, ainsi que de la qualité de la formation professionnelle prévue pour
 l'apprenti.
 
-Au vu de ces garanties, le représentant du Gouvernement à Mayotte délivre l'agrément dans un délai d'un mois à partir de la
+Au vu de ces garanties, le représentant de l'Etat à Mayotte délivre l'agrément dans un délai d'un mois à partir de la
 réception de la demande ou saisit pour avis, dans ce même délai, le comité de la formation professionnelle, de la promotion
 sociale et de l'emploi, institué par l'article 2 de la loi n° 88-1029 du 1er décembre 1988. Passé ce délai, l'agrément est
-réputé acquis sauf si le représentant du Gouvernement à Mayotte a notifié au demandeur le transfert de son dossier, pour
-avis, au comité de la formation professionnelle, de la promotion sociale et de l'emploi. En cas de transfert de la demande,
-le représentant du Gouvernement à Mayotte dispose d'un délai d'un mois supplémentaire pour statuer. Passé ce délai,
-l'agrément est réputé acquis, sauf décision de refus notifiée au demandeur. Le représentant du Gouvernement à Mayotte informe
-régulièrement le comité de la formation professionnelle, de la promotion sociale et de l'emploi des décisions d'agrément
-qu'il a prises.
+réputé acquis sauf si le représentant de l'Etat à Mayotte a notifié au demandeur le transfert de son dossier, pour avis, au
+comité de la formation professionnelle, de la promotion sociale et de l'emploi. En cas de transfert de la demande, le
+représentant de l'Etat à Mayotte dispose d'un délai d'un mois supplémentaire pour statuer. Passé ce délai, l'agrément est
+réputé acquis, sauf décision de refus notifiée au demandeur. Le représentant de l'Etat à Mayotte informe régulièrement le
+comité de la formation professionnelle, de la promotion sociale et de l'emploi des décisions d'agrément qu'il a prises.
 
-L'agrément peut être retiré par le représentant du Gouvernement à Mayotte après avis du comité de la formation
-professionnelle, de la promotion sociale et de l'emploi et après mise en demeure par les autorités chargées d'exercer le
-contrôle de l'exécution du contrat d'apprentissage, et notamment par l'inspection du travail ou l'inspection de
-l'apprentissage, lorsque l'employeur méconnaît les obligations mises à sa charge soit par le présent titre, soit par les
-autres dispositions du présent code applicables aux jeunes travailleurs ou aux apprentis, soit par le contrat
-d'apprentissage.
+L'agrément peut être retiré par le représentant de l'Etat à Mayotte après avis du comité de la formation professionnelle, de
+la promotion sociale et de l'emploi et après mise en demeure par les autorités chargées d'exercer le contrôle de l'exécution
+du contrat d'apprentissage, et notamment par l'inspection du travail ou l'inspection de l'apprentissage, lorsque l'employeur
+méconnaît les obligations mises à sa charge soit par le présent titre, soit par les autres dispositions du présent code
+applicables aux jeunes travailleurs ou aux apprentis, soit par le contrat d'apprentissage.
 
 Les décisions de refus ou de retrait d'agrément sont motivées.
 
-Les décisions du représentant du Gouvernement à Mayotte sont communiquées aux fonctionnaires chargés du contrôle de
-l'application de la législation du travail et des lois sociales dans les établissements en cause, aux représentants du
-personnel ainsi qu'à la chambre professionnelle.
+Les décisions du représentant de l'Etat à Mayotte sont communiquées aux fonctionnaires chargés du contrôle de l'application
+de la législation du travail et des lois sociales dans les établissements en cause, aux représentants du personnel ainsi qu'à
+la chambre professionnelle.
 
 A titre transitoire, pour les demandes déposées avant le 30 juin 1992, les délais d'un mois et de deux mois prévus au
 deuxième alinéa du présent article sont portés respectivement à deux mois et trois mois.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L116-5 : les cours d'enseignement général et
-professionnel organisés par le représentant du Gouvernement tiennent lieu de la formation prévue à l'article L112-1.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L116-5
-
-_Cité par_:
-
-  - Décret n°2014-1289 du 23 octobre 2014 - art. (VD)
-  - Code du travail applicable à Mayotte. - art. R151-1 (T)
-  - Code du travail applicable à Mayotte. - art. R161-1 (V)
 
 _Cite_:
 
@@ -772,9 +755,15 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cité par_:
+
+  - Décret n°2014-1289 du 23 octobre 2014 - art. (VD)
+  - Code du travail applicable à Mayotte. - art. R151-1 (T)
+  - Code du travail applicable à Mayotte. - art. R161-1 (V)
 
 
 ###### Article L113-6
@@ -784,25 +773,20 @@ formation prévue au contrat.
 
 Le choix du centre de formation d'apprentis est précisé par le contrat d'apprentissage.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L116-5 : les cours d'enseignement général et
-professionnel organisés par le représentant du Gouvernement tiennent lieu de la formation prévue à l'article L112-1.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L116-5
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -820,25 +804,20 @@ L'employeur s'engage à faire suivre à l'apprenti la formation dispensée par l
 destinées à coordonner celle-ci et la formation en entreprise. Il doit inscrire et faire participer l'apprenti aux épreuves
 du diplôme ou du titre sanctionnant la qualification professionnelle prévue par le contrat.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L116-5 : les cours d'enseignement général et
-professionnel organisés par le représentant du Gouvernement tiennent lieu de la formation prévue à l'article L112-1.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L116-5
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -851,29 +830,20 @@ En cas d'échec à l'examen, l'apprentissage peut être prolongé pour une duré
 initial, soit par conclusion d'un nouveau contrat avec un autre employeur dans des conditions fixées par l'arrêté prévu à
 l'article L. 116-4.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L116-5 : les cours d'enseignement général et
-professionnel organisés par le représentant du Gouvernement tiennent lieu de la formation prévue à l'article L112-1.*]
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L116-4
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L116-5
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -881,38 +851,33 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L112-4 (VT)
   - Code du travail applicable à Mayotte. - art. R151-1 (T)
 
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L116-4
+
 
 ###### Article L113-9
 
 Sous réserve de dispositions contractuelles ou conventionnelles plus favorables, l'apprenti perçoit un salaire déterminé en
 pourcentage du salaire minimum interprofessionnel garanti et dont le montant, qui varie en fonction de l'âge du bénéficiaire,
-est fixé pour chaque semestre d'apprentissage par arrêté du représentant du Gouvernement à Mayotte pris après avis de la
-commission consultative du travail et du comité de la formation professionnelle, de la promotion sociale et de l'emploi.
+est fixé pour chaque semestre d'apprentissage par arrêté du représentant de l'Etat à Mayotte pris après avis de la commission
+consultative du travail et du comité de la formation professionnelle, de la promotion sociale et de l'emploi.
 
 Les modalités de rémunération des heures supplémentaires sont celles qui sont applicables au personnel de l'entreprise
 concernée.
 
 L'arrêté prévu au premier alinéa fixe les conditions dans lesquelles les avantages en nature peuvent être déduits du salaire.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L116-5 : les cours d'enseignement général et
-professionnel organisés par le représentant du Gouvernement tiennent lieu de la formation prévue à l'article L112-1.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L116-5
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -925,25 +890,20 @@ _Cité par_:
 L'employeur est tenu de prévenir les parents ou leurs représentants en cas de maladie ou d'absence de l'apprenti mineur ou de
 tout autre fait de nature à motiver leur intervention.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L116-5 : les cours d'enseignement général et
-professionnel organisés par le représentant du Gouvernement tiennent lieu de la formation prévue à l'article L112-1.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L116-5
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -958,29 +918,24 @@ l'application à ces entreprises des dispositions législatives ou réglementair
 minimum de salariés, exception faite de celles qui concernent la tarification des risques d'accidents du travail et de
 maladies professionnelles.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L116-5 : les cours d'enseignement général et
-professionnel organisés par le représentant du Gouvernement tiennent lieu de la formation prévue à l'article L112-1.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L116-5
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-_Créé par_:
-
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
 _Cité par_:
 
   - Décret n°98-247 du 2 avril 1998 - art. 29 (V)
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ##### Section 3 : Formation et résolution du contrat.<a id=10></a>
@@ -991,57 +946,47 @@ Le contrat d'apprentissage doit être passé par écrit et rédigé en français
 
 Il est exempté de tous droits de timbre et d'enregistrement.
 
-Un arrêté du représentant du Gouvernement à Mayotte détermine les clauses et mentions qui doivent obligatoirement figurer
-dans le contrat.
-
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L116-5 : les cours d'enseignement général et
-professionnel organisés par le représentant du Gouvernement tiennent lieu de la formation prévue à l'article L112-1.*]
+Un arrêté du représentant de l'Etat à Mayotte détermine les clauses et mentions qui doivent obligatoirement figurer dans le
+contrat.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L116-5
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L113-13
 
 Le contrat fixe la date du début de l'apprentissage. Sauf dérogation accordée dans des conditions fixées par arrêté du
-représentant du Gouvernement, cette date ne peut être antérieure de plus de trois mois, ni postérieure de plus de deux mois
-au début du cycle du centre de formation d'apprentis que doit suivre l'apprenti. En cas de dérogation ou de suspension du
+représentant de l'Etat, cette date ne peut être antérieure de plus de trois mois, ni postérieure de plus de deux mois au
+début du cycle du centre de formation d'apprentis que doit suivre l'apprenti. En cas de dérogation ou de suspension du
 contrat pour raison indépendante de la volonté de l'apprenti, la durée du contrat est prolongée jusqu'à l'expiration de ce
 cycle.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L116-5 : les cours d'enseignement général et
-professionnel organisés par le représentant du Gouvernement tiennent lieu de la formation prévue à l'article L112-1.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L116-5
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L113-14
@@ -1051,71 +996,66 @@ représentant légal, est adressé pour enregistrement à l'administration charg
 du travail. Cet enregistrement est refusé dans un délai d'un mois si le contrat ne satisfait pas à toutes les conditions
 prévues par les articles L. 113-1 à L. 113-13 et par les textes pris pour leur application. Le refus d'enregistrement fait
 obstacle à ce que le contrat reçoive ou continue de recevoir exécution. La non-réponse dans le même délai a valeur
-d'acceptation.
+d'acceptation. 
 
 L'enregistrement ne donne lieu à aucun frais.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L116-5 : les cours d'enseignement général et
-professionnel organisés par le représentant du Gouvernement tiennent lieu de la formation prévue à l'article L112-1.*]
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L113-1 à L113-13
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L116-5
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L113-1 (VT)
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. L113-15 (VT)
 
 
 ###### Article L113-15
 
 Lorsque l'apprenti mineur est employé par un ascendant, le contrat d'apprentissage est remplacé par une déclaration souscrite
 par l'employeur et comportant l'engagement qu'il sera satisfait aux conditions prévues par les articles L. 113-1 à L. 113-13
-et par les textes pris pour leur application.
+et par les textes pris pour leur application. 
 
 Cette déclaration est soumise à enregistrement dans les conditions fixées à l'article précédent ; elle est assimilée dans
-tous ses effets à un contrat d'apprentissage.
+tous ses effets à un contrat d'apprentissage. 
 
 En cas de refus d'enregistrement du contrat d'apprentissage, prévu à l'article L. 113-14 ou de la déclaration qui en tient
 lieu, prévue au présent article, les parties ou l'une d'elles peuvent saisir la juridiction du travail qui statue alors sur
 la validité du contrat.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L116-5 : les cours d'enseignement général et
-professionnel organisés par le représentant du Gouvernement tiennent lieu de la formation prévue à l'article L112-1.*]
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L113-1 à L113-13
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L116-5
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L113-1
+  - Code du travail applicable à Mayotte. - art. L113-14 (VT)
 
 
 ###### Article L113-16
@@ -1135,49 +1075,40 @@ professionnel organisés par le représentant du Gouvernement tiennent lieu de l
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L116-5
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article L113-17
 
 En cas de retrait d'agrément de l'employeur ou, dans les cas prévus à l'article L. 122-24, si le nouvel employeur n'obtient
-pas l'agrément, le représentant du Gouvernement après avis du comité de la formation professionnelle, de la promotion sociale
-et de l'emploi, décide si les contrats en cours peuvent être exécutés jusqu'à leur terme.
-
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L116-5 : les cours d'enseignement général et
-professionnel organisés par le représentant du Gouvernement tiennent lieu de la formation prévue à l'article L112-1.*]
+pas l'agrément, le représentant de l'Etat après avis du comité de la formation professionnelle, de la promotion sociale et de
+l'emploi, décide si les contrats en cours peuvent être exécutés jusqu'à leur terme.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L116-5
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-24
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-24
 
 
 #### CHAPITRE IV : Du statut de l'apprenti.<a id=11></a>
@@ -1188,25 +1119,20 @@ L'apprenti est un jeune travailleur en première formation professionnelle alter
 particulier. Il bénéficie des dispositions applicables à l'ensemble des salariés dans la mesure où elles ne seront pas
 contraires à celles qui sont liées à sa situation de jeune en première formation.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L116-5 : les cours d'enseignement général et
-professionnel organisés par le représentant du Gouvernement tiennent lieu de la formation prévue à l'article L112-1.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L116-5
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L114-2
@@ -1216,29 +1142,24 @@ ou un des organismes mentionnés à l'article L. 112-2 est compris dans l'horair
 la limite de l'horaire de travail applicable dans l'entreprise, l'apprenti est tenu d'effectuer le travail qui lui est confié
 par l'employeur. Ce travail doit être en relation directe avec la formation professionnelle prévue au contrat.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L116-5 : les cours d'enseignement général et
-professionnel organisés par le représentant du Gouvernement tiennent lieu de la formation prévue à l'article L112-1.*]
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L112-2
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L116-5
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L112-2
 
 _Cité par_:
 
@@ -1255,29 +1176,16 @@ Toutefois, à titre exceptionnel, des dérogations aux dispositions de l'alinéa
 limite de cinq heures par semaine, par l'inspecteur du travail, après avis conforme du médecin assurant la surveillance
 médicale au travail des salariés.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L116-5 : les cours d'enseignement général et
-professionnel organisés par le représentant du Gouvernement tiennent lieu de la formation prévue à l'article L112-1.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L116-5
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L212-1
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -1285,42 +1193,45 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R151-3 (T)
   - Code du travail applicable à Mayotte. - art. R161-3 (V)
 
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L212-1
+
 
 ###### Article L114-4
 
 Le travail de nuit défini à l'article L. 213-7 est interdit pour les apprentis âgés de moins de dix-huit ans. Toutefois, des
-dérogations pourront être accordées, par arrêté du représentant du Gouvernement à Mayotte, pour les professions de la
-boulangerie, de la restauration et de l'hôtellerie.
-
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L116-5 : les cours d'enseignement général et
-professionnel organisés par le représentant du Gouvernement tiennent lieu de la formation prévue à l'article L112-1.*]
+dérogations pourront être accordées, par arrêté du représentant de l'Etat à Mayotte, pour les professions de la boulangerie,
+de la restauration et de l'hôtellerie.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L116-5
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L213-7
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
   - Décret n°2014-1290 du 23 octobre 2014 - art. (V)
   - Code du travail applicable à Mayotte. - art. R151-4 (T)
   - Code du travail applicable à Mayotte. - art. R161-4 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L213-7
 
 
 ###### Article L114-5
@@ -1331,29 +1242,24 @@ suivre les enseignements spécialement dispensés dans le centre de formation d'
 par l'article L. 112-3 en prévoit l'organisation. Ce congé, qui donne droit au maintien du salaire, est situé dans le mois
 qui précède les épreuves.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L116-5 : les cours d'enseignement général et
-professionnel organisés par le représentant du Gouvernement tiennent lieu de la formation prévue à l'article L112-1.*]
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L112-3
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L116-5
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L112-3 (VT)
 
 _Cité par_:
 
@@ -1366,25 +1272,20 @@ L'inspecteur du travail peut autoriser l'employeur à faire effectuer à l'appre
 formation. Il détermine les mesures à prendre pour que ces travaux soient exécutés dans les conditions de sécurité
 nécessaires.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L116-5 : les cours d'enseignement général et
-professionnel organisés par le représentant du Gouvernement tiennent lieu de la formation prévue à l'article L112-1.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L116-5
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L114-7
@@ -1393,29 +1294,24 @@ Lorsque les apprentis fréquentent les centres de formation ou un des organismes
 continuent à bénéficier des dispositions législatives et réglementaires sur les accidents du travail et les maladies
 professionnelles dont ils relèvent en tant que salariés.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L116-5 : les cours d'enseignement général et
-professionnel organisés par le représentant du Gouvernement tiennent lieu de la formation prévue à l'article L112-1.*]
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L112-2
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L116-5
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L112-2
 
 
 #### CHAPITRE V : Dispositions financières.<a id=12></a>
@@ -1423,7 +1319,8 @@ _Créé par_:
 ###### Article L115-1
 
 Les organismes gestionnaires des centres de formation d'apprentis peuvent recevoir des subventions d'équipement et de
-fonctionnement de l'Etat, de la collectivité territoriale ou des autres collectivités locales et des établissements publics.
+fonctionnement de l'Etat, de la collectivité départementale ou des autres collectivités locales et des établissements
+publics.
 
 **Liens relatifs à cet article**
 
@@ -1432,9 +1329,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -1444,7 +1341,7 @@ _Cité par_:
 ###### Article L115-2
 
 Tout ou partie des cotisations sociales patronales dues à la caisse de prévoyance sociale de Mayotte au titre des salaires
-versés par les employeurs à leurs apprentis peuvent être prises en charge par la collectivité territoriale.
+versés par les employeurs à leurs apprentis peuvent être prises en charge par la collectivité départementale.
 
 **Liens relatifs à cet article**
 
@@ -1453,9 +1350,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -1474,12 +1371,16 @@ apprentis dans les entreprises.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L116-2
@@ -1491,12 +1392,16 @@ les infractions aux dispositions du présent titre et des textes pris pour son a
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L116-3
@@ -1521,39 +1426,43 @@ L. 112-2 ;
 6° A la réalisation d'enquêtes sur l'insertion professionnelle des jeunes formés par la voie de l'apprentissage.
 
 La chambre professionnelle adresse au comité de la formation professionnelle, de la promotion sociale et de l'emploi, tous
-avis et suggestions qu'il lui paraît nécessaire de formuler sur l'apprentissage dans la collectivité territoriale.
+avis et suggestions qu'il lui paraît nécessaire de formuler sur l'apprentissage dans la collectivité départementale.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L112-2
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L112-2 (M)
 
 
 ###### Article L116-4
 
-Les modalités d'application du présent titre sont fixées, en tant que de besoin, par arrêté du représentant du Gouvernement à
+Les modalités d'application du présent titre sont fixées, en tant que de besoin, par arrêté du représentant de l'Etat à
 Mayotte après avis de la commission consultative du travail.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -1566,30 +1475,34 @@ _Cité par_:
 ###### Article L116-5
 
 Pendant une période transitoire qui se terminera le 30 juin 1996, dans les branches et métiers dont la liste sera fixée par
-arrêté du représentant du Gouvernement à Mayotte, et en l'absence de centres de formation d'apprentis dispensant l'ensemble
-des formations énumérées au premier alinéa de l'article L. 112-1, des cours d'enseignement général et professionnel pourront
-être organisés par le représentant du Gouvernement à Mayotte, le cas échéant en liaison avec la chambre professionnelle et
-les entreprises ou groupements d'entreprises, en vue de compléter la formation reçue en entreprise.
+arrêté du représentant de l'Etat à Mayotte, et en l'absence de centres de formation d'apprentis dispensant l'ensemble des
+formations énumérées au premier alinéa de l'article L. 112-1, des cours d'enseignement général et professionnel pourront être
+organisés par le représentant de l'Etat à Mayotte, le cas échéant en liaison avec la chambre professionnelle et les
+entreprises ou groupements d'entreprises, en vue de compléter la formation reçue en entreprise. 
 
 Pour l'application des dispositions des chapitres III et IV du présent titre, les cours ainsi suivis tiendront lieu de la
-formation prévue à l'article L. 112-1.
+formation prévue à l'article L. 112-1. 
 
-Le représentant du Gouvernement à Mayotte délivrera à l'issue de ces cours une attestation de fin de formation.
+Le représentant de l'Etat à Mayotte délivrera à l'issue de ces cours une attestation de fin de formation.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L112-1
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2009-664 du 11 juin 2009 - art. 4
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L112-1 (V)
 
 
 ### TITRE II : CONTRAT DE TRAVAIL<a id=14></a>
@@ -1601,43 +1514,50 @@ _Créé par_:
 Le contrat de travail est soumis aux règles du droit commun. Il peut être constaté dans les formes qu'il convient aux parties
 contractantes d'adopter.
 
-Le contrat de travail constaté par écrit et à exécuter à Mayotte est rédigé en français [*condition de forme*]. Il ne peut
-contenir ni terme étranger ni expression étrangère lorsqu'il existe une expression ou un terme correspondant dans la langue
-française.
+Le contrat de travail constaté par écrit et à exécuter à Mayotte est rédigé en français. Il ne peut contenir ni terme
+étranger ni expression étrangère lorsqu'il existe une expression ou un terme correspondant dans la langue française.
 
 Lorsque l'emploi qui fait l'objet du contrat ne peut être désigné que par un terme étranger sans correspondant en français,
 le contrat de travail doit comporter une explication, en français, du terme étranger.
 
 Lorsque le salarié est étranger et le contrat constaté par écrit, une traduction du contrat est rédigée, à la demande du
 salarié, dans la langue de ce dernier, les deux textes font également foi en justice. En cas de discordance entre les deux
-textes, seul le texte rédigé dans la langue du salarié étranger peut être invoqué [*preuve*] contre ce dernier.
+textes, seul le texte rédigé dans la langue du salarié étranger peut être invoqué contre ce dernier.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L121-2
 
-Le contrat de travail est exempt de timbre et d'enregistrement [*exonération fiscale*].
+Le contrat de travail est exempt de timbre et d'enregistrement.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L121-3
@@ -1657,85 +1577,105 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 1 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article L121-4
 
-On ne peut engager ses services qu'à temps ou pour une entreprise déterminée [*durée*].
+On ne peut engager ses services qu'à temps ou pour une entreprise déterminée.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. L121-6 (VT)
 
 
 ###### Article L121-5
 
-Le contrat de travail est conclu sans détermination de durée [*contrat à durée indéterminé*]. Toutefois, dans les cas et aux
-conditions fixés à la section 1 du chapitre II du présent titre [*contrat à durée déterminée*], il peut comporter un terme
-fixé avec précision dès sa conclusion ou résultant de la réalisation de l'objet pour lequel il est conclu [*mention*].
+Le contrat de travail est conclu sans détermination de durée. Toutefois, dans les cas et aux conditions fixés à la section 1
+du chapitre II du présent titre, il peut comporter un terme fixé avec précision dès sa conclusion ou résultant de la
+réalisation de l'objet pour lequel il est conclu.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L121-6
 
 Tout contrat de travail passé avec un salarié qui ne réside pas à Mayotte au moment de la proposition d'emploi doit être
-écrit [*condition de forme*]. Il doit obligatoirement préciser [*mentions obligatoires*] :
+écrit. Il doit obligatoirement préciser : 
 
 1° La durée minimale du contrat en cas de contrat à durée indéterminée et les mentions visées à l'article L. 122-4 en cas de
-contrat à durée déterminée ;
+contrat à durée déterminée ; 
 
-2° La qualification et les fonctions prévues ;
+2° La qualification et les fonctions prévues ; 
 
-3° La convention collective applicable de plein droit, ou par accord entre les parties ;
+3° La convention collective applicable de plein droit, ou par accord entre les parties ; 
 
 4° Le salaire et les primes éventuelles, frais de voyage et de transport ainsi que celles relatives aux éventuels voyages
-périodiques ou au rapatriement intervenant à l'échéance prévue ou antérieurement à celle-ci.
+périodiques ou au rapatriement intervenant à l'échéance prévue ou antérieurement à celle-ci. 
 
 A défaut de contrat écrit préalable à son engagement ou consécutif à sa prise de travail, le salarié est en droit de mettre
 fin à sa relation de travail sans justification et sans délai de préavis ni indemnité dans les soixante jours de son arrivée
 à Mayotte. Il peut alors prétendre à la prise en charge de son rapatriement par l'employeur, à la date de son choix, dans les
 trente jours suivant la notification de sa décision et aux dommages intérêts éventuels, que le contrat ait ou non reçu un
-début d'exécution.
+début d'exécution. 
 
-Ce rapatriement s'effectue par la voie la plus rapide.
+Ce rapatriement s'effectue par la voie la plus rapide. 
 
 Il peut être fait exception aux dispositions du présent article pour les travailleurs en mission à Mayotte pour une durée
 n'excédant pas trois mois.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-4
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L121-4 (VT)
 
 _Cité par_:
 
@@ -1750,44 +1690,29 @@ _Cité par_:
 
 Le contrat de travail à durée déterminée peut être conclu pour l'exécution d'une tâche précise. Il ne peut avoir pour objet
 de pourvoir durablement un emploi lié à l'activité normale et permanente de l'entreprise, à l'exception des emplois offerts à
-des personnes ne résidant pas dans la collectivité territoriale de Mayotte à la date de la proposition d'emploi.
+des personnes ne résidant pas dans la collectivité départementale de Mayotte à la date de la proposition d'emploi. 
 
 Sous réserve des dispositions de l'article L. 122-2, le contrat de travail à durée déterminée doit comporter un terme fixé
-avec précision dès sa conclusion.
+avec précision dès sa conclusion. 
 
-Ce contrat peut être renouvelé deux fois [*contrats successifs*] pour une durée déterminée au plus égale à celle de la
-période initiale. Les conditions de renouvellement sont stipulées dans le contrat ou font l'objet d'un avenant soumis au
-salarié préalablement avant le terme initialement prévu.
+Ce contrat peut être renouvelé deux fois pour une durée déterminée au plus égale à celle de la période initiale. Les
+conditions de renouvellement sont stipulées dans le contrat ou font l'objet d'un avenant soumis au salarié préalablement
+avant le terme initialement prévu. 
 
 La durée du contrat, compte tenu, le cas échéant, des renouvellements, ne peut excéder vingt-quatre mois ; toutefois, cette
-limite est portée à trente-six mois dans le cas des personnes ne résidant pas dans la collectivité territoriale de Mayotte
+limite est portée à trente-six mois dans le cas des personnes ne résidant pas dans la collectivité départementale de Mayotte
 lors du contrat initial.
-
-**Nota:**
-
-[*Nota : Code du travail applicable dans la collectivité territoriale de Mayotte L122-15 : tout contrat conclu en
-méconnaissance des dispositions de l'article L122-1, est réputé à durée indéterminée.
-
-L122-16 : les dispositions de la section 1 ne s'appliquent pas au contrat d'apprentissage.*]
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-15, L122-16
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-2
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -1795,41 +1720,55 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L122-1-1 (VT)
   - Code du travail applicable à Mayotte. - art. L122-14 (VT)
   - Code du travail applicable à Mayotte. - art. L122-15 (VT)
+  - Code du travail applicable à Mayotte. - art. L122-15-1 (VT)
   - Code du travail applicable à Mayotte. - art. L322-14 (VT)
   - Code du travail applicable à Mayotte. - art. L322-34 (VT)
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-2
 
 
 ###### Article L122-1-1
 
 Un contrat de travail à durée déterminée peut également être conclu au titre de dispositions législatives ou réglementaires
 destinées à favoriser l'embauche de certaines catégories de personnes sans emploi ou lorsqu'un employeur s'engage, pour une
-durée déterminée, à assurer un complément de formation professionnelle au salarié.
+durée déterminée, à assurer un complément de formation professionnelle au salarié. 
 
 Ce contrat, qui peut être renouvelé, doit comporter un terme fixé avec précision dès sa conclusion. Les dispositions des deux
-derniers alinéas de l'article L. 122-1 et de l'article L. 122-13 ne lui sont pas applicables.
+derniers alinéas de l'article L. 122-1 et de l'article L. 122-13 ne lui sont pas applicables. 
 
-Les modalités d'application du présent article sont fixées par arrêté du représentant du Gouvernement à Mayotte.
+Les modalités d'application du présent article sont fixées par arrêté du représentant de l'Etat à Mayotte.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-1, L122-13
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-1
+  - Code du travail applicable à Mayotte. - art. L122-13
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. L127-11 (VT)
   - Code du travail applicable à Mayotte. - art. L127-15 (VT)
-  - Code du travail applicable à Mayotte. - art. L127-5 (M)
+  - Code du travail applicable à Mayotte. - art. L127-5 (VT)
   - Code du travail applicable à Mayotte. - art. L322-2 (V)
   - Code du travail applicable à Mayotte. - art. L322-34 (VT)
   - Code du travail applicable à Mayotte. - art. L322-7 (V)
@@ -1844,7 +1783,7 @@ _Cité par_:
 
 ###### Article L122-2
 
-Le contrat de travail à durée déterminée peut ne pas comporter un terme précis [*interdiction*] lorsqu'il est conclu :
+Le contrat de travail à durée déterminée peut ne pas comporter un terme précis lorsqu'il est conclu :
 
 1° Pour remplacer un salarié absent ou dont le contrat de travail est suspendu ;
 
@@ -1852,101 +1791,79 @@ Le contrat de travail à durée déterminée peut ne pas comporter un terme pré
 
 3° Pour des emplois pour lesquels, dans certains secteurs d'activité, il est d'usage constant de ne pas recourir au contrat à
 durée indéterminée en raison de la nature de l'activité exercée et du caractère par nature temporaire de cet emploi ; la
-liste de ces secteurs d'activité est établie par arrêté du représentant du Gouvernement à Mayotte, après avis de la
-commission consultative du travail ;
+liste de ces secteurs d'activité est établie par arrêté du représentant de l'Etat à Mayotte, après avis de la commission
+consultative du travail ;
 
-4° Pour des emplois offerts à des personnes ne résidant pas dans la collectivité territoriale de Mayotte lors de la
+4° Pour des emplois offerts à des personnes ne résidant pas dans la collectivité départementale de Mayotte lors de la
 conclusion du contrat initial.
 
 A moins que les parties ne lui aient fixé un terme précis, le contrat doit être conclu pour une durée minimale et il a pour
 terme la fin de l'absence du salarié ou la résiliation de l'objet pour lequel il est conclu.
 
-**Nota:**
-
-[*Nota : Code du travail applicable dans la collectivité territoriale de Mayotte L122-15 : tout contrat conclu en
-méconnaissance des dispositions de l'article L122-2, est réputé à durée indéterminée.
-
-L122-16 : les dispositions de la section 1 ne s'appliquent pas au contrat d'apprentissage.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-15, L122-16
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-16
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
   - Code de la construction et de l'habitation. - art. L472-3 (V)
   - Code du travail applicable à Mayotte. - art. L122-1 (VT)
+  - Code du travail applicable à Mayotte. - art. L122-12 (VT)
   - Code du travail applicable à Mayotte. - art. L122-13 (VT)
 
 
 ###### Article L122-3
 
-En aucun cas [*interdiction*], le contrat de travail à durée déterminée ne peut avoir pour objet le remplacement d'un salarié
-dont le contrat de travail est suspendu par suite d'un conflit collectif du travail.
-
-**Nota:**
-
-[*Nota : Code du travail applicable dans la collectivité territoriale de Mayotte L122-15 : tout contrat conclu en
-méconnaissance des dispositions de l'article L122-3, est réputé à durée indéterminée.
-
-L122-16 : les dispositions de la section 1 ne s'appliquent pas au contrat d'apprentissage.*]
+En aucun cas, le contrat de travail à durée déterminée ne peut avoir pour objet le remplacement d'un salarié dont le contrat
+de travail est suspendu par suite d'un conflit collectif du travail.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-15, L122-16
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-16
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L122-4
 
-Le contrat de travail à durée déterminée doit être écrit [*condition de forme*] ; à défaut, il est présumé conclu pour une
-durée indéterminée. Il doit comporter la définition précise de son objet ainsi que des mentions qui seront déterminées par
-arrêté du représentant du Gouvernement à Mayotte, après avis de la commission consultative du travail.
-
-**Nota:**
-
-[*Nota : Code du travail applicable dans la collectivité territoriale de Mayotte L122-15 : tout contrat conclu en
-méconnaissance des dispositions de l'article L122-4, est réputé à durée indéterminée.
-
-L122-16 : les dispositions de la section 1 ne s'appliquent pas au contrat d'apprentissage.*]
+Le contrat de travail à durée déterminée doit être écrit ; à défaut, il est présumé conclu pour une durée indéterminée. Il
+doit comporter la définition précise de son objet ainsi que des mentions qui seront déterminées par arrêté du représentant de
+l'Etat à Mayotte, après avis de la commission consultative du travail.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-4, L122-16
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -1963,29 +1880,25 @@ d'un mois dans les autres cas.
 Lorsque le contrat ne comporte pas de terme précis, la période d'essai est calculée par rapport à la durée minimale du
 contrat.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L122-16 : les dispositions de la section 1
-ne s'appliquent pas au contrat d'apprentissage.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-16
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. L322-2 (V)
+  - Code du travail applicable à Mayotte. - art. L322-50 (VT)
 
 
 ###### Article L122-6
@@ -1995,76 +1908,61 @@ dispositions légales et conventionnelles ainsi que celles qui résultent des us
 contrat de travail à durée indéterminée, s'appliquent également aux salariés liés par un contrat de travail à durée
 déterminée.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L122-16 : les dispositions de la section 1
-ne s'appliquent pas au contrat d'apprentissage.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-16
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L122-7
 
 La suspension du contrat de travail à durée déterminée ne fait pas obstacle à l'échéance de ce contrat.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L122-16 : les dispositions de la section 1
-ne s'appliquent pas au contrat d'apprentissage.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-16
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L122-8
 
 Sous réserve des dispositions spécifiques à la protection des représentants du personnel, le contrat de travail à durée
-déterminée cesse de plein droit à l'échéance du terme [*date de fin de contrat*] .
-
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L122-16 : les dispositions de la section 1
-ne s'appliquent pas au contrat d'apprentissage.*]
+déterminée cesse de plein droit à l'échéance du terme.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-16
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L122-9
@@ -2075,33 +1973,30 @@ contrat de travail est suspendu, il peut prendre effet avant l'absence du salari
 En outre, le terme du contrat initialement fixé peut être reporté jusqu'au surlendemain du jour où le salarié remplacé
 reprend son emploi.
 
-**Nota:**
-
-[*Nota : Code du travail applicable dans la collectivité territoriale de Mayotte L122-11 : les dispositions de l'art. L122-9
-ne sont pas applicables pendant la période d'essai.
-
-L122-16 : les dispositions de la section 1 ne s'appliquent pas au contrat d'apprentissage.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-11, L122-16
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. L122-11 (VT)
 
 
 ###### Article L122-10
 
 Sauf accord des parties, le contrat à durée déterminée ne peut être rompu avant l'échéance du terme qu'en cas de faute grave
-ou de force majeure [*rupture anticipée*].
+ou de force majeure.
 
 La méconnaissance par l'employeur des dispositions prévues à l'alinéa précédent ouvre droit pour le salarié à des dommages et
 intérêts d'un montant au moins égal aux rémunérations qu'il aurait perçues jusqu'au terme du contrat.
@@ -2109,28 +2004,20 @@ intérêts d'un montant au moins égal aux rémunérations qu'il aurait perçues
 La méconnaissance de ces dispositions par le salarié ouvre droit pour l'employeur à des dommages et intérêts correspondant au
 préjudice subi.
 
-**Nota:**
-
-[*Nota : Code du travail applicable dans la collectivité territoriale de Mayotte L122-11 : les dispositions de l'art. L122-10
-ne sont pas applicables pendant la période d'essai.
-
-L122-16 : les dispositions de la section 1 ne s'appliquent pas au contrat d'apprentissage.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-11, L122-16
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-16
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -2139,6 +2026,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L322-18 (VT)
   - Code du travail applicable à Mayotte. - art. L322-2 (V)
   - Code du travail applicable à Mayotte. - art. L322-37 (VT)
+  - Code du travail applicable à Mayotte. - art. L322-50 (VT)
   - Code du travail applicable à Mayotte. - art. L324-8 (Ab)
 
 
@@ -2146,70 +2034,61 @@ _Cité par_:
 
 Les dispositions des articles L. 122-9 et L. 122-10 ne sont pas applicables pendant la période d'essai.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L122-16 : les dispositions de la section 1
-ne s'appliquent pas au contrat d'apprentissage.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-16
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-9, L122-10
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-9 (VT)
 
 
 ###### Article L122-12
 
 Si la relation contractuelle de travail se poursuit après l'échéance du terme du contrat, celui-ci devient un contrat à durée
-indéterminée.
+indéterminée. 
 
 Lorsque le contrat de travail à durée déterminée est conclu pour l'un des cas mentionnés à l'article L. 122-2, les
 dispositions de l'alinéa ci-dessus ne font pas obstacle à la conclusion avec le même salarié de contrats à durée déterminée
-successifs.
+successifs. 
 
 Lorsque la relation contractuelle de travail se poursuit à l'issue d'un contrat à durée déterminée, le salarié conserve
 l'ancienneté qu'il avait acquise au terme de ce contrat. La durée de ce contrat est déduite de la période d'essai
 éventuellement prévue dans le nouveau contrat.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L122-16 : les dispositions de la section 1
-ne s'appliquent pas au contrat d'apprentissage.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-16
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-2
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-2 (VT)
 
 _Cité par_:
 
+  - Code du travail applicable à Mayotte. - art. L324-8 (VT)
   - Code du travail applicable à Mayotte. - art. L711-5 (T)
 
 
@@ -2217,75 +2096,65 @@ _Cité par_:
 
 A l'expiration du contrat conclu pour une durée déterminée, il ne peut être recouru, pour pourvoir le poste du salarié dont
 le contrat a pris fin, à un contrat à durée déterminée avant l'expiration d'une période égale au tiers de la durée de ce
-contrat renouvellement inclus [*contrats successifs, délai*].
+contrat renouvellement inclus. 
 
 Les dispositions de l'alinéa ci-dessus ne sont pas applicables lorsque le contrat de travail à durée déterminée est conclu
 pour assurer le remplacement d'un salarié temporairement absent ou dont le contrat de travail est suspendu, en cas de
 nouvelle absence du salarié remplacé. Il en est de même pour l'exécution de travaux urgents nécessités par des mesures de
 sécurité et lorsque le contrat de travail à durée déterminée est conclu dans l'un des cas mentionnés aux 2° et 3° du premier
-alinéa de l'article L. 122-2.
+alinéa de l'article L. 122-2. 
 
 Elles ne sont pas ou plus applicables en cas de rupture anticipée due au fait du salarié, et en cas de refus par le salarié
 du renouvellement de son contrat, pour la durée du contrat non renouvelé.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L122-16 : les dispositions de la section 1
-ne s'appliquent pas au contrat d'apprentissage.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-16
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-2
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. L122-1-1 (VT)
 
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-2
+
 
 ###### Article L122-14
 
-Le contrat de travail conclu à l'issue du contrat d'apprentissage peut être un contrat à durée déterminée [*nature*] dans les
-cas mentionnés aux articles L. 122-1 et L. 122-2 et, en outre, lorsque l'apprenti doit satisfaire aux obligations du service
+Le contrat de travail conclu à l'issue du contrat d'apprentissage peut être un contrat à durée déterminée dans les cas
+mentionnés aux articles L. 122-1 et L. 122-2 et, en outre, lorsque l'apprenti doit satisfaire aux obligations du service
 national dans un délai de moins d'un an après l'expiration du contrat d'apprentissage.
-
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L122-16 : les dispositions de la section 1
-ne s'appliquent pas au contrat d'apprentissage.*]
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-1, L122-2
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-16
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-1
 
 
 ###### Article L122-15
@@ -2293,29 +2162,24 @@ _Créé par_:
 Tout contrat conclu en méconnaissance des dispositions des articles L. 122-1, L. 122-2, L. 122-3 et L. 122-4 est réputé à
 durée indéterminée.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L122-16 : les dispositions de la section 1
-ne s'appliquent pas au contrat d'apprentissage.*]
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-1, L122-2, L122-3, L122-4
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-16
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-1
 
 
 ###### Article L122-15-1
@@ -2327,25 +2191,24 @@ l'expiration de la prorogation soit au plus égale à la valeur limite annuelle 
 prorogation est sans effet sur la qualification du contrat à durée déterminée. Un décret fixe la valeur limite utilisée pour
 les besoins du présent article.
 
-**Nota:**
-
-Nota : Ordonnance 2001-270 2001-03-28 art. 12 I 2° : les dispositions de l'article L122-15-1 s'appliquent aux contrats
-conclus après leur entrée en vigueur.
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-1
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2001-270 du 28 mars 2001 - art. 12 () JORF 31 mars 2001
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-1 (VT)
 
 
 ###### Article L122-16
@@ -2356,12 +2219,16 @@ Les dispositions de la présente section ne s'appliquent pas au contrat d'appren
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ##### Section 2 : Résiliation du contrat de travail à durée indéterminée.<a id=18></a>
@@ -2377,12 +2244,16 @@ Ces règles ne sont pas applicables pendant la période d'essai.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -2403,28 +2274,33 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
+  - Code du travail applicable à Mayotte. - art. L122-19 (VT)
   - Code du travail applicable à Mayotte. - art. L122-31 (VT)
   - Code du travail applicable à Mayotte. - art. R122-3 (V)
 
 
 ###### Article L122-19
 
-Dans le cas de licenciement pour un motif autre qu'une faute grave, le salarié a droit :
+Dans le cas de licenciement pour un motif autre qu'une faute grave, le salarié a droit : 
 
 1° S'il justifie chez le même employeur d'une ancienneté de services continus inférieure à six mois, à un délai-congé
 déterminé comme il est dit à l'article L. 122-18 ;
 
 2° S'il justifie chez le même employeur d'une ancienneté de services continus comprise entre six mois et moins de deux ans, à
-un délai-congé d'un mois ;
+un délai-congé d'un mois ; 
 
 3° S'il justifie chez le même employeur d'une ancienneté de services continus d'au moins deux ans, à un délai-congé de deux
-mois.
+mois. 
 
 Les dispositions des 2° et 3° ci-dessus ne sont applicables qu'à défaut de loi, de contrat de travail, de convention ou
 accord collectif de travail, ou d'usages conduisant soit à un délai-congé, soit à une condition d'ancienneté de services,
@@ -2432,22 +2308,27 @@ plus favorable pour le travailleur intéressé.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-18
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-18 (VT)
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. L122-20 (VT)
+  - Code du travail applicable à Mayotte. - art. L122-23 (VT)
   - Code du travail applicable à Mayotte. - art. L324-8 (Ab)
   - Code du travail applicable à Mayotte. - art. L328-29 (VT)
   - Code du travail applicable à Mayotte. - art. L328-5 (VD)
@@ -2460,68 +2341,77 @@ Toute clause d'un contrat individuel fixant un délai-congé inférieur à celui
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-19
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-19
 
 
 ###### Article L122-21
 
 L'inobservation du délai-congé ouvre droit, sauf faute grave du salarié, à une indemnité compensatrice ne se confondant pas
 avec l'indemnité de licenciement prévue à l'article L. 122-22 ni avec les indemnités prévues au deuxième alinéa de l'article
-L. 122-29.
+L. 122-29. 
 
-L'inobservation du délai-congé n'a pas, dans ce cas, pour conséquence d'avancer la date à laquelle le contrat prend fin.
+L'inobservation du délai-congé n'a pas, dans ce cas, pour conséquence d'avancer la date à laquelle le contrat prend fin. 
 
 En conséquence, la dispense par l'employeur de l'exécution du travail pendant le délai-congé ne doit entraîner, jusqu'à
 l'expiration de ce délai, aucune diminution des salaires et avantages y compris l'indemnité de congés payés que le salarié
 aurait reçus s'il avait accompli son travail. En cas d'inexécution totale ou partielle du délai-congé résultant soit de la
 fermeture temporaire ou définitive de l'établissement, soit de la réduction de l'horaire de travail habituellement pratiqué
-dans l'établissement en deçà de la durée légale de travail, le salaire [*de référence*] à prendre en considération est celui
-qu'aurait perçu l'intéressé s'il avait accompli son travail jusqu'à l'expiration du délai-congé sur la base de la durée
-légale ou conventionnelle de travail applicable à l'entreprise, dans le cas où il travaillait à temps plein, ou de la durée
-du travail fixée dans son contrat de travail lorsqu'il travaillait à temps partiel.
+dans l'établissement en deçà de la durée légale de travail, le salaire à prendre en considération est celui qu'aurait perçu
+l'intéressé s'il avait accompli son travail jusqu'à l'expiration du délai-congé sur la base de la durée légale ou
+conventionnelle de travail applicable à l'entreprise, dans le cas où il travaillait à temps plein, ou de la durée du travail
+fixée dans son contrat de travail lorsqu'il travaillait à temps partiel.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-22, L122-29
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-22
+  - Code du travail applicable à Mayotte. - art. L122-29
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. L122-60 (VT)
   - Code du travail applicable à Mayotte. - art. L143-15 (Ab)
-  - Code du travail applicable à Mayotte. - art. L143-17 (VD)
+  - Code du travail applicable à Mayotte. - art. L143-17 (VT)
   - Code du travail applicable à Mayotte. - art. L143-7 (V)
   - Code du travail applicable à Mayotte. - art. L143-9 (V)
 
 
 ###### Article L122-22
 
-Le salarié lié par contrat de travail à durée indéterminée et qui est licencié alors qu'il compte deux ans [*durée*]
-d'ancienneté ininterrompue au service du même employeur a droit, sauf en cas de faute grave, à une indemnité minimum de
-licenciement, dont le taux et les modalités de calcul en fonction de la rémunération brute dont il bénéficiait antérieurement
-à la rupture du contrat de travail sont fixés par arrêté du représentant du Gouvernement à Mayotte, après avis de la
-commission consultative du travail.
+Le salarié lié par contrat de travail à durée indéterminée et qui est licencié alors qu'il compte deux ans d'ancienneté
+ininterrompue au service du même employeur a droit, sauf en cas de faute grave, à une indemnité minimum de licenciement, dont
+le taux et les modalités de calcul en fonction de la rémunération brute dont il bénéficiait antérieurement à la rupture du
+contrat de travail sont fixés par arrêté du représentant de l'Etat à Mayotte, après avis de la commission consultative du
+travail.
 
 Tout salarié dont la mise à la retraite résulte d'une décision de l'employeur a droit, sous réserve des dispositions plus
 favorables contenues dans une convention ou un accord collectif de travail ou un contrat de travail, au versement d'une
@@ -2541,9 +2431,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -2554,6 +2448,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L122-23 (VT)
   - Code du travail applicable à Mayotte. - art. L122-24 (VT)
   - Code du travail applicable à Mayotte. - art. L122-29 (VT)
+  - Code du travail applicable à Mayotte. - art. L122-60 (VT)
   - Code du travail applicable à Mayotte. - art. L123-3 (VT)
   - Code du travail applicable à Mayotte. - art. L143-7 (V)
 
@@ -2568,49 +2463,50 @@ bénéficier des dispositions rappelées ci-dessus.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-19, L122-22
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-19 (VT)
+  - Code du travail applicable à Mayotte. - art. L122-22
 
 
 ###### Article L122-24
 
 La cessation de l'entreprise, sauf cas de force majeure, ne libère pas l'employeur de l'obligation de respecter le délai-
-congé et de verser, s'il y a lieu, l'indemnité [*de licenciement*] prévue à l'article L. 122-22.
+congé et de verser, s'il y a lieu, l'indemnité prévue à l'article L. 122-22. 
 
 S'il survient une modification dans la situation juridique de l'employeur, notamment par succession, vente, fusion,
 transformation du fonds, mise en société, tous les contrats de travail en cours au jour de la modification subsistent entre
-le nouvel employeur et le personnel de l'entreprise [*maintien du contrat de travail*].
+le nouvel employeur et le personnel de l'entreprise.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-22
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
   - Ordonnance n°2016-415 du 7 avril 2016 - art. 1
   - Code du travail applicable à Mayotte. - art. L113-17 (VT)
-  - Code du travail applicable à Mayotte. - art. L122-25 (M)
+  - Code du travail applicable à Mayotte. - art. L122-25 (VT)
   - Code du travail applicable à Mayotte. - art. L414-35 (VT)
   - Code du travail applicable à Mayotte. - art. L433-14 (VT)
   - Code du travail applicable à Mayotte. - art. L435-1 (VT)
@@ -2619,32 +2515,39 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R322-11 (VD)
   - Code du travail applicable à Mayotte. - art. R322-35 (VD)
 
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-22
+
 
 ###### Article L122-25
 
-A moins que la modification [*de la situation juridique de l'entreprise*] visée au deuxième alinéa de l'article L. 122-24
-n'intervienne dans le cadre d'une procédure de redressement judiciaire ou de liquidation judiciaire, ou d'une substitution
-d'employeurs intervenue sans qu'il y ait eu de convention entre ceux-ci, le nouvel employeur est en outre tenu
-[*obligations*], à l'égard des salariés dont les contrats de travail subsistent, des obligations qui incombaient à l'ancien
-employeur à la date de cette modification.
+A moins que la modification visée au deuxième alinéa de l'article L. 122-24 n'intervienne dans le cadre d'une procédure de
+redressement judiciaire ou de liquidation judiciaire, ou d'une substitution d'employeurs intervenue sans qu'il y ait eu de
+convention entre ceux-ci, le nouvel employeur est en outre tenu, à l'égard des salariés dont les contrats de travail
+subsistent, des obligations qui incombaient à l'ancien employeur à la date de cette modification.
 
 Le premier employeur est tenu de rembourser les sommes acquittées par le nouvel employeur en application de l'alinéa
 précédent, sauf s'il a été tenu compte de la charge résultant de ces obligations dans la convention intervenue entre eux.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-24
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-24 (M)
 
 _Cité par_:
 
@@ -2654,35 +2557,39 @@ _Cité par_:
 ###### Article L122-26
 
 La résiliation d'un contrat de travail à durée indéterminée, à l'initiative du salarié, ouvre droit, si elle est abusive, à
-dommages-intérêts.
+dommages-intérêts. 
 
 En cas de litige, le juge se prononce conformément aux dispositions du premier alinéa de l'article L. 122-29.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-29
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-29
 
 
 ###### Article L122-27
 
 L'employeur ou son représentant qui envisage de licencier un salarié doit, avant toute décision, convoquer l'intéressé par
-lettre recommandée ou par lettre remise en main propre contre décharge en lui indiquant l'objet de la convocation [*condition
-de forme, procédure*]. Au cours de l'entretien l'employeur est tenu d'indiquer [*obligation de motivation*] le ou les motifs
-de la décision envisagée et de recueillir les explications du salarié.
+lettre recommandée ou par lettre remise en main propre contre décharge en lui indiquant l'objet de la convocation. Au cours
+de l'entretien l'employeur est tenu d'indiquer le ou les motifs de la décision envisagée et de recueillir les explications du
+salarié.
 
-Lors de cette audition, le salarié peut se faire assister par une personne de son choix [*conseiller*] appartenant au
-personnel de l'entreprise.
+Lors de cette audition, le salarié peut se faire assister par une personne de son choix appartenant au personnel de
+l'entreprise.
 
 **Liens relatifs à cet article**
 
@@ -2691,9 +2598,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -2710,10 +2617,10 @@ _Cité par_:
 ###### Article L122-28
 
 L'employeur qui décide de licencier un salarié doit notifier le licenciement par lettre recommandée avec demande d'avis de
-réception ou remise en main propre contre décharge [*condition de forme*] ; la date de présentation de la lettre recommandée
-ou, selon le cas, la date figurant sur la décharge précitée fixe le point de départ du délai congé.
+réception ou remise en main propre contre décharge ; la date de présentation de la lettre recommandée ou, selon le cas, la
+date figurant sur la décharge précitée fixe le point de départ du délai congé.
 
-L'employeur est tenu d'énoncer le ou les motifs du licenciement dans la lettre de licenciement [*mentions obligatoires*].
+L'employeur est tenu d'énoncer le ou les motifs du licenciement dans la lettre de licenciement.
 
 **Liens relatifs à cet article**
 
@@ -2722,9 +2629,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -2736,7 +2643,7 @@ _Cité par_:
 
 En cas de litige, le juge, à qui il appartient d'apprécier la régularité de la procédure suivie et le caractère réel et
 sérieux des motifs invoqués par l'employeur, forme sa conviction au vu des éléments fournis par les parties et au besoin
-après toutes mesures d'instruction qu'il estime utiles. Si un doute subsiste, il profite au salarié.
+après toutes mesures d'instruction qu'il estime utiles. Si un doute subsiste, il profite au salarié. 
 
 Si le licenciement d'un salarié survient sans observation de la procédure requise à la présente section, mais pour une cause
 réelle et sérieuse, le tribunal saisi doit imposer à l'employeur d'accomplir la procédure prévue et accorder au salarié, à la
@@ -2744,30 +2651,35 @@ charge de l'employeur, une indemnité qui ne peut être supérieure à un mois d
 cause qui n'est pas réelle et sérieuse, le tribunal peut proposer la réintégration du salarié dans l'entreprise, avec
 maintien de ses avantages acquis ; en cas de refus par l'une ou l'autre des parties, le tribunal octroie au salarié une
 indemnité. Cette indemnité, qui ne peut être inférieure aux salaires des six derniers mois, est due sans préjudice, le cas
-échéant, de l'indemnité prévue au premier alinéa de l'article L. 122-22.
+échéant, de l'indemnité prévue au premier alinéa de l'article L. 122-22. 
 
 Les dispositions du présent article ne sont pas applicables aux salariés qui ont moins de deux ans d'ancienneté dans
-l'entreprise et aux licenciements opérés par les employeurs qui occupent habituellement moins de onze salariés [*effectif*].
+l'entreprise et aux licenciements opérés par les employeurs qui occupent habituellement moins de onze salariés.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-22
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. L122-21 (VT)
   - Code du travail applicable à Mayotte. - art. L122-26 (VT)
+  - Code du travail applicable à Mayotte. - art. L153-10 (VT)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-22
 
 
 ###### Article L122-30
@@ -2777,18 +2689,22 @@ réglementaires qui assurent une protection particulière à certains salariés 
 
 Ces règles sont applicables au cas où le salarié est lié par des contrats de travail à plusieurs employeurs.
 
-Les parties ne peuvent renoncer [*interdiction*] par avance au droit de s'en prévaloir.
+Les parties ne peuvent renoncer par avance au droit de s'en prévaloir.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -2801,18 +2717,22 @@ Un décret en Conseil d'Etat fixe les modalités d'application des articles L. 1
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-17 à L122-30
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-18
 
 
 ##### Section 3 : Conséquences de la rupture du contrat.<a id=19></a>
@@ -2836,12 +2756,16 @@ si un délai de quinze jours s'était écoulé depuis la rupture dudit contrat.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L122-33
@@ -2854,19 +2778,23 @@ Sont exempts de timbre et d'enregistrement les certificats de travail délivrés
 mentions que celles prévues à l'alinéa 1er du présent article, toutes les fois que ces mentions ne contiennent ni
 obligations, ni quittance, ni aucune autre convention donnant lieu au droit proportionnel.
 
-La formule " libre de tout engagement " et toute autre constatant l'expiration régulière du contrat de travail, les qualités
+La formule "libre de tout engagement" et toute autre constatant l'expiration régulière du contrat de travail, les qualités
 professionnelles et les services rendus sont comprises dans l'exemption.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -2877,11 +2805,11 @@ _Cité par_:
 ###### Article L122-34
 
 Le reçu pour solde de tout compte délivré par le travailleur à l'employeur lors de la résiliation ou de l'expiration de son
-contrat peut être dénoncé dans les deux mois de la signature [*délai*]. La dénonciation doit être écrite et dûment motivée.
+contrat peut être dénoncé dans les deux mois de la signature. La dénonciation doit être écrite et dûment motivée.
 
 La forclusion ne peut être opposée au travailleur :
 
-a) Si la mention " pour solde de tout compte " n'est pas entièrement écrite de sa main et suivie de sa signature ;
+a) Si la mention "pour solde de tout compte" n'est pas entièrement écrite de sa main et suivie de sa signature ;
 
 b) Si le reçu ne porte pas mention, en caractères très apparents, du délai de forclusion.
 
@@ -2895,9 +2823,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -2920,8 +2852,7 @@ Le travailleur réintégré bénéficie de tous les avantages qu'il avait acquis
 
 **Nota:**
 
-[*Nota : Code du travail applicable dans la collectivité territoriale de Mayotte L122-37 : champ d'application de l'article
-L122-35.*]
+Code du travail applicable dans la collectivité territoriale de Mayotte L122-37 : champ d'application de l'article L122-35.
 
 **Liens relatifs à cet article**
 
@@ -2936,10 +2867,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°98-522 du 24 juin 1998 - art. 34 () JORF 27 juin 1998
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
+  - Code du travail applicable à Mayotte. - art. L122-37 (VT)
   - Code du travail applicable à Mayotte. - art. R122-6 (V)
   - Code du travail applicable à Mayotte. - art. R151-6 (T)
   - Code du travail applicable à Mayotte. - art. R161-6 (V)
@@ -2952,22 +2888,22 @@ ayant accompli leur service actif, ont été maintenues au service national.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-35
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 98-522 1998-06-24 art. 34 I 3° : conditions d'application
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
 _Modifié par_:
 
-  - Ordonnance n°98-522 du 24 juin 1998 - art. 34 () JORF 27 juin 1998
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-35 (VT)
 
 _Cité par_:
 
@@ -2987,12 +2923,16 @@ effectif pour la détermination de la durée de congé annuel.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°98-522 du 24 juin 1998 - art. 34 () JORF 27 juin 1998
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L122-38
@@ -3010,11 +2950,15 @@ obligations.
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
 _Modifié par_:
 
-  - Ordonnance n°98-522 du 24 juin 1998 - art. 34 () JORF 27 juin 1998
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L122-39
@@ -3030,9 +2974,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L122-40
@@ -3044,12 +2992,16 @@ par le juge en fonction du préjudice subi.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L122-41
@@ -3063,9 +3015,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ##### Section 5 : Règles particulières aux salariés candidats ou élus à l'Assemblée nationale ou au Sénat.<a id=21></a>
@@ -3103,9 +3059,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article L122-43
@@ -3153,9 +3109,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -3176,9 +3132,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ##### Section 6 : Protection de la maternité et éducation des enfants.<a id=22></a>
@@ -3187,30 +3143,31 @@ _Créé par_:
 
 L'employeur ne doit pas prendre en considération l'état de grossesse d'une femme pour refuser de l'embaucher, résilier son
 contrat de travail au cours d'une période d'essai ou, sous réserve des dispositions de l'article L. 122-46, prononcer une
-mutation d'emploi [*non discrimination*]. Il lui est en conséquence interdit de rechercher ou de faire rechercher toutes
-informations concernant l'état de grossesse de l'intéressée.
+mutation d'emploi. Il lui est en conséquence interdit de rechercher ou de faire rechercher toutes informations concernant
+l'état de grossesse de l'intéressée.
 
 La femme candidate à un emploi ou salariée n'est pas tenue, sous réserve des cas où elle demande le bénéfice des dispositions
 législatives et réglementaires concernant la protection de la femme enceinte, de révéler son état de grossesse.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-46
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. L042-3 (VT)
+  - Code du travail applicable à Mayotte. - art. L122-46 (VT)
   - Code du travail applicable à Mayotte. - art. R122-7 (V)
   - Code du travail applicable à Mayotte. - art. R161-7 (V)
 
@@ -3232,36 +3189,39 @@ la femme lui permet de retrouver son emploi initial.
 
 Le changement d'affectation ne doit entraîner aucune diminution de rémunération. Toutefois, lorsqu'un tel changement
 intervient à l'initiative de la salariée, le maintien de la rémunération est subordonné à une présence d'un an dans
-l'entreprise [*condition d'ancienneté*] à la date retenue par le médecin comme étant celle du début de la grossesse.
+l'entreprise à la date retenue par le médecin comme étant celle du début de la grossesse.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-45
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-45 (VT)
 
 _Cité par_:
 
-  - Code du travail applicable à Mayotte. - art. L122-45 (VT)
   - Code du travail applicable à Mayotte. - art. L122-48 (VT)
-  - Code du travail applicable à Mayotte. - art. L224-1 (VD)
+  - Code du travail applicable à Mayotte. - art. L224-1 (VT)
 
 
 ###### Article L122-47
 
-Aucun employeur ne peut [*interdiction*] résilier le contrat de travail [*licenciement*] d'une salariée lorsqu'elle est en
-état de grossesse médicalement constaté et pendant l'intégralité des périodes de suspension du contrat de travail auxquelles
-elle a droit en application de l'article L. 122-48, qu'elle use ou non de ce droit, ainsi que pendant les quatre semaines qui
-suivent l'expiration de ces périodes.
+Aucun employeur ne peut résilier le contrat de travail d'une salariée lorsqu'elle est en état de grossesse médicalement
+constaté et pendant l'intégralité des périodes de suspension du contrat de travail auxquelles elle a droit en application de
+l'article L. 122-48, qu'elle use ou non de ce droit, ainsi que pendant les quatre semaines qui suivent l'expiration de ces
+périodes.
 
 Toutefois, et sous réserve d'observer les dispositions de l'article L. 122-51, il peut résilier le contrat s'il justifie
 d'une faute grave de l'intéressée, non liée à l'état de grossesse, ou de l'impossibilité où il se trouve, pour un motif
@@ -3276,22 +3236,27 @@ Les dispositions des précédents alinéas ne font pas obstacle à l'échéance 
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-48, L122-51
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-48
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. L122-48-1 (VT)
+  - Code du travail applicable à Mayotte. - art. L122-51 (VT)
 
 
 ###### Article L122-48
@@ -3300,10 +3265,9 @@ Toute femme enceinte dont l'état a été constaté médicalement ou dont la gro
 préavis et sans avoir de ce fait à payer une indemnité de rupture de contrat.
 
 A l'occasion de son accouchement, et sans que cette interruption de service puisse être considérée comme une cause de rupture
-de contrat, toute femme a le droit de suspendre son travail pendant quatorze semaines [*durée*] consécutives dont six
-semaines postérieures à la délivrance [*congé de maternité*] ; cette suspension peut être prolongée de trois semaines en cas
-de maladie dûment constatée et résultant de la grossesse ou des couches. Pendant cette période, l'employeur ne peut lui
-donner congé.
+de contrat, toute femme a le droit de suspendre son travail pendant quatorze semaines consécutives dont six semaines
+postérieures à la délivrance ; cette suspension peut être prolongée de trois semaines en cas de maladie dûment constatée et
+résultant de la grossesse ou des couches. Pendant cette période, l'employeur ne peut lui donner congé.
 
 Elle a le droit pendant cette période, à la charge de l'employeur, à la moitié du salaire qu'elle percevait au moment de la
 suspension du travail ; elle conserve le droit aux prestations en nature. La seconde moitié de son salaire lui est versée par
@@ -3311,8 +3275,7 @@ la caisse de prévoyance sociale de Mayotte.
 
 Toute convention contraire est nulle de plein droit.
 
-Pendant une période de quinze mois à compter de la naissance de l'enfant [*point de départ*], la mère a droit à des repos
-pour allaitement.
+Pendant une période de quinze mois à compter de la naissance de l'enfant, la mère a droit à des repos pour allaitement.
 
 La durée totale de ces repos ne peut dépasser une heure par journée de travail.
 
@@ -3326,9 +3289,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -3344,8 +3307,7 @@ _Cité par_:
 
 ###### Article L122-49
 
-Les salariées ne peuvent être occupées pendant une période de huit semaines au total avant et après leur accouchement [*congé
-de maternité*].
+Les salariées ne peuvent être occupées pendant une période de huit semaines au total avant et après leur accouchement.
 
 Il est interdit d'employer des femmes en couches dans les six semaines suivant leur délivrance.
 
@@ -3353,33 +3315,41 @@ Il est interdit d'employer des femmes en couches dans les six semaines suivant l
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L122-50
 
-La durée de la période de suspension prévue au deuxième alinéa de l'article L. 122-48 [*congé de maternité*] est assimilée à
-une période de travail effectif pour la détermination des droits que la salariée tient de son ancienneté.
+La durée de la période de suspension prévue au deuxième alinéa de l'article L. 122-48 est assimilée à une période de travail
+effectif pour la détermination des droits que la salariée tient de son ancienneté.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-48
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-48
 
 
 ###### Article L122-51
@@ -3389,22 +3359,23 @@ ou être signifiée pendant la période de suspension prévue à l'article L. 12
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-47, L122-48
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
-_Cité par_:
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
 
   - Code du travail applicable à Mayotte. - art. L122-47 (VT)
+  - Code du travail applicable à Mayotte. - art. L122-48
 
 
 ###### Article L122-52
@@ -3413,18 +3384,22 @@ Toute convention contraire aux dispositions des articles L. 122-45 à L. 122-54 
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-45 à L122-54
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte.
 
 
 ###### Article L122-53
@@ -3437,18 +3412,22 @@ montant du salaire qui aurait été perçu pendant la période couverte par la n
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-45 à L122-51
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte.
 
 _Cité par_:
 
@@ -3462,18 +3441,22 @@ régime des sanctions applicables à l'employeur qui a méconnu lesdites disposi
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-45 à L122-51
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte.
 
 
 ##### Section 7 : Règles particulières aux salariés victimes d'un accident du travail ou d'une maladie professionnelle.<a id=23></a>
@@ -3490,30 +3473,31 @@ liés à l'ancienneté dans l'entreprise.
 
 **Nota:**
 
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L122-64 : les dispositions de la présente
-section ne sont pas applicables aux rapports entre un employeur et son salarié victime d'un accident du travail ou d'une
-maladie professionnelle, survenue ou contractée au service d'un autre employeur.*]
+code du travail applicable dans la collectivité territoriale de Mayotte L122-64 : les dispositions de la présente section ne
+sont pas applicables aux rapports entre un employeur et son salarié victime d'un accident du travail ou d'une maladie
+professionnelle, survenue ou contractée au service d'un autre employeur.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-64
 
 _Cité par_:
 
   - Décret n°88-368 du 15 avril 1988 - art. 16-1 (V)
   - Code de la sécurité intérieure - art. L762-2 (VD)
   - Code du travail applicable à Mayotte. - art. L122-57 (VT)
+  - Code du travail applicable à Mayotte. - art. L122-58 (VT)
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L122-56
@@ -3529,30 +3513,29 @@ Toute résiliation du contrat de travail prononcée en méconnaissance des dispo
 
 **Nota:**
 
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L122-64 : les dispositions de la présente
-section ne sont pas applicables aux rapports entre un employeur et son salarié victime d'un accident du travail ou d'une
-maladie professionnelle, survenue ou contractée au service d'un autre employeur.*]
+code du travail applicable dans la collectivité territoriale de Mayotte L122-64 : les dispositions de la présente section ne
+sont pas applicables aux rapports entre un employeur et son salarié victime d'un accident du travail ou d'une maladie
+professionnelle, survenue ou contractée au service d'un autre employeur.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-64
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L122-57
 
-Les dispositions de l'article L. 122-55 [*suspension du contrat de travail*] ne font pas obstacle à l'échéance du contrat de
-travail à durée déterminée.
+Les dispositions de l'article L. 122-55 ne font pas obstacle à l'échéance du contrat de travail à durée déterminée.
 
 Toutefois, lorsque ce contrat comporte une clause de renouvellement, l'employeur ne peut, au cours des périodes définies au
 premier alinéa dudit article, refuser le renouvellement que s'il justifie d'un motif réel et sérieux, étranger à l'accident
@@ -3562,28 +3545,28 @@ validité du contrat prévue par la clause de renouvellement.
 
 **Nota:**
 
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L122-64 : les dispositions de la présente
-section ne sont pas applicables aux rapports entre un employeur et son salarié victime d'un accident du travail ou d'une
-maladie professionnelle, survenue ou contractée au service d'un autre employeur.*]
+code du travail applicable dans la collectivité territoriale de Mayotte L122-64 : les dispositions de la présente section ne
+sont pas applicables aux rapports entre un employeur et son salarié victime d'un accident du travail ou d'une maladie
+professionnelle, survenue ou contractée au service d'un autre employeur.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-55
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-64
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-55
 
 
 ###### Article L122-58
@@ -3597,43 +3580,44 @@ promotion ou d'avancement au sein de l'entreprise.
 
 **Nota:**
 
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L122-64 : les dispositions de la présente
-section ne sont pas applicables aux rapports entre un employeur et son salarié victime d'un accident du travail ou d'une
-maladie professionnelle, survenue ou contractée au service d'un autre employeur.*]
+code du travail applicable dans la collectivité territoriale de Mayotte L122-64 : les dispositions de la présente section ne
+sont pas applicables aux rapports entre un employeur et son salarié victime d'un accident du travail ou d'une maladie
+professionnelle, survenue ou contractée au service d'un autre employeur.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-55
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-64
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-55 (VT)
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. L122-59 (VT)
   - Code du travail applicable à Mayotte. - art. L122-61 (VT)
+  - Code du travail applicable à Mayotte. - art. L122-63 (VT)
 
 
 ###### Article L122-59
 
 Si le salarié est déclaré inapte à reprendre, à l'issue des périodes de suspension, l'emploi qu'il occupait précédemment,
-l'employeur est tenu [*obligation*] de lui proposer, compte tenu des conclusions écrites du médecin visé à l'article L.
-122-58 et des indications qu'il formule sur l'aptitude du salarié à exercer l'une des tâches existant dans l'entreprise et,
-le cas échéant, après avis des représentants du personnel, un autre emploi approprié à ses capacités et aussi comparable que
-possible à l'emploi précédemment occupé, au besoin par la mise en oeuvre de mesures telles que mutations, transformations de
-postes ou aménagement du temps de travail.
+l'employeur est tenu de lui proposer, compte tenu des conclusions écrites du médecin visé à l'article L. 122-58 et des
+indications qu'il formule sur l'aptitude du salarié à exercer l'une des tâches existant dans l'entreprise et, le cas échéant,
+après avis des représentants du personnel, un autre emploi approprié à ses capacités et aussi comparable que possible à
+l'emploi précédemment occupé, au besoin par la mise en oeuvre de mesures telles que mutations, transformations de postes ou
+aménagement du temps de travail.
 
 S'il ne peut proposer un autre emploi, l'employeur est tenu de faire connaître par écrit, en français, les motifs qui
 s'opposent au reclassement.
@@ -3646,35 +3630,36 @@ résiliation du contrat de travail à l'initiative de l'employeur.
 
 **Nota:**
 
-[*Nota : Code du travail applicable dans la collectivité territoriale de Mayotte L122-63 : les dispositions des deux derniers
-alinéas de l'article L. 122-5  ne sont pas applicables lorsque le salarié est titulaire d'un contrat à durée déterminée.
+Code du travail applicable dans la collectivité territoriale de Mayotte L122-63 : les dispositions des deux derniers alinéas
+de l'article L. 122-5 ne sont pas applicables lorsque le salarié est titulaire d'un contrat à durée déterminée. 
 
 L122-64 : les dispositions de la présente section ne sont pas applicables aux rapports entre un employeur et son salarié
-victime d'un accident du travail ou d'une maladie professionnelle, survenue ou contractée au service d'un autre employeur.*]
+victime d'un accident du travail ou d'une maladie professionnelle, survenue ou contractée au service d'un autre employeur.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-58
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-63, L122-64
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-58
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. L122-60 (VT)
   - Code du travail applicable à Mayotte. - art. L122-61 (VT)
+  - Code du travail applicable à Mayotte. - art. L122-63 (VT)
 
 
 ###### Article L122-60
@@ -3689,36 +3674,38 @@ salarié du reclassement qui lui est proposé est abusif.
 
 **Nota:**
 
-[*Nota : Code du travail applicable dans la collectivité territoriale de Mayotte L122-63 : les dispositions des deux derniers
-alinéas de l'article L. 122-60 ne sont pas applicables lorsque le salarié est titulaire d'un contrat à durée déterminée.
+Code du travail applicable dans la collectivité territoriale de Mayotte L122-63 : les dispositions des deux derniers alinéas
+de l'article L. 122-60 ne sont pas applicables lorsque le salarié est titulaire d'un contrat à durée déterminée. 
 
 L122-64 : les dispositions de la présente section ne sont pas applicables aux rapports entre un employeur et son salarié
-victime d'un accident du travail ou d'une maladie professionnelle, survenue ou contractée au service d'un autre employeur.*]
+victime d'un accident du travail ou d'une maladie professionnelle, survenue ou contractée au service d'un autre employeur.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-59, L122-21, L122-22
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-63, L122-64
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-21
+  - Code du travail applicable à Mayotte. - art. L122-22 (VT)
+  - Code du travail applicable à Mayotte. - art. L122-59
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. L122-61 (VT)
   - Code du travail applicable à Mayotte. - art. L122-62 (VT)
-  - Code du travail applicable à Mayotte. - art. L122-65 (M)
+  - Code du travail applicable à Mayotte. - art. L122-65 (VT)
   - Code du travail applicable à Mayotte. - art. L143-15 (Ab)
   - Code du travail applicable à Mayotte. - art. L143-7 (V)
 
@@ -3726,42 +3713,44 @@ _Cité par_:
 ###### Article L122-61
 
 Lorsqu'un licenciement est prononcé en méconnaissance des dispositions de l'article L. 122-58 ou des premier et troisième
-alinéas de l'article L. 122-59, le tribunal saisi [*juridiction*] peut proposer la réintégration du salarié dans
-l'entreprise, avec maintien de ses avantages acquis ; en cas de refus par l'une ou l'autre des parties, le tribunal octroie
-au salarié une indemnité. Cette indemnité, qui ne peut être inférieure à douze mois de salaire, est due sans préjudice de
-l'indemnité compensatrice et, le cas échéant, de l'indemnité spéciale de licenciement prévues à l'article L. 122-60.
+alinéas de l'article L. 122-59, le tribunal saisi peut proposer la réintégration du salarié dans l'entreprise, avec maintien
+de ses avantages acquis ; en cas de refus par l'une ou l'autre des parties, le tribunal octroie au salarié une indemnité.
+Cette indemnité, qui ne peut être inférieure à douze mois de salaire, est due sans préjudice de l'indemnité compensatrice et,
+le cas échéant, de l'indemnité spéciale de licenciement prévues à l'article L. 122-60.
 
 **Nota:**
 
-[*Nota : Code du travail applicable dans la collectivité territoriale de Mayotte L122-63 : les dispositions des deux derniers
-alinéas de l'article L. 122-61 ne sont pas applicables lorsque le salarié est titulaire d'un contrat à durée déterminée.
+Code du travail applicable dans la collectivité territoriale de Mayotte L122-63 : les dispositions des deux derniers alinéas
+de l'article L. 122-61 ne sont pas applicables lorsque le salarié est titulaire d'un contrat à durée déterminée. 
 
 L122-64 : les dispositions de la présente section ne sont pas applicables aux rapports entre un employeur et son salarié
-victime d'un accident du travail ou d'une maladie professionnelle, survenue ou contractée au service d'un autre employeur.*]
+victime d'un accident du travail ou d'une maladie professionnelle, survenue ou contractée au service d'un autre employeur.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-58, L122-59, L122-60
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-63, L122-64
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-58
+  - Code du travail applicable à Mayotte. - art. L122-59
+  - Code du travail applicable à Mayotte. - art. L122-60
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. L122-62 (VT)
-  - Code du travail applicable à Mayotte. - art. L122-65 (M)
+  - Code du travail applicable à Mayotte. - art. L122-65 (VT)
   - Code du travail applicable à Mayotte. - art. L143-7 (V)
 
 
@@ -3776,31 +3765,31 @@ nature, les indemnités et les gratifications qui composent le revenu.
 
 **Nota:**
 
-[*Nota : Code du travail applicable dans la collectivité territoriale de Mayotte L122-63. : les dispositions des deux
-derniers alinéas de l'article L. 122-62 ne sont pas applicables lorsque le salarié est titulaire d'un contrat à durée
-déterminée.
+Code du travail applicable dans la collectivité territoriale de Mayotte L122-63. : les dispositions des deux derniers alinéas
+de l'article L. 122-62 ne sont pas applicables lorsque le salarié est titulaire d'un contrat à durée déterminée. 
 
 L122-64 : les dispositions de la présente section ne sont pas applicables aux rapports entre un employeur et son salarié
-victime d'un accident du travail ou d'une maladie professionnelle, survenue ou contractée au service d'un autre employeur.*]
+victime d'un accident du travail ou d'une maladie professionnelle, survenue ou contractée au service d'un autre employeur.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-60, L122-61
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-63, L122-64
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-60
+  - Code du travail applicable à Mayotte. - art. L122-61
 
 
 ###### Article L122-63
@@ -3820,32 +3809,34 @@ période en cours de validité de son contrat.
 
 **Nota:**
 
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L122-64 : les dispositions de la présente
-section ne sont pas applicables aux rapports entre un employeur et son salarié victime d'un accident du travail ou d'une
-maladie professionnelle, survenue ou contractée au service d'un autre employeur.*]
+code du travail applicable dans la collectivité territoriale de Mayotte L122-64 : les dispositions de la présente section ne
+sont pas applicables aux rapports entre un employeur et son salarié victime d'un accident du travail ou d'une maladie
+professionnelle, survenue ou contractée au service d'un autre employeur.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-59, L122-60 à L122-62
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-64
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte.
+  - Code du travail applicable à Mayotte. - art. L122-58 (VT)
+  - Code du travail applicable à Mayotte. - art. L122-59 (VT)
 
 _Cité par_:
 
-  - Code du travail applicable à Mayotte. - art. L122-66 (M)
+  - Code du travail applicable à Mayotte. - art. L122-66 (VT)
   - Code du travail applicable à Mayotte. - art. L143-7 (V)
 
 
@@ -3861,9 +3852,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L122-65
@@ -3879,22 +3874,20 @@ maladie professionnelle, survenue ou contractée au service d'un autre employeur
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-64
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L143-14, L122-60, L122-61
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-60 (M)
+  - Code du travail applicable à Mayotte. - art. L122-61 (M)
+  - Code du travail applicable à Mayotte. - art. L143-14 (M)
 
 
 ###### Article L122-66
@@ -3910,22 +3903,19 @@ maladie professionnelle, survenue ou contractée au service d'un autre employeur
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-64
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L143-14, L122-63
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-63 (M)
+  - Code du travail applicable à Mayotte. - art. L143-14 (M)
 
 
 ##### Section 8 : Règlement intérieur, protection des salariés et droit disciplinaire<a id=24></a>
@@ -3934,8 +3924,7 @@ _Créé par_:
 
 ###### Article L122-67
 
-L'établissement d'un règlement intérieur est obligatoire pour tout employeur occupant habituellement au moins vingt salariés
-[*effectif*] .
+L'établissement d'un règlement intérieur est obligatoire pour tout employeur occupant habituellement au moins vingt salariés.
 
 Des dispositions spéciales peuvent être établies pour une catégorie de personnel ou une division de l'entreprise ou de
 l'établissement.
@@ -3947,9 +3936,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -3979,9 +3968,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -3991,13 +3980,13 @@ _Cité par_:
 ###### Article L122-69
 
 Le règlement intérieur ne peut contenir de clauses contraires aux lois et règlements, ainsi qu'aux dispositions des
-conventions et accords collectifs de travail applicables dans l'entreprise ou l'établissement [*interdiction*]. Il ne peut
-apporter aux droits des personnes et aux libertés individuelles et collectives des restrictions qui ne seraient pas
-justifiées par la nature de la tâche à accomplir ni proportionnées au but recherché.
+conventions et accords collectifs de travail applicables dans l'entreprise ou l'établissement. Il ne peut apporter aux droits
+des personnes et aux libertés individuelles et collectives des restrictions qui ne seraient pas justifiées par la nature de
+la tâche à accomplir ni proportionnées au but recherché.
 
 Il ne peut comporter de dispositions lésant les salariés dans leur emploi ou leur travail, en raison de leur sexe, de leurs
 moeurs, de leur situation de famille, de leurs origines, de leurs opinions ou confessions, ou de leur handicap, à capacité
-professionnelle égale [*non discrimination*].
+professionnelle égale.
 
 **Liens relatifs à cet article**
 
@@ -4006,9 +3995,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -4020,10 +4009,10 @@ _Cité par_:
 ###### Article L122-70
 
 Le règlement intérieur ne peut être introduit qu'après avoir été soumis à l'avis des représentants du personnel lorsqu'il en
-existe dans l'entreprise [*consultation obligatoire*].
+existe dans l'entreprise.
 
-Le règlement intérieur doit indiquer [*contenu*] la date à partir de laquelle il entre en vigueur. Cette date doit être
-postérieure d'un mois à l'accomplissement des formalités de dépôt et de publicité.
+Le règlement intérieur doit indiquer la date à partir de laquelle il entre en vigueur. Cette date doit être postérieure d'un
+mois à l'accomplissement des formalités de dépôt et de publicité.
 
 En même temps qu'il fait l'objet des mesures de publicité, le règlement intérieur, accompagné de l'avis des représentants du
 personnel, est communiqué à l'inspecteur du travail, sauf dans le cas où il concerne les administrations, collectivités et
@@ -4034,18 +4023,14 @@ règlement intérieur.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L610-3
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -4054,42 +4039,21 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R122-13 (Ab)
   - Code du travail applicable à Mayotte. - art. R122-14 (Ab)
 
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L610-3 (M)
+
 
 ###### Article L122-71
 
-L'inspecteur du travail peut à tout moment exiger le retrait ou la modification des dispositions [*du réglement intérieur*]
-contraires aux articles L. 122-68 et L. 122-69.
+L'inspecteur du travail peut à tout moment exiger le retrait ou la modification des dispositions contraires aux articles L.
+122-68 et L. 122-69.
 
 Cette décision, motivée, est notifiée à l'employeur et communiquée, pour information, aux représentants du personnel.
 
 Lorsque, à l'occasion d'un litige individuel, le juge du contrat de travail écarte l'application d'une clause contraire aux
 articles L. 122-68 et L. 122-69, une copie du jugement est adressée par le secrétariat-greffe à l'inspecteur du travail et
 aux représentants du personnel mentionnés au premier alinéa de l'article L. 122-70.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-68, L122-69, L122-70
-
-_Codifié par_:
-
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-_Créé par_:
-
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
-
-
-###### Article L122-72
-
-La décision de l'inspecteur du travail ou du fonctionnaire assimilé [*de retrait ou de modification des dispositions du
-réglement intérieur*] peut faire l'objet dans les deux mois [*délai*] d'un recours auprès du directeur du travail, de
-l'emploi et de la formation professionnelle à Mayotte.
-
-La décision du directeur du travail, de l'emploi et de la formation professionnelle à Mayotte est notifiée à l'employeur et
-communiquée pour information aux représentants du personnel.
 
 **Liens relatifs à cet article**
 
@@ -4100,7 +4064,37 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-68 (M)
+  - Code du travail applicable à Mayotte. - art. L122-69 (M)
+  - Code du travail applicable à Mayotte. - art. L122-70 (M)
+
+
+###### Article L122-72
+
+La décision de l'inspecteur du travail ou du fonctionnaire assimilé peut faire l'objet dans les deux mois d'un recours auprès
+du directeur du travail, de l'emploi et de la formation professionnelle à Mayotte.
+
+La décision du directeur du travail, de l'emploi et de la formation professionnelle à Mayotte est notifiée à l'employeur et
+communiquée pour information aux représentants du personnel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 
 ##### Sous-section 2 : Protection des salariés et droit disciplinaire.<a id=26></a>
@@ -4115,12 +4109,16 @@ salarié dans l'entreprise, sa fonction, sa carrière ou sa rémunération.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 _Cité par_:
 
@@ -4149,11 +4147,15 @@ observée.
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 _Cité par_:
 
@@ -4175,9 +4177,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 
 ###### Article L122-76
@@ -4197,12 +4203,16 @@ Les dispositions des alinéas précédents ne sont pas applicables en cas de lic
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 
 ###### Article L122-77
@@ -4218,12 +4228,16 @@ d'une nouvelle sanction.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 _Cité par_:
 
@@ -4237,7 +4251,7 @@ Aucun salarié ne peut être sanctionné ou licencié en raison de son origine, 
 famille, de son appartenance à une ethnie, une nation ou une race, de ses opinions politiques, de ses activités syndicales ou
 mutualistes, de l'exercice normal du droit de grève ou de ses convictions religieuses ou, sauf inaptitude constatée par le
 médecin chargé de la surveillance médicale au travail dans le cadre du titre IV du livre II du présent code, en raison de son
-état de santé ou de son handicap. Toute disposition ou tout acte contraire est nul de plein droit [*non discrimination*].
+état de santé ou de son handicap. Toute disposition ou tout acte contraire est nul de plein droit.
 
 **Liens relatifs à cet article**
 
@@ -4246,9 +4260,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 
 ##### Section 9 : Congé pour la création d'entreprise.<a id=27></a>
@@ -4264,41 +4282,57 @@ dans les conditions fixées à l'article L. 122-81.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-81
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. L122-67 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-81
 
 
 ###### Article L122-80
 
 Le droit au congé pour la création d'entreprise est ouvert au salarié qui, à la date du départ en congé, justifie d'une
-ancienneté dans l'entreprise d'au moins trente-six mois, consécutifs ou non [*condition d'obtention*].
+ancienneté dans l'entreprise d'au moins trente-six mois, consécutifs ou non.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. L122-68 (VD)
 
 
 ###### Article L122-81
 
 Le salarié informe son employeur, par lettre recommandée avec demande d'avis de réception, au moins trois mois à l'avance, de
-la date de départ en congé qu'il a choisie ainsi que la durée envisagée de ce congé [*condition de forme,délai*].
+la date de départ en congé qu'il a choisie ainsi que la durée envisagée de ce congé.
 
 Il précise l'activité de l'entreprise qu'il prévoit de créer ou de reprendre.
 
@@ -4309,12 +4343,20 @@ demande d'avis de réception, au moins trois mois avant le terme de la première
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. L122-69 (VD)
 
 _Cité par_:
 
@@ -4325,33 +4367,41 @@ _Cité par_:
 ###### Article L122-82
 
 L'employeur a la faculté de différer le départ en congé, dans la limite de six mois qui courent à compter de la présentation
-de la lettre recommandée mentionnée au premier alinéa de l'article L. 122-81 [*durée, point de départ*].
+de la lettre recommandée mentionnée au premier alinéa de l'article L. 122-81.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-81
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. L122-70 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-81
 
 
 ###### Article L122-83
 
 A l'issue du congé, le salarié retrouve son précédent emploi ou un emploi similaire assorti d'une rémunération au moins
-équivalente [*réintégration*]. Le salarié ne peut invoquer aucun droit à être réemployé avant l'expiration du congé.
+équivalente. Le salarié ne peut invoquer aucun droit à être réemployé avant l'expiration du congé.
 
-Le salarié informe son employeur, par lettre recommandée avec demande d'avis de réception[*formalité obligatoire*], au moins
-trois mois avant la fin de son congé [*délai*], de son intention soit d'être réemployé, soit de rompre son contrat de travail
-dans les conditions prévues par celui-ci, à l'exception, toutefois, de celles relatives au délai-congé et sans avoir, de ce
-fait, à payer une indemnité de rupture.
+Le salarié informe son employeur, par lettre recommandée avec demande d'avis de réception, au moins trois mois avant la fin
+de son congé, de son intention soit d'être réemployé, soit de rompre son contrat de travail dans les conditions prévues par
+celui-ci, à l'exception, toutefois, de celles relatives au délai-congé et sans avoir, de ce fait, à payer une indemnité de
+rupture.
 
 Les salariés qui reprennent leur activité dans l'entreprise à l'issue du congé pour création d'entreprise bénéficient d'une
 réadaptation professionnelle en tant que de besoin.
@@ -4360,12 +4410,20 @@ réadaptation professionnelle en tant que de besoin.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. L122-71 (VD)
 
 
 #### CHAPITRE III : Egalité professionnelle entre les femmes et les hommes.<a id=28></a>
@@ -4373,7 +4431,7 @@ _Créé par_:
 ###### Article L123-1
 
 Sous réserve des dispositions particulières du présent code et sauf si l'appartenance à l'un ou l'autre sexe est la condition
-déterminante de l'exercice d'un emploi ou d'une activité professionnelle, nul ne peut [*non discrimination*] :
+déterminante de l'exercice d'un emploi ou d'une activité professionnelle, nul ne peut :
 
 a) Mentionner ou faire mentionner dans une offre d'emploi, quels que soient les caractères du contrat de travail envisagé, ou
 dans toute autre forme de publicité relative à une embauche, le sexe ou la situation de famille du candidat recherché ;
@@ -4392,9 +4450,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 _Cité par_:
 
@@ -4405,22 +4467,26 @@ _Cité par_:
 
 Aucune clause réservant le bénéfice d'une mesure quelconque à un ou des salariés en considération du sexe ne peut à peine de
 nullité être insérée dans une convention collective de travail, à moins que ladite clause n'ait pour objet l'application des
-dispositions des articles L. 122-45 à L. 122-51 [*protection de la femme enceinte*] .
+dispositions des articles L. 122-45 à L. 122-51.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-45 à L122-51
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte.
 
 
 ###### Article L123-3
@@ -4438,18 +4504,22 @@ applicable ou le contrat de travail.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-22
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-22
 
 
 #### CHAPITRE IV : Marchandage.<a id=29></a>
@@ -4470,10 +4540,6 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
-
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
-
 _Cité par_:
 
   - Loi n°97-210 du 11 mars 1997 - art. 31 (V)
@@ -4484,12 +4550,20 @@ _Cité par_:
   - Ordonnance n°2016-65 du 29 janvier 2016 - art. 61 (V)
   - Code des transports - art. R3521-2 (V)
   - Code du travail applicable à Mayotte. - art. L124-4 (VT)
-  - Code du travail applicable à Mayotte. - art. L127-1 (V)
+  - Code du travail applicable à Mayotte. - art. L127-1 (VT)
   - Code du travail applicable à Mayotte. - art. L152-1 (V)
   - Code du travail applicable à Mayotte. - art. L312-8 (Ab)
   - Code du travail applicable à Mayotte. - art. L313-1 (VT)
   - Code du travail applicable à Mayotte. - art. L610-14 (VT)
   - Code général des collectivités territoriales - art. L1751-1-1 (V)
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L124-2
@@ -4517,12 +4591,20 @@ l'entrepreneur, une action directe contre le chef d'entreprise pour qui le trava
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. L127-13 (VT)
 
 
 ###### Article L124-3
@@ -4537,10 +4619,6 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
-
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
-
 _Cité par_:
 
   - Loi n°97-210 du 11 mars 1997 - art. 31 (V)
@@ -4553,9 +4631,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L312-8 (Ab)
   - Code du travail applicable à Mayotte. - art. L313-1 (VT)
 
-_Cite_:
+_Modifié par_:
 
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L152-1
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 #### CHAPITRE V : Cautionnements.<a id=30></a>
@@ -4563,7 +4641,7 @@ _Cite_:
 ###### Article L125-1
 
 Tout chef d'entreprise qui, à titre de cautionnement, se fait remettre des sommes d'argent en espèces ou des titres par un
-salarié, doit en délivrer récépissé [*document obligatoire*].
+salarié, doit en délivrer récépissé.
 
 **Liens relatifs à cet article**
 
@@ -4572,9 +4650,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 _Cité par_:
 
@@ -4583,12 +4665,12 @@ _Cité par_:
 
 ###### Article L125-2
 
-Tout cautionnement doit être mis en dépôt dans le délai d'un mois à dater de sa réception [*point de départ*] par
-l'employeur. Ce dernier doit tenir un certificat de dépôt à la disposition de l'inspecteur du travail.
+Tout cautionnement doit être mis en dépôt dans le délai d'un mois à dater de sa réception par l'employeur. Ce dernier doit
+tenir un certificat de dépôt à la disposition de l'inspecteur du travail.
 
-Le représentant du Gouvernement à Mayotte fixe par arrêté les modalités de ce dépôt ainsi que la liste des caisses publiques
-et des banques habilitées à le recevoir. Ces établissements doivent accepter ce dépôt et délivrer un livret spécial, distinct
-de celui que le travailleur pourrait posséder déjà ou acquérir ultérieurement.
+Le représentant de l'Etat à Mayotte fixe par arrêté les modalités de ce dépôt ainsi que la liste des caisses publiques et des
+banques habilitées à le recevoir. Ces établissements doivent accepter ce dépôt et délivrer un livret spécial, distinct de
+celui que le travailleur pourrait posséder déjà ou acquérir ultérieurement.
 
 **Liens relatifs à cet article**
 
@@ -4597,9 +4679,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 _Cité par_:
 
@@ -4619,9 +4705,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 
 ###### Article L125-4
@@ -4634,12 +4724,16 @@ entre les mains de l'administration de la caisse publique ou de la banque est nu
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 
 #### CHAPITRE VI : Groupements d'employeurs.<a id=31></a>
@@ -4656,12 +4750,12 @@ déclarées de la loi du 1er juillet 1901.
 Lorsqu'un groupement d'employeurs se constitue, l'inspection du travail en est informée. La liste des membres du groupement
 est tenue en permanence à la disposition de l'inspecteur du travail au siège du groupement.
 
-Une personne physique ou morale ne peut être membre que d'un seul groupement [*non cumul*]. Toutefois, une personne physique
-possédant plusieurs entreprises juridiquement distinctes peut, au titre de chacune de ses entreprises, appartenir à un
-groupement différent.
+Une personne physique ou morale ne peut être membre que d'un seul groupement. Toutefois, une personne physique possédant
+plusieurs entreprises juridiquement distinctes peut, au titre de chacune de ses entreprises, appartenir à un groupement
+différent.
 
 Les employeurs occupant plus de cent salariés, ce seuil étant calculé sur la moyenne des douze derniers mois, ne peuvent
-adhérer à un groupement ni en devenir membre [*incompatibilité*].
+adhérer à un groupement ni en devenir membre.
 
 L'activité du groupement s'exerce sous réserve des dispositions législatives relatives à l'exercice illégal de certaines
 professions.
@@ -4676,9 +4770,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991 rectificatif JORF 3 août 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -4698,64 +4792,68 @@ _Cite_:
 
 Des personnes physiques ou morales n'entrant pas dans le champ d'application de la même convention collective peuvent
 également constituer un groupement au sens de l'article L. 126-1 à la condition de déterminer la convention collective
-applicable audit groupement.
+applicable audit groupement. 
 
 Il en est de même des personnes physiques ou morales entrant dans le champ d'application d'un accord collectif, à condition
-que celui-ci contienne obligatoirement des clauses portant sur la totalité des points suivants :
+que celui-ci contienne obligatoirement des clauses portant sur la totalité des points suivants : 
 
-1° L'exercice du droit syndical et la liberté d'opinion des salariés ;
+1° L'exercice du droit syndical et la liberté d'opinion des salariés ; 
 
-2° La représentation du personnel ;
+2° La représentation du personnel ; 
 
 3° Les éléments essentiels servant à la détermination des classifications professionnelles et des niveaux de qualification,
 notamment les mentions relatives aux diplômes professionnels ou à leurs équivalences, à condition que ces diplômes aient été
-créés depuis plus d'un an ;
+créés depuis plus d'un an ; 
 
 4° Les éléments énumérés ci-dessous du salaire applicable par catégories professionnelles ainsi que les procédures et la
-périodicité prévues pour sa révision :
+périodicité prévues pour sa révision : 
 
-a) Le salaire minimum professionnel du salarié sans qualification ;
+a) Le salaire minimum professionnel du salarié sans qualification ; 
 
-b) Les coefficients hiérarchiques afférents aux diverses qualifications professionnelles ;
+b) Les coefficients hiérarchiques afférents aux diverses qualifications professionnelles ; 
 
-c) Les majorations pour travaux pénibles, physiquement ou nerveusement, dangereux, insalubres ;
+c) Les majorations pour travaux pénibles, physiquement ou nerveusement, dangereux, insalubres ; 
 
-5° Les congés payés ;
+5° Les congés payés ; 
 
 6° Les conditions d'embauchage des salariés, sans que les dispositions prévues puissent porter atteinte au libre choix du
-syndicat par ceux-ci ;
+syndicat par ceux-ci ; 
 
-7° Les conditions de la rupture des contrats de travail, notamment quant au délai-congé et à l'indemnité de licenciement.
+7° Les conditions de la rupture des contrats de travail, notamment quant au délai-congé et à l'indemnité de licenciement. 
 
 Les groupements constitués dans le cadre du présent article ne peuvent exercer leur activité qu'après avoir été agréés par
-arrêté du représentant du Gouvernement à Mayotte.
+arrêté du représentant de l'Etat à Mayotte.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L126-1
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991 rectificatif JORF 3 août 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L126-1
 
 _Cité par_:
 
+  - Code du travail applicable à Mayotte. - art. L126-6 (VT)
   - Code du travail applicable à Mayotte. - art. R126-1 (V)
   - Code du travail applicable à Mayotte. - art. R126-2 (V)
 
 
 ###### Article L126-3
 
-Les contrats de travail conclus par le groupement sont écrits et rédigés en français [*condition de forme*]. Ils indiquent
-les conditions d'emploi et de rémunération, la qualification du salarié, la liste des utilisateurs potentiels et les lieux
-d'exécution du travail [*contenu*].
+Les contrats de travail conclus par le groupement sont écrits et rédigés en français. Ils indiquent les conditions d'emploi
+et de rémunération, la qualification du salarié, la liste des utilisateurs potentiels et les lieux d'exécution du travail.
 
 Les salariés du groupement bénéficient de la convention collective ou de l'accord collectif dans le champ d'application de
 laquelle le groupement a été constitué.
@@ -4767,9 +4865,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991 rectificatif JORF 3 août 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L126-4
@@ -4789,30 +4891,38 @@ relative à la medecine du travail, les obligations correspondantes sont à la c
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991 rectificatif JORF 3 août 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L126-5
 
-Les salariés du groupement ont accès [*bénéficiaires*], dans l'entreprise utilisatrice, dans les mêmes conditions que les
-salariés de cette entreprise, aux moyens de transport collectifs et aux installations collectives, notamment de restauration,
-dont peuvent bénéficier ces salariés.
+Les salariés du groupement ont accès, dans l'entreprise utilisatrice, dans les mêmes conditions que les salariés de cette
+entreprise, aux moyens de transport collectifs et aux installations collectives, notamment de restauration, dont peuvent
+bénéficier ces salariés.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991 rectificatif JORF 3 août 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -4828,18 +4938,22 @@ nombre des salariés permanents le nombre moyen par jour ouvrable des salariés 
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L126-1
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991 rectificatif JORF 3 août 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 28 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L126-1 (M)
 
 
 ###### Article L126-7
@@ -4856,23 +4970,25 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991 rectificatif JORF 3 août 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 #### CHAPITRE VII : Associations intermédiaires.<a id=32></a>
 
 ###### Article L127-1
 
-L'association intermédiaire est [*définition*] une association agréée par le représentant du Gouvernement à Mayotte pour une
-période d'un an renouvelable, dans le ressort de la collectivité territoriale, après avis des organisations professionnelles
-concernées.
+L'association intermédiaire est une association agréée par le représentant de l'Etat à Mayotte pour une période d'un an
+renouvelable, dans le ressort de la collectivité départementale, après avis des organisations professionnelles concernées.
 
-Elle a pour objet [*attributions*] d'embaucher des personnes dépourvues d'emploi pour les mettre, à titre onéreux, à la
-disposition de personnes physiques ou morales pour des activités qui ne sont pas déjà assurées, dans les conditions
-économiques locales, par l'initiative privée ou par l'action des collectivités publiques ou des organismes bénéficiant de
-ressources publiques.
+Elle a pour objet d'embaucher des personnes dépourvues d'emploi pour les mettre, à titre onéreux, à la disposition de
+personnes physiques ou morales pour des activités qui ne sont pas déjà assurées, dans les conditions économiques locales, par
+l'initiative privée ou par l'action des collectivités publiques ou des organismes bénéficiant de ressources publiques.
 
 Le salarié d'une association intermédiaire peut être rémunéré soit sur la base d'un nombre d'heures forfaitaire déterminé
 dans le contrat, soit sur la base du nombre d'heures effectivement travaillées chez l'utilisateur.
@@ -4881,22 +4997,22 @@ L'activité de l'association intermédiaire est réputée non lucrative au regar
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L124-1
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. D127-34 (V)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L124-1 (M)
 
 
 ### TITRE III : CONVENTIONS ET ACCORDS COLLECTIFS DE TRAVAIL<a id=33></a>
@@ -4913,16 +5029,21 @@ d'emploi et de travail et de leurs garanties sociales.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
   - Ordonnance n°2002-149 du 7 février 2002 - art. 8 (VD)
+  - Code du travail applicable à Mayotte. - art. L132-1 (VT)
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 #### CHAPITRE II : Nature et validité des conventions et accords collectifs de travail.<a id=35></a>
@@ -4934,26 +5055,30 @@ catégories professionnelles intéressées. L'accord collectif traite un ou des 
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L131-1
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L131-1 (VT)
 
 
 ##### Section 1 : Dispositions communes.<a id=36></a>
 
 ###### Article L132-2
 
-La convention ou l'accord collectif de travail est un acte [*définition, langue*], écrit à peine de nullité et rédigé en
-français [*conditions de forme*], qui est conclu entre [*partenaires sociaux*] :
+La convention ou l'accord collectif de travail est un acte, écrit à peine de nullité et rédigé en français, qui est conclu
+entre :
 
 - d'une part, une ou plusieurs organisations syndicales de salariés reconnues représentatives au sens de l'article L. 412-3
 du présent code ou qui sont affiliées auxdites organisations ou qui ont fait la preuve de leur représentativité dans le champ
@@ -4970,17 +5095,17 @@ conférées à celles-ci par le présent titre.
 
 _Cite_:
 
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L412-3
   - Loi n°1901-07-01
+  - Code du travail applicable à Mayotte. - art. L412-3 (M)
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -4996,8 +5121,8 @@ _Cité par_:
 
 ###### Article L132-3
 
-Les représentants des organisations mentionnées à l'article précédent [*organisations syndicales, associations d'employeurs*]
-peuvent contracter, au nom de l'organisation qu'ils représentent, en vertu :
+Les représentants des organisations mentionnées à l'article précédent peuvent contracter, au nom de l'organisation qu'ils
+représentent, en vertu :
 
 1° Soit d'une stipulation statutaire de cette organisation ;
 
@@ -5009,18 +5134,18 @@ Les groupements d'employeurs déterminent eux-mêmes leur mode de délibération
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L132-2
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -5038,17 +5163,21 @@ lois et règlements en vigueur. Ils ne peuvent déroger aux dispositions d'ordre
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L132-5
 
 Les conventions et accords collectifs de travail déterminent leur champ d'application. Ce champ d'application professionnel
-est défini en termes d'activités économiques [*code INSEE*].
+est défini en termes d'activités économiques.
 
 Lorsque le champ d'application d'un avenant ou d'une annexe diffère de celui de la convention ou de l'accord qu'il modifie ou
 complète, il doit être précisé conformément aux dispositions de l'alinéa ci-dessus.
@@ -5060,20 +5189,24 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
-  - Code du travail applicable à Mayotte. - art. L133-2-1 (VD)
+  - Code du travail applicable à Mayotte. - art. L133-2-1 (VT)
 
 
 ###### Article L132-6
 
 La convention ou l'accord collectif est conclu pour une durée déterminée ou pour une durée indéterminée. A défaut de
 stipulations contraires, la convention ou l'accord à durée déterminée qui arrive à expiration continue à produire ses effets
-comme une convention ou un accord à durée indéterminée [*tacite reconduction*].
+comme une convention ou un accord à durée indéterminée.
 
 Quand la convention ou l'accord est conclu pour une durée déterminée, celle-ci ne peut être supérieure à cinq ans.
 
@@ -5084,15 +5217,19 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L132-7
 
-La convention et l'accord collectif de travail prévoient [*contenu*] dans quelle forme et à quelle époque ils pourront être
-renouvelés ou révisés.
+La convention et l'accord collectif de travail prévoient dans quelle forme et à quelle époque ils pourront être renouvelés ou
+révisés.
 
 **Liens relatifs à cet article**
 
@@ -5101,16 +5238,16 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article L132-8
 
 La convention et l'accord collectif de travail à durée indéterminée peuvent être dénoncés par les parties signataires. Ils
 prévoient les conditions dans lesquelles ils peuvent être dénoncés, et notamment la durée du préavis qui doit précéder la
-dénonciation [*contenu*]. En l'absence de stipulation expresse, cette durée est de trois mois.
+dénonciation. En l'absence de stipulation expresse, cette durée est de trois mois.
 
 La dénonciation est notifiée, par son auteur, aux autres signataires de la convention ou de l'accord, et doit donner lieu à
 dépôt conformément à l'article L. 132-10.
@@ -5125,10 +5262,10 @@ fait pas obstacle au maintien en vigueur de la convention ou de l'accord entre l
 les dispositions de l'alinéa précédent s'appliquent également à l'égard des auteurs de la dénonciation.
 
 Lorsqu'une convention ou un accord a été dénoncé par la totalité des signataires employeurs ou des signataires salariés, une
-nouvelle négociation doit s'engager, à la demande d'une des parties intéressées, dans les trois mois [*délai*] qui suivent la
-date de la dénonciation. Il en est de même, à la demande d'une des organisations syndicales représentatives de salariés
-intéressés, en cas de dénonciation de la convention ou de l'accord dans les conditions prévues à l'article L. 132-14, en ce
-qui concerne le secteur visé par la dénonciation.
+nouvelle négociation doit s'engager, à la demande d'une des parties intéressées, dans les trois mois qui suivent la date de
+la dénonciation. Il en est de même, à la demande d'une des organisations syndicales représentatives de salariés intéressés,
+en cas de dénonciation de la convention ou de l'accord dans les conditions prévues à l'article L. 132-14, en ce qui concerne
+le secteur visé par la dénonciation.
 
 Lorsque la convention ou l'accord qui a été dénoncé n'a pas été remplacé par une nouvelle convention ou un nouvel accord dans
 les délais précisés au troisième alinéa ci-dessus, les salariés des entreprises concernées conservent les avantages
@@ -5142,18 +5279,23 @@ dispositions conventionnelles nouvellement applicables, soit pour l'élaboration
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L132-10, L132-14
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L132-10
+  - Code du travail applicable à Mayotte. - art. L132-14
 
 _Cité par_:
 
@@ -5174,23 +5316,30 @@ L. 132-10, à la diligence de son ou de ses auteurs.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L132-16, L132-24, L132-9, L132-10
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L132-10
+  - Code du travail applicable à Mayotte. - art. L132-16
+  - Code du travail applicable à Mayotte. - art. L132-24
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. L132-15 (VT)
   - Code du travail applicable à Mayotte. - art. L132-7 (VT)
+  - Code du travail applicable à Mayotte. - art. L135-1 (VT)
   - Code du travail applicable à Mayotte. - art. R132-1 (M)
 
 
@@ -5202,8 +5351,7 @@ diligente auprès de la direction du travail, de l'emploi et de la formation pro
 La partie la plus diligente remet également un exemplaire de chaque convention ou accord collectif de travail au secrétariat-
 greffe de la juridiction du travail.
 
-Les textes sont applicables, sauf stipulations contraires, à partir du jour qui suit leur dépôt auprès du service compétent
-[*date d'entrée en vigueur*].
+Les textes sont applicables, sauf stipulations contraires, à partir du jour qui suit leur dépôt auprès du service compétent.
 
 Il peut être donné communication et délivré copie des textes déposés.
 
@@ -5216,13 +5364,18 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. L132-7 (VT)
   - Code du travail applicable à Mayotte. - art. L132-8 (VT)
   - Code du travail applicable à Mayotte. - art. L132-9 (VT)
+  - Code du travail applicable à Mayotte. - art. L136-1 (VT)
   - Code du travail applicable à Mayotte. - art. L320-24 (VT)
   - Code du travail applicable à Mayotte. - art. L512-2 (VT)
   - Code du travail applicable à Mayotte. - art. R132-1 (V)
@@ -5234,7 +5387,7 @@ _Cité par_:
 ###### Article L132-11
 
 Le champ d'application territorial des conventions de branches et des accords professionnels et interprofessionnels est la
-collectivité territoriale de Mayotte.
+collectivité départementale de Mayotte.
 
 Lorsqu'un accord professionnel a le même champ d'application professionnel qu'une convention de branche, il s'incorpore à
 ladite convention, dont il constitue un avenant ou une annexe.
@@ -5243,23 +5396,27 @@ ladite convention, dont il constitue un avenant ou une annexe.
 
 _Cite_:
 
-  - Code du travail applicable dans la collectivité territoriale de Mayotte annexe
+  - Code du travail applicable à Mayotte annexe
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L132-12
 
 Les organisations qui sont liées par une convention de branche ou, à défaut, par des accords professionnels, se réunissent,
-au moins une fois par an, pour négocier sur les salaires et, au moins une fois tous les cinq ans [*périodicité*], pour
-examiner la nécessité de réviser les classifications.
+au moins une fois par an, pour négocier sur les salaires et, au moins une fois tous les cinq ans, pour examiner la nécessité
+de réviser les classifications.
 
 La négociation sur les salaires est l'occasion, au moins une fois par an, d'un examen, par les parties, de l'évolution
 économique de la situation de l'emploi dans la branche, de son évolution et des prévisions annuelles ou pluriannuelles
@@ -5276,9 +5433,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -5301,9 +5458,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L132-14
@@ -5316,12 +5477,16 @@ professionnel inclus dans le champ d'application du texte dénoncé, ledit champ
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -5339,18 +5504,23 @@ la modification ou la révision du texte en cause.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L132-2, L132-9
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L132-2
+  - Code du travail applicable à Mayotte. - art. L132-9
 
 
 ###### Article L132-16
@@ -5362,18 +5532,22 @@ signataires de ladite convention ou dudit accord. Le champ d'application en est 
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L132-2
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L132-2
 
 _Cité par_:
 
@@ -5394,33 +5568,45 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L132-18
 
 La convention ou, à défaut, les accords d'entreprise sont négociés entre l'employeur et les organisations syndicales de
-salariés représentatives dans l'entreprise au sens de l'article L. 132-2 [*partenaires sociaux*].
+salariés représentatives dans l'entreprise au sens de l'article L. 132-2.
 
 Une convention ou des accords peuvent être conclus au niveau d'un établissement ou d'un groupe d'établissements dans les
 mêmes conditions.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L132-2
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L132-2
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. L132-21 (VT)
 
 
 ###### Article L132-19
@@ -5438,12 +5624,20 @@ Le temps passé à la négociation est payé comme temps de travail à échéanc
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. L136-1 (VT)
 
 
 ###### Article L132-20
@@ -5459,9 +5653,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L132-21
@@ -5473,18 +5671,23 @@ auxdites négociations.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L132-18, L132-25
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L132-18 (VT)
+  - Code du travail applicable à Mayotte. - art. L132-25
 
 
 ###### Article L132-22
@@ -5505,9 +5708,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L132-23
@@ -5525,27 +5732,35 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L132-24
 
 Lorsque l'entreprise n'entre pas dans le champ d'application territorial ou professionnel soit d'une convention de branche,
 soit d'un accord professionnel ou interprofessionnel, l'adhésion de l'employeur à une telle convention ou à un tel accord est
-subordonnée à un agrément des organisations syndicales représentatives dans l'entreprise [*condition*], après négociation.
+subordonnée à un agrément des organisations syndicales représentatives dans l'entreprise, après négociation.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -5555,29 +5770,34 @@ _Cité par_:
 ###### Article L132-25
 
 Dans les entreprises où sont représentées les organisations syndicales visées à l'article L. 132-2, l'employeur est tenu
-[*obligation*] d'engager chaque année [*périodicité*] une négociation sur les salaires effectifs, la durée effective et
-l'organisation du temps de travail si l'une au moins des organisations syndicales représentatives lui en fait la demande.
+d'engager chaque année une négociation sur les salaires effectifs, la durée effective et l'organisation du temps de travail
+si l'une au moins des organisations syndicales représentatives lui en fait la demande.
 
-Dans ce cas, l'employeur doit convoquer les parties à la négociation dans les quinze jours [*délai*] qui suivent la demande.
+Dans ce cas, l'employeur doit convoquer les parties à la négociation dans les quinze jours qui suivent la demande.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L132-2
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L132-2
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. L132-21 (VT)
+  - Code du travail applicable à Mayotte. - art. L132-28 (VT)
 
 
 #### CHAPITRE III : Conventions et accords susceptibles d'être étendus et procédures d'extension et d'élargissement<a id=39></a>
@@ -5588,10 +5808,10 @@ _Cité par_:
 
 La convention de branche ou l'accord professionnel ou interprofessionnel, leurs avenants ou annexes doivent, pour pouvoir
 être étendus, avoir été négociés et conclus en commission composée des représentants des organisations syndicales
-d'employeurs et de salariés représentatives dans le champ d'application considéré [*conditions d'extension*].
+d'employeurs et de salariés représentatives dans le champ d'application considéré.
 
-Lorsque les circonstances l'exigent et notamment à la demande d'une organisation syndicale représentative, le représentant du
-Gouvernement à Mayotte peut convoquer une commission mixte composée comme il est dit à l'alinéa précédent et présidée par le
+Lorsque les circonstances l'exigent et notamment à la demande d'une organisation syndicale représentative, le représentant de
+l'Etat à Mayotte peut convoquer une commission mixte composée comme il est dit à l'alinéa précédent et présidée par le
 directeur du travail, de l'emploi et de la formation professionnelle ou son représentant. Il doit convoquer cette commission
 lorsque deux des organisations susmentionnées en font la demande.
 
@@ -5604,10 +5824,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
+  - Code du travail applicable à Mayotte. - art. L133-3 (VT)
   - Code du travail applicable à Mayotte. - art. R133-1 (V)
   - Code du travail applicable à Mayotte. - art. R133-2 (M)
   - Code du travail applicable à Mayotte. - art. R133-3 (V)
@@ -5617,19 +5842,23 @@ _Cité par_:
 
 ###### Article L133-2
 
-En cas de litige portant sur l'importance des délégations composant la commission mixte, le représentant du Gouvernement
-[*autorité compétente*] peut fixer, dans les convocations, le nombre maximum de représentants par organisation.
+En cas de litige portant sur l'importance des délégations composant la commission mixte, le représentant de l'Etat peut
+fixer, dans les convocations, le nombre maximum de représentants par organisation.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ##### Section 2 : Procédures d'extension et d'élargissement.<a id=41></a>
@@ -5639,32 +5868,37 @@ _Créé par_:
 A la demande d'une des organisations visées à l'article L. 133-1 ou à son initiative, les dispositions d'une convention de
 branche ou d'un accord professionnel ou interprofessionnel, répondant aux conditions particulières déterminées par la section
 précédente, peuvent être rendues obligatoires pour tous les salariés et employeurs compris dans le champ d'application de
-ladite convention ou dudit accord, par arrêté du représentant du Gouvernement à Mayotte, après avis motivé de la commission
+ladite convention ou dudit accord, par arrêté du représentant de l'Etat à Mayotte, après avis motivé de la commission
 consultative du travail prévue à l'article L. 450-1.
 
 L'extension des effets et des sanctions de la convention ou de l'accord se fait pour la durée et aux conditions prévues par
 ladite convention ou ledit accord.
 
-Toutefois le représentant du Gouvernement à Mayotte peut exclure, après avis motivé de la commission consultative du travail,
-les clauses qui seraient en contradiction avec les textes législatifs et réglementaires en vigueur et celles qui, pouvant
-être distraites de la convention ou de l'accord sans en modifier l'économie, ne répondraient pas à la situation de la branche
-ou des branches dans le champ d'application considéré. Il peut, dans les mêmes conditions, étendre, sous réserve de
+Toutefois le représentant de l'Etat à Mayotte peut exclure, après avis motivé de la commission consultative du travail, les
+clauses qui seraient en contradiction avec les textes législatifs et réglementaires en vigueur et celles qui, pouvant être
+distraites de la convention ou de l'accord sans en modifier l'économie, ne répondraient pas à la situation de la branche ou
+des branches dans le champ d'application considéré. Il peut, dans les mêmes conditions, étendre, sous réserve de
 l'application des textes législatifs et réglementaires en vigueur, les clauses qui sont incomplètes au regard desdits textes.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L133-1, L450-1
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L133-1 (VT)
+  - Code du travail applicable à Mayotte. - art. L450-1
 
 _Cité par_:
 
@@ -5673,34 +5907,34 @@ _Cité par_:
 
 ###### Article L133-4
 
-Le représentant du Gouvernement à Mayotte peut, de même, conformément aux règles fixées à l'article précédent, rendre
-obligatoires par arrêté les avenants ou annexes à une convention ou à un accord étendu.
+Le représentant de l'Etat à Mayotte peut, de même, conformément aux règles fixées à l'article précédent, rendre obligatoires
+par arrêté les avenants ou annexes à une convention ou à un accord étendu.
 
 L'extension des avenants ou annexes à une convention ou à un accord étendu porte effet dans le champ d'application de la
 convention ou de l'accord de référence, sauf dispositions expresses déterminant un champ d'application différent.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L133-3
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L133-5
 
 En cas d'absence ou de carence des organisations de salariés ou d'employeurs se traduisant par une impossibilité persistante
-de conclure une convention ou un accord dans une branche d'activité ou un secteur territorial déterminé, le représentant du
-Gouvernement à Mayotte peut, à la demande d'une des organisations représentatives intéressées ou de sa propre initiative,
-sauf opposition écrite et motivée de la majorité des membres de la commission consultative du travail :
+de conclure une convention ou un accord dans une branche d'activité ou un secteur territorial déterminé, le représentant de
+l'Etat à Mayotte peut, à la demande d'une des organisations représentatives intéressées ou de sa propre initiative, sauf
+opposition écrite et motivée de la majorité des membres de la commission consultative du travail :
 
 1° Rendre obligatoire dans le secteur professionnel considéré une convention ou un accord de branche déjà étendu à un secteur
 professionnel différent. Le secteur professionnel faisant l'objet de l'arrêté d'élargissement doit présenter des conditions
@@ -5719,9 +5953,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -5730,31 +5968,35 @@ _Cité par_:
 
 ###### Article L133-6
 
-Lorsqu'une convention de branche n'a pas fait l'objet d'avenant ou annexe pendant cinq ans au moins [*durée*] ou qu'à défaut
-de convention des accords n'ont pu y être conclus depuis cinq ans au moins, cette situation peut être assimilée au cas
-d'absence ou de carence des organisations au sens de l'article précédent et donner lieu à l'application de la procédure
-prévue audit article [*procédure d'élargissement*].
+Lorsqu'une convention de branche n'a pas fait l'objet d'avenant ou annexe pendant cinq ans au moins ou qu'à défaut de
+convention des accords n'ont pu y être conclus depuis cinq ans au moins, cette situation peut être assimilée au cas d'absence
+ou de carence des organisations au sens de l'article précédent et donner lieu à l'application de la procédure prévue audit
+article.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code du travail applicable dans la collectivité territoriale de Mayotte annexe
+  - Code du travail applicable à Mayotte annexe
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L133-7
 
 L'arrêté d'extension ou d'élargissement est précédé de la publication au recueil des actes administratifs de la collectivité
-territoriale de Mayotte d'un avis relatif à l'extension ou à l'élargissement envisagé, invitant les organisations et
+départementale de Mayotte d'un avis relatif à l'extension ou à l'élargissement envisagé, invitant les organisations et
 personnes intéressées à faire connaître leurs observations.
 
 **Liens relatifs à cet article**
@@ -5764,31 +6006,40 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
+  - Code du travail applicable à Mayotte. - art. L136-1 (VT)
   - Code du travail applicable à Mayotte. - art. R133-1 (M)
   - Code du travail applicable à Mayotte. - art. R133-2 (V)
 
 
 ###### Article L133-8
 
-L'arrêté est publié au recueil des actes administratifs de la collectivité territoriale de Mayotte ainsi que le texte des
+L'arrêté est publié au recueil des actes administratifs de la collectivité départementale de Mayotte ainsi que le texte des
 dispositions étendues.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -5814,14 +6065,18 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L133-10
 
-Dans les formes prévues par la présente section, le représentant du Gouvernement à Mayotte peut, à la demande d'une des
+Dans les formes prévues par la présente section, le représentant de l'Etat à Mayotte peut, à la demande d'une des
 organisations représentatives intéressées ou de sa propre initiative :
 
 - abroger l'arrêté en vue de mettre fin à l'extension de la convention ou d'un accord ou de certaines de leurs dispositions
@@ -5835,19 +6090,23 @@ arrêté.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 #### CHAPITRE IV : Conventions et accords collectifs de travail dans les entreprises publiques et établissements publics à caractère industriel et commercial.<a id=42></a>
 
 ###### Article L134-1
 
-Dans les administrations de l'Etat et de la collectivité territoriale ainsi que dans les entreprises publiques et les
+Dans les administrations de l'Etat et de la collectivité départementale ainsi que dans les entreprises publiques et les
 établissements publics lorsqu'ils emploient du personnel dans les conditions du droit privé, les conditions d'emploi et de
 travail ainsi que les garanties sociales peuvent être déterminées, en ce qui concerne les catégories de personnel qui ne sont
 pas soumises à un statut législatif ou réglementaire particulier, par des conventions et accords collectifs de travail
@@ -5867,9 +6126,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -5892,9 +6155,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 #### CHAPITRE V : Application des conventions et accords collectifs de travail.<a id=43></a>
@@ -5913,18 +6180,22 @@ de l'accord collectif demeure lié par ces textes.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L132-9
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L132-9 (VT)
 
 
 ###### Article L135-2
@@ -5936,12 +6207,16 @@ aux contrats de travail conclus avec lui, sauf dispositions plus favorables.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L135-3
@@ -5957,9 +6232,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L135-4
@@ -5978,12 +6257,16 @@ du litige peut présenter pour ses membres.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L135-5
@@ -6000,9 +6283,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L135-6
@@ -6015,18 +6302,22 @@ groupements, liés par la convention ou l'accord, qui violeraient à leur égard
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L135-7
 
 L'employeur lié par une convention ou un accord collectif du travail doit en procurer un exemplaire aux représentants du
-personnel [*information*].
+personnel.
 
 En outre, ledit employeur tient un exemplaire à la disposition du personnel. Un avis est affiché à ce sujet.
 
@@ -6037,9 +6328,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -6048,9 +6339,9 @@ _Cité par_:
 
 ###### Article L135-8
 
-L'employeur fournit chaque année [*périodicité*] aux représentants du personnel la liste des modifications apportées aux
-conventions collectives ou accords collectifs de travail applicables dans l'entreprise. A défaut de représentants du
-personnel, cette information est communiquée aux salariés.
+L'employeur fournit chaque année aux représentants du personnel la liste des modifications apportées aux conventions
+collectives ou accords collectifs de travail applicables dans l'entreprise. A défaut de représentants du personnel, cette
+information est communiquée aux salariés.
 
 En outre, lorsqu'il démissionne d'une organisation signataire d'une convention ou d'un accord collectif de travail,
 l'employeur en informe sans délai le personnel dans les conditions définies à l'alinéa ci-dessus.
@@ -6059,12 +6350,16 @@ l'employeur en informe sans délai le personnel dans les conditions définies à
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 #### CHAPITRE VI : Dispositions finales.<a id=44></a>
@@ -6076,18 +6371,25 @@ ce qui concerne les articles L. 132-10, L. 132-19, L. 133-7 et L. 135-7.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L132-10, L132-19, L133-7, L135-7
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L132-10 (VT)
+  - Code du travail applicable à Mayotte. - art. L132-19 (VT)
+  - Code du travail applicable à Mayotte. - art. L133-7 (VT)
+  - Code du travail applicable à Mayotte. - art. L135-7 (VT)
 
 
 ### TITRE IV : SALAIRE<a id=45></a>
@@ -6096,12 +6398,12 @@ _Créé par_:
 
 ###### Article L140-1
 
-Tout employeur est tenu [*obligation*] d'assurer, pour un même travail ou pour un travail de valeur égale, l'égalité de
-rémunération entre les hommes et les femmes.
+Tout employeur est tenu d'assurer, pour un même travail ou pour un travail de valeur égale, l'égalité de rémunération entre
+les hommes et les femmes.
 
-Par rémunération [*définition*], au sens du présent chapitre, il faut entendre le salaire ou traitement ordinaire de base ou
-minimum et tous les autres avantages et accessoires payés, directement ou indirectement, en espèces ou en nature, par
-l'employeur au travailleur en raison de l'emploi de ce dernier.
+Par rémunération, au sens du présent chapitre, il faut entendre le salaire ou traitement ordinaire de base ou minimum et tous
+les autres avantages et accessoires payés, directement ou indirectement, en espèces ou en nature, par l'employeur au
+travailleur en raison de l'emploi de ce dernier.
 
 Sont considérés comme ayant une valeur égale les travaux qui exigent des salariés un ensemble comparable de connaissances
 professionnelles consacrées par un titre, un diplôme ou une pratique professionnelle, de capacités découlant de l'expérience
@@ -6110,26 +6412,16 @@ acquise, de responsabilités et de charge physique ou nerveuse.
 Les disparités de rémunération entre les établissements d'une même entreprise ne peuvent pas, pour un même travail ou pour un
 travail de valeur égale, être fondées sur l'appartenance des salariés de ces établissements à l'un ou l'autre sexe.
 
-**Nota:**
-
-[*Nota Code du travail applicable dans la collectivité territoriale de Mayotte L140-4. : les dispositions des articles L.
-140-1  sont applicables aux relations entre employeurs et salariés non régies par le code du travail et, notamment, aux
-salariés liés par un contrat de droit public.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L140-4
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -6147,26 +6439,16 @@ les femmes.
 Les catégories et les critères de classification et de promotion professionnelle ainsi que toutes les autres bases de calcul
 de la rémunération, notamment les modes d'évaluation des emplois, doivent être communs aux travailleurs des deux sexes.
 
-**Nota:**
-
-[*Nota : Code du travail applicable dans la collectivité territoriale de Mayotte L140-4 : les dispositions des articles L.
-140-2  sont applicables aux relations entre employeurs et salariés non régies par le code du travail et, notamment, aux
-salariés liés par un contrat de droit public.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L140-4
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -6192,34 +6474,25 @@ de plein droit.
 La rémunération plus élevée dont bénéficient ces derniers travailleurs est substituée de plein droit à celle que comportait
 la disposition entachée de nullité.
 
-**Nota:**
-
-[*Nota : Code du travail applicable dans la collectivité territoriale de Mayotte L140-4 : les dispositions des articles L.
-140-3  sont applicables aux relations entre employeurs et salariés non régies par le code du travail et, notamment, aux
-salariés liés par un contrat de droit public.*]
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L140-1, L140-2
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L140-4
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. L032-1 (VT)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L140-1 (M)
+  - Code du travail applicable à Mayotte. - art. L140-2 (M)
 
 
 ###### Article L140-4
@@ -6229,40 +6502,41 @@ le code du travail et, notamment, aux salariés liés par un contrat de droit pu
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L140-1 à L140-3
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte L140-1 à L140-3
 
 
 ###### Article L140-5
 
-Les inspecteurs du travail et les contrôleurs du travail sont chargés [*attributions*] de veiller à l'application des
-articles L. 140-1 et L. 140-2 ci-dessus ; ils sont également chargés, concurremment avec les officiers et agents de police
-judiciaire de constater les infractions à ces dispositions.
+Les inspecteurs du travail et les contrôleurs du travail sont chargés de veiller à l'application des articles L. 140-1 et L.
+140-2 ci-dessus ; ils sont également chargés, concurremment avec les officiers et agents de police judiciaire de constater
+les infractions à ces dispositions.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L140-1, L140-2
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L140-1 (M)
+  - Code du travail applicable à Mayotte. - art. L140-2 (M)
 
 
 ###### Article L140-6
@@ -6279,9 +6553,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -6299,23 +6573,28 @@ Tout salarié perçoit, s'il n'est pas apprenti, une rémunération au moins ég
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
   - Ordonnance n°2013-837 du 19 septembre 2013 - art. 35 (VD)
   - Décret n°2017-1788 du 27 décembre 2017 - art. 16
   - Décret n°2017-1788 du 27 décembre 2017 - art. 6
+  - Code rural et de la pêche maritime - art. L371-15 (VT)
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L141-2
 
-La rémunération horaire minimale interprofessionnelle garantie est fixée par arrêté du représentant du Gouvernement à Mayotte
-après avis de la commission consultative du travail.
+La rémunération horaire minimale interprofessionnelle garantie est fixée par arrêté du représentant de l'Etat à Mayotte après
+avis de la commission consultative du travail.
 
 **Liens relatifs à cet article**
 
@@ -6323,10 +6602,6 @@ _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-_Créé par_:
-
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
 
 _Cité par_:
 
@@ -6348,6 +6623,7 @@ _Cité par_:
   - Code de procédure pénale - art. 901-2 (VT)
   - Code du travail applicable à Mayotte. - art. D141-2-4 (V)
   - Code du travail applicable à Mayotte. - art. L141-3 (VT)
+  - Code du travail applicable à Mayotte. - art. L311-1 (VT)
   - Code du travail applicable à Mayotte. - art. L325-2 (T)
   - Code du travail applicable à Mayotte. - art. L328-15 (VD)
   - Code du travail applicable à Mayotte. - art. L328-35 (VT)
@@ -6356,6 +6632,14 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R330-15 (V)
   - Code rural - art. L372-4 (M)
   - Code rural et de la pêche maritime - art. L371-15 (VT)
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L141-3
@@ -6382,18 +6666,14 @@ terminé au cours du mois considéré.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L212-1, L141-2
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -6402,6 +6682,15 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R141-2 (V)
   - Code du travail applicable à Mayotte. - art. R156-2 (T)
   - Code du travail applicable à Mayotte. - art. R163-1 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L141-2
+  - Code du travail applicable à Mayotte. - art. L212-1
 
 
 ###### Article L141-4
@@ -6414,12 +6703,16 @@ conventions ou accords.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
 _Modifié par_:
 
-  - Loi n°99-1123 du 28 décembre 1999 - art. 7 () JORF 29 décembre 1999
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 #### CHAPITRE II : Heures supplémentaires.<a id=48></a>
@@ -6433,12 +6726,16 @@ du travail.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 #### CHAPITRE III : Paiement du salaire<a id=49></a>
@@ -6449,13 +6746,13 @@ _Créé par_:
 
 Sous réserve des dispositions législatives imposant le paiement des salaires sous une forme déterminée, le salaire doit être
 payé en monnaie métallique ou fiduciaire ayant cours légal ou par chèque barré ou par virement à un compte bancaire ou
-postal, nonobstant toute stipulation contraire, à peine de nullité [*condition de forme*] .
+postal, nonobstant toute stipulation contraire, à peine de nullité.
 
-Toutefois, en dessous d'un montant mensuel fixé par arrêté du représentant du Gouvernement à Mayotte, le salaire est payé en
+Toutefois, en dessous d'un montant mensuel fixé par arrêté du représentant de l'Etat à Mayotte, le salaire est payé en
 espèces au salarié qui le demande.
 
-Au-delà d'un montant mensuel fixé par arrêté du représentant du Gouvernement à Mayotte, le salaire est payé par chèque barré
-ou par virement à un compte bancaire ou postal.
+Au-delà d'un montant mensuel fixé par arrêté du représentant de l'Etat à Mayotte, le salaire est payé par chèque barré ou par
+virement à un compte bancaire ou postal.
 
 **Liens relatifs à cet article**
 
@@ -6464,9 +6761,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -6476,8 +6773,8 @@ _Cité par_:
 ###### Article L143-2
 
 Les salaires des employés et ceux des ouvriers bénéficiaires d'une convention ou d'un accord de mensualisation doivent être
-payés au moins une fois par mois [*périodicité*] ; en l'absence de convention ou d'accord de la nature susmentionnée, les
-salaires des ouvriers doivent être payés au moins deux fois par mois, à seize jours au plus d'intervalle.
+payés au moins une fois par mois ; en l'absence de convention ou d'accord de la nature susmentionnée, les salaires des
+ouvriers doivent être payés au moins deux fois par mois, à seize jours au plus d'intervalle.
 
 Pour tout travail aux pièces dont l'exécution doit durer plus d'une quinzaine, les dates de paiement peuvent être fixées de
 gré à gré, mais l'ouvrier doit recevoir des acomptes chaque quinzaine et être intégralement payé dans la quinzaine qui suit
@@ -6498,9 +6795,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article L143-3
@@ -6513,7 +6810,7 @@ Lors du paiement de leur rémunération, l'employeur doit remettre aux personnes
 dite bulletin de paie.
 
 Lors de la paie du salaire, il ne peut être exigé aucune formalité de signature ou d'émargement autre que celle établissant
-que la somme reçue correspond bien au montant net figurant sur le bulletin de paie [*bulletin de salaire*].
+que la somme reçue correspond bien au montant net figurant sur le bulletin de paie.
 
 **Liens relatifs à cet article**
 
@@ -6522,9 +6819,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -6554,9 +6851,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -6565,26 +6862,26 @@ _Cité par_:
 
 ###### Article L143-5
 
-Les mentions portées sur le bulletin [*de paie*] prévu à l'article L. 143-3, deuxième alinéa, sont obligatoirement
-reproduites sur un livre de paie.
+Les mentions portées sur le bulletin prévu à l'article L. 143-3, deuxième alinéa, sont obligatoirement reproduites sur un
+livre de paie.
 
 Les dispositions du présent article ne sont pas applicables aux particuliers qui occupent des employés de maison ou des
 assistantes maternelles.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L143-3
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L143-3 (M)
 
 _Cité par_:
 
@@ -6601,8 +6898,7 @@ Les sommes dues aux entrepreneurs de tous travaux ayant le caractère de travaux
 arrêt ni d'opposition au préjudice soit des ouvriers auxquels des salaires sont dus, soit des fournisseurs qui sont
 créanciers à raison de fournitures de matériaux et d'autres objets servant à la construction des ouvrages.
 
-Les sommes dues aux ouvriers à titre de salaire sont payées de préférence à celles dues aux fournisseurs [*créanciers
-privilègiés*].
+Les sommes dues aux ouvriers à titre de salaire sont payées de préférence à celles dues aux fournisseurs.
 
 **Liens relatifs à cet article**
 
@@ -6611,9 +6907,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -6642,18 +6938,25 @@ plafond ;
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L143-9, L143-10, L122-21, L122-22, L122-60, L122-10, L122-61, L122-63
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-10 (M)
+  - Code du travail applicable à Mayotte. - art. L122-21 (M)
+  - Code du travail applicable à Mayotte. - art. L122-22 (M)
+  - Code du travail applicable à Mayotte. - art. L122-60 (M)
+  - Code du travail applicable à Mayotte. - art. L122-61 (M)
+  - Code du travail applicable à Mayotte. - art. L122-63 (M)
+  - Code du travail applicable à Mayotte. - art. L143-10 (M)
+  - Code du travail applicable à Mayotte. - art. L143-9 (M)
 
 _Cité par_:
 
@@ -6665,26 +6968,25 @@ _Cité par_:
 
 ###### Article L143-8
 
-Sans préjudice des règles fixées aux articles 128 et 129 de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à
-la liquidation judiciaires des entreprises, les créances résultant du contrat de travail ou du contrat d'apprentissage sont
-garanties dans les conditions fixées aux articles L. 143-9 à L. 143-14.
+Sans préjudice des règles fixées aux articles L. 621-130 et L. 621-131 du code de commerce, les créances résultant du contrat
+de travail ou du contrat d'apprentissage sont garanties dans les conditions fixées aux articles L. 143-9 à L. 143-14.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L143-9 à L143-14
-  - Loi n°85-98 1985-01-25 art. 128, art. 129
-  - Loi n°85-98 du 25 janvier 1985 - art. 129 (M)
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code de commerce. - art. L621-130 (M)
+  - Code de commerce. - art. L621-131 (M)
+  - Code du travail applicable à Mayotte L143-9 à L143-14
 
 _Cité par_:
 
@@ -6696,34 +6998,34 @@ _Cité par_:
 Lorsqu'est ouverte une procédure de redressement judiciaire, les rémunérations de toute nature dues aux salariés et apprentis
 pour les soixante derniers jours de travail ou d'apprentissage doivent, déduction faite des acomptes déjà perçus, être
 payées, nonobstant l'existence de toute autre créance privilégiée, jusqu'à concurrence d'un plafond mensuel identique pour
-toutes les catégories de bénéficiaires [*privilège de la créance de salaire*].
+toutes les catégories de bénéficiaires.
 
-Ce plafond est fixé par arrêté du représentant du Gouvernement à Mayotte.
+Ce plafond est fixé par arrêté du représentant de l'Etat à Mayotte.
 
 Les rémunérations prévues au premier alinéa ci-dessus comprennent non seulement les salaires, appointements ou commissions
 proprement dites mais encore tous les accessoires et notamment l'indemnité pour inobservation du délai-congé mentionnée à
 l'article L. 122-21.
 
-Les dispositions du présent article sont aussi applicables aux voyageurs, représentants et placiers [*bénéficiaires*], pour
-les rémunérations de toute nature dues au titre des quatre-vingt-dix derniers jours de travail.
+Les dispositions du présent article sont aussi applicables aux voyageurs, représentants et placiers, pour les rémunérations
+de toute nature dues au titre des quatre-vingt-dix derniers jours de travail.
 
 Elles s'appliquent également aux marins pour les rémunérations de toute nature dues au titre des quatre-vingt-dix derniers
 jours de travail.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-21
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-21 (M)
 
 _Cité par_:
 
@@ -6740,18 +7042,19 @@ plafond identique à celui établi pour une période de trente jours de rémuné
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L223-8 à L223-11, L143-8
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte L223-8 à L223-11, L143-8
+  - Code du travail applicable à Mayotte. - art. L143-8 (M)
 
 _Cité par_:
 
@@ -6764,29 +7067,30 @@ _Cité par_:
 
 En cas de redressement judiciaire, doivent être aussi payées nonobstant l'existence de toute autre créance privilégiée, les
 créances résultant de la rupture des contrats de travail intervenant pendant la période d'observation, dans le mois suivant
-le jugement qui arrête le plan de redressement, dans les quinze jours [*délai*] suivant le jugement de liquidation et pendant
-le maintien provisoire de l'activité autorisé par le jugement de liquidation judiciaire.
+le jugement qui arrête le plan de redressement, dans les quinze jours suivant le jugement de liquidation et pendant le
+maintien provisoire de l'activité autorisé par le jugement de liquidation judiciaire.
 
 Il en est de même lorsque le tribunal prononce la liquidation judiciaire, dans la limite d'un montant maximal correspondant à
 un mois et demi de travail pour les sommes dues au cours de la période d'observation, des quinze jours suivant le jugement de
 liquidation ou du mois suivant le jugement de liquidation en ce qui concerne les représentants des salariés prévus par les
-articles 10 et 139 de la loi n° 85-98 du 25 janvier 1985 et pendant le maintien provisoire de l'activité autorisé par le
-jugement de liquidation.
+articles L. 621-135 et L. 621-8 du code de commerce et pendant le maintien provisoire de l'activité autorisé par le jugement
+de liquidation.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°85-98 1985-01-25 art. 10, art. 139
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code de commerce. - art. L621-135 (Ab)
+  - Code de commerce. - art. L621-8 (M)
 
 _Cité par_:
 
@@ -6797,32 +7101,32 @@ _Cité par_:
 
 ###### Article L143-12
 
-Les créances résultant du licenciement des salariés bénéficaires d'une protection particulière relative au licenciement
+Les créances résultant du licenciement des salariés bénéficiaires d'une protection particulière relative au licenciement
 doivent être également payées nonobstant l'existence de toute autre créance privilégiée dès lors que l'administrateur,
 l'employeur ou le liquidateur, selon le cas, a manifesté au cours des périodes mentionnées à l'article L. 143-11 son
 intention de rompre le contrat de travail.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L143-11
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L143-11 (M)
 
 
 ###### Article L143-13
 
 Nonobstant l'existence de toute autre créance, les créances que garantit le privilège établi aux articles L. 143-9 et L.
-143-10 doivent être payées par l'administrateur par ordonnance du juge-commissaire, dans les dix jours [*délai*] du prononcé
-du jugement ouvrant la procédure de redressement judiciaire, si l'administrateur dispose des fonds nécessaires.
+143-10 doivent être payées par l'administrateur par ordonnance du juge-commissaire, dans les dix jours du prononcé du
+jugement ouvrant la procédure de redressement judiciaire, si l'administrateur dispose des fonds nécessaires.
 
 Toutefois, avant tout établissement du montant de ces créances, l'administrateur doit, avec l'autorisation du juge-
 commissaire et dans la mesure des fonds disponibles, verser immédiatement aux salariés, à titre provisionnel, une somme égale
@@ -6834,18 +7138,19 @@ rentrées de fonds.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L143-9, L143-10
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L143-10 (M)
+  - Code du travail applicable à Mayotte. - art. L143-9 (M)
 
 
 ###### Article L143-14
@@ -6862,32 +7167,18 @@ suivant le prononcé du jugement ;
 alinéa, dans les dix jours suivant l'expiration des périodes de garantie prévues à l'article L. 143-11, et ce jusqu'à
 concurrence du plafond mentionné aux articles L. 143-9 et L. 143-10 ;
 
-4° Pour les autres créances, dans les trois mois suivant l'expiration de la période de garantie [*délai*].
-
-**Nota:**
-
-[*Nota : Code du travail applicable dans la collectivité territoriale de Mayotte L122-65, L122-66 : en cas de redressement
-judiciaire, les dispositions de l'article L. 143-14 sont applicables au paiement des indemnités prévues aux articles L.
-122-60, L. 122-61 et L. 122-63.*]
+4° Pour les autres créances, dans les trois mois suivant l'expiration de la période de garantie.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-65, L122-66
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L143-9, L143-10, L143-11
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -6895,12 +7186,18 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L122-65 (VT)
   - Code du travail applicable à Mayotte. - art. L122-66 (VT)
 
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L143-10 (M)
+  - Code du travail applicable à Mayotte. - art. L143-11 (M)
+  - Code du travail applicable à Mayotte. - art. L143-9 (M)
+
 
 ##### Section 3 : Prescription de l'action en paiement du salaire.<a id=52></a>
 
 ###### Article L143-15
 
-L'action en paiement du salaire se prescrit par cinq ans [*délai de prescription*].
+L'action en paiement du salaire se prescrit par cinq ans.
 
 **Liens relatifs à cet article**
 
@@ -6909,9 +7206,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 #### CHAPITRE IV : Retenues sur le salaire.<a id=53></a>
@@ -6931,12 +7228,16 @@ sommes qui leur seraient dues à eux-mêmes pour fournitures diverses, quelle qu
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L144-2
@@ -6952,16 +7253,20 @@ Les acomptes sur un travail en cours ne sont pas considérés comme avance.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
   - Ordonnance n°2016-415 du 7 avril 2016 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L144-3
@@ -6981,9 +7286,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cite_:
 
@@ -7011,15 +7316,20 @@ indemnités pour charges de famille.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
+  - Code des procédures civiles d'exécution - art. L612-3 (VT)
   - Code du travail applicable à Mayotte. - art. R145-1 (V)
   - Code du travail applicable à Mayotte. - art. R145-2 (V)
   - Code du travail applicable à Mayotte. - art. R145-3 (V)
@@ -7039,25 +7349,20 @@ de la pension alimentaire et des frais, soit au profit des créanciers ordinaire
 La même règle s'applique aux cessions ou saisies-arrêts faites en vertu des dispositions du code civil relatives à la
 contribution des époux aux charges du ménage.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L145-1 : champ d'application du présent
-chapitre.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L145-1
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L145-3
@@ -7066,52 +7371,42 @@ Le tiers saisi qui, dans le cas d'une procédure de saisie-arrêt, refuse de fai
 entre lui-même et le débiteur saisi ou déclare une situation mensongère, est déclaré débiteur pur et simple des retenues qui
 n'ont pas été opérées et est condamné aux frais par lui occasionnés.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L145-1 : champ d'application du présent
-chapitre.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L145-1
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L145-4
 
-Si plus de la moitié des créanciers, représentant au moins les trois quarts [*pourcentage*] en valeur des créances validées à
-l'occasion d'une procédure de saisie-arrêt, acceptent de donner mainlevée, le juge prononce par ordonnance la mainlevée de la
-saisie-arrêt.
-
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L145-1 : champ d'application du présent
-chapitre.*]
+Si plus de la moitié des créanciers, représentant au moins les trois quarts en valeur des créances validées à l'occasion
+d'une procédure de saisie-arrêt, acceptent de donner mainlevée, le juge prononce par ordonnance la mainlevée de la saisie-
+arrêt.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L145-1
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -7122,7 +7417,7 @@ _Cité par_:
 ###### Article L145-5
 
 Tous les actes d'une nature quelconque, décisions et formalités, auxquels donne lieu l'exécution du présent chapitre sont
-enregistrés gratis [*exonération fiscale*].
+enregistrés gratis.
 
 Ces actes ou décisions ainsi que leurs copies sont établis sur papier libre.
 
@@ -7132,25 +7427,20 @@ sont exemptées de tous droits de timbre et dispensées de la formalité de l'en
 Les lettres recommandées auxquelles donne lieu la procédure de cession ou de saisie-arrêt des rémunérations jouissent de la
 franchise postale.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L145-1 : champ d'application du présent
-chapitre.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L145-1
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L145-6
@@ -7160,27 +7450,22 @@ est dispensé de produire une procuration, ou par tout autre mandataire de leur 
 mandataire représente le créancier saisissant, sa procuration doit être spéciale à l'affaire pour laquelle il représente son
 mandat.
 
-Les procurations ci-dessus sont soumises au droit de timbre et d'enregistrement [*dispositions fiscales*].
-
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L145-1 : champ d'application du présent
-chapitre.*]
+Les procurations ci-dessus sont soumises au droit de timbre et d'enregistrement.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L145-1
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 #### CHAPITRE VI : Règles particulières au contrôle et à la répartition des pourboires.<a id=55></a>
@@ -7200,9 +7485,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -7214,23 +7499,19 @@ _Cité par_:
 
 ###### Article L146-2
 
-Les sommes mentionnées à l'article précédent [*pourboires*] ne doivent pas être confondues avec le salaire fixe ni lui être
-substituées, sauf dans le cas où un salaire minimum a été garanti par l'employeur.
+Les sommes mentionnées à l'article précédent ne doivent pas être confondues avec le salaire fixe ni lui être substituées,
+sauf dans le cas où un salaire minimum a été garanti par l'employeur.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L146-1
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -7256,12 +7537,16 @@ fournitures à prix coûtant.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 _Cité par_:
 
@@ -7285,14 +7570,14 @@ frais puissent excéder le maximum de l'amende encourue.
 
 **Liens relatifs à cet article**
 
+**Liens**:
+
+  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L123-1
+
 _Cite_:
 
   - Code du travail applicable dans la collectivité territoriale de Mayotte L123-1
   - Code pénal - art. 131-35 (M)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L123-1
 
 _Codifié par_:
 
@@ -7301,8 +7586,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-  - Loi n°92-1336 du 16 décembre 1992 - art. 331 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article L151-2
@@ -7320,20 +7604,20 @@ Le tribunal peut ordonner l'exécution provisoire de sa décision.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L123-1
-  - CODE DE PROCEDURE PENALE - art. 469-1 (M)
-  - CODE DE PROCEDURE PENALE - art. 469-3 (Ab)
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 469-1 (M)
+  - CODE DE PROCEDURE PENALE - art. 469-3 (Ab)
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L123-1
 
 _Cité par_:
 
@@ -7353,9 +7637,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 _Cité par_:
 
@@ -7371,13 +7659,13 @@ récidive, d'une amende de 50 000 F (1).
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-73
-
 **Liens**:
 
   - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L122-73
+
+_Cite_:
+
+  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-73
 
 _Codifié par_:
 
@@ -7386,7 +7674,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 #### CHAPITRE II : Marchandage.<a id=59></a>
@@ -7428,7 +7716,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -7452,9 +7740,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cite_:
 
@@ -7480,13 +7768,13 @@ du groupement et aux portes des entreprises utilisatrices et sa publication dans
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L126-1, L126-2, L126-3
-
 _Cite_:
 
   - Code du travail applicable dans la collectivité territoriale de Mayotte L126-1, L126-2, L126-3
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L126-1, L126-2, L126-3
 
 _Codifié par_:
 
@@ -7495,7 +7783,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 #### CHAPITRE V : Conventions et accords collectifs de travail.<a id=62></a>
@@ -7513,30 +7801,34 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 
 ###### Article L155-2
 
-L'employeur qui se soustrait à l'obligation prévue à l'article L. 132-25 [*négociation annuelle sur les salaires*] est
-passible des peines fixées par l'article L. 430-2 du présent code.
+L'employeur qui se soustrait à l'obligation prévue à l'article L. 132-25 est passible des peines fixées par l'article L.
+430-2 du présent code.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L430-2, L132-25
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 
 #### CHAPITRE VI : Salaire  - Retenues sur le salaire  - Economat.<a id=63></a>
@@ -7544,29 +7836,35 @@ _Créé par_:
 ###### Article L156-1
 
 Les dispositions des articles L. 151-2 et L. 151-3 sont applicables en cas d'infraction aux dispositions des articles L.
-140-1 à L. 140-3 [*égalité de rémunération entre les hommes et les femmes*].
+140-1 à L. 140-3.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L151-2, L151-3, L140-1 à L140-3
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte L151-2, L151-3, L140-1 à L140-3
+  - Code du travail applicable à Mayotte. - art. L151-2 (M)
+  - Code du travail applicable à Mayotte. - art. L151-3 (M)
 
 
 ###### Article L156-2
 
-En cas de contravention aux dispositions de l'article L. 144-3 [*retenues sur salaire*], le tribunal peut ordonner
-l'insertion du jugement dans un journal de la localité aux frais du condamné si, dans les douze mois qui ont précédé la
-contravention, le contrevenant a encouru une condamnation pour infraction aux dispositions de l'article L. 144-3.
+En cas de contravention aux dispositions de l'article L. 144-3, le tribunal peut ordonner l'insertion du jugement dans un
+journal de la localité aux frais du condamné si, dans les douze mois qui ont précédé la contravention, le contrevenant a
+encouru une condamnation pour infraction aux dispositions de l'article L. 144-3.
 
 **Liens relatifs à cet article**
 
@@ -7579,9 +7877,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 2
 
 _Cité par_:
 
@@ -7613,7 +7915,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ## LIVRE II : RÉGLEMENTATION DU TRAVAIL<a id=64></a>
@@ -7633,11 +7935,15 @@ ses propres ouvriers ou employés et sous les mêmes sanctions.
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -7665,37 +7971,38 @@ pendant leurs vacances scolaires à condition que soit assuré aux intéressés 
 moitié de chaque période de congé. Les employeurs sont tenus d'adresser une déclaration préalable à l'inspecteur du travail
 qui dispose d'un délai de huit jours pour notifier son désaccord éventuel.
 
-Des arrêtés du représentant du Gouvernement à Mayotte régleront les modalités d'application de l'alinéa précédent, notamment
-la nature des travaux, la durée de la période pendant laquelle ils pourront être effectués ainsi que, en tant que de besoin,
-les conditions particulières dans lesquelles sera assurée la couverture en matière d'accidents du travail ou de maladies
+Des arrêtés du représentant de l'Etat à Mayotte régleront les modalités d'application de l'alinéa précédent, notamment la
+nature des travaux, la durée de la période pendant laquelle ils pourront être effectués ainsi que, en tant que de besoin, les
+conditions particulières dans lesquelles sera assurée la couverture en matière d'accidents du travail ou de maladies
 professionnelles des jeunes gens concernés par ledit alinéa.
 
 Les limitations et interdictions résultant du présent article sont également applicables dans les professions et entreprises
-agricoles. Des dérogations pourront toutefois être accordées dans des conditions fixées par arrêté du représentant du
-Gouvernement à Mayotte pour des travaux légers effectués pendant les vacances scolaires soit par des enfants âgés de plus de
-quatorze ans, soit par des enfants de plus de treize ans lorsque ces travaux sont exécutés sous la surveillance du père, de
-la mère ou du tuteur, salariés dans la même entreprise.
+agricoles. Des dérogations pourront toutefois être accordées dans des conditions fixées par arrêté du représentant de l'Etat
+à Mayotte pour des travaux légers effectués pendant les vacances scolaires soit par des enfants âgés de plus de quatorze ans,
+soit par des enfants de plus de treize ans lorsque ces travaux sont exécutés sous la surveillance du père, de la mère ou du
+tuteur, salariés dans la même entreprise.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L113-3, L000-1
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
   - Décret n°2014-1289 du 23 octobre 2014 - art. (VD)
   - Code du travail applicable à Mayotte. - art. D211-1 (V)
   - Code du travail applicable à Mayotte. - art. R253-1 (V)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L000-1 (M)
+  - Code du travail applicable à Mayotte. - art. L113-3 (M)
 
 
 ###### Article L211-2
@@ -7710,12 +8017,16 @@ si les parents le réclament.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L211-3
@@ -7727,12 +8038,16 @@ qui appartiennent à la famille du débitant.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 #### CHAPITRE II : Durée du travail<a id=68></a>
@@ -7744,19 +8059,19 @@ _Créé par_:
 La durée légale du travail effectif des salariés est fixée à trente-neuf heures par semaine.
 
 La durée quotidienne du travail effectif par salarié ne peut excéder dix heures, sauf dérogations exceptionnelles dans des
-conditions fixées par arrêté du représentant du Gouvernement et dans la limite d'une durée maximum de douze heures de travail
+conditions fixées par arrêté du représentant de l'Etat et dans la limite d'une durée maximum de douze heures de travail
 effectif.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -7768,15 +8083,20 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L212-5 (VT)
   - Code du travail applicable à Mayotte. - art. L322-61 (VT)
   - Code du travail applicable à Mayotte. - art. L325-2 (T)
+  - Code du travail applicable à Mayotte. - art. L723-2 (VT)
   - Code du travail applicable à Mayotte. - art. R253-2 (V)
   - Code du travail applicable à Mayotte. - art. R322-65 (V)
   - Code du travail applicable à Mayotte. - art. R721-19 (V)
 
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
 
 ###### Article L212-2
 
-Des arrêtés du représentant du Gouvernement déterminent les modalités d'application de l'article précédent pour l'ensemble
-des branches d'activité ou des professions, ou pour une branche ou une profession particulière. Ils fixent notamment
+Des arrêtés du représentant de l'Etat déterminent les modalités d'application de l'article précédent pour l'ensemble des
+branches d'activité ou des professions, ou pour une branche ou une profession particulière. Ils fixent notamment
 l'aménagement et la répartition des horaires de travail, les dérogations permanentes ou temporaires applicables dans certains
 cas et, pour certains emplois, les modalités de récupération des heures de travail perdues et les mesures de contrôle de ces
 diverses dispositions.
@@ -7801,10 +8121,6 @@ ou l'accord.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L212-1
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
@@ -7812,7 +8128,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -7823,8 +8139,17 @@ _Cité par_:
   - Décret n°2006-1412 du 20 novembre 2006 - art. 24 (Ab)
   - Décret n°2014-1290 du 23 octobre 2014 - art. (V)
   - Code du travail applicable à Mayotte. - art. D212-5 (V)
+  - Code du travail applicable à Mayotte. - art. L324-13 (VT)
   - Code du travail applicable à Mayotte. - art. L711-10 (T)
   - Code du travail applicable à Mayotte. - art. R253-2 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L212-1
 
 
 ###### Article L212-3
@@ -7843,12 +8168,16 @@ ou d'un jour précédant les congés annuels.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -7858,8 +8187,8 @@ _Cité par_:
 ###### Article L212-4
 
 La durée du travail ci-dessus fixée s'entend du travail effectif, à l'exclusion du temps nécessaire à l'habillage et au
-casse-croûte ainsi que des périodes d'inaction dans les commerces et industries déterminés par arrêté du représentant du
-Gouvernement. Ces temps pourront toutefois être rémunérés conformément aux usages et aux conventions ou accords collectifs de
+casse-croûte ainsi que des périodes d'inaction dans les commerces et industries déterminés par arrêté du représentant de
+l'Etat. Ces temps pourront toutefois être rémunérés conformément aux usages et aux conventions ou accords collectifs de
 travail.
 
 **Liens relatifs à cet article**
@@ -7867,11 +8196,15 @@ travail.
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ##### Section 2 : Heures supplémentaires.<a id=70></a>
@@ -7892,21 +8225,26 @@ dans la limite de cinq heures par semaine après information de l'inspecteur du 
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L212-1
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L212-1
 
 _Cité par_:
 
+  - Code du travail applicable à Mayotte. - art. L212-6 (VT)
   - Code du travail applicable à Mayotte. - art. R253-3 (V)
 
 
@@ -7924,27 +8262,31 @@ effet de porter la durée du travail à plus de soixante heures par semaine.
 Les représentants du personnel donnent leur avis sur ces dérogations. Cet avis est transmis à l'inspecteur du travail.
 
 Les mesures nécessaires à l'application des dispositions du deuxième alinéa du présent article sont déterminées par arrêté du
-représentant du Gouvernement à Mayotte, après avis de la commission consultative du travail.
+représentant de l'Etat à Mayotte, après avis de la commission consultative du travail.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L212-5
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
   - Décret n°2014-1290 du 23 octobre 2014 - art. (V)
   - Code du travail applicable à Mayotte. - art. R212-1 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L212-5 (VT)
 
 
 ##### Section 3 : Dispositions relatives aux jeunes travailleurs.<a id=71></a>
@@ -7972,17 +8314,22 @@ _Cite_:
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
   - Décret n°2014-1290 du 23 octobre 2014 - art. (VD)
   - Code du travail applicable à Mayotte. - art. R253-5 (V)
+  - Code rural et de la pêche maritime - art. L781-52 (VT)
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L212-8
@@ -7994,11 +8341,15 @@ Aucune période de travail effectif ininterrompu ne peut excéder une durée max
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -8028,9 +8379,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -8057,9 +8408,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -8080,9 +8431,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -8107,9 +8458,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -8130,24 +8481,25 @@ travail.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L213-1, L213-2
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
   - Décret n°2014-1290 du 23 octobre 2014 - art. (V)
   - Code du travail applicable à Mayotte. - art. R213-2 (M)
   - Code du travail applicable à Mayotte. - art. R213-5 (V)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L213-1 (M)
+  - Code du travail applicable à Mayotte. - art. L213-2 (M)
 
 
 ##### Section 2 : Dispositions relatives aux jeunes travailleurs.<a id=74></a>
@@ -8163,19 +8515,24 @@ l'inspecteur du travail pour les établissements commerciaux.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
   - Décret n°2014-1290 du 23 octobre 2014 - art. (VD)
   - Code du travail applicable à Mayotte. - art. L213-7 (VT)
+  - Code du travail applicable à Mayotte. - art. L213-8 (VT)
   - Code du travail applicable à Mayotte. - art. L213-9 (VT)
   - Code rural et de la pêche maritime - art. L781-52 (VT)
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L213-7
@@ -8185,22 +8542,26 @@ nuit.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L213-6
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. L114-4 (VT)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L213-6
 
 
 ###### Article L213-8
@@ -8213,21 +8574,26 @@ travailleurs.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L213-6
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L213-6 (VT)
 
 _Cité par_:
 
+  - Code du travail applicable à Mayotte. - art. L213-9 (VT)
   - Code du travail applicable à Mayotte. - art. R222-3 (V)
 
 
@@ -8239,18 +8605,23 @@ accidents survenus.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L213-6, L213-8
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L213-6
+  - Code du travail applicable à Mayotte. - art. L213-8 (VT)
 
 _Cité par_:
 
@@ -8263,18 +8634,22 @@ _Cité par_:
 
 ###### Article L221-2
 
-Il est interdit d'occuper plus de six jours [*durée*] par semaine un même salarié.
+Il est interdit d'occuper plus de six jours par semaine un même salarié.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -8283,8 +8658,7 @@ _Cité par_:
 
 ###### Article L221-3
 
-Les apprentis ne peuvent être tenus en aucun cas vis-à-vis de leur maître à aucun travail de leur profession les dimanches
-[*interdiction*].
+Les apprentis ne peuvent être tenus en aucun cas vis-à-vis de leur maître à aucun travail de leur profession les dimanches.
 
 **Liens relatifs à cet article**
 
@@ -8293,9 +8667,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -8305,18 +8679,22 @@ _Cité par_:
 
 ###### Article L221-4
 
-Le repos hebdomadaire doit avoir [*obligation*] une durée minimale de vingt-quatre heures consécutives.
+Le repos hebdomadaire doit avoir une durée minimale de vingt-quatre heures consécutives.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -8326,18 +8704,22 @@ _Cité par_:
 
 ###### Article L221-5
 
-Le repos hebdomadaire doit être donné le dimanche [*obligation, jour*].
+Le repos hebdomadaire doit être donné le dimanche.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L221-6
@@ -8361,22 +8743,26 @@ la dérogation prévue au premier alinéa peut être accordée.
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
   - Décret n°2014-1290 du 23 octobre 2014 - art. (VD)
 
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
 
 ###### Article L221-7
 
-Lorsqu'il est établi que le repos simultané, le dimanche [*jour*] de tout le personnel d'un établissement serait
-préjudiciable au public ou compromettrait le fonctionnement normal de cet établissement [*condition*] le repos peut être
-donné soit toute l'année, soit à certaines époques de l'année seulement suivant l'une des modalités ci-après [*dérogation*] :
+Lorsqu'il est établi que le repos simultané, le dimanche, de tout le personnel d'un établissement serait préjudiciable au
+public ou compromettrait le fonctionnement normal de cet établissement le repos peut être donné soit toute l'année, soit à
+certaines époques de l'année seulement suivant l'une des modalités ci-après :
 
 a) Un autre jour que le dimanche à tout le personnel de l'établissement ;
 
@@ -8386,8 +8772,8 @@ c) Le dimanche après midi avec un repos compensateur d'une journée par rouleme
 
 d) Par roulement à tout ou partie du personnel.
 
-Les autorisations nécessaires ne peuvent être accordées que pour une durée limitée. Elles sont données par le représentant du
-Gouvernement à Mayotte après avis du conseil municipal, de la chambre professionnelle et des syndicats d'employeurs et de
+Les autorisations nécessaires ne peuvent être accordées que pour une durée limitée. Elles sont données par le représentant de
+l'Etat à Mayotte après avis du conseil municipal, de la chambre professionnelle et des syndicats d'employeurs et de
 travailleurs intéressés de la commune.
 
 Les dispositions du présent article ne sont pas applicables aux clercs, commis et employés des études et greffes dans les
@@ -8398,17 +8784,22 @@ offices ministériels.
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
   - Décret n°2014-1291 du 23 octobre 2014 - art. (VD)
   - Code du travail applicable à Mayotte. - art. L221-8 (VT)
+  - Code du travail applicable à Mayotte. - art. L221-9 (VT)
   - Code du travail applicable à Mayotte. - art. R221-1 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L221-8
@@ -8425,44 +8816,53 @@ Les décisions d'extension et de retrait sont prises après qu'il a été procé
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L221-7
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
   - Décret n°2014-1291 du 23 octobre 2014 - art. (VD)
+  - Code du travail applicable à Mayotte. - art. L221-9 (VT)
   - Code du travail applicable à Mayotte. - art. R221-2 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L221-7
 
 
 ###### Article L221-9
 
-Les recours pour excès de pouvoir contre les décisions prévues aux articles L. 221-7 et L. 221-8 ont un effet suspensif
-[*procédure*].
+Les recours pour excès de pouvoir contre les décisions prévues aux articles L. 221-7 et L. 221-8 ont un effet suspensif.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L221-7, L221-8
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L221-7 (VT)
+  - Code du travail applicable à Mayotte. - art. L221-8 (VT)
 
 
 ###### Article L221-10
@@ -8496,18 +8896,26 @@ Sont admis de droit à donner le repos hebdomadaire par roulement les établisse
 13° Entreprises d'émission et de réception de télégraphie sans fil.
 
 Les autres catégories d'établissements qui peuvent bénéficier du droit de donner le repos hebdomadaire par roulement sont
-désignées par arrêté du représentant du Gouvernement à Mayotte.
+désignées par arrêté du représentant de l'Etat à Mayotte.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. L221-19 (VT)
 
 
 ###### Article L221-11
@@ -8522,7 +8930,7 @@ de fabrication ;
 3° Les industries dans lesquelles une convention ou un accord collectif étendu prévoit la possibilité d'organiser le travail
 de façon continue pour des raisons économiques.
 
-Un arrêté du représentant du Gouvernement à Mayotte fixe la nomenclature des industries comprises dans les deux premières
+Un arrêté du représentant de l'Etat à Mayotte fixe la nomenclature des industries comprises dans les deux premières
 catégories ci-dessus définies.
 
 **Liens relatifs à cet article**
@@ -8532,32 +8940,48 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. L221-19 (VT)
 
 
 ###### Article L221-12
 
 Les modalités d'application du repos hebdomadaire aux spécialistes occupés aux fabrications ou opérations continues dans les
-usines à feu continu ou à marche continue sont déterminées par un arrêté du représentant du Gouvernement à Mayotte. Les repos
+usines à feu continu ou à marche continue sont déterminées par un arrêté du représentant de l'Etat à Mayotte. Les repos
 auxquels ces spécialistes ont droit peuvent être en partie différés sous réserve que, dans une période donnée, le nombre de
 repos de vingt-quatre heures consécutives soit toujours au moins égal à celui des semaines comprises dans ladite période et
 que chaque salarié ait le plus possible de repos le dimanche.
 
-L'arrêté du représentant du Gouvernement à Mayotte énumère les fabrications ou opérations auxquelles s'applique cette
-dérogation et détermine, pour chacune d'elles, la durée maximale de la période ci-dessus.
+L'arrêté du représentant de l'Etat à Mayotte énumère les fabrications ou opérations auxquelles s'applique cette dérogation et
+détermine, pour chacune d'elles, la durée maximale de la période ci-dessus.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. L221-22 (VT)
 
 
 ###### Article L221-13
@@ -8571,28 +8995,24 @@ mais aussi à ceux d'une autre entreprise faisant les réparations pour le compt
 entreprise, chaque salarié doit jouir d'un repos compensateur d'une durée égale au repos supprimé. Il en est de même pour les
 salariés de la première entreprise préposés habituellement au service d'entretien et de réparation.
 
-**Nota:**
-
-[*Nota : Code du travail applicable dans la collectivité territoriale de Mayotte L221-15 : les dérogations au repos
-hebdomadaire ne sont pas applicables aux jeunes travailleurs de moins de dix-huit ans et aux femmes.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L221-15
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
+  - Code du travail applicable à Mayotte. - art. L221-15 (VT)
   - Code du travail applicable à Mayotte. - art. R221-5 (V)
 
 
@@ -8607,25 +9027,24 @@ dans la reprise normale du travail.
 Au cas où le repos hebdomadaire a été réduit en vertu de l'alinéa précédent, un repos compensateur doit être donné à raison
 d'une journée entière pour deux réductions d'une demi-journée.
 
-**Nota:**
-
-[*Nota : Code du travail applicable dans la collectivité territoriale de Mayotte L221-15 : les dérogations au repos
-hebdomadaire ne sont pas applicables aux jeunes travailleurs de moins de dix-huit ans et aux femmes.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L221-15
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. L221-15 (VT)
 
 
 ###### Article L221-15
@@ -8635,18 +9054,23 @@ travailleurs de moins de dix-huit ans et aux femmes.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L221-13, L221-14
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L221-13 (VT)
+  - Code du travail applicable à Mayotte. - art. L221-14 (VT)
 
 
 ###### Article L221-16
@@ -8661,18 +9085,22 @@ dix-huit ans.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L221-17
 
-Un arrêté du représentant du Gouvernement à Mayotte détermine les établissements de vente de denrées alimentaires au détail
-où le repos peut être donné le dimanche à partir de midi avec un repos compensateur, par roulement et par semaine, d'un autre
+Un arrêté du représentant de l'Etat à Mayotte détermine les établissements de vente de denrées alimentaires au détail où le
+repos peut être donné le dimanche à partir de midi avec un repos compensateur, par roulement et par semaine, d'un autre
 après-midi pour les salariés âgés de moins de vingt et un ans logés chez leurs employeurs et par roulement et par quinzaine,
 d'une journée entière pour les autres salariés.
 
@@ -8683,35 +9111,43 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L221-18
 
 Lorsqu'un accord est intervenu entre les syndicats d'employeurs et de travailleurs d'une profession déterminée sur les
 conditions dans lesquelles le repos hebdomadaire est donné au personnel suivant un des modes prévus par les articles
-précédents, le représentant du Gouvernement à Mayotte [*autorité compétente*] peut, par arrêté, sur la demande des syndicats
-intéressés, ordonner la fermeture au public des établissements de la profession pendant toute la durée de ce repos.
+précédents, le représentant de l'Etat à Mayotte peut, par arrêté, sur la demande des syndicats intéressés, ordonner la
+fermeture au public des établissements de la profession pendant toute la durée de ce repos.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L221-19
 
-La fermeture [*des établissements*] prévue à l'article précédent ne s'applique pas aux stands des exposants dans l'enceinte
-des expositions, foires ou salons figurant sur une liste déterminée, après consultation des organisations d'employeurs et de
-travailleurs intéressées, par arrêté du représentant du Gouvernement à Mayotte.
+La fermeture prévue à l'article précédent ne s'applique pas aux stands des exposants dans l'enceinte des expositions, foires
+ou salons figurant sur une liste déterminée, après consultation des organisations d'employeurs et de travailleurs
+intéressées, par arrêté du représentant de l'Etat à Mayotte.
 
 Ne peuvent figurer sur la liste prévue à l'alinéa précédent que les manifestations dont la durée n'excède pas trois semaines.
 
@@ -8720,26 +9156,30 @@ conditions prévues par les articles L. 221-10 et L. 221-11.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L221-10, L221-11, L221-18
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L221-10 (VT)
+  - Code du travail applicable à Mayotte. - art. L221-11 (VT)
 
 
 ###### Article L221-20
 
-Dans les établissements de commerce de détail où le repos hebdomadaire a lieu normalement le dimanche [*jour*], ce repos peut
-être supprimé les dimanches désignés, pour chaque commerce de détail, par un arrêté du maire [*autorité compétente*] pris
-après avis des organisations d'employeurs et de travailleurs intéressées. Le nombre de ces dimanches ne peut excéder trois
-par an.
+Dans les établissements de commerce de détail où le repos hebdomadaire a lieu normalement le dimanche, ce repos peut être
+supprimé les dimanches désignés, pour chaque commerce de détail, par un arrêté du maire pris après avis des organisations
+d'employeurs et de travailleurs intéressées. Le nombre de ces dimanches ne peut excéder trois par an.
 
 Chaque salarié ainsi privé du repos du dimanche doit bénéficier d'un repos compensateur et d'une majoration de salaire pour
 ce jour de travail exceptionnel, égale à la valeur d'un trentième de son traitement mensuel ou à la valeur d'une journée de
@@ -8752,12 +9192,16 @@ donné le jour de cette fête.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L221-21
@@ -8774,101 +9218,128 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. L221-24 (VT)
 
 
 ###### Article L221-22
 
-Un arrêté du représentant du Gouvernement à Mayotte détermine les industries ne fonctionnant que pendant une partie de
-l'année dans lesquelles le repos hebdomadaire peut être en partie différé dans les conditions prévues par l'article L. 221-12
-pour les usines à feu continu ou à marche continue, sous réserve que chaque travailleur bénéficie au moins de deux jours par
-mois, autant que possible le dimanche.
+Un arrêté du représentant de l'Etat à Mayotte détermine les industries ne fonctionnant que pendant une partie de l'année dans
+lesquelles le repos hebdomadaire peut être en partie différé dans les conditions prévues par l'article L. 221-12 pour les
+usines à feu continu ou à marche continue, sous réserve que chaque travailleur bénéficie au moins de deux jours par mois,
+autant que possible le dimanche.
 
 Les établissements qui appartiennent aux branches d'activité à caractère saisonnier déterminées par décret et qui n'ouvrent
 en tout ou partie que pendant une période de l'année peuvent bénéficier de la même dérogation.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L221-12
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L221-12 (VT)
 
 _Cité par_:
 
+  - Code du travail applicable à Mayotte. - art. L221-24 (VT)
   - Code du travail applicable à Mayotte. - art. R221-5 (V)
 
 
 ###### Article L221-23
 
 Les industries traitant des matières périssables ou ayant à répondre à certains moments à un surcroît extraordinaire de
-travail et qui sont déterminées par un arrêté du représentant du Gouvernement à Mayotte peuvent suspendre le repos
-hebdomadaire de leur personnel deux fois [*nombre*] au plus par mois et sans que le nombre de ces suspensions dans l'année
-soit supérieur à six.
+travail et qui sont déterminées par un arrêté du représentant de l'Etat à Mayotte peuvent suspendre le repos hebdomadaire de
+leur personnel deux fois au plus par mois et sans que le nombre de ces suspensions dans l'année soit supérieur à six.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
+  - Code du travail applicable à Mayotte. - art. L221-24 (VT)
   - Code du travail applicable à Mayotte. - art. R221-5 (V)
 
 
 ###### Article L221-24
 
-Un arrêté du représentant du Gouvernement à Mayotte établit la nomenclature des industries particulières qui doivent être
-comprises dans les catégories générales énoncées aux articles L. 221-21, L. 221-22 et L. 221-23 en ce qui concerne les jeunes
+Un arrêté du représentant de l'Etat à Mayotte établit la nomenclature des industries particulières qui doivent être comprises
+dans les catégories générales énoncées aux articles L. 221-21, L. 221-22 et L. 221-23 en ce qui concerne les jeunes
 travailleurs et les femmes.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L221-21, L221-22, L221-23
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L221-21 (VT)
+  - Code du travail applicable à Mayotte. - art. L221-22 (VT)
+  - Code du travail applicable à Mayotte. - art. L221-23 (VT)
 
 
 ###### Article L221-25
 
-Les arrêtés du représentant du Gouvernement à Mayotte prévus au présent chapitre sont pris après avis de la commission
-consultative du travail.
+Les arrêtés du représentant de l'Etat à Mayotte prévus au présent chapitre sont pris après avis de la commission consultative
+du travail.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L221-26
@@ -8883,35 +9354,43 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L221-27
 
-Des arrêtés du représentant du Gouvernement à Mayotte organisent le contrôle des jours de repos pour tous les établissements,
-que le repos hebdomadaire soit collectif ou qu'il soit organisé par roulement.
+Des arrêtés du représentant de l'Etat à Mayotte organisent le contrôle des jours de repos pour tous les établissements, que
+le repos hebdomadaire soit collectif ou qu'il soit organisé par roulement.
 
 Ils déterminent également les conditions du préavis qui doit être adressé à l'inspecteur du travail par le chef de tout
-établissement qui bénéficie des dérogations [*conditions de forme*].
+établissement qui bénéficie des dérogations.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L221-28
 
-Les chambres de discipline dont relèvent les offices ministériels assurent [*attribution*], sous le contrôle du parquet,
-l'application du présent chapitre aux clercs, commis et employés des études et greffes dans ces offices.
+Les chambres de discipline dont relèvent les offices ministériels assurent, sous le contrôle du parquet, l'application du
+présent chapitre aux clercs, commis et employés des études et greffes dans ces offices.
 
 **Liens relatifs à cet article**
 
@@ -8920,9 +9399,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 #### CHAPITRE II : Jours fériés<a id=77></a>
@@ -8968,13 +9451,17 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
-  - Code du travail applicable à Mayotte. - art. L222-3 (M)
+  - Code du travail applicable à Mayotte. - art. L222-3 (VT)
   - Code du travail applicable à Mayotte. - art. R141-2 (V)
 
 
@@ -8987,36 +9474,39 @@ Les heures de travail perdues par suite de chômage des jours fériés ne peuven
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L222-3
 
-Les jeunes travailleurs et apprentis, âgés de moins de dix-huit ans ne peuvent être employés [*interdiction*] les jours de
-fête visés à l'article L. 222-1, même pour rangement d'atelier, dans les usines, manufactures, mines, carrières, chantiers,
-ateliers et leurs dépendances de quelque nature que ce soit, publics ou privés, laïques ou religieux, même lorsque ces
-établissements ont un caractère d'enseignement professionnel ou de bienfaisance, ainsi que dans les offices publics et
-ministériels, les professions libérales, les sociétés civiles, les syndicats professionnels et associations de quelque nature
-que ce soit.
+Les jeunes travailleurs et apprentis, âgés de moins de dix-huit ans ne peuvent être employés les jours de fête visés à
+l'article L. 222-1, même pour rangement d'atelier, dans les usines, manufactures, mines, carrières, chantiers, ateliers et
+leurs dépendances de quelque nature que ce soit, publics ou privés, laïques ou religieux, même lorsque ces établissements ont
+un caractère d'enseignement professionnel ou de bienfaisance, ainsi que dans les offices publics et ministériels, les
+professions libérales, les sociétés civiles, les syndicats professionnels et associations de quelque nature que ce soit.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L222-1
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L222-1 (M)
 
 _Cité par_:
 
@@ -9025,9 +9515,8 @@ _Cité par_:
 
 ###### Article L222-4
 
-Néanmoins [*dérogation à l'interdiction du travail les jours fériés*] dans les usines à feu continu, les jeunes travailleurs
-du sexe masculin peuvent être employés tous les jours de la semaine, à la condition qu'ils aient au moins un jour de repos
-par semaine.
+Néanmoins dans les usines à feu continu, les jeunes travailleurs du sexe masculin peuvent être employés tous les jours de la
+semaine, à la condition qu'ils aient au moins un jour de repos par semaine.
 
 **Liens relatifs à cet article**
 
@@ -9036,9 +9525,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L222-5
@@ -9053,9 +9546,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -9067,7 +9560,7 @@ _Cité par_:
 
 ###### Article L222-6
 
-Le 1er mai [*date*] est jour férié et chômé.
+Le 1er mai est jour férié et chômé.
 
 **Liens relatifs à cet article**
 
@@ -9076,9 +9569,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -9090,18 +9587,22 @@ _Cité par_:
 Le chômage du 1er mai ne peut être une cause de réduction des traitements et salaires mensuels, bimensuels ou hebdomadaires.
 
 Les salariés rémunérés à l'heure, à la journée ou au rendement ont droit à une indemnité égale au salaire qu'ils ont perdu du
-fait de ce chômage. Cette indemnité est à la charge [*financière*] de l'employeur.
+fait de ce chômage. Cette indemnité est à la charge de l'employeur.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -9112,7 +9613,7 @@ _Cité par_:
 
 Dans les établissements et services qui, en raison de la nature de leur activité, ne peuvent interrompre le travail, les
 salariés occupés le 1er mai ont droit, en plus du salaire correspondant au travail effectué, à une indemnité égale au montant
-de ce salaire. Cette indemnité est à la charge [*financière*] de l'employeur.
+de ce salaire. Cette indemnité est à la charge de l'employeur.
 
 **Liens relatifs à cet article**
 
@@ -9121,9 +9622,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 #### CHAPITRE III : Congés annuels<a id=80></a>
@@ -9132,8 +9637,8 @@ _Créé par_:
 
 ###### Article L223-1
 
-Tout salarié a droit chaque année [*périodicité*] à un congé payé à la charge [*financière*] de l'employeur dans les
-conditions fixées par les articles suivants.
+Tout salarié a droit chaque année à un congé payé à la charge de l'employeur dans les conditions fixées par les articles
+suivants.
 
 **Liens relatifs à cet article**
 
@@ -9142,9 +9647,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -9159,10 +9664,10 @@ _Cité par_:
 ###### Article L223-2
 
 Le travailleur qui, au cours de l'année de référence, justifie avoir été occupé chez le même employeur pendant un temps
-équivalent à un minimum d'un mois de travail effectif, a droit à un congé [*payé*] dont la durée est déterminée [*calcul*] à
-raison de deux jours ouvrables par mois de travail. Ce droit sera calculé à raison de deux jours et demi ouvrables par mois
-de travail à compter du 1er janvier 1993 [*point de départ*]. La durée totale du congé exigible ne pourra toutefois excéder
-vingt-quatre jours ouvrables jusqu'au 31 décembre 1992 et trente jours à partir de 1993.
+équivalent à un minimum d'un mois de travail effectif, a droit à un congé dont la durée est déterminée à raison de deux jours
+ouvrables par mois de travail. Ce droit sera calculé à raison de deux jours et demi ouvrables par mois de travail à compter
+du 1er janvier 1993. La durée totale du congé exigible ne pourra toutefois excéder vingt-quatre jours ouvrables jusqu'au 31
+décembre 1992 et trente jours à partir de 1993.
 
 L'absence du travailleur ne peut avoir pour effet d'entraîner une réduction de ses droits à congé plus que proportionnelle à
 la durée de cette absence.
@@ -9177,9 +9682,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991 rectificatif JORF 3 août 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -9193,9 +9698,9 @@ La durée du congé annuel peut être majorée en raison de l'âge ou de l'ancie
 convention ou accord collectif de travail.
 
 Quelle que soit leur ancienneté dans l'entreprise, les jeunes travailleurs et apprentis âgés de moins de vingt et un ans au
-30 avril de l'année précédente [*date, condition d'âge*] ont droit, s'ils le demandent, à un congé de trente jours ouvrables.
-Ils ne peuvent exiger aucune indemnité de congé payé pour les journées de vacances dont ils réclament le bénéfice en sus de
-celles qu'ils ont acquises, à raison du travail accompli au cours de la période de référence.
+30 avril de l'année précédente ont droit, s'ils le demandent, à un congé de trente jours ouvrables. Ils ne peuvent exiger
+aucune indemnité de congé payé pour les journées de vacances dont ils réclament le bénéfice en sus de celles qu'ils ont
+acquises, à raison du travail accompli au cours de la période de référence.
 
 **Liens relatifs à cet article**
 
@@ -9204,9 +9709,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -9226,18 +9731,18 @@ au service national à un titre quelconque.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-45 à L122-51
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte L122-45 à L122-51
 
 
 ###### Article L223-5
@@ -9252,9 +9757,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article L223-6
@@ -9264,12 +9769,12 @@ La période de congé payé est fixée par les conventions ou accords collectifs
 A défaut de convention ou accord collectif de travail, elle est fixée par l'employeur, en se référant aux usages et après
 consultation des représentants du personnel.
 
-A l'intérieur de la période des congés [*payés*] et à moins que l'ordre des départs ne résulte des stipulations des
-conventions ou accords collectifs de travail ou des usages, cet ordre est fixé par l'employeur après avis [*consultation*],
-le cas échéant, des représentants du personnel, compte tenu de la situation de famille des bénéficiaires, notamment des
-possibilités de congé du conjoint dans le secteur privé ou public et de la durée de leurs services chez l'employeur. Sauf en
-cas de circonstances exceptionnelles, l'ordre et les dates de départ fixés par l'employeur ne peuvent être modifiés dans le
-délai d'un mois avant la date prévue du départ.
+A l'intérieur de la période des congés et à moins que l'ordre des départs ne résulte des stipulations des conventions ou
+accords collectifs de travail ou des usages, cet ordre est fixé par l'employeur après avis, le cas échéant, des représentants
+du personnel, compte tenu de la situation de famille des bénéficiaires, notamment des possibilités de congé du conjoint dans
+le secteur privé ou public et de la durée de leurs services chez l'employeur. Sauf en cas de circonstances exceptionnelles,
+l'ordre et les dates de départ fixés par l'employeur ne peuvent être modifiés dans le délai d'un mois avant la date prévue du
+départ.
 
 Les conjoints travaillant dans une même entreprise ont droit à un congé simultané.
 
@@ -9280,9 +9785,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991 rectificatif JORF 3 août 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -9291,9 +9796,9 @@ _Cité par_:
 
 ###### Article L223-7
 
-Le congé payé ne dépassant pas douze jours ouvrables doit [*obligation*] être continu. La durée des congés pouvant être pris
-en une seule fois ne peut excéder vingt-quatre jours. Il peut être dérogé individuellement à cette disposition pour ceux des
-salariés qui justifient de contraintes géographiques particulières.
+Le congé payé ne dépassant pas douze jours ouvrables doit être continu. La durée des congés pouvant être pris en une seule
+fois ne peut excéder vingt-quatre jours. Il peut être dérogé individuellement à cette disposition pour ceux des salariés qui
+justifient de contraintes géographiques particulières.
 
 Le congé principal d'une durée supérieure à douze jours ouvrables et au plus égale à vingt-quatre jours ouvrables peut être
 fractionné par l'employeur avec l'agrément du salarié. Dans ce cas, une fraction doit être au moins de douze jours ouvrables
@@ -9309,9 +9814,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -9321,9 +9826,9 @@ _Cité par_:
 
 ###### Article L223-8
 
-Par accord entre le salarié visé à l'article L. 121-6 [*salarié qui ne réside pas à Mayotte*] et son employeur, il peut être
-dérogé [*dérogation*] exceptionnellement aux dispositions relatives à la périodicité, aux dates de départ et au
-fractionnement des congés payés fixées par les articles L. 223-1, L. 223-6 et L. 223-7.
+Par accord entre le salarié visé à l'article L. 121-6 et son employeur, il peut être dérogé exceptionnellement aux
+dispositions relatives à la périodicité, aux dates de départ et au fractionnement des congés payés fixées par les articles L.
+223-1, L. 223-6 et L. 223-7.
 
 Le salarié intéressé peut alors être autorisé à différer, en tout ou partie, le congé acquis dans les conditions des articles
 L. 223-2 à L. 223-5 sur une période annuelle de référence, pour le cumuler avec le congé annuel de la période annuelle
@@ -9336,30 +9841,34 @@ signé par les deux parties, dont un exemplaire sera conservé par l'employeur e
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L121-6, L223-1, L223-6, L223-7, L223-2 à L223-5
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte L121-6, L223-1, L223-6, L223-7, L223-2 à L223-5
+  - Code du travail applicable à Mayotte. - art. L121-6 (M)
+  - Code du travail applicable à Mayotte. - art. L223-1 (M)
+  - Code du travail applicable à Mayotte. - art. L223-6 (M)
+  - Code du travail applicable à Mayotte. - art. L223-7 (M)
 
 
 ##### Section 3 : Indemnités de congé.<a id=83></a>
 
 ###### Article L223-9
 
-L'indemnité afférente au congé [*payé*] prévu par l'article L. 223-2 est égale au douzième de la rémunération totale perçue
-par le salarié au cours de la période de référence. Cette indemnité sera portée au dixième de ladite rémunération à compter
-du 1er janvier 1993 [*date, point de départ*].
+L'indemnité afférente au congé prévu par l'article L. 223-2 est égale au douzième de la rémunération totale perçue par le
+salarié au cours de la période de référence. Cette indemnité sera portée au dixième de ladite rémunération à compter du 1er
+janvier 1993.
 
-Lorsque la durée du congé est différente de celle qui est prévue à l'article L. 223-2 [*cinq semaines*], l'indemnité est
-calculée selon les règles fixées ci-dessus et proportionnellement à la durée du congé effectivement dû.
+Lorsque la durée du congé est différente de celle qui est prévue à l'article L. 223-2, l'indemnité est calculée selon les
+règles fixées ci-dessus et proportionnellement à la durée du congé effectivement dû.
 
 Toutefois, l'indemnité prévue par les deux alinéas précédents ne peut être inférieure au montant de la rémunération qui
 aurait été perçue pendant la période de congé si le salarié avait continué à travailler, cette rémunération étant, sous
@@ -9368,22 +9877,22 @@ salaire gagné pendant la période précédant le congé et de la durée du trav
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L223-2
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991 rectificatif JORF 3 août 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. L223-11 (V)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L223-2 (M)
 
 
 ###### Article L223-10
@@ -9391,9 +9900,9 @@ _Cité par_:
 Les dispositions qui précèdent ne portent pas atteinte aux stipulations contractuelles ou aux usages qui assureraient des
 indemnités d'un montant plus élevé.
 
-Pour la fixation de l'indemnité [*calcul*], il doit être tenu compte des avantages accessoires et des prestations en nature
-dont le salarié ne continuerait pas à jouir pendant la durée de son congé. La valeur de ces avantages et prestations ne peut
-être inférieure à celle qui est fixée par le représentant du Gouvernement à Mayotte.
+Pour la fixation de l'indemnité, il doit être tenu compte des avantages accessoires et des prestations en nature dont le
+salarié ne continuerait pas à jouir pendant la durée de son congé. La valeur de ces avantages et prestations ne peut être
+inférieure à celle qui est fixée par le représentant de l'Etat à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -9402,9 +9911,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -9431,27 +9940,27 @@ le paiement des salaires arriérés.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L223-9, L223-10
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L223-10 (M)
+  - Code du travail applicable à Mayotte. - art. L223-9 (M)
 
 
 ###### Article L223-12
 
-Lorsque le maintien en activité d'un établissement n'est pas assuré [*fermeture*] pendant un nombre de jours dépassant la
-durée fixée pour la durée des congés légaux annuels, l'employeur est tenu [*obligation*], pour chacun des jours ouvrables de
-fermeture excédant cette durée, de verser à son personnel une indemnité qui ne peut être inférieure à l'indemnité journalière
-de congés payés [*compensation financière*]. Cette indemnité journalière n'est pas cumulable [*non cumul*] avec l'indemnité
-de congés payés.
+Lorsque le maintien en activité d'un établissement n'est pas assuré pendant un nombre de jours dépassant la durée fixée pour
+la durée des congés légaux annuels, l'employeur est tenu, pour chacun des jours ouvrables de fermeture excédant cette durée,
+de verser à son personnel une indemnité qui ne peut être inférieure à l'indemnité journalière de congés payés. Cette
+indemnité journalière n'est pas cumulable avec l'indemnité de congés payés.
 
 **Liens relatifs à cet article**
 
@@ -9460,9 +9969,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 #### CHAPITRE IV : Congés pour événements familiaux.<a id=84></a>
@@ -9472,7 +9981,7 @@ _Créé par_:
 Tout salarié bénéficie, sur justification et à l'occasion de certains événements familiaux, d'une autorisation exceptionnelle
 d'absence de :
 
-- quatre [*nombre*] jours pour le mariage du salarié ;
+- quatre jours pour le mariage du salarié ;
 
 - trois jours pour chaque naissance survenue à son foyer ou pour l'arrivée d'un enfant placé en vue de son adoption ; ces
 jours d'absence ne peuvent se cumuler avec les congés accordés pour ce même enfant en vertu des articles L. 122-46 et
@@ -9491,18 +10000,19 @@ Ils sont assimilés à des jours de travail effectif pour la détermination de l
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-46, L223-2
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-46 (M)
+  - Code du travail applicable à Mayotte. - art. L223-2 (M)
 
 
 ### TITRE III : HYGIÈNE, SÉCURITÉ ET CONDITIONS DE TRAVAIL.<a id=85></a>
@@ -9521,9 +10031,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 _Cité par_:
 
@@ -9559,18 +10073,24 @@ d'eux-mêmes les règles de protection et de salubrité prévues aux articles L.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L230-3, L230-5, L230-6
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L230-3 (M)
+  - Code du travail applicable à Mayotte. - art. L230-5 (M)
+  - Code du travail applicable à Mayotte. - art. L230-6 (M)
 
 _Cité par_:
 
@@ -9594,26 +10114,20 @@ _Cité par_:
 Les établissements et locaux où sont employés des salariés doivent être tenus dans un constant état de propreté et présenter
 les conditions d'hygiène et de salubrité nécessaires à la santé du personnel.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L610-3 : dans les établissements
-hospitaliers et de soins publics, ainsi que dans les établissements d'enseignement professionnel, les inspecteurs et
-contrôleurs du travail assurent l'application des dispositions de l'article L230-2.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L610-3
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 _Cité par_:
 
@@ -9630,26 +10144,20 @@ et utilisés dans des conditions assurant la sécurité, dans les meilleurs cond
 
 Les techniques de travail et les produits utilisés ne doivent pas mettre en péril la sécurité et la santé des travailleurs.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L610-3 : dans les établissements
-hospitaliers et de soins publics, ainsi que dans les établissements d'enseignement professionnel, les inspecteurs et
-contrôleurs du travail assurent l'application des dispositions de l'article L230-3.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L610-3
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 _Cité par_:
 
@@ -9672,21 +10180,7 @@ vapeurs, les précautions à prendre contre les incendies, le couchage du person
 2° Au fur et à mesure des nécessités constatées, les prescriptions particulières relatives soit à certaines professions, soit
 à certains modes de travail.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L610-3 : dans les établissements
-hospitaliers et de soins publics, ainsi que dans les établissements d'enseignement professionnel, les inspecteurs et
-contrôleurs du travail assurent l'application des dispositions de l'article L230-4.*]
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L230-1-1 à L230-6
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L610-3
 
 _Codifié par_:
 
@@ -9695,7 +10189,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 _Cité par_:
 
@@ -9707,6 +10205,10 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R233-1 (M)
   - Code du travail applicable à Mayotte. - art. R238-6-22 (M)
 
+_Cite_:
+
+  - Code du travail applicable à Mayotte L230-1-1 à L230-6
+
 
 ###### Article L230-5
 
@@ -9717,26 +10219,20 @@ préparations dangereuses pour les travailleurs.
 Ces limitations, réglementations ou interdictions peuvent être établies même dans le cas où l'emploi desdites substances ou
 préparations est le fait du chef d'établissement ou des travailleurs indépendants.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L610-3 : dans les établissements
-hospitaliers et de soins publics, ainsi que dans les établissements d'enseignement professionnel, les inspecteurs et
-contrôleurs du travail assurent l'application des dispositions de l'article L230-5.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L610-3
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 _Cité par_:
 
@@ -9771,34 +10267,24 @@ vérifier l'efficacité des mesures prescrites à cet effet ;
 3° Fixent les règles générales d'hygiène et de sécurité auxquelles doivent satisfaire les autres matériels et déterminent le
 mode d'établissement des prescriptions techniques nécessaires à l'application de ces règles.
 
-Des arrêtés du représentant du Gouvernement peuvent établir la liste des normes techniques de sécurité dont le respect permet
-de satisfaire aux règles édictées par les décrets prévus aux 2° et 3° du deuxième alinéa. Ces arrêtés peuvent rendre
+Des arrêtés du représentant de l'Etat peuvent établir la liste des normes techniques de sécurité dont le respect permet de
+satisfaire aux règles édictées par les décrets prévus aux 2° et 3° du deuxième alinéa. Ces arrêtés peuvent rendre
 obligatoires certaines de ces normes.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L610-3 : dans les établissements
-hospitaliers et de soins publics, ainsi que dans les établissements d'enseignement professionnel, les inspecteurs et
-contrôleurs du travail assurent l'application des dispositions de l'article L230-6.*]
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L230-4
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L610-3
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991 rectificatif JORF 3 août 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 _Cité par_:
 
@@ -9818,6 +10304,10 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R233-86 (MMN)
   - Code du travail applicable à Mayotte. - art. R233-87 (MMN)
 
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L230-4 (M)
+
 
 ###### Article L230-7
 
@@ -9825,22 +10315,27 @@ L'inspecteur du travail ou le contrôleur du travail peuvent, sur mise en demeur
 vérifier l'état de conformité des machines, mécanismes, appareils de transmission, outils et engins mentionnés à l'article L.
 230-3 avec les lois et règlements relatifs au régime du travail, et notamment avec les règlements prévus au premier alinéa de
 l'article L. 230-4. Ces vérifications sont faites par des organismes agréés par le ministre chargé du travail ou par le
-représentant du Gouvernement à Mayotte.
+représentant de l'Etat à Mayotte.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L230-3, L230-4
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L230-3 (M)
+  - Code du travail applicable à Mayotte. - art. L230-4 (M)
 
 _Cité par_:
 
@@ -9863,20 +10358,24 @@ sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L230-1
-  - Code de la santé publique - art. L1333-1 (M)
-  - Code de la santé publique - art. L1333-10 (T)
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2001-270 du 28 mars 2001 - art. 12 () JORF 31 mars 2001
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L230-1 (M)
+  - Code de la santé publique - art. L1333-1 (M)
+  - Code de la santé publique - art. L1333-10 (T)
 
 _Cité par_:
 
@@ -9902,30 +10401,24 @@ boissons alcooliques aux salariés.
 Les dispositions du présent article ne s'appliquent pas aux boissons servies à l'occasion des repas constituant un avantage
 en nature.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L610-3 : dans les établissements
-hospitaliers et de soins publics, ainsi que dans les établissements d'enseignement professionnel, les inspecteurs et
-contrôleurs du travail assurent l'application des dispositions de l'article L230-8.*]
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L230-1
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L610-3
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L230-1 (M)
 
 _Cité par_:
 
@@ -9940,20 +10433,7 @@ fonctionnaires de contrôle assimilés, le directeur du travail, de l'emploi et 
 le rapport de l'inspecteur ou du contrôleur du travail, met en demeure les chefs d'établissement de réaliser toutes mesures
 utiles pour remédier aux infractions constatées aux dispositions des articles L. 230-2, L. 230-3 et L. 230-8.
 
-**Nota:**
-
-[*Nota : Code du travail applicable dans la collectivité territoriale de Mayotte L251-9 : l'article L230-9 n'est pas
-applicable aux établissements de l'Etat.*]
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L230-2, L230-3, L230-8
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L251-9
 
 _Codifié par_:
 
@@ -9962,13 +10442,23 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. L230-12 (Ab)
   - Code du travail applicable à Mayotte. - art. L251-9 (M)
   - Code du travail applicable à Mayotte. - art. L610-13 (VT)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L230-2 (M)
+  - Code du travail applicable à Mayotte. - art. L230-3 (M)
+  - Code du travail applicable à Mayotte. - art. L230-8 (M)
 
 
 ###### Article L230-10
@@ -9984,29 +10474,20 @@ qu'ils constatent présentent un danger grave ou imminent pour l'intégrité phy
 Le procès-verbal doit explicitement préciser les circonstances de fait et la législation ou les règlements applicables en
 l'espèce.
 
-**Nota:**
-
-[*Nota : Code du travail applicable dans la collectivité territoriale de Mayotte L251-9 : l'article L230-10 n'est pas
-applicable aux établissements de l'Etat.*]
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L251-6
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L251-9
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 _Cité par_:
 
@@ -10029,18 +10510,22 @@ Les mises en demeure sont faites selon les modalités prévues à l'article L. 6
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L610-12
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L610-12 (M)
 
 _Cité par_:
 
@@ -10064,18 +10549,24 @@ L. 251-4 ; les infractions ainsi constatées sont punies de peine de police.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L230-9, L251-1, L251-4
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L230-9 (M)
+  - Code du travail applicable à Mayotte. - art. L251-1 (M)
+  - Code du travail applicable à Mayotte. - art. L251-4 (M)
 
 _Cité par_:
 
@@ -10101,9 +10592,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 _Cité par_:
 
@@ -10121,18 +10616,22 @@ nouvelle situation de risque grave et imminent.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L230-13
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L230-13 (M)
 
 
 ###### Article L230-15
@@ -10143,18 +10642,22 @@ travailleurs appelés à exercer leur activité dans ces bâtiments pour leur co
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L230-4
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L230-4 (M)
 
 _Cité par_:
 
@@ -10171,18 +10674,23 @@ Les modalités d'application du présent article sont fixées par les décrets e
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L230-1, L230-4
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L230-1 (M)
+  - Code du travail applicable à Mayotte. - art. L230-4 (M)
 
 _Cité par_:
 
@@ -10194,9 +10702,9 @@ _Cité par_:
 
 ###### Article L240-1
 
-Les chefs d'entreprise ou d'établissement sont tenus [*obligation*] de faire assurer la surveillance médicale au travail de
-leurs salariés, de façon à éviter toute altération de la santé des travailleurs, du fait de leur travail, notamment en
-surveillant les conditions d'hygiène du travail, les risques de contagion et l'état de santé des travailleurs.
+Les chefs d'entreprise ou d'établissement sont tenus de faire assurer la surveillance médicale au travail de leurs salariés,
+de façon à éviter toute altération de la santé des travailleurs, du fait de leur travail, notamment en surveillant les
+conditions d'hygiène du travail, les risques de contagion et l'état de santé des travailleurs.
 
 Les dépenses afférentes au service assurant cette surveillance sont à la charge des employeurs. Ces frais sont répartis
 proportionnellement au nombre de salariés.
@@ -10205,15 +10713,20 @@ proportionnellement au nombre de salariés.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
+  - Code du travail applicable à Mayotte. - art. L240-3 (VT)
   - Code du travail applicable à Mayotte. - art. R325-8 (V)
   - Code général des collectivités territoriales - art. L5333-9 (VT)
 
@@ -10230,30 +10743,43 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. L240-3 (VT)
 
 
 ###### Article L240-3
 
 Les modalités d'application des articles L. 240-1 et L. 240-2 sont fixées, en tant que de besoin, par arrêté du représentant
-du Gouvernement à Mayotte, après avis de la commission consultative du travail.
+de l'Etat à Mayotte, après avis de la commission consultative du travail.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L240-1, L240-2
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L240-1 (VT)
+  - Code du travail applicable à Mayotte. - art. L240-2 (VT)
 
 _Cité par_:
 
@@ -10273,23 +10799,27 @@ Le chef d'entreprise est tenu de prendre en considération ces propositions et, 
 qui s'opposent à ce qu'il y soit donné suite.
 
 En cas de difficulté ou de désaccord, la décision est prise par l'inspecteur du travail après avis d'un médecin désigné à cet
-effet par le représentant du Gouvernement.
+effet par le représentant de l'Etat.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
   - Décret n°2015-1575 du 3 décembre 2015 - art. 24 (V)
   - Code du travail applicable à Mayotte. - art. L213-5-4 (VT)
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L240-5
@@ -10302,16 +10832,20 @@ inférieur à quatre jours.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
-  - Code du travail applicable à Mayotte. - art. L610-13 (M)
+  - Code du travail applicable à Mayotte. - art. L610-13 (VT)
 
 
 ### Titre 5 : Pénalités<a id=87></a>
@@ -10327,12 +10861,16 @@ préposés.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -10341,22 +10879,26 @@ _Cité par_:
 
 ###### Article L250-2
 
-En cas d'infraction aux dispositions concernant le travail des enfants et des femmes, l'affichage [*publicité*] du jugement
-peut, suivant les circonstances et en cas de récidive seulement, être ordonné par le tribunal.
+En cas d'infraction aux dispositions concernant le travail des enfants et des femmes, l'affichage du jugement peut, suivant
+les circonstances et en cas de récidive seulement, être ordonné par le tribunal.
 
 Le tribunal peut également ordonner, dans le même cas, l'insertion du jugement, aux frais du contrevenant, dans un ou
-plusieurs journaux de la collectivité territoriale.
+plusieurs journaux de la collectivité départementale.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L250-3
@@ -10369,12 +10911,16 @@ le résultat d'une erreur provenant de la production d'actes de naissance, livre
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L250-4
@@ -10386,12 +10932,16 @@ au chef d'établissement ou à son préposé que s'il a agi sciemment.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 #### CHAPITRE Ier : Hygiène et sécurité.<a id=89></a>
@@ -10410,21 +10960,7 @@ Conformément à l'article 5 du code pénal, les peines prévues au présent art
 
 (1) Amende applicable depuis le 1er mars 1994.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L251-9 : les dispositions de l'article
-L251-1 ne sont pas applicables aux établissements de l'Etat.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L251-9
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L611-9, L611-11, L251-5
-  - Code pénal 5, 319, 320
 
 _Codifié par_:
 
@@ -10433,7 +10969,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code pénal 5, 319, 320
+  - Code du travail applicable à Mayotte L611-9, L611-11, L251-5
 
 _Cité par_:
 
@@ -10460,30 +11001,21 @@ n'entraînant pas une incapacité totale de travail personnelle supérieure à t
 tribunal peut, compte tenu des circonstances de fait et des conditions de travail de l'intéressé, décider que le paiement des
 amendes prononcées et des frais de justice sera mis, en totalité ou en partie, à la charge de l'employeur.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L251-9 : les dispositions de l'article
-L251-2 ne sont pas applicables aux établissements de l'Etat.*]
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L251-1
-  - Code pénal 319, 320
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L251-9
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code pénal 319, 320
+  - Code du travail applicable à Mayotte. - art. L251-1 (M)
 
 _Cité par_:
 
@@ -10494,27 +11026,22 @@ _Cité par_:
 
 En cas d'infraction aux dispositions du titre III du présent livre et des règlements prévus pour leur application, le
 jugement fixe, en outre, le délai dans lequel sont exécutés les travaux de sécurité et de salubrité imposés par lesdites
-dispositions. Ce délai [*maximum*] ne pourra excéder dix mois.
-
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L251-9 : les dispositions de l'article
-L251-3 ne sont pas applicables aux établissements de l'Etat.*]
+dispositions. Ce délai ne pourra excéder dix mois.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L251-9
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L251-4
@@ -10542,20 +11069,7 @@ les mesures nécessaires à la réalisation du plan arrêté par le juge en vert
 
 (1) Amende applicable depuis le 8 mars 1991.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L251-9 : les dispositions de l'article
-L251-4 ne sont pas applicables aux établissements de l'Etat.*]
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L251-2, L251-7
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L251-9
 
 _Codifié par_:
 
@@ -10564,11 +11078,16 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. L230-12 (Ab)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L251-2 (M)
+  - Code du travail applicable à Mayotte. - art. L251-7 (M)
 
 
 ###### Article L251-5
@@ -10588,21 +11107,11 @@ Le jugement est susceptible d'appel, le tribunal supérieur d'appel statue d'urg
 
 (1) Amende applicable depuis le 8 mars 1991.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L251-9 : les dispositions de l'article
-L251-5 ne sont pas applicables aux établissements de l'Etat.*]
-
 **Liens relatifs à cet article**
 
 **Liens**:
 
   - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L251-1
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L251-9
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L251-1, L610-9, L610-11
 
 _Codifié par_:
 
@@ -10611,7 +11120,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -10622,32 +11131,24 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L251-8 (M)
   - Code rural et de la pêche maritime - art. L781-53 (VT)
 
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L610-11 (M)
+  - Code du travail applicable à Mayotte. - art. L610-9 (M)
+
 
 ###### Article L251-6
 
 Nonobstant les dispositions de l'article L. 230-10, lorsqu'un risque sérieux d'atteinte à l'intégrité physique d'un
 travailleur résulte de l'inobservation des dispositions du titre III du présent livre ou des textes pris pour leur
-application, le directeur du travail, de l'emploi et de la formation professionnelle saisit le juge des référés [*autorité
-compétente*] pour voir ordonner toutes mesures propres à faire cesser ce risque, telles que la mise hors service,
-l'immobilisation, la saisie des matériels, machines, dispositifs, produits ou autres.
+application, le directeur du travail, de l'emploi et de la formation professionnelle saisit le juge des référés pour voir
+ordonner toutes mesures propres à faire cesser ce risque, telles que la mise hors service, l'immobilisation, la saisie des
+matériels, machines, dispositifs, produits ou autres.
 
 Le juge peut également ordonner la fermeture temporaire d'un atelier ou d'un chantier. Il peut assortir sa décision d'une
 astreinte qui sera liquidée au profit du Trésor.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L251-9 : les dispositions de l'article
-L251-6 ne sont pas applicables aux établissements de l'Etat.*]
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L230-10
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L251-9
 
 _Codifié par_:
 
@@ -10656,7 +11157,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -10674,33 +11175,29 @@ suspension du contrat de travail, ni aucun préjudice pécuniaire à l'encontre 
 Lorsque la fermeture totale et définitive entraîne le licenciement du personnel, elle donne lieu à l'indemnité de préavis et
 à l'indemnité de licenciement prévues en cas de rupture du contrat de travail.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L251-9 : les dispositions de l'article
-L251-7 ne sont pas applicables aux établissements de l'Etat.*]
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L251-4, L251-6, L251-5
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L251-9
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. L251-4 (VT)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L251-5
+  - Code du travail applicable à Mayotte. - art. L251-6 (VT)
 
 
 ###### Article L251-8
@@ -10718,21 +11215,11 @@ La violation de cette interdiction est punie d'une amende de 60 000 F (1) [*mont
 
 (1) Amende applicable depuis le 8 mars 1991.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L251-9 : les dispositions de l'article
-L251-8 ne sont pas applicables aux établissements de l'Etat.*]
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L251-1, L251-5
 
 **Liens**:
 
   - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L251-1, L251-5
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L251-9
 
 _Codifié par_:
 
@@ -10741,7 +11228,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L251-1 (M)
+  - Code du travail applicable à Mayotte. - art. L251-5 (M)
 
 _Cité par_:
 
@@ -10754,18 +11246,20 @@ Les articles L. 230-9, L. 230-10 et L. 251-1 à L. 251-8 ne sont pas applicables
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L230-9, L230-10, L251-1 à L251-8
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte L230-9, L230-10, L251-1 à L251-8
+  - Code du travail applicable à Mayotte. - art. L230-10 (M)
+  - Code du travail applicable à Mayotte. - art. L230-9 (M)
 
 
 ###### Article L251-10
@@ -10777,18 +11271,24 @@ l'article L. 230-1-1.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L251-1, L251-5, L230-1-1
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 10 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L230-1-1 (M)
+  - Code du travail applicable à Mayotte. - art. L251-1 (M)
+  - Code du travail applicable à Mayotte. - art. L251-5 (M)
 
 _Anciens textes_:
 
@@ -10799,7 +11299,7 @@ _Anciens textes_:
 
 Le maître d'ouvrage qui a fait construire ou aménager un bâtiment en violation des obligations mises à sa charge en
 application des articles L. 230-15 ou L. 230-16 est puni des peines prévues aux articles L. 440-4 et L. 440-5 du code de
-l'urbanisme applicable dans la collectivité territoriale de Mayotte.
+l'urbanisme applicable dans la collectivité départementale de Mayotte.
 
 En cas de condamnation, le tribunal statue soit sur la mise en conformité des lieux ou celle des bâtiments avec les
 dispositions législatives ou réglementaires, soit sur la démolition des bâtiments et le rétablissement des lieux dans leur
@@ -10807,22 +11307,28 @@ dispositions législatives ou réglementaires, soit sur la démolition des bâti
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L230-15, L230-16
-  - Code de l'urbanisme L440-4, L440-5
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Transféré par_:
+
+  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 10 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L230-15 (M)
+  - Code du travail applicable à Mayotte. - art. L230-16 (M)
+  - Code de l'urbanisme L440-4, L440-5
 
 _Nouveaux textes_:
 
+  - Code du travail applicable à Mayotte. - art. L251-10 (M)
   - Code du travail applicable à Mayotte. - art. L251-10 (VT)
 
 
@@ -10834,18 +11340,19 @@ pour leur application.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L251-1, L230-7-1
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2001-270 du 28 mars 2001 - art. 12 () JORF 31 mars 2001
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L230-7-1 (M)
+  - Code du travail applicable à Mayotte. - art. L251-1 (M)
 
 
 #### CHAPITRE II : Surveillance médicale.<a id=90></a>
@@ -10863,10 +11370,6 @@ publication dans tels journaux qu'il désigne, le tout aux frais du délinquant.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L240-1 à L240-4
-
 **Liens**:
 
   - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L240-1 à L240-4
@@ -10878,7 +11381,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte L240-1 à L240-4
 
 
 ## LIVRE III : EMPLOI<a id=91></a>
@@ -10890,7 +11397,7 @@ _Modifié par_:
 ###### Article L311-1
 
 Les établissements dans lesquels toute embauche ou résiliation de contrat de travail doit être portée à la connaissance de
-l'inspection du travail sont définis par arrêté du représentant du Gouvernement à Mayotte pris après avis de la commission
+l'inspection du travail sont définis par arrêté du représentant de l'Etat à Mayotte pris après avis de la commission
 consultative du travail.
 
 **Liens relatifs à cet article**
@@ -10900,9 +11407,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Transféré par_:
+
+  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 11 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
 
 _Cité par_:
 
@@ -10940,18 +11451,10 @@ prévenir les accidents imminents ou organiser les mesures de sauvetage.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L312-2
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-_Créé par_:
-
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
 
 _Cité par_:
 
@@ -10971,12 +11474,20 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L610-11 (V)
   - Code général des collectivités territoriales - art. L1751-1-1 (V)
 
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L312-2 (M)
+
 
 ###### Article L312-2
 
-Est réputé [*travail*] clandestin [*définition*] l'exercice à but lucratif d'une activité de production, de transformation,
-de réparation ou de prestation de services ou l'accomplissement d'actes de commerce par toute personne physique ou morale qui
-s'est soustraite intentionnellement à l'une quelconque des obligations suivantes :
+Est réputé clandestin l'exercice à but lucratif d'une activité de production, de transformation, de réparation ou de
+prestation de services ou l'accomplissement d'actes de commerce par toute personne physique ou morale qui s'est soustraite
+intentionnellement à l'une quelconque des obligations suivantes :
 
 1° Requérir son immatriculation au répertoire des métiers ou au registre du commerce et des sociétés, lorsque celle-ci est
 obligatoire ;
@@ -10990,18 +11501,10 @@ d'immatriculation au répertoire des métiers ou au registre du commerce et des 
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L143-3, L143-5, L620-3
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-_Créé par_:
-
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
 
 _Cité par_:
 
@@ -11022,6 +11525,16 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R312-2 (V)
   - Code rural - art. D781-108 (V)
 
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L143-3 (M)
+  - Code du travail applicable à Mayotte. - art. L143-5 (M)
+  - Code du travail applicable à Mayotte. - art. L620-3 (M)
+
 
 ###### Article L312-3
 
@@ -11033,43 +11546,39 @@ facturation est absente ou frauduleuse.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L312-2
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article L312-4
 
 Les infractions aux interdictions mentionnées à l'article L. 312-1 sont constatées par les officiers et agents de police
-judiciaire [*autorités compétentes*], les agents des services fiscaux et des douanes, les inspecteurs et les contrôleurs du
-travail au moyen de procès-verbaux transmis directement au parquet.
+judiciaire, les agents des services fiscaux et des douanes, les inspecteurs et les contrôleurs du travail au moyen de procès-
+verbaux transmis directement au parquet.
 
 Pour effectuer cette constatation, les agents précités disposent des pouvoirs d'investigation accordés par les textes
 particuliers qui leur sont applicables.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L312-1
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L312-1 (M)
 
 _Cité par_:
 
@@ -11083,18 +11592,14 @@ Les agents des services fiscaux et de la caisse de prévoyance sociale sont habi
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L312-4
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -11108,12 +11613,16 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R342-2 (V)
   - Code du travail applicable à Mayotte. - art. R620-3-1 (V)
 
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L312-4 (M)
+
 
 ###### Article L312-6
 
-Celui [*employeur*] qui a été condamné pour avoir recouru aux services d'un travailleur clandestin est tenu solidairement
-[*responsabilité*] avec celui-ci au paiement des impôts, taxes et cotisations dus par ce dernier au Trésor et à la caisse de
-prévoyance sociale, à raison des travaux ou services effectués pour son compte.
+Celui qui a été condamné pour avoir recouru aux services d'un travailleur clandestin est tenu solidairement avec celui-ci au
+paiement des impôts, taxes et cotisations dus par ce dernier au Trésor et à la caisse de prévoyance sociale, à raison des
+travaux ou services effectués pour son compte.
 
 En ce qui concerne les impôts, taxes et cotisations établis annuellement, le paiement exigible en vertu de l'alinéa précédent
 est fixé au prorata de la valeur des travaux ou services exécutés par les travailleurs clandestins.
@@ -11131,9 +11640,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article L312-7
@@ -11147,12 +11656,12 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-### TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité territoriale<a id=95></a>
+### TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité départementale<a id=95></a>
 
 #### CHAPITRE Ier : Généralités.<a id=96></a>
 
@@ -11172,7 +11681,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°94-638 du 25 juillet 1994 - art. 23 () JORF 27 juillet 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -11185,8 +11694,8 @@ _Cité par_:
 L'action des pouvoirs publics en ce domaine peut se conjuguer avec celle des organismes professionnels ou
 interprofessionnels, des collectivités locales, des entreprises ou des syndicats.
 
-En vue de mettre cette politique en oeuvre, le représentant du Gouvernement est habilité à conclure des conventions de
-coopération avec les différents partenaires énumérés au présent article.
+En vue de mettre cette politique en oeuvre, le représentant de l'Etat est habilité à conclure des conventions de coopération
+avec les différents partenaires énumérés au présent article.
 
 **Liens relatifs à cet article**
 
@@ -11197,7 +11706,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°94-638 du 25 juillet 1994 - art. 23 () JORF 27 juillet 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -11208,8 +11717,8 @@ _Cité par_:
 
 ###### Article L321-3
 
-Dans la détermination de cette politique et le choix des actions, le représentant du Gouvernement à Mayotte est assisté du
-comité de la formation professionnelle, de la promotion sociale et de l'emploi.
+Dans la détermination de cette politique et le choix des actions, le représentant de l'Etat à Mayotte est assisté du comité
+de la formation professionnelle, de la promotion sociale et de l'emploi.
 
 **Liens relatifs à cet article**
 
@@ -11220,7 +11729,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°94-638 du 25 juillet 1994 - art. 23 () JORF 27 juillet 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article L321-4
@@ -11240,7 +11749,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°94-638 du 25 juillet 1994 - art. 23 () JORF 27 juillet 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -11252,7 +11761,7 @@ _Cité par_:
 ###### Article L322-1
 
 En application de conventions conclues avec l'Etat pour le développement d'activités répondant à des besoins collectifs non
-satisfaits, les collectivités territoriales, les autres personnes morales de droit public, les organismes de droit privé à
+satisfaits, les collectivités départementales, les autres personnes morales de droit public, les organismes de droit privé à
 but non lucratif et les personnes morales chargées de la gestion d'un service public peuvent conclure des contrats emploi-
 solidarité avec des personnes sans emploi rencontrant des difficultés particulières d'accès à l'emploi, et principalement des
 jeunes de seize à vingt-cinq ans.
@@ -11260,7 +11769,7 @@ jeunes de seize à vingt-cinq ans.
 De telles conventions ne peuvent pas être conclues avec les services de l'Etat.
 
 Les représentants du personnel des organismes mentionnés au premier alinéa sont informés des conventions conclues. Ils sont
-saisis, chaque année [*périodicité*], d'un rapport sur le déroulement des contrats emploi-solidarité conclus.
+saisis, chaque année, d'un rapport sur le déroulement des contrats emploi-solidarité conclus.
 
 **Liens relatifs à cet article**
 
@@ -11271,7 +11780,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°94-638 du 25 juillet 1994 - art. 23 () JORF 27 juillet 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -11305,8 +11814,8 @@ _Cité par_:
 
 ###### Article L322-2
 
-Les contrats emploi-solidarité [*définition*] sont des contrats de travail de droit privé à durée déterminée et à temps
-partiel passés en application de l'article L. 122-1-1 [*absence de terme défini*].
+Les contrats emploi-solidarité sont des contrats de travail de droit privé à durée déterminée et à temps partiel passés en
+application de l'article L. 122-1-1.
 
 Les contrats emploi-solidarité sont conclus pour une durée minimale de trois mois. Leur durée maximale est de douze mois.
 Elle peut être portée à vingt-quatre mois pour les personnes rencontrant des difficultés particulières d'emploi.
@@ -11316,23 +11825,18 @@ Le nombre de renouvellements ne peut être supérieur à deux quelle que soit la
 Par dérogation à l'article L. 122-5 et sous réserve de clauses contractuelles ou conventionnelles relatives aux bénéficiaires
 de contrats emploi-solidarité prévoyant une durée moindre, la période d'essai au titre de ces contrats est d'un mois.
 
-Les contrats emploi-solidarité peuvent être rompus avant leur terme dans les cas prévus à l'article L. 122-10 [*faute grave,
-force majeur*] et à l'initiative du salarié pour occuper un autre emploi ou pour suivre une action de formation. La
-méconnaissance de ces dispositions ouvre droit à des dommages et intérêts dans les conditions prévues aux deuxième et
-troisième alinéas de l'article L. 122-10.
+Les contrats emploi-solidarité peuvent être rompus avant leur terme dans les cas prévus à l'article L. 122-10 et à
+l'initiative du salarié pour occuper un autre emploi ou pour suivre une action de formation. La méconnaissance de ces
+dispositions ouvre droit à des dommages et intérêts dans les conditions prévues aux deuxième et troisième alinéas de
+l'article L. 122-10.
 
-Le contrat emploi-solidarité ne peut se cumuler [*non cumul*] avec une activité professionnelle ou une formation
-professionnelle rémunérée.
+Le contrat emploi-solidarité ne peut se cumuler avec une activité professionnelle ou une formation professionnelle rémunérée.
 
-En cas de dénonciation de la convention par le représentant du Gouvernement à Mayotte en raison d'une des situations prévues
-à l'alinéa précédent, le contrat emploi-solidarité peut être rompu avant son terme à l'initiative de l'employeur, sans qu'il
-y ait lieu à dommages et intérêts tels que prévus par l'article L. 122-10.
+En cas de dénonciation de la convention par le représentant de l'Etat à Mayotte en raison d'une des situations prévues à
+l'alinéa précédent, le contrat emploi-solidarité peut être rompu avant son terme à l'initiative de l'employeur, sans qu'il y
+ait lieu à dommages et intérêts tels que prévus par l'article L. 122-10.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-1-1, L122-5, L122-10
 
 _Codifié par_:
 
@@ -11341,7 +11845,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -11349,12 +11853,18 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. D322-7 (T)
   - Code du travail applicable à Mayotte. - art. R325-7 (V)
 
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-1-1 (M)
+  - Code du travail applicable à Mayotte. - art. L122-10 (M)
+  - Code du travail applicable à Mayotte. - art. L122-5 (M)
+
 
 ###### Article L322-3
 
 Sous réserve de clauses contractuelles ou conventionnelles plus favorables relatives aux bénéficiaires de contrats emploi-
-solidarité, ceux-ci perçoivent un salaire égal au produit du montant du salaire minimum interprofessionnel garanti [*SMIG*]
-par le nombre d'heures de travail effectuées.
+solidarité, ceux-ci perçoivent un salaire égal au produit du montant du salaire minimum interprofessionnel garanti par le
+nombre d'heures de travail effectuées.
 
 **Liens relatifs à cet article**
 
@@ -11365,24 +11875,20 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°94-638 du 25 juillet 1994 - art. 23 () JORF 27 juillet 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article L322-4
 
-En application des conventions prévues à l'article L. 322-1, l'Etat prend en charge [*financière*] tout ou partie de la
-rémunération versée aux personnes recrutées par un contrat emploi-solidarité. Cette aide est versée à l'organisme employeur
-et ne donne lieu à aucune charge [*exonération*] fiscale ou parafiscale. L'Etat peut également prendre en charge tout ou
-partie des frais engagés pour dispenser aux intéressés une formation complémentaire.
+En application des conventions prévues à l'article L. 322-1, l'Etat prend en charge tout ou partie de la rémunération versée
+aux personnes recrutées par un contrat emploi-solidarité. Cette aide est versée à l'organisme employeur et ne donne lieu à
+aucune charge fiscale ou parafiscale. L'Etat peut également prendre en charge tout ou partie des frais engagés pour dispenser
+aux intéressés une formation complémentaire.
 
 La part de la rémunération prise en charge par l'Etat est calculée sur la base du salaire minimum interprofessionnel garanti
-[*SMIG*] dans les limites et dans les conditions fixées par arrêté du représentant du Gouvernement.
+dans les limites et dans les conditions fixées par arrêté du représentant de l'Etat.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L322-1
 
 _Codifié par_:
 
@@ -11391,7 +11897,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°94-638 du 25 juillet 1994 - art. 23 () JORF 27 juillet 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L322-1 (M)
 
 _Cité par_:
 
@@ -11404,10 +11914,10 @@ _Cité par_:
 
 ###### Article L322-5
 
-La rémunération versée aux salariés bénéficiaires d'un contrat emploi-solidarité est assujettie [*assiette*] aux cotisations
-de sécurité sociale. Elle donne toutefois lieu, dans la limite du salaire calculé sur la valeur horaire du salaire minimum
-interprofessionnel garanti [*SMIG*], à exonération de la part de cotisations dont la charge incombe à l'employeur.
-L'exonération est subordonnée à la production d'une attestation des services chargés de l'emploi.
+La rémunération versée aux salariés bénéficiaires d'un contrat emploi-solidarité est assujettie aux cotisations de sécurité
+sociale. Elle donne toutefois lieu, dans la limite du salaire calculé sur la valeur horaire du salaire minimum
+interprofessionnel garanti, à exonération de la part de cotisations dont la charge incombe à l'employeur. L'exonération est
+subordonnée à la production d'une attestation des services chargés de l'emploi.
 
 La rémunération versée aux salariés bénéficiaires d'un contrat emploi-solidarité n'est assujettie à aucune des autres charges
 sociales d'origine légale ou conventionnelle. Elle est également exonérée de toutes taxes sur les salaires.
@@ -11421,7 +11931,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°94-638 du 25 juillet 1994 - art. 23 () JORF 27 juillet 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article L322-6
@@ -11439,7 +11949,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°94-638 du 25 juillet 1994 - art. 23 () JORF 27 juillet 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -11455,8 +11965,8 @@ qui ne peuvent pas trouver un emploi ou bénéficier d'une formation à l'issue 
 La durée de ces conventions est de douze mois, renouvelables par voie d'avenant dans la limite d'une durée maximale de
 soixante mois.
 
-Le contrat de travail conclu en vertu de ces conventions est un contrat de travail de droit privé dénommé contrat emploi
-consolidé à durée indéterminée ou à durée déterminée passé en application de l'article L. 122-1-1. Lorsque ces contrats sont
+Le contrat de travail conclu en vertu de ces conventions est un contrat de travail de droit privé dénommé "contrat emploi
+consolidé" à durée indéterminée ou à durée déterminée passé en application de l'article L. 122-1-1. Lorsque ces contrats sont
 conclus pour une durée déterminée, leur durée initiale est de douze mois. Ils sont renouvelables chaque année par avenant
 dans la limite d'une durée totale de soixante mois.
 
@@ -11471,22 +11981,18 @@ Les institutions représentatives du personnel mentionnées à l'article L. 322-
 conventions conclues.
 
 Les modalités d'application du présent article, et notamment la durée minimum hebdomadaire du travail, sont fixées par arrêté
-du représentant du Gouvernement à Mayotte.
+du représentant de l'Etat à Mayotte.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L322-1, L122-1-1
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -11500,6 +12006,11 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L324-7 (Ab)
   - Code du travail applicable à Mayotte. - art. R324-1 (M)
   - Code du travail applicable à Mayotte. - art. R325-9 (V)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-1-1 (M)
+  - Code du travail applicable à Mayotte. - art. L322-1 (M)
 
 
 #### Chapitre III : Dispositions relatives aux contrats de retour à l'emploi<a id=98></a>
@@ -11531,18 +12042,22 @@ application de dispositions législatives, réglementaires ou contractuelles,
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L323-3
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-638 du 25 juillet 1994 - art. 24 () JORF 27 juillet 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L323-3
 
 _Cité par_:
 
@@ -11562,22 +12077,26 @@ professionnelle.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-1-1
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
 _Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. D313-1 (V)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-1-1
 
 
 ###### Article L323-3
@@ -11598,12 +12117,16 @@ professionnelle.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-638 du 25 juillet 1994 - art. 24 () JORF 27 juillet 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
 
 _Cité par_:
 
@@ -11621,19 +12144,23 @@ dispositions législatives et réglementaires qui se réfèrent à une condition
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-638 du 25 juillet 1994 - art. 24 () JORF 27 juillet 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-1636 du 24 novembre 2011 - art. 1
 
 
 #### Chapitre IV : Dispositions relatives au contrat emploi-jeune<a id=99></a>
 
 ###### Article L324-1
 
-La collectivité territoriale peut conclure avec des employeurs établis sur son territoire, à l'exclusion des personnes
+La collectivité départementale peut conclure avec des employeurs établis sur son territoire, à l'exclusion des personnes
 morales de droit public, des conventions ayant pour objet de favoriser l'insertion en entreprise des jeunes rencontrant des
 difficultés d'accès à l'emploi dans le cadre d'un contrat de travail dénommé contrat emploi-jeune.
 
@@ -11649,9 +12176,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-638 du 25 juillet 1994 - art. 26 () JORF 27 juillet 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -11673,9 +12200,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-638 du 25 juillet 1994 - art. 26 () JORF 27 juillet 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -11686,8 +12213,8 @@ _Cité par_:
 ###### Article L324-3
 
 Les salariés titulaires de ce contrat perçoivent une rémunération déterminée en pourcentage du salaire minimum
-interprofessionnel garanti, dans des conditions fixées par arrêté du représentant du Gouvernement. Le taux varie en fonction
-de l'âge du bénéficiaire.
+interprofessionnel garanti, dans des conditions fixées par arrêté du représentant de l'Etat. Le taux varie en fonction de
+l'âge du bénéficiaire.
 
 **Liens relatifs à cet article**
 
@@ -11696,9 +12223,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-638 du 25 juillet 1994 - art. 26 () JORF 27 juillet 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -11712,7 +12239,7 @@ L'employeur est exonéré du paiement des cotisations à sa charge dues à la ca
 rémunérations versées aux bénéficiaires des contrats emploi-jeunes, dans la limite d'une durée d'un an suivant la date
 d'embauche.
 
-L'exonération des cotisations est compensée par la collectivité territoriale au profit de la caisse de prévoyance sociale.
+L'exonération des cotisations est compensée par la collectivité départementale au profit de la caisse de prévoyance sociale.
 L'exonération est subordonnée à la production d'une attestation délivrée par les services chargés du travail, de l'emploi et
 de la formation professionnelle.
 
@@ -11723,9 +12250,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-638 du 25 juillet 1994 - art. 26 () JORF 27 juillet 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -11749,9 +12276,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-638 du 25 juillet 1994 - art. 26 () JORF 27 juillet 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 #### Chapitre V : Dispositions relatives à l'aide à la création d'entreprise à l'initiative de demandeurs d'emploi<a id=100></a>
@@ -11784,7 +12311,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -11805,11 +12332,11 @@ _Cité par_:
 
 ###### Article L330-1
 
-Un étranger ne peut exercer une activité professionnelle salariée dans la collectivité territoriale de Mayotte sans avoir
-obtenu au préalable une autorisation [*permis*] de travail.
+Un étranger ne peut exercer une activité professionnelle salariée dans la collectivité départementale de Mayotte sans avoir
+obtenu au préalable une autorisation de travail.
 
-Cette autorisation est délivrée par le représentant du Gouvernement [*autorité compétente*] dans des conditions qui sont
-fixées par décret en Conseil d'Etat.
+Cette autorisation est délivrée par le représentant de l'Etat dans des conditions qui sont fixées par décret en Conseil
+d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -11818,9 +12345,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -11829,27 +12356,19 @@ _Cité par_:
 
 ###### Article L330-2
 
-Dans la collectivité territoriale de Mayotte, il est interdit à toute personne d'engager ou de conserver à son service un
-étranger non muni d'une autorisation [*permis*] de travail délivrée par le représentant du Gouvernement.
-
-**Nota:**
-
-[*Nota - Code du travail applicable dans la collectivité territoriale de Mayotte L. 342-1 : sanction pénale.*]
+Dans la collectivité départementale de Mayotte, il est interdit à toute personne d'engager ou de conserver à son service un
+étranger non muni d'une autorisation de travail délivrée par le représentant de l'Etat.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L342-1
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -11864,22 +12383,22 @@ _Cité par_:
 
 Est puni d'une amende l'étranger qui exerce une activité professionnelle salariée sans avoir obtenu au préalable une
 autorisation de travail. Le montant maximum de l'amende est égal à vingt-cinq fois le taux horaire du salaire minimum
-interprofessionnel garanti en vigueur dans la collectivité territoriale.
+interprofessionnel garanti en vigueur dans la collectivité départementale.
 
 L'employeur qui engage ou conserve à son service un étranger non muni d'une autorisation de travail est puni d'une amende
 sauf si des poursuites judiciaires sont intentées à son encontre pour les mêmes faits. Le montant maximum de celle-ci est
-égal à cent fois le taux horaire du salaire minimum interprofessionnel garanti en vigueur dans la collectivité territoriale.
-L'amende est due pour chaque étranger employé sans titre de travail.
+égal à cent fois le taux horaire du salaire minimum interprofessionnel garanti en vigueur dans la collectivité
+départementale. L'amende est due pour chaque étranger employé sans titre de travail.
 
 Le montant de l'amende due par l'étranger ou l'employeur varie en fonction de la durée de l'emploi.
 
 Les officiers et agents de police judiciaire ainsi que les inspecteurs et contrôleurs du travail sont habilités à constater
-les manquements prévus au présent article au moyen de procès-verbaux transmis directement au représentant du Gouvernement.
+les manquements prévus au présent article au moyen de procès-verbaux transmis directement au représentant de l'Etat.
 
 Pour effectuer cette constatation, les agents précités disposent des pouvoirs d'investigation accordés par les textes
 particuliers qui leur sont applicables.
 
-Les amendes qui sanctionnent ces manquements sont prononcées par décision motivée du représentant du Gouvernement à Mayotte à
+Les amendes qui sanctionnent ces manquements sont prononcées par décision motivée du représentant de l'Etat à Mayotte à
 l'issue d'une procédure contradictoire. Cette décision est susceptible d'un recours de pleine juridiction.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
@@ -11891,10 +12410,6 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Modifié par_:
-
-  - Ordonnance 98-522 1998-06-24 art. 30 2° JORF 27 juin 1998
-
 _Cité par_:
 
   - Ordonnance n°2000-373 du 26 avril 2000 - art. 30 (VT)
@@ -11905,6 +12420,14 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R330-6 (T)
   - Code du travail applicable à Mayotte. - art. R330-7 (T)
 
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Transféré par_:
+
+  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 17 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
 _Nouveaux textes_:
 
   - Code du travail applicable à Mayotte. - art. L330-11 (M)
@@ -11914,27 +12437,19 @@ _Nouveaux textes_:
 ###### Article L330-4
 
 Nul ne peut se faire remettre ou tenter de se faire remettre, de manière occasionnelle ou renouvelée, des fonds, des valeurs
-ou des biens mobiliers en vue ou à l'occasion de l'introduction dans la collectivité territoriale d'un travailleur étranger
-ou de son embauchage [*interdiction*].
-
-**Nota:**
-
-[*Nota - Code du travail applicable dans la collectivité territoriale de Mayotte art. L. 342-1 : sanction pénale.*]
+ou des biens mobiliers en vue ou à l'occasion de l'introduction dans la collectivité départementale d'un travailleur étranger
+ou de son embauchage.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L342-1
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-638 du 25 juillet 1994 - art. 28 () JORF 27 juillet 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -11967,10 +12482,6 @@ En cas de récidive, les peines d'emprisonnement et d'amende peuvent être port�
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L312-1
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
@@ -11978,7 +12489,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°94-638 du 25 juillet 1994 - art. 29 () JORF 27 juillet 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L312-1 (M)
 
 _Cité par_:
 
@@ -11999,10 +12514,6 @@ En cas de récidive, les peines d'emprisonnement et d'amende peuvent être port�
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L330-2, L330-4
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
@@ -12010,8 +12521,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°94-638 du 25 juillet 1994 - art. 30 () JORF 27 juillet 1994
-  - Loi n°94-638 du 25 juillet 1994 - art. 31 () JORF 27 juillet 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L330-2 (M)
+  - Code du travail applicable à Mayotte. - art. L330-4 (M)
 
 _Cité par_:
 
@@ -12020,9 +12535,9 @@ _Cité par_:
 
 ###### Article L342-2
 
-En cas de condamnation pour les faits prévus aux articles L. 330-2 et L. 330-4 [*étranger non muni d'une autorisation de
-travail*] le tribunal peut ordonner, aux frais de la personne condamnée, l'affichage du jugement aux portes des
-établissements de l'entreprise et sa publication dans les journaux qu'il désigne.
+En cas de condamnation pour les faits prévus aux articles L. 330-2 et L. 330-4 le tribunal peut ordonner, aux frais de la
+personne condamnée, l'affichage du jugement aux portes des établissements de l'entreprise et sa publication dans les journaux
+qu'il désigne.
 
 Il peut également prononcer la confiscation de tout ou partie des outils, machines, matériaux, véhicules, embarcations,
 navires ou aéronefs utilisés ou stockés à l'occasion de l'infraction ou qui auront servi à la commettre, ainsi que du produit
@@ -12030,50 +12545,28 @@ du travail effectué par les étrangers dépourvus de l'autorisation visée à l
 
 Le tribunal devra désigner les objets sur lesquels portera la confiscation.
 
-I. - En cas de condamnation pour les faits prévus aux articles L. 330-2 et L. 330-4, le tribunal peut ordonner, aux frais de
-la personne condamnée, l'affichage du jugement aux portes des établissements de l'entreprise et sa publication dans les
-journaux qu'il désigne. Il peut également prononcer l'interdiction de séjour pour une durée de cinq ans au plus.
-
-II. - En cas de condamnation pour les faits prévus à l'article L. 330-4, le tribunal peut également prononcer la confiscation
-de tout ou partie des outils, machines, matériaux, véhicules, embarcations, navires ou aéronefs utilisés ou stockés à
-l'occasion de l'infraction ou qui auront servi à la commettre, ainsi que du produit du travail effectué par les étrangers
-dépourvus de l'autorisation visée à l'article L. 330-1. Le tribunal devra désigner les objets sur lesquels portera la
-confiscation.
-
-III. - Il peut également prononcer, pour les personnes condamnées au titre de l'infraction visée au deuxième alinéa du I de
-l'article L. 342-1, la confiscation de tout ou partie de leurs biens, quelle qu'en soit la nature, meubles ou immeubles,
-divis ou indivis."
-
-III. - Le deuxième alinéa de l'article L. 610-1 est complété par la phrase suivante :
-
-"Ils constatent également les infractions prévues par les articles 28 et 28-1 de l'ordonnance n° 2000-373 du 26 avril 2000
-relative aux conditions d'entrée et de séjour des étrangers à Mayotte."
-
-IV. - A la fin de l'article L. 610-6, il est ajouté un alinéa ainsi rédigé :
-
-"Les inspecteurs et les contrôleurs du travail sont habilités à demander aux employeurs et aux personnes occupées dans les
-établissements assujettis au présent code de justifier de leur identité et de leur adresse."
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L330-2, L330-1, L330-4
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Modifié par_:
-
-  - Loi n°94-638 du 25 juillet 1994 - art. 31 () JORF 27 juillet 1994
-
 _Cité par_:
 
   - Ordonnance n°2000-373 du 26 avril 2000 - art. 29-2 (VT)
   - Code du travail applicable à Mayotte. - art. L342-4 (VT)
   - Code du travail applicable à Mayotte. - art. L342-5 (VT)
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L330-1 (M)
+  - Code du travail applicable à Mayotte. - art. L330-2 (M)
+  - Code du travail applicable à Mayotte. - art. L330-4 (M)
 
 
 ## LIVRE IV : LES GROUPEMENTS PROFESSIONNELS LA REPRÉSENTATION DES SALARIÉS<a id=105></a>
@@ -12096,9 +12589,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -12121,15 +12614,15 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article L411-3
 
 Les fondateurs de tout syndicat professionnel doivent déposer les statuts et les noms de ceux qui, à un titre quelconque,
-sont chargés de l'administration ou de la direction [*formalités obligatoires*].
+sont chargés de l'administration ou de la direction.
 
 Ce dépôt est renouvelé en cas de changement de la direction ou des statuts.
 
@@ -12137,12 +12630,16 @@ Ce dépôt est renouvelé en cas de changement de la direction ou des statuts.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 _Cité par_:
 
@@ -12154,7 +12651,7 @@ _Cité par_:
 
 Les membres français de tout syndicat professionnel chargés de l'administration ou de la direction de ce syndicat doivent
 jouir de leurs droits civiques et n'avoir encouru aucune des condamnations prévues aux articles L. 5 et L. 6 du code
-électoral [*conditions*].
+électoral.
 
 Tout ressortissant étranger âgé de dix-huit ans accomplis adhérant à un syndicat peut accéder aux fonctions d'administration
 ou de direction de ce syndicat s'il n'a encouru aucune des condamnations visées à l'alinéa précédent.
@@ -12163,17 +12660,21 @@ ou de direction de ce syndicat s'il n'a encouru aucune des condamnations visées
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 _Cite_:
 
-  - Code électoral - art. L5 (M)
-  - Code électoral - art. L6 (M)
+  - Code électoral - art. L5
+  - Code électoral - art. L6
 
 _Cité par_:
 
@@ -12183,18 +12684,22 @@ _Cité par_:
 ###### Article L411-5
 
 Tout salarié, quels que soient son sexe, son âge, sa nationalité, peut librement adhérer au syndicat professionnel de son
-choix [*liberté d'association*].
+choix.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 
 ###### Article L411-6
@@ -12204,25 +12709,29 @@ l'administration ou à la direction de ce syndicat.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L411-4
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L411-4
 
 
 ###### Article L411-7
 
-Les personnes qui ont cessé l'exercice de leurs fonctions ou de leur profession, si elles l'ont exercée au moins un an
-[*durée*], peuvent soit continuer à faire partie d'un syndicat professionnel de salariés, soit adhérer à un syndicat
-professionnel de leur choix.
+Les personnes qui ont cessé l'exercice de leurs fonctions ou de leur profession, si elles l'ont exercée au moins un an,
+peuvent soit continuer à faire partie d'un syndicat professionnel de salariés, soit adhérer à un syndicat professionnel de
+leur choix.
 
 **Liens relatifs à cet article**
 
@@ -12231,9 +12740,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 
 ###### Article L411-8
@@ -12245,12 +12758,16 @@ droit pour le syndicat de réclamer la cotisation afférente aux six mois qui su
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 
 ###### Article L411-9
@@ -12266,9 +12783,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 
 ##### Section 2 : Capacité civile.<a id=109></a>
@@ -12281,12 +12802,16 @@ Les syndicats professionnels jouissent de la personnalité civile.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 
 ###### Article L411-11
@@ -12299,12 +12824,16 @@ représentent.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 
 ###### Article L411-12
@@ -12321,9 +12850,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 
 ###### Article L411-13
@@ -12338,29 +12871,36 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 
 ###### Article L411-14
 
 Ils peuvent librement créer et administrer des offices de renseignements pour les offres et les demandes de travail, créer,
-administrer ou subventionner les oeuvres professionnelles telles que :
-
-institutions professionnelles de prévoyance, laboratoires, champs d'expérience, oeuvres d'éducation scientifique, agricole ou
-sociale, cours et publications intéressant la profession.
+administrer ou subventionner les oeuvres professionnelles telles que : institutions professionnelles de prévoyance,
+laboratoires, champs d'expérience, oeuvres d'éducation scientifique, agricole ou sociale, cours et publications intéressant
+la profession.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 
 ###### Article L411-15
@@ -12380,9 +12920,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 
 ###### Article L411-16
@@ -12393,12 +12937,16 @@ Ils peuvent subventionner des sociétés coopératives de production ou de conso
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 
 ###### Article L411-17
@@ -12412,12 +12960,16 @@ collectives du travail est passé dans les conditions déterminées par le titre
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 
 ###### Article L411-18
@@ -12437,12 +12989,16 @@ pouvoir l'opérer sous leur nom et sous leur responsabilité.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 
 ###### Article L411-19
@@ -12456,12 +13012,16 @@ communication et copie.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 
 ###### Article L411-20
@@ -12476,9 +13036,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 
 ##### Section 3 : Unions de syndicats.<a id=110></a>
@@ -12492,12 +13056,16 @@ concerter pour l'étude et la défense de leurs intérêts matériels et moraux.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 
 ###### Article L411-22
@@ -12511,18 +13079,22 @@ conseil d'administration et dans les assemblées générales.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L411-3
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L411-3
 
 
 ###### Article L411-23
@@ -12534,12 +13106,16 @@ chapitre III du présent titre.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
 
 
 #### CHAPITRE II : Droit syndical et représentativité.<a id=111></a>
@@ -12556,9 +13132,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -12584,7 +13160,7 @@ _Cité par_:
 Il est interdit à tout employeur de prendre en considération l'appartenance à un syndicat ou l'exercice d'une activité
 syndicale pour arrêter ses décisions en ce qui concerne notamment l'embauchage, la conduite et la répartition du travail, la
 formation professionnelle, l'avancement, la rémunération et l'octroi d'avantages sociaux, les mesures de discipline et de
-congédiement [*discrimination professionnelle*].
+congédiement.
 
 Il est interdit à tout employeur de prélever les cotisations syndicales sur les salaires de son personnel et de les payer au
 lieu et place de celui-ci.
@@ -12604,9 +13180,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -12622,8 +13198,8 @@ _Cité par_:
 Tout syndicat affilié à une organisation représentative sur le plan national est considéré comme représentatif dans
 l'entreprise pour l'application du présent chapitre.
 
-Sont également représentatives à Mayotte dans les entreprises les organisations syndicales dont la représentativité sur la
-plan territorial a été reconnue par le représentant du Gouvernement, d'après les critères suivants :
+Sont également représentatives à Mayotte dans les entreprises les organisations syndicales dont la représentativité sur le
+plan territorial a été reconnue par le représentant de l'Etat, d'après les critères suivants :
 
 - les effectifs ;
 
@@ -12639,10 +13215,6 @@ _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-_Créé par_:
-
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
 
 _Cité par_:
 
@@ -12668,6 +13240,10 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R326-2 (V)
   - Code du travail applicable à Mayotte. - art. R326-21 (V)
 
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
 
 #### CHAPITRE III : Marques syndicales.<a id=112></a>
 
@@ -12687,9 +13263,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -12708,18 +13284,14 @@ service que les adhérents du syndicat propriétaire de la marque ou du label.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L412-2
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -12728,13 +13300,16 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L450-2 (V)
   - Code du travail applicable à Mayotte. - art. R414-18 (V)
 
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L412-2 (M)
+
 
 ### TITRE II : LA COMMISSION CONSULTATIVE DU TRAVAIL.<a id=113></a>
 
 ###### Article L420-1
 
-Une commission consultative du travail est instituée auprès du représentant du Gouvernement à Mayotte, qui en assure la
-présidence.
+Une commission consultative du travail est instituée auprès du représentant de l'Etat à Mayotte, qui en assure la présidence.
 
 **Liens relatifs à cet article**
 
@@ -12743,9 +13318,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -12757,50 +13336,9 @@ _Cité par_:
 
 ###### Article L420-2
 
-Cette commission [*consultative du travail*] comprend un nombre égal de membres employeurs et de membres salariés désignés
-par le représentant du Gouvernement à Mayotte sur propositions respectives de chacune des organisations professionnelles
-d'employeurs et des organisations syndicales de salariés représentatives dans la collectivité territoriale, au sens de
-l'article L. 412-3.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L412-3
-
-_Codifié par_:
-
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-_Créé par_:
-
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
-
-
-###### Article L420-3
-
-Le représentant du Gouvernement [*autorité compétente*] arrête le nombre et la composition de la commission de façon à
-permettre à chaque organisation professionnelle et à chaque organisation syndicale de salariés ci-dessus d'y être
-représentée. Il nomme ces membres pour trois ans [*durée du mandat*], le nombre de suppléants étant égal au nombre de
-titulaires.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-_Créé par_:
-
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
-
-
-###### Article L420-4
-
-Le directeur du travail, de l'emploi et de la formation professionnelle assiste [*membre*] de droit avec voix consultative
-aux séances de la commission [*consultative du travail*].
+Cette commission comprend un nombre égal de membres employeurs et de membres salariés désignés par le représentant de l'Etat
+à Mayotte sur propositions respectives de chacune des organisations professionnelles d'employeurs et des organisations
+syndicales de salariés représentatives dans la collectivité départementale, au sens de l'article L. 412-3.
 
 **Liens relatifs à cet article**
 
@@ -12811,15 +13349,62 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L412-3 (M)
+
+
+###### Article L420-3
+
+Le représentant de l'Etat arrête le nombre et la composition de la commission de façon à permettre à chaque organisation
+professionnelle et à chaque organisation syndicale de salariés ci-dessus d'y être représentée. Il nomme ces membres pour
+trois ans, le nombre de suppléants étant égal au nombre de titulaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+
+###### Article L420-4
+
+Le directeur du travail, de l'emploi et de la formation professionnelle assiste de droit avec voix consultative aux séances
+de la commission.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L420-5
 
 La commission consultative du travail est obligatoirement consultée chaque fois que son avis est prévu par le présent code.
 
-La commission peut également être appelée par le représentant du Gouvernement à donner un avis sur toutes les questions
-concernant le travail et la protection des salariés.
+La commission peut également être appelée par le représentant de l'Etat à donner un avis sur toutes les questions concernant
+le travail et la protection des salariés.
 
 **Liens relatifs à cet article**
 
@@ -12828,28 +13413,36 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L420-6
 
-La commission consultative du travail est convoquée par le représentant du Gouvernement à Mayotte de sa propre initiative ou
-à la demande de la majorité de ses membres titulaires.
+La commission consultative du travail est convoquée par le représentant de l'Etat à Mayotte de sa propre initiative ou à la
+demande de la majorité de ses membres titulaires.
 
-Elle se réunit au moins deux fois par an [*nombre, périodicité*].
+Elle se réunit au moins deux fois par an.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ### TITRE III : PÉNALITÉS.<a id=114></a>
@@ -12867,10 +13460,6 @@ En cas de fausse déclaration relative aux statuts et aux noms et qualités des 
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L411-1
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
@@ -12878,7 +13467,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L411-1 (M)
 
 _Nouveaux textes_:
 
@@ -12895,14 +13488,6 @@ d'une amende de 50 000 F (1) ou de l'une de ces deux peines seulement.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L412-2, L413-2
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L412-2, L413-2
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
@@ -12910,7 +13495,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L412-2 (M)
+  - Code du travail applicable à Mayotte. - art. L413-2 (M)
 
 _Nouveaux textes_:
 
@@ -12938,19 +13528,23 @@ Tout licenciement prononcé en violation du premier alinéa du présent article 
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ##### Section 2 : Grève dans les services publics.<a id=119></a>
 
 ###### Article L511-2
 
-Les dispositions de la présente section s'appliquent aux personnels de l'Etat, de la collectivité territoriale et des
+Les dispositions de la présente section s'appliquent aux personnels de l'Etat, de la collectivité départementale et des
 communes de plus de 10 000 habitants ainsi qu'aux personnels des entreprises, des organismes et des établissements publics ou
 privés lorsque ces entreprises, organismes et établissements sont chargés de la gestion d'un service public.
 
@@ -12958,60 +13552,58 @@ privés lorsque ces entreprises, organismes et établissements sont chargés de 
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. L511-3 (VT)
+  - Code du travail applicable à Mayotte. - art. L511-4 (VT)
 
 
 ###### Article L511-3
 
 Lorsque les personnels mentionnés à l'article L. 511-2 font usage du droit de grève, la cessation concertée du travail doit
-être précédée d'un préavis [*condition préalable*].
+être précédée d'un préavis.
 
 Le préavis émane de l'organisation ou d'une des organisations syndicales les plus représentatives sur le plan national ou
-reconnue comme telle par le représentant du Gouvernement à Mayotte, dans la catégorie professionnelle ou dans l'entreprise,
+reconnue comme telle par le représentant de l'Etat à Mayotte, dans la catégorie professionnelle ou dans l'entreprise,
 l'organisme ou le service intéressé.
 
 Il précise les motifs du recours à la grève.
 
-Le préavis doit parvenir cinq jours francs [*délai*] avant le déclenchement de la grève à l'autorité hiérarchique ou à la
-direction de l'établissement, de l'entreprise ou de l'organisme intéressé. Il fixe le lieu, la date et l'heure du début ainsi
-que la durée, limitée ou non, de la grève envisagée [*contenu*].
+Le préavis doit parvenir cinq jours francs avant le déclenchement de la grève à l'autorité hiérarchique ou à la direction de
+l'établissement, de l'entreprise ou de l'organisme intéressé. Il fixe le lieu, la date et l'heure du début ainsi que la
+durée, limitée ou non, de la grève envisagée.
 
 Pendant la durée du préavis, les parties intéressées sont tenues de négocier.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L511-2 : les dispositions de la présente
-section s'appliquent aux personnels de l'Etat, de la collectivité territoriale et des communes de plus de 10 000 habitants
-ainsi qu'aux personnels des entreprises, des organismes et des établissements publics ou privés lorsque ces entreprises,
-organismes et établissements sont chargés de la gestion d'un service public.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L511-2
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L511-2
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L511-2
 
 
 ###### Article L511-4
@@ -13024,31 +13616,24 @@ Des arrêts de travail affectant par échelonnement successif ou par roulement c
 catégories professionnelles d'un même établissement ou service ou les différents établissements ou services d'une même
 entreprise ou d'un même organisme ne peuvent avoir lieu.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L511-2 : les dispositions de la présente
-section s'appliquent aux personnels de l'Etat, de la collectivité territoriale et des communes de plus de 10 000 habitants
-ainsi qu'aux personnels des entreprises, des organismes et des établissements publics ou privés lorsque ces entreprises,
-organismes et établissements sont chargés de la gestion d'un service public.*]
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L511-2
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L511-2
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L511-2 (VT)
 
 
 ###### Article L511-5
@@ -13060,27 +13645,20 @@ Toutefois, la révocation et la rétrogradation ne peuvent être prononcées qu'
 normalement applicable. Lorsque la révocation est prononcée à ce titre, elle ne peut l'être avec perte des droits à la
 retraite.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L511-2 : les dispositions de la présente
-section s'appliquent aux personnels de l'Etat, de la collectivité territoriale et des communes de plus de 10 000 habitants
-ainsi qu'aux personnels des entreprises, des organismes et des établissements publics ou privés lorsque ces entreprises,
-organismes et établissements sont chargés de la gestion d'un service public.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L511-2
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 #### CHAPITRE II : Dispositions générales concernant les procédures de règlement des conflits collectifs du travail.<a id=120></a>
@@ -13089,8 +13667,8 @@ _Créé par_:
 
 Les litiges collectifs intervenant entre les salariés et les employeurs font l'objet de négociations soit lorsque les
 conventions ou accords collectifs de travail applicables comportent des dispositions à cet effet, soit lorsque les parties
-intéressées en prennent l'initiative, soit sur l'initiative du représentant du Gouvernement à Mayotte dans les conditions
-fixées aux chapitres III, IV et V du présent titre.
+intéressées en prennent l'initiative, soit sur l'initiative du représentant de l'Etat à Mayotte dans les conditions fixées
+aux chapitres III, IV et V du présent titre.
 
 **Liens relatifs à cet article**
 
@@ -13099,9 +13677,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L512-2
@@ -13110,26 +13692,31 @@ Les accords ou sentences qui interviennent en application des chapitres III, IV 
 conventions et accords collectifs de travail.
 
 Ils sont applicables, sauf stipulations contraires, à compter du jour qui suit leur dépôt auprès du service compétent dans
-les conditions déterminées à l'article L. 132-10 [*point de départ*].
+les conditions déterminées à l'article L. 132-10.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L132-10
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L132-10
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. L513-5 (VT)
+  - Code du travail applicable à Mayotte. - art. L514-4 (VT)
 
 
 #### CHAPITRE III : Conciliation.<a id=121></a>
@@ -13145,35 +13732,61 @@ parties devant la commission de conciliation prévue à l'article L. 513-2.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L513-2
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L513-2
 
 
 ###### Article L513-2
 
 En l'absence de négociations comme il est dit à l'article précédent, en cas d'échec des négociations ou en cas de maintien
-durable du conflit, le représentant du Gouvernement à Mayotte [*autorité compétente*] peut soit sur saisie de l'une ou des
-parties intéressées, soit de sa propre initiative, convoquer une commission de conciliation.
+durable du conflit, le représentant de l'Etat à Mayotte peut soit sur saisie de l'une ou des parties intéressées, soit de sa
+propre initiative, convoquer une commission de conciliation.
 
-Cette commission composée, par les soins du représentant du Gouvernement, de représentants des organisations patronales et
-des syndicats de salariés les plus représentatifs, en nombre égal, se réunit sous sa présidence ou sous celle du directeur du
+Cette commission composée, par les soins du représentant de l'Etat, de représentants des organisations patronales et des
+syndicats de salariés les plus représentatifs, en nombre égal, se réunit sous sa présidence ou sous celle du directeur du
 travail, de l'emploi et de la formation professionnelle.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Codifié par_:
 
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L513-1
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. L513-1 (VT)
+  - Code du travail applicable à Mayotte. - art. L514-1 (VT)
+
+
+###### Article L513-3
+
+Les parties sont tenues de donner toute facilité aux membres des commissions pour leur permettre de remplir la fonction qui
+leur est dévolue.
+
+**Liens relatifs à cet article**
 
 _Codifié par_:
 
@@ -13182,42 +13795,24 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
-_Cité par_:
+_Abrogé par_:
 
-  - Code du travail applicable à Mayotte. - art. L513-1 (VT)
-
-
-###### Article L513-3
-
-Les parties sont tenues [*obligation*] de donner toute facilité aux membres des commissions pour leur permettre de remplir la
-fonction qui leur est dévolue.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-_Créé par_:
-
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L513-4
 
-Les parties sont tenues [*obligation*] de comparaître en personne devant les commissions de conciliation ou, en cas
-d'empêchement grave, de se faire représenter par une personne ayant pouvoir pour négocier et conclure un accord de
-conciliation.
+Les parties sont tenues de comparaître en personne devant les commissions de conciliation ou, en cas d'empêchement grave, de
+se faire représenter par une personne ayant pouvoir pour négocier et conclure un accord de conciliation.
 
 Toute personne morale, partie au conflit, doit commettre un représentant dûment mandaté et ayant pouvoir pour négocier et
 conclure un accord de conciliation.
 
 Lorsque l'une des parties régulièrement convoquée ne comparaît pas ou ne se fait pas représenter dans les conditions prévues
 aux deux alinéas précédents, le président la convoque à une nouvelle réunion qui a lieu, au plus tard, huit jours après la
-première [*délai*].
+première.
 
 **Liens relatifs à cet article**
 
@@ -13226,14 +13821,18 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. L514-3 (VT)
-  - Code du travail applicable à Mayotte. - art. L520-1 (M)
+  - Code du travail applicable à Mayotte. - art. L520-1 (VT)
   - Code du travail applicable à Mayotte. - art. R513-5 (V)
   - Code du travail applicable à Mayotte. - art. R513-6 (V)
   - Code du travail applicable à Mayotte. - art. R514-4 (V)
@@ -13244,25 +13843,29 @@ _Cité par_:
 A l'issue des réunions de la commission de conciliation, le président établit un procès-verbal qui constate l'accord, le
 désaccord total ou partiel des parties et leur est aussitôt notifié.
 
-Le procès-verbal précise [*contenu*] les points sur lesquels les parties se sont mises d'accord, le cas échéant, et ceux sur
-lesquels le désaccord persiste.
+Le procès-verbal précise les points sur lesquels les parties se sont mises d'accord, le cas échéant, et ceux sur lesquels le
+désaccord persiste.
 
 L'accord de conciliation est applicable dans les conditions prévues par l'article L. 512-2.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L512-2
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L512-2
 
 
 ###### Article L513-6
@@ -13277,16 +13880,20 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 #### CHAPITRE IV : Médiation.<a id=122></a>
 
 ###### Article L514-1
 
-La procédure de médiation peut être engagée par le représentant du Gouvernement à Mayotte, qui procède à la désignation d'un
+La procédure de médiation peut être engagée par le représentant de l'Etat à Mayotte, qui procède à la désignation d'un
 médiateur :
 
 a) Ou bien après l'échec de la commission de conciliation prévue à l'article L. 513-2 à la demande de l'une des parties ou de
@@ -13296,37 +13903,41 @@ b) Ou bien directement, lorsque le conflit survient à l'occasion de l'établiss
 convention de branche ou d'un accord professionnel ou interprofessionnel ;
 
 c) Ou bien, lorsque les parties présentent conjointement des requêtes à fin de médiation, précisant qu'elles entendent
-recourir directement à cette procédure et indiquant le nom du médiateur. Dans ce cas, le représentant du Gouvernement
-apprécie, s'il y a lieu, de nommer directement le médiateur.
+recourir directement à cette procédure et indiquant le nom du médiateur. Dans ce cas, le représentant de l'Etat apprécie,
+s'il y a lieu, de nommer directement le médiateur.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L513-2
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. D514-7 (V)
   - Code du travail applicable à Mayotte. - art. R514-1 (V)
 
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L513-2 (VT)
+
 
 ###### Article L514-2
 
-Le médiateur a les plus larges pouvoirs pour s'informer [*attributions*] de la situation économique des entreprises et de la
-situation des travailleurs intéressés par le conflit. Il peut procéder à toutes enquêtes auprès des entreprises et des
-syndicats et requérir des parties la production de tout document ou renseignement d'ordre économique, comptable, financier,
-statistique ou administratif susceptible de lui être utile pour l'accomplissement de sa mission. Il peut recourir aux offices
-d'experts et, généralement, de toute personne qualifiée susceptible de l'éclairer.
+Le médiateur a les plus larges pouvoirs pour s'informer de la situation économique des entreprises et de la situation des
+travailleurs intéressés par le conflit. Il peut procéder à toutes enquêtes auprès des entreprises et des syndicats et
+requérir des parties la production de tout document ou renseignement d'ordre économique, comptable, financier, statistique ou
+administratif susceptible de lui être utile pour l'accomplissement de sa mission. Il peut recourir aux offices d'experts et,
+généralement, de toute personne qualifiée susceptible de l'éclairer.
 
 Les parties font connaître leurs observations au médiateur et, dans la mesure du possible, sous forme de mémoire. Ces
 observations sont portées à la connaissance de la partie adverse.
@@ -13335,42 +13946,50 @@ observations sont portées à la connaissance de la partie adverse.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
-  - Code du travail applicable à Mayotte. - art. L520-1 (M)
+  - Code du travail applicable à Mayotte. - art. L520-1 (VT)
   - Code du travail applicable à Mayotte. - art. R514-4 (V)
 
 
 ###### Article L514-3
 
-Le médiateur convoque les parties [*attributions*] : les dispositions des deux premiers alinéas de l'article L. 513-4 sont
-applicables à ces convocations.
+Le médiateur convoque les parties : les dispositions des deux premiers alinéas de l'article L. 513-4 sont applicables à ces
+convocations.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L513-4
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L513-4
 
 _Cité par_:
 
-  - Code du travail applicable à Mayotte. - art. L520-1 (M)
+  - Code du travail applicable à Mayotte. - art. L520-1 (VT)
 
 
 ###### Article L514-4
@@ -13382,10 +14001,10 @@ Toutefois, lorsque le médiateur constate que le conflit porte sur l'interpréta
 législatives, réglementaires ou conventionnelles, il doit recommander aux parties de soumettre le conflit à la juridiction de
 droit commun compétente pour en connaître.
 
-A dater de la réception de la proposition de règlement du conflit soumise par le médiateur aux parties [*point de départ*],
-celles-ci ont la faculté, pendant un délai de huit jours, de notifier au médiateur, par lettre recommandée avec accusé de
-réception, qu'elles rejettent sa proposition. Ces rejets doivent être motivés. Le médiateur informe aussitôt, par lettre
-recommandée, la ou les autres organisations parties au conflit de ces rejets et de leurs motivations.
+A dater de la réception de la proposition de règlement du conflit soumise par le médiateur aux parties, celles-ci ont la
+faculté, pendant un délai de huit jours, de notifier au médiateur, par lettre recommandée avec accusé de réception, qu'elles
+rejettent sa proposition. Ces rejets doivent être motivés. Le médiateur informe aussitôt, par lettre recommandée, la ou les
+autres organisations parties au conflit de ces rejets et de leurs motivations.
 
 Au terme du délai de huit jours prévu ci-dessus, le médiateur constate l'accord ou le désaccord des parties. L'accord sur la
 recommandation du médiateur lie les parties qui ne l'ont pas rejetée, dans les conditions déterminées par le titre III du
@@ -13394,18 +14013,22 @@ l'article L. 512-2.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L512-2
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L512-2 (VT)
 
 
 #### CHAPITRE V : Arbitrage.<a id=123></a>
@@ -13419,12 +14042,16 @@ liste d'arbitres dressée d'un commun accord entre les parties.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L515-2
@@ -13433,36 +14060,43 @@ Dans le cas où la convention ou accord collectif de travail ne prévoit pas de 
 parties intéressées peuvent décider d'un commun accord de soumettre à l'arbitrage les conflits qui subsisteraient à l'issue
 d'une procédure de conciliation ou de médiation.
 
-L'arbitre est choisi [*désignation*] soit par accord entre les parties, soit selon les modalités établies d'un commun accord
-entre elles.
+L'arbitre est choisi soit par accord entre les parties, soit selon les modalités établies d'un commun accord entre elles.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L515-3
 
 Dans le cas où le conflit est porté à l'arbitrage, les pièces établies dans le cadre des procédures de conciliation ou de
-médiation sont remises à l'arbitre [*informations*].
+médiation sont remises à l'arbitre.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L515-4
@@ -13490,9 +14124,13 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 #### CHAPITRE VI : Dispositions finales.<a id=124></a>
@@ -13507,11 +14145,15 @@ présent titre.
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ### TITRE II : PÉNALITÉS.<a id=125></a>
@@ -13531,10 +14173,6 @@ rapport à l'autorité administrative compétente qui le transmet au parquet. L'
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L513-4, L514-3, L514-2
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
@@ -13542,7 +14180,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L513-4 (M)
+  - Code du travail applicable à Mayotte. - art. L514-2 (M)
+  - Code du travail applicable à Mayotte. - art. L514-3 (M)
 
 _Cité par_:
 
@@ -13555,14 +14199,13 @@ _Cité par_:
 
 ###### Article L610-1
 
-Les inspecteurs et contrôleurs du travail sont chargés [*attributions*] de veiller à l'application des dispositions du code
-du travail et des lois et règlements non codifiés relatifs au régime du travail, ainsi qu'à celles des conventions et accords
-collectifs de travail conclus en application du titre III du livre Ier du présent code. Ils sont également chargés,
-concurremment avec les agents et officiers de police judiciaire, de constater, s'il y échet, les infractions à ces
-dispositions.
+Les inspecteurs et contrôleurs du travail sont chargés de veiller à l'application des dispositions du code du travail et des
+lois et règlements non codifiés relatifs au régime du travail, ainsi qu'à celles des conventions et accords collectifs de
+travail conclus en application du titre III du livre Ier du présent code. Ils sont également chargés, concurremment avec les
+agents et officiers de police judiciaire, de constater, s'il y échet, les infractions à ces dispositions.
 
 Ils constatent, en outre, les infractions aux dispositions de protection sociale concernant les accidents du travail et les
-maladies professionnelles du régime en vigueur dans la collectivité territoriale de Mayotte.
+maladies professionnelles du régime en vigueur dans la collectivité départementale de Mayotte.
 
 Dans les cas expressément prévus par la loi ou le règlement, ces attributions peuvent être exercées par des fonctionnaires de
 contrôle assimilés.
@@ -13571,11 +14214,6 @@ Un décret contresigné par le ministre chargé du travail et par le garde des s
 modalités de contrôle de l'application des dispositions du présent code aux salariés des offices publics et ministériels, des
 professions libérales, des sociétés civiles, des syndicats professionnels et associations de quelque nature que ce soit.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4 : champ d'application du
-livre 6.*]
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -13583,9 +14221,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -13606,38 +14244,29 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R235-251 (V)
   - Code du travail applicable à Mayotte. - art. R235-253 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4
-
 
 ###### Article L610-2
 
 Pour les établissements publics dans lesquels l'intérêt de la défense nationale s'oppose à l'introduction d'agents étrangers
 au service, l'exécution des dispositions du livre II du présent code est exclusivement confiée aux agents désignés à cet
-effet par le ministre chargé de la défense nationale [*autorités compétentes*].
+effet par le ministre chargé de la défense nationale.
 
 La nomenclature de ces établissements est fixée par un décret en Conseil d'Etat.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4 : champ d'application du
-livre 6.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -13654,32 +14283,29 @@ professionnel, les inspecteurs et contrôleurs du travail assurent l'application
 230-6 et L. 230-8 et des textes pris pour leur application, relatives à l'hygiène et à la sécurité des travailleurs.
 
 Par dérogation aux dispositions des 1er et 2e alinéas du présent article, les inspecteurs et les contrôleurs du travail
-peuvent, à la demande du représentant du gouvernement, conseiller les administrations et établissements mentionnés au 1er
-alinéa pour l'application des dispositions législatives et réglementaires relatives au régime du travail et notamment en
-matière d'hygiène et de sécurité.
-
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L610-4 : champ d'application du livre 6.*]
+peuvent, à la demande du représentant de l'Etat, conseiller les administrations et établissements mentionnés au 1er alinéa
+pour l'application des dispositions législatives et réglementaires relatives au régime du travail et notamment en matière
+d'hygiène et de sécurité.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L230-2 à L230-6, L230-8
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L610-4
-
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte.
+  - Code du travail applicable à Mayotte. - art. L230-8
 
 _Cité par_:
 
@@ -13691,55 +14317,7 @@ _Cité par_:
 
 Les dispositions du présent livre ne s'appliquent pas aux employés de maison.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L610-3 : champ d'application du livre 6.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L610-3
-
-_Codifié par_:
-
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-_Créé par_:
-
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
-
-
-###### Article L610-5
-
-Les médecins inspecteurs du travail et les ingénieurs de prévention des services déconcentrés du travail et de l'emploi
-assurent [*attributions*] un appui technique aux inspecteurs du travail dans leurs contrôles, enquêtes et missions, ils
-jouissent à ce titre du droit d'entrée et du droit de prélèvement prévus à l'article L. 610-6. Ils peuvent se faire présenter
-les registres et documents prévus à l'article L. 610-8, lorsqu'ils concernent l'hygiène, la sécurité et les conditions de
-travail. Ils sont tenus [*obligations*] de ne pas révéler les secrets de fabrication et, en général, les procédés
-d'exploitation dont ils pourraient prendre connaissance dans l'exercice de leurs fonctions. Toute violation de ces
-obligations est punie conformément aux articles 226-13 et 226-14 du code pénal.
-
-**Nota:**
-
-*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4 : champ d'application du livre
-6.*
-
-*Nota : Loi d'orientation 92-125 du 6 février 1992 art. 3 : Dans tous les textes législatifs et réglementaires, la référence
-à "services extérieurs" est remplacée par la référence à "services déconcentrés".
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L610-6, L610-8
-  - Code pénal - art. 226-13 (M)
-  - Code pénal - art. 226-14 (M)
 
 _Codifié par_:
 
@@ -13748,7 +14326,44 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Loi n°2006-911 du 24 juillet 2006 - art. 112 () JORF 25 juillet 2006
+
+
+###### Article L610-5
+
+Les médecins inspecteurs du travail et les ingénieurs de prévention des services extérieurs du travail et de l'emploi
+assurent un appui technique aux inspecteurs du travail dans leurs contrôles, enquêtes et missions, ils jouissent à ce titre
+du droit d'entrée et du droit de prélèvement prévus à l'article L. 610-6. Ils peuvent se faire présenter les registres et
+documents prévus à l'article L. 610-8, lorsqu'ils concernent l'hygiène, la sécurité et les conditions de travail. Ils sont
+tenus de ne pas révéler les secrets de fabrication et, en général, les procédés d'exploitation dont ils pourraient prendre
+connaissance dans l'exercice de leurs fonctions. Toute violation de ces obligations est punie conformément aux articles
+226-13 et 226-14 du code pénal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code pénal - art. 226-13
+  - Code pénal - art. 226-14
+  - Code du travail applicable à Mayotte. - art. L610-6
+  - Code du travail applicable à Mayotte. - art. L610-8
 
 
 ###### Article L610-6
@@ -13768,21 +14383,16 @@ distribués ou utilisés. En vue de constater les infractions, ces prélèvement
 instituée par les décrets pris en application de la loi du 1er août 1905 sur les fraudes et falsifications en matière de
 produits ou de services.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4 : champ d'application du
-livre 6.*]
-
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
 
 _Codifié par_:
 
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
   - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -13794,12 +14404,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L610-1
+  - Code du travail applicable à Mayotte. - art. L610-1 (M)
   - Loi n°1905-08-01
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4
 
 
 ###### Article L610-7
@@ -13807,28 +14413,24 @@ _Cite_:
 Les inspecteurs et contrôleurs du travail peuvent se faire accompagner dans leurs visites d'interprètes assermentés et d'un
 délégué du personnel de l'entreprise visitée.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4 : champ d'application du
-livre 6.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
+  - Code du travail applicable à Mayotte. - art. L610-10 (VT)
   - Code du travail applicable à Mayotte. - art. L711-4 (Ab)
 
 
@@ -13842,25 +14444,20 @@ Lorsque le livre de paie est tenu par une personne extérieure à l'établisseme
 contrôleur du travail au cours de sa visite, un délai qui ne peut être inférieur à quatre jours est fixé par mise en demeure
 pour sa présentation au bureau de l'inspecteur du travail.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4 : champ d'application du
-livre 6.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -13875,25 +14472,16 @@ procès-verbaux qui font foi jusqu'à preuve du contraire.
 
 En cas d'infraction aux dispositions de la durée du travail, un autre exemplaire est établi et remis au contrevenant.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4 : champ d'application du
-livre 6.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -13903,6 +14491,10 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L312-5 (VT)
   - Code du travail applicable à Mayotte. - art. L442-10 (VT)
   - Code du travail applicable à Mayotte. - art. R233-75 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L610-10
@@ -13914,22 +14506,7 @@ Toute violation de ces obligations est punie conformément aux articles 226-13 e
 
 Les interprètes visés à l'article L. 610-7 sont tenus aux mêmes obligations.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4 : champ d'application du
-livre 6.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L610-7
-  - Code pénal - art. 226-13 (M)
-  - Code pénal - art. 226-14 (M)
 
 _Codifié par_:
 
@@ -13938,7 +14515,17 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code pénal - art. 226-13
+  - Code pénal - art. 226-14
+  - Code du travail applicable à Mayotte. - art. L610-7 (VT)
 
 
 ###### Article L610-11
@@ -13946,25 +14533,16 @@ _Modifié par_:
 Les dispositions du présent chapitre ne dérogent pas aux règles du droit commun relatives à la constatation et à la poursuite
 des infractions par les officiers et agents de police judiciaire.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4 : champ d'application du
-livre 6.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -13975,31 +14553,26 @@ _Cité par_:
 ###### Article L610-12
 
 Les mises en demeure prévues par le présent code ou par les lois et règlements relatifs au régime du travail sont notifiées
-par écrit à l'employeur ou à son représentant soit par remise en main propre contre décharge [*condition de forme*], soit par
-lettre recommandée avec demande d'avis de réception.
+par écrit à l'employeur ou à son représentant soit par remise en main propre contre décharge, soit par lettre recommandée
+avec demande d'avis de réception.
 
 Le délai d'exécution des mises en demeure, comme les délais de recours, partent soit du jour de remise de la notification,
 soit du jour de la première présentation de la lettre recommandée.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4 : champ d'application du
-livre 6.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -14009,7 +14582,7 @@ _Cité par_:
 
 ###### Article L610-13
 
-Dans la collectivité territoriale de Mayotte, la décision intéressant la demande de licenciement d'un délégué du personnel
+Dans la collectivité départementale de Mayotte, la décision intéressant la demande de licenciement d'un délégué du personnel
 prise en application de l'article 167 de la loi du 15 décembre 1952 susvisée peut faire l'objet d'un recours hiérarchique
 auprès du ministre chargé du travail.
 
@@ -14025,21 +14598,14 @@ Ces réclamations sont suspensives. Il y est statué dans un délai de deux mois
 La non-communication au chef d'établissement de la décision du fonctionnaire ci-dessus dans le délai prévu à l'article
 précédent vaut acceptation de la réclamation. Tout refus doit être motivé.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4 : champ d'application du
-livre 6.*]
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L230-10, L240-5, L230-9
   - Loi n°52-1322 du 15 décembre 1952 - art. 167 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4
+  - Code du travail applicable à Mayotte. - art. L230-10 (M)
+  - Code du travail applicable à Mayotte. - art. L230-9 (M)
+  - Code du travail applicable à Mayotte. - art. L240-5 (M)
 
 _Codifié par_:
 
@@ -14048,7 +14614,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article L610-14
@@ -14057,78 +14623,68 @@ Les agents des services fiscaux et des douanes sont compétents pour constater, 
 directement au parquet, les infractions aux dispositions de l'article L. 124-1. Pour effectuer cette constatation, les agents
 précités disposent des pouvoirs d'investigation accordés par les textes particuliers qui leur sont applicables.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4 : champ d'application du
-livre 6.*]
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L124-1
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
+  - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
   - Loi n°2015-1702 du 21 décembre 2015 - art. 94
   - Code du travail applicable à Mayotte. - art. L313-1 (VT)
 
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L124-1
+
 
 ### TITRE II : OBLIGATIONS DES EMPLOYEURS.<a id=128></a>
 
 ###### Article L620-1
 
-Toute personne qui se propose d'occuper du personnel [*employeur*], quelle qu'en soit l'importance, dans un établissement
-commercial ou industriel doit, avant d'occuper ce personnel, en faire la déclaration [*obligatoire*] auprès de l'inspection
-du travail. Sont également soumis à cette obligation les offices publics et ministériels, les professions libérales, les
-sociétés civiles, les syndicats professionnels et les associations de quelque nature que ce soit.
+Toute personne qui se propose d'occuper du personnel, quelle qu'en soit l'importance, dans un établissement commercial ou
+industriel doit, avant d'occuper ce personnel, en faire la déclaration auprès de l'inspection du travail. Sont également
+soumis à cette obligation les offices publics et ministériels, les professions libérales, les sociétés civiles, les syndicats
+professionnels et les associations de quelque nature que ce soit.
 
 Une déclaration préalable doit, en outre, être faite :
 
-1° Si un établissement, ayant cessé d'occuper du personnel pendant six mois au moins [*durée*], se propose d'en occuper à
-nouveau ;
+1° Si un établissement, ayant cessé d'occuper du personnel pendant six mois au moins, se propose d'en occuper à nouveau ;
 
 2° Si un établissement occupant du personnel change d'exploitant ;
 
 3° Si un établissement occupant du personnel est transféré dans un autre emplacement ou s'il est l'objet d'extension ou de
 transformation entraînant une modification dans les industries ou commerces exercés.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4 : champ d'application du
-livre 6.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. L620-3 (VT)
+  - Code du travail applicable à Mayotte. - art. L620-7 (VT)
   - Code du travail applicable à Mayotte. - art. R620-1 (V)
   - Code du travail applicable à Mayotte. - art. R632-1 (V)
 
@@ -14138,25 +14694,20 @@ _Cité par_:
 Les chefs des établissements, autres que les exploitations agricoles ou relevant de la pêche, affichent les heures auxquelles
 commence et finit le travail ainsi que les heures et la durée des repos.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4 : champ d'application du
-livre 6.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -14166,9 +14717,9 @@ _Cité par_:
 ###### Article L620-3
 
 Dans les établissements définis à l'article L. 620-1 et dans les établissements agricoles où sont occupés des salariés, il
-est tenu un registre unique du personnel sur lequel doivent figurer [*mentions obligatoires*], dans l'ordre d'embauchage, les
-noms et prénoms de tous les salariés occupés dans l'établissement à quelque titre que ce soit. Ces mentions sont portées sur
-le registre au moment de l'embauchage.
+est tenu un registre unique du personnel sur lequel doivent figurer, dans l'ordre d'embauchage, les noms et prénoms de tous
+les salariés occupés dans l'établissement à quelque titre que ce soit. Ces mentions sont portées sur le registre au moment de
+l'embauchage.
 
 Les indications complémentaires qui doivent être mentionnées sur ce registre soit pour l'ensemble des salariés, soit pour
 certaines catégories seulement, sont définies par voie réglementaire.
@@ -14176,35 +14727,26 @@ certaines catégories seulement, sont définies par voie réglementaire.
 Le registre du personnel est tenu à la disposition des délégués du personnel et des fonctionnaires et agents chargés de
 veiller à l'application du présent code et des agents de la caisse de prévoyance sociale.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4 : champ d'application du
-livre 6.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L620-1
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
   - Code de la sécurité intérieure - art. L642-1 (VD)
   - Code du travail applicable à Mayotte. - art. L312-2 (M)
   - Code du travail applicable à Mayotte. - art. R620-3 (V)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L620-1 (M)
 
 
 ###### Article L620-4
@@ -14219,25 +14761,16 @@ Le registre est tenu constamment à la disposition des inspecteurs du travail.
 
 Les représentants du personnel peuvent consulter ce registre.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4 : champ d'application du
-livre 6.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -14250,25 +14783,20 @@ Les attestations, consignes, résultats et rapports relatifs aux vérifications 
 titre de l'hygiène et de la sécurité du travail sont datés et mentionnent l'identité de la personne ou de l'organisme chargé
 du contrôle ou de la vérification et celle de la personne qui a effectué le contrôle ou la vérification.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4 : champ d'application du
-livre 6.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -14290,56 +14818,47 @@ vérifications.
 Ces documents sont communiqués dans des conditions fixées par voie réglementaire au délégué du personnel et au médecin chargé
 de la surveillance médicale.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4 : champ d'application du
-livre 6.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L620-7
 
-Le représentant du Gouvernement à Mayotte peut, pour certains secteurs professionnels ou pour les entreprises dont l'effectif
-se situe au-dessous d'un seuil qu'il détermine, dispenser les employeurs de tout ou partie des obligations définies aux
-articles L. 620-1 et L. 620-3, à l'exception de celles relatives aux travailleurs étrangers.
-
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4 : champ d'application du
-livre 6.*]
+Le représentant de l'Etat à Mayotte peut, pour certains secteurs professionnels ou pour les entreprises dont l'effectif se
+situe au-dessous d'un seuil qu'il détermine, dispenser les employeurs de tout ou partie des obligations définies aux articles
+L. 620-1 et L. 620-3, à l'exception de celles relatives aux travailleurs étrangers.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Codifié par_:
 
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cite_:
 
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L620-1, L620-3
-
-_Codifié par_:
-
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-_Créé par_:
-
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Code du travail applicable à Mayotte. - art. L620-1 (VT)
+  - Code du travail applicable à Mayotte. - art. L620-3 (VT)
 
 
 ### TITRE III : PÉNALITÉS.<a id=129></a>
@@ -14353,25 +14872,12 @@ En cas de récidive, l'emprisonnement pourra être porté à deux ans et l'amend
 
 (1) Amende applicable depuis le 1er mars 1994.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4 : champ d'application du
-livre 6.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 _Cité par_:
 
@@ -14381,6 +14887,10 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L711-4 (Ab)
   - Code du travail applicable à Mayotte. - art. L742-10 (VT)
 
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
 
 ###### Article L630-2
 
@@ -14388,25 +14898,20 @@ Les dispositions du code pénal qui prévoient et répriment les actes de résis
 officiers de police judiciaire sont, en outre, applicables à ceux qui se rendent coupables de faits de même nature à l'égard
 des inspecteurs et contrôleurs du travail.
 
-**Nota:**
-
-[*Nota : code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4 : champ d'application du
-livre 6.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L610-3, L610-4
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Loi n°91-1379 du 28 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1 JORF 6 mars 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -14428,8 +14933,8 @@ dénommé "contrat de qualification". Sa durée est comprise entre six mois et d
 L'employeur s'engage, pour la durée prévue, à fournir un emploi à l'intéressé et à assurer une formation qui lui permettra
 d'acquérir une qualification professionnelle sanctionnée par un diplôme de l'enseignement technologique ou professionnel, ou
 reconnue dans les classifications d'une convention collective ou d'un accord interprofessionnel, ou figurant sur une liste
-établie par un arrêté du représentant du Gouvernement à Mayotte, après consultation du comité de la formation
-professionnelle, de la promotion sociale et de l'emploi prévu à l'article 2 de la loi n° 88-1089 du 1er décembre 1988.
+établie par un arrêté du représentant de l'Etat à Mayotte, après consultation du comité de la formation professionnelle, de
+la promotion sociale et de l'emploi prévu à l'article 2 de la loi n° 88-1089 du 1er décembre 1988.
 
 Les enseignements généraux, professionnels et technologiques dispensés pendant la durée du contrat doivent être au minimum
 d'une durée égale à 33 % de la durée totale du contrat.
@@ -14440,17 +14945,18 @@ Les dispositions du premier alinéa de l'article L. 122-12 ne s'appliquent pas a
 
 _Cite_:
 
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-1-1, L122-12
   - Loi n°88-1089 du 1 décembre 1988 - art. 2 (V)
+  - Code du travail applicable à Mayotte. - art. L122-1-1 (M)
+  - Code du travail applicable à Mayotte. - art. L122-12 (M)
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -14486,23 +14992,19 @@ organismes de formation mentionnés à l'alinéa précédent participent à la m
 Il détermine notamment le rôle des tuteurs chargés d'accueillir et de guider les salariés pendant leur temps de présence en
 entreprise.
 
-Un arrêté du représentant du Gouvernement à Mayotte détermine les garanties d'ordre technique et professionnel auxquelles est
+Un arrêté du représentant de l'Etat à Mayotte détermine les garanties d'ordre technique et professionnel auxquelles est
 subordonnée l'habilitation.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L412-3
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -14511,6 +15013,10 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. D711-2 (VT)
   - Code du travail applicable à Mayotte. - art. D711-3 (V)
   - Code du travail applicable à Mayotte. - art. D712-2 (T)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L412-3 (M)
 
 
 #### Section 2 : Contrat d'orientation<a id=133></a>
@@ -14535,24 +15041,25 @@ l'employeur sont fixées par décret.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-1-1, L711-10
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. D313-1 (V)
   - Code du travail applicable à Mayotte. - art. D711-16 (VT)
   - Code du travail applicable à Mayotte. - art. D712-16 (T)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-1-1 (M)
+  - Code du travail applicable à Mayotte. - art. L711-10 (M)
 
 
 #### Section 3 : Dispositions communes aux contrats de qualification et d'orientation<a id=134></a>
@@ -14561,8 +15068,8 @@ _Cité par_:
 
 Sous réserve de dispositions contractuelles plus favorables, les salariés titulaires des contrats mentionnés aux sections 1
 et 2 du présent chapitre perçoivent une rémunération déterminée en pourcentage du salaire minimum garanti. Ce pourcentage
-ainsi que les conditions de déduction des avantages en nature sont fixés par arrêté du représentant du Gouvernement à
-Mayotte. Ce pourcentage peut varier selon l'âge du bénéficiaire.
+ainsi que les conditions de déduction des avantages en nature sont fixés par arrêté du représentant de l'Etat à Mayotte. Ce
+pourcentage peut varier selon l'âge du bénéficiaire.
 
 Ces salariés ne peuvent effectuer d'heures supplémentaires.
 
@@ -14573,9 +15080,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article L711-9
@@ -14595,9 +15102,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -14626,18 +15133,18 @@ l'organisme de formation.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L212-2
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L212-2 (M)
 
 _Cité par_:
 
@@ -14649,32 +15156,32 @@ _Cité par_:
 ###### Article L711-1
 
 La formation professionnelle continue des salariés et des personnes à la recherche d'un emploi est régie par les dispositions
-du présent livre. La collectivité territoriale de Mayotte, les communes, les établissements publics, les établissements
+du présent livre. La collectivité départementale de Mayotte, les communes, les établissements publics, les établissements
 d'enseignement publics et privés, les associations, les organisations syndicales d'employeurs et de salariés, les
 organisations familiales ainsi que les entreprises concourent à l'assurer.
 
 Le financement des actions de formation professionnelle continue, définies à l'article L. 711-2, est assuré par une
 contribution annuelle, versée à un fonds de la formation professionnelle continue, par tout employeur, sans préjudice des
-dépenses directes qu'il peut effectuer pour le compte de ses salariés. L'Etat et la collectivité territoriale de Mayotte
+dépenses directes qu'il peut effectuer pour le compte de ses salariés. L'Etat et la collectivité départementale de Mayotte
 peuvent participer au financement de ce fonds.
 
 Le taux de la contribution prévue à l'alinéa précédent est fixé à 1 % du montant des rémunérations brutes dans la limite d'un
 plafond.
 
 La contribution est contrôlée et recouvrée selon les modalités prévues pour la taxe d'apprentissage par le code des impôts
-applicable dans la collectivité territoriale de Mayotte.
+applicable dans la collectivité départementale de Mayotte.
 
 La gestion du fonds est assurée par un organisme paritaire créé par un accord professionnel de travail et agréé par arrêté du
-représentant du Gouvernement.
+représentant de l'Etat.
 
 Le plafond des rémunérations prises en compte pour l'assiette de la contribution et les modalités de contrôle de l'organisme
-gestionnaire du fonds sont précisés par arrêté du représentant du Gouvernement.
+gestionnaire du fonds sont précisés par arrêté du représentant de l'Etat.
 
 Cet arrêté fixe également la part minimum des sommes collectées qui doivent être affectées aux actions de formation
 dispensées dans le cadre des contrats de formation en alternance mentionnées aux articles L. 711-5 à L. 711-7.
 
-Les organismes privés de formation intervenant dans la collectivité territoriale au titre des actions prévues à l'article L.
-711-2 font l'objet d'un agrément délivré par le représentant du Gouvernement. Il est tenu compte, pour la délivrance de
+Les organismes privés de formation intervenant dans la collectivité départementale au titre des actions prévues à l'article
+L. 711-2 font l'objet d'un agrément délivré par le représentant de l'Etat. Il est tenu compte, pour la délivrance de
 l'agrément, des capacités financières de l'organisme, des moyens matériels et humains mis en oeuvre, de la régularité de la
 situation des candidats à l'agrément au regard de l'acquittement des cotisations sociales et des impositions de toute nature,
 ainsi que de la qualité de la formation dispensée.
@@ -14684,19 +15191,19 @@ adaptation du droit du travail de l'outre-mer sont soumis aux mêmes obligations
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L711-2, L711-5 à L711-7
-  - Ordonnance 2000-285 2000-03-30
-
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Cite_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Ordonnance 2000-285 2000-03-30
+  - Code du travail applicable à Mayotte L711-2, L711-5 à L711-7
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -14783,18 +15290,17 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2001-270 du 28 mars 2001 - art. 12 () JORF 31 mars 2001
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cite_:
 
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L711-1
   - Code de la santé publique - art. L1333-11 (T)
 
 
 ###### Article L711-3
 
 Les parties signataires de l'accord instituant l'organisme collecteur mentionné à l'article L. 711-1 définissent chaque année
-par avenant, agréé par arrêté du représentant du Gouvernement, la répartition des ressources du fonds entre :
+par avenant, agréé par arrêté du représentant de l'Etat, la répartition des ressources du fonds entre :
 
 1° Les actions de formation professionnelle en cours d'emploi ;
 
@@ -14802,22 +15308,22 @@ par avenant, agréé par arrêté du représentant du Gouvernement, la répartit
 
 3° Les actions d'insertion et de formation pour les demandeurs d'emploi.
 
-A défaut d'un tel avenant, cette répartition est fixée par un arrêté du représentant du Gouvernement à Mayotte.
+A défaut d'un tel avenant, cette répartition est fixée par un arrêté du représentant de l'Etat à Mayotte.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L711-1
 
 _Codifié par_:
 
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L711-1 (M)
 
 
 ###### Article L711-4
@@ -14836,9 +15342,9 @@ _Codifié par_:
   - Ordonnance 91-246 1991-02-25 art. 1
   - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -14864,23 +15370,23 @@ _Cité par_:
 
 ###### Article R122-1
 
-La lettre [*de licenciement*] prévue à l'article L. 122-27 indique l'objet de l'entretien entre le salarié et l'employeur
-[*mentions obligatoires*]. Elle prévoit en outre la date, l'heure et le lieu de cet entretien et rappelle que le salarié peut
-se faire assister pour cet entretien par une personne de son choix [*conseiller*] appartenant au personnel de l'entreprise.
+La lettre prévue à l'article L. 122-27 indique l'objet de l'entretien entre le salarié et l'employeur. Elle prévoit en outre
+la date, l'heure et le lieu de cet entretien et rappelle que le salarié peut se faire assister pour cet entretien par une
+personne de son choix appartenant au personnel de l'entreprise.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-27
 
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-27 (M)
 
 
 ###### Article R122-2
@@ -14894,9 +15400,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -14905,27 +15411,27 @@ _Cité par_:
 
 ###### Article R122-3
 
-Le reçu pour solde de tout compte prévu par l'article L. 122-34 est établi en double exemplaire [*conditions de forme*].
-Mention en est faite sur le reçu. L'un des exemplaires est remis au travailleur.
+Le reçu pour solde de tout compte prévu par l'article L. 122-34 est établi en double exemplaire. Mention en est faite sur le
+reçu. L'un des exemplaires est remis au travailleur.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-34
 
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-34 (M)
 
 
 ###### Article R122-4
 
-La dénonciation du reçu pour solde de tout compte est faite par lettre recommandée [*conditions de forme*].
+La dénonciation du reçu pour solde de tout compte est faite par lettre recommandée.
 
 **Liens relatifs à cet article**
 
@@ -14933,9 +15439,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ##### Section 2 : Service national.<a id=141></a>
@@ -14943,7 +15449,7 @@ _Créé par_:
 ###### Article R122-5
 
 La notification par le salarié à son employeur de son intention de reprendre son emploi après sa libération du service
-national est faite par lettre recommandée avec demande d'avis de réception [*conditions de forme*].
+national est faite par lettre recommandée avec demande d'avis de réception.
 
 **Liens relatifs à cet article**
 
@@ -14951,30 +15457,30 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article R122-6
 
-Les dispositions des articles L. 122-35 [*réintégration dans l'entreprise*] et L. 122-36 [*priorité à l'embauche*] sont
-applicables aux personnes qui, ayant cessé d'être aptes au service national après leur incorporation, ont été classées "
-réformés temporaires " ou " réformés définitifs " et renvoyées dans leur foyer.
+Les dispositions des articles L. 122-35 et L. 122-36 sont applicables aux personnes qui, ayant cessé d'être aptes au service
+national après leur incorporation, ont été classées " réformés temporaires " ou " réformés définitifs " et renvoyées dans
+leur foyer.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-35, L122-36
 
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-35 (V)
 
 _Cité par_:
 
@@ -14994,17 +15500,17 @@ nécessaire une augmentation de la période de suspension de son contrat de trav
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-45
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-45 (M)
 
 _Cité par_:
 
@@ -15025,25 +15531,25 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article R122-9
 
 Il doit être mis à la disposition des mères qui désirent allaiter leur enfant dans l'entreprise, en application des
-dispositions des cinquième et sixième alinéas de l'article L. 122-48, un local qui satisfasse aux conditions suivantes :
+dispositions des cinquième et sixième alinéas de l'article L. 122-48, un local qui satisfasse aux conditions suivantes : 
 
-a) Etre séparé de tout local de travail ;
+a) Etre séparé de tout local de travail ; 
 
-b) Etre pourvu d'eau en quantité suffisante ou se trouver à proximité d'un lavabo ;
+b) Etre pourvu d'eau en quantité suffisante ou se trouver à proximité d'un lavabo ; 
 
-c) Etre pourvu de sièges convenables pour l'allaitement ;
+c) Etre pourvu de sièges convenables pour l'allaitement ; 
 
-d) Etre tenu en état constant de propreté ;
+d) Etre tenu en état constant de propreté ; 
 
-e) Etre maintenu à une température convenable dans des conditions hygiéniques.
+e) Etre maintenu à une température convenable dans des conditions hygiéniques. 
 
 En outre, dans les établissements qui sont soumis à des prescriptions particulières relatives à l'hygiène, le local doit être
 nettement séparé de tout local affecté à des travaux pour lesquels ont été édictées ces prescriptions particulières. Cette
@@ -15052,17 +15558,17 @@ motivé lesdites prescriptions.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-48
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-48 (V)
 
 _Cité par_:
 
@@ -15074,21 +15580,17 @@ _Cité par_:
 Les enfants ne peuvent séjourner dans le local prévu à l'article précédent que pendant le temps nécessaire à l'allaitement.
 
 Aucun enfant atteint ou paraissant atteint d'une maladie transmissible ne doit être admis dans ce local. Des mesures doivent
-être prises pour que la présence des mères n'y apporte aucun danger de contamination [*conditions d'hygiène*].
+être prises pour que la présence des mères n'y apporte aucun danger de contamination.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte R122-9
 
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ##### Section 4 : Règlement intérieur, protection des salariés et droit disciplinaire<a id=143></a>
@@ -15106,9 +15608,13 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Décret n°2013-612 du 10 juillet 2013 - art. 2
 
 _Cité par_:
 
@@ -15122,17 +15628,21 @@ Le dépôt prévu au deuxième alinéa de l'article L. 122-70 est effectué au g
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-70
-
 _Codifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe
+  - Décret n°91-1263 du 16 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-70
 
 _Cité par_:
 
@@ -15142,21 +15652,27 @@ _Cité par_:
 ###### Article R122-13
 
 Le délai prévu au deuxième alinéa de l'article L. 122-70 court à compter de la dernière en date des formalités de publicité
-et de dépôt définies aux articles R. 122-11 et R. 122-12 [*point de départ*].
+et de dépôt définies aux articles R. 122-11 et R. 122-12.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-70, R122-11, R122-12
 
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-70
+  - Code du travail applicable à Mayotte. - art. R122-11
+  - Code du travail applicable à Mayotte. - art. R122-12
 
 
 ###### Article R122-14
@@ -15166,37 +15682,45 @@ exemplaires.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-70
-
 _Codifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe
+  - Décret n°91-1263 du 16 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-70
 
 
 ###### Article R122-15
 
-Le règlement intérieur prescrit à l'article L. 122-67 doit être établi dans les trois mois [*délai*] suivant l'ouverture de
+Le règlement intérieur prescrit à l'article L. 122-67 doit être établi dans les trois mois suivant l'ouverture de
 l'entreprise.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-67
-
 _Codifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe
+  - Décret n°91-1263 du 16 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-67
 
 
 ##### Sous-section 2 : Protection des salariés et droit disciplinaire.<a id=145></a>
@@ -15212,17 +15736,22 @@ alinéa de l'article L. 122-77, soit adressée par lettre recommandée envoyée 
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-74, L122-77
-
 _Codifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe
+  - Décret n°91-1263 du 16 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-74
+  - Code du travail applicable à Mayotte. - art. L122-77
 
 
 ###### Article R122-17
@@ -15235,17 +15764,21 @@ recommandée.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-74
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-74
 
 
 ###### Article R122-18
@@ -15259,17 +15792,22 @@ Les mêmes dispositions sont applicables au délai de deux mois prévu au premie
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-74, L122-77
-
 _Codifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe
+  - Décret n°91-1263 du 16 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-74
+  - Code du travail applicable à Mayotte. - art. L122-77
 
 
 #### CHAPITRE IV : Marchandage<a id=146></a>
@@ -15287,9 +15825,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -15312,11 +15850,15 @@ Ce registre est émargé par l'ouvrier ou l'employé.
 
 _Codifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe
+  - Décret n°91-1263 du 16 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Décret n°2013-612 du 10 juillet 2013 - art. 2
 
 _Cité par_:
 
@@ -15329,48 +15871,49 @@ _Cité par_:
 
 Pour l'application du troisième alinéa de l'article L. 126-1, le groupement d'employeurs adresse à l'inspecteur du travail,
 dans le mois suivant sa constitution, une déclaration qui comporte les mentions et à laquelle sont joints les documents
-[*obligatoires*] suivants :
+suivants : 
 
-1° Le nom, le siège social et la forme juridique du groupement ;
+1° Le nom, le siège social et la forme juridique du groupement ; 
 
-2° Les nom, prénoms, domicile des dirigeants du groupement ;
+2° Les nom, prénoms, domicile des dirigeants du groupement ; 
 
-3° Les statuts ;
+3° Les statuts ; 
 
-4° Une copie de l'extrait de déclaration d'association parue au Journal officiel ;
+4° Une copie de l'extrait de déclaration d'association parue au Journal officiel ; 
 
-5° Une liste des membres du groupement comportant pour chacun d'eux :
+5° Une liste des membres du groupement comportant pour chacun d'eux : 
 
 a) Lorsqu'il s'agit d'une personne morale, son siège et l'adresse de ses établissements, ainsi que la nature de sa ou de ses
-activités ;
+activités ; 
 
 b) Lorsqu'il s'agit d'une personne physique, son adresse et, le cas échéant, le siège de l'entreprise au titre de laquelle
-elle adhère au groupement ainsi que la nature de la ou des activités et l'adresse des établissements ;
+elle adhère au groupement ainsi que la nature de la ou des activités et l'adresse des établissements ; 
 
-c) Le nombre de salariés qu'il occupe ;
+c) Le nombre de salariés qu'il occupe ; 
 
 6° La convention collective ou, à défaut, l'accord collectif désigné à l'article L. 126-2, dans le champ d'application de
-laquelle entre le groupement.
+laquelle entre le groupement. 
 
 La déclaration, datée et signée par la personne habilitée à cet effet par le groupement, est envoyée par lettre recommandée
-avec demande d'avis de réception.
+avec demande d'avis de réception. 
 
 Le groupement est tenu de faire connaître à l'inspecteur du travail toute modification ultérieure aux informations énumérées
 aux 1°, 2°, 3°, aux a et b du 5° et au 6° du présent article dans un délai d'un mois suivant la modification.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L126-1, L126-2
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L126-1 (V)
+  - Code du travail applicable à Mayotte. - art. L126-2 (V)
 
 _Cité par_:
 
@@ -15380,17 +15923,13 @@ _Cité par_:
 
 ###### Article R126-2
 
-L'agrément prévu à l'article L. 126-2 est accordé par le représentant du Gouvernement après avis du directeur du travail, de
-l'emploi et de la formation professionnelle.
+L'agrément prévu à l'article L. 126-2 est accordé par le représentant de l'Etat après avis du directeur du travail, de
+l'emploi et de la formation professionnelle. 
 
 La demande d'agrément, datée et signée par la personne habilitée à cet effet par le groupement, est adressée par lettre
 recommandée avec demande d'avis de réception au directeur du travail, de l'emploi et de la formation professionnelle.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L126-2
 
 _Codifié par_:
 
@@ -15398,18 +15937,22 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L126-2 (V)
 
 
 ###### Article R126-3
 
 La demande d'agrément comporte les mentions et documents énumérés aux 1° à 6° de l'article R. 126-1 et l'intitulé de la
 convention collective ou de l'accord collectif dans le champ d'application de laquelle entre chacun des membres du
-groupement.
+groupement. 
 
-Elle mentionne la convention collective ou l'accord collectif que le groupement se propose d'appliquer.
+Elle mentionne la convention collective ou l'accord collectif que le groupement se propose d'appliquer. 
 
-Elle indique le nombre et la qualification des salariés que le groupement envisage d'employer.
+Elle indique le nombre et la qualification des salariés que le groupement envisage d'employer. 
 
 L'agrément est accordé si la convention collective ou l'accord collectif choisi par le groupement d'employeurs est adapté
 tant aux classifications professionnelles et aux niveaux d'emploi des salariés que le groupement envisage d'employer qu'à
@@ -15417,17 +15960,17 @@ l'activité des différents membres du groupement.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte R126-1
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R126-1 (V)
 
 _Cité par_:
 
@@ -15436,10 +15979,10 @@ _Cité par_:
 
 ###### Article R126-4
 
-Le représentant du Gouvernement dispose d'un délai d'un mois suivant la réception de la demande pour notifier sa décision au
+Le représentant de l'Etat dispose d'un délai d'un mois suivant la réception de la demande pour notifier sa décision au
 groupement.
 
-Cette notification est faite par lettre recommandée avec demande d'avis de réception [*conditions de forme*].
+Cette notification est faite par lettre recommandée avec demande d'avis de réception.
 
 A défaut de notification dans le délai d'un mois suivant la réception de la demande, l'agrément est réputé refusé.
 
@@ -15449,58 +15992,19 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article R126-5
 
-Le groupement agréé est tenu de faire connaître au représentant du Gouvernement toute modification aux informations
-mentionnées au deuxième alinéa de l'article R. 126-1 dans le délai d'un mois suivant la modification.
+Le groupement agréé est tenu de faire connaître au représentant de l'Etat toute modification aux informations mentionnées au
+deuxième alinéa de l'article R. 126-1 dans le délai d'un mois suivant la modification. 
 
 Il doit demander un nouvel agrément lorsqu'il se propose de changer de convention collective.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte R126-1
-
-_Codifié par_:
-
-  - Décret n°91-1263 1991-12-16 annexe
-
-_Créé par_:
-
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
-
-
-###### Article R126-6
-
-Le représentant du Gouvernement peut, sur le rapport du directeur du travail, de l'emploi et de la formation professionnelle,
-mettre fin à tout moment à son agrément, par décision motivée :
-
-1° Lorsque les dispositions législatives ou réglementaires relatives aux groupements d'employeurs ne sont pas respectées ;
-
-2° Lorsque les stipulations de la convention collective ou de l'accord collectif choisi ne sont pas respectées ou lorsque
-ceux-ci ont été dénoncés ;
-
-3° Lorsqu'il n'est plus satisfait aux conditions fixées au dernier alinéa de l'article R. 126-3.
-
-Le groupement est avisé au préalable des motifs du retrait projeté et invité à présenter ses observations dans un délai d'un
-mois suivant la réception dudit avis.
-
-La décision mettant fin à l'agrément est notifiée au groupement par lettre recommandée avec demande d'avis de réception.
-
-En cas de décision mettant fin à l'agrément, le groupement doit cesser son activité dans un délai, fixé par la décision, qui
-ne peut dépasser trois mois.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte R126-3
 
 _Codifié par_:
 
@@ -15508,7 +16012,46 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R126-1 (V)
+
+
+###### Article R126-6
+
+Le représentant de l'Etat peut, sur le rapport du directeur du travail, de l'emploi et de la formation professionnelle,
+mettre fin à tout moment à son agrément, par décision motivée : 
+
+1° Lorsque les dispositions législatives ou réglementaires relatives aux groupements d'employeurs ne sont pas respectées ; 
+
+2° Lorsque les stipulations de la convention collective ou de l'accord collectif choisi ne sont pas respectées ou lorsque
+ceux-ci ont été dénoncés ; 
+
+3° Lorsqu'il n'est plus satisfait aux conditions fixées au dernier alinéa de l'article R. 126-3.
+
+Le groupement est avisé au préalable des motifs du retrait projeté et invité à présenter ses observations dans un délai d'un
+mois suivant la réception dudit avis. 
+
+La décision mettant fin à l'agrément est notifiée au groupement par lettre recommandée avec demande d'avis de réception. 
+
+En cas de décision mettant fin à l'agrément, le groupement doit cesser son activité dans un délai, fixé par la décision, qui
+ne peut dépasser trois mois.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R126-3 (V)
 
 
 ### TITRE III : Conventions et accords collectifs de travail<a id=149></a>
@@ -15528,17 +16071,19 @@ Un récépissé est délivré au déposant.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L132-10, L132-8, L132-9
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L132-10 (M)
+  - Code du travail applicable à Mayotte. - art. L132-8 (M)
+  - Code du travail applicable à Mayotte. - art. L132-9 (M)
 
 
 ###### Article R132-2
@@ -15555,9 +16100,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 #### Chapitre 3 : Conventions et accords collectifs susceptibles d'être étendus et procédure d'extension et d'élargissement.<a id=151></a>
@@ -15565,22 +16110,22 @@ _Créé par_:
 ###### Article R133-1
 
 Les organisations et les personnes intéressées disposent d'un délai de quinze jours à compter de la publication au Recueil
-des actes administratifs de la collectivité territoriale de Mayotte de l'avis mentionné au premier alinéa de l'article L.
+des actes administratifs de la collectivité départementale de Mayotte de l'avis mentionné au premier alinéa de l'article L.
 133-7 pour présenter leurs observations.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L133-7
 
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L133-7 (M)
 
 
 ###### Article R133-2
@@ -15591,17 +16136,18 @@ mois par lettre recommandée avec demande d'avis de réception ou par avertissem
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L132-3, L133-1
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L132-3 (M)
+  - Code du travail applicable à Mayotte. - art. L133-1 (M)
 
 _Cité par_:
 
@@ -15614,32 +16160,32 @@ _Cité par_:
 ###### Article R135-1
 
 Dans les établissements soumis à l'application d'une convention ou d'un accord collectif de travail, l'avis prévu à l'article
-L. 135-7 doit être affiché dans les lieux de travail, aux emplacements réservés aux communications destinées au personnel.
+L. 135-7 doit être affiché dans les lieux de travail, aux emplacements réservés aux communications destinées au personnel. 
 
-Cet avis doit comporter [*mentions obligatoires*] l'intitulé des conventions et des accords collectifs de travail applicables
-dans l'établissement. Il doit préciser où les textes sont tenus à la disposition du personnel ainsi que les modalités propres
-à permettre à tout salarié de l'établissement de les consulter, pendant son temps de présence sur le lieu de travail.
+Cet avis doit comporter l'intitulé des conventions et des accords collectifs de travail applicables dans l'établissement. Il
+doit préciser où les textes sont tenus à la disposition du personnel ainsi que les modalités propres à permettre à tout
+salarié de l'établissement de les consulter, pendant son temps de présence sur le lieu de travail. 
 
 En ce qui concerne les concierges ou gardiens d'immeuble, les employés de maison, les travailleurs isolés ou à domicile, la
 délivrance par l'employeur à chaque salarié de ces catégories d'un document reprenant les informations qui doivent figurer
-sur l'avis se substitue à l'obligation d'affichage de ce dernier.
+sur l'avis se substitue à l'obligation d'affichage de ce dernier. 
 
 Les modifications ou compléments à apporter aux informations figurant sur l'avis ou le document qui en tient lieu, selon le
 cas, doivent l'être dans un délai d'un mois au plus tard à compter de leur date d'effet.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L135-7
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L135-7 (V)
 
 _Cité par_:
 
@@ -15661,17 +16207,17 @@ peuvent se faire assister d'une personne de leur choix.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L140-2
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L140-2 (M)
 
 _Cité par_:
 
@@ -15683,8 +16229,8 @@ _Cité par_:
 
 ###### Article R141-1
 
-Le salaire minimum interprofessionnel garanti [*SMIG*] applicable aux jeunes travailleurs de l'un ou de l'autre sexe, âgés de
-moins de dix-huit ans et de capacité physique normale, comporte un abattement désormais fixé :
+Le salaire minimum interprofessionnel garanti applicable aux jeunes travailleurs de l'un ou de l'autre sexe, âgés de moins de
+dix-huit ans et de capacité physique normale, comporte un abattement désormais fixé :
 
 - à 20 p. 100 avant dix-sept ans ;
 
@@ -15695,8 +16241,8 @@ d'activité dont ils relèvent.
 
 **Nota:**
 
-[*Nota : Code du travail applicable à Mayotte art R141-3 : les dispositions du présent chapitre ne sont pas applicables aux
-jeunes liés par un contrat d'apprentissage.*]
+Code du travail applicable à Mayotte art R141-3 : les dispositions du présent chapitre ne sont pas applicables aux jeunes
+liés par un contrat d'apprentissage.
 
 **Liens relatifs à cet article**
 
@@ -15704,9 +16250,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -15717,7 +16263,7 @@ _Cité par_:
 
 Pour déterminer la rémunération mensuelle minimale garantie d'un salarié prévue à l'article L. 141-3, il est retenu le nombre
 d'heures correspondant à la durée légale, conventionnelle ou conforme aux usages pour le mois considéré dans l'entreprise qui
-l'emploie.
+l'emploie. 
 
 Les heures correspondant aux fêtes légales désignées au premier alinéa de l'article L. 222-1 ou aux autres jours fériés
 prévus par le deuxième alinéa du même article ainsi que les heures chômées par décision de l'employeur pour tout autre motif
@@ -15726,22 +16272,18 @@ concerne les jours ouvrables chômés compris entre un jour férié et un jour d
 
 **Nota:**
 
-[*Nota : Code du travail applicable à Mayotte art R141-3 : les dispositions du présent chapitre ne sont pas applicables aux
-jeunes liés par un contrat d'apprentissage.*]
+Code du travail applicable à Mayotte art R141-3 : les dispositions du présent chapitre ne sont pas applicables aux jeunes
+liés par un contrat d'apprentissage.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L141-3, L222-1
 
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -15749,6 +16291,11 @@ _Cité par_:
   - Décret n°2005-143 du 17 février 2005 - art. 7-1 (Ab)
   - Décret n°2006-1412 du 20 novembre 2006 - art. 24 (Ab)
   - Code du travail applicable à Mayotte. - art. R414-3 (V)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L141-3 (V)
+  - Code du travail applicable à Mayotte. - art. L222-1 (V)
 
 
 ###### Article R141-3
@@ -15761,9 +16308,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 #### CHAPITRE III : Paiement du salaire<a id=156></a>
@@ -15781,9 +16328,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -15792,7 +16339,7 @@ _Cité par_:
 
 ###### Article R143-2
 
-Le bulletin de paie prévu à l'article L. 143-3 comporte obligatoirement [*mentions obligatoires*] :
+Le bulletin de paie prévu à l'article L. 143-3 comporte obligatoirement :
 
 1° Le nom et l'adresse de l'employeur ainsi que, le cas échéant, la désignation de l'établissement dont dépend le salarié ;
 
@@ -15837,21 +16384,22 @@ Le livre de paie prévu à l'article L. 143-5 est tenu par ordre de date, sans b
 apostilles. Il est coté, paraphé et visé dans la forme ordinaire et sans frais, soit par un juge du tribunal de première
 instance, soit par l'inspecteur du travail.
 
-L'employeur est tenu [*obligation*] de conserver ce livre pendant cinq ans à dater de sa clôture.
+L'employeur est tenu de conserver ce livre pendant cinq ans à dater de sa clôture.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L143-3, L143-5
 
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L143-3 (M)
+  - Code du travail applicable à Mayotte. - art. L143-5 (M)
 
 _Cité par_:
 
@@ -15870,25 +16418,25 @@ _Cité par_:
 ###### Article R145-1
 
 Les proportions dans lesquelles les rémunérations annuelles visées à l'article L. 145-1 sont saisissables ou cessibles sont
-fixées comme suit :
+fixées comme suit : 
 
-Pour la totalité, sur la tranche supérieure à un plafond fixé par arrêté du représentant du Gouvernement ;
+Pour la totalité, sur la tranche supérieure à un plafond fixé par arrêté du représentant de l'Etat ; 
 
 Pour les deux tiers, sur la tranche supérieure aux cinq sixièmes du plafond défini ci-dessus et inférieure ou égale à celui-
-ci ;
+ci ; 
 
-Pour le tiers, sur la tranche supérieure aux deux tiers, inférieure ou égale aux cinq sixièmes du plafond ;
+Pour le tiers, sur la tranche supérieure aux deux tiers, inférieure ou égale aux cinq sixièmes du plafond ; 
 
-Pour le quart, sur la tranche supérieure à la moitié, inférieure ou égale aux deux tiers du plafond ;
+Pour le quart, sur la tranche supérieure à la moitié, inférieure ou égale aux deux tiers du plafond ; 
 
-Pour le cinquième, sur la tranche supérieure au tiers, inférieure ou égale à la moitié du plafond ;
+Pour le cinquième, sur la tranche supérieure au tiers, inférieure ou égale à la moitié du plafond ; 
 
-Pour le dixième, sur la tranche supérieure au sixième, inférieure ou égale au tiers du plafond ;
+Pour le dixième, sur la tranche supérieure au sixième, inférieure ou égale au tiers du plafond ; 
 
-Pour le vingtième, sur la tranche supérieure ou égale au sixième du plafond.
+Pour le vingtième, sur la tranche supérieure ou égale au sixième du plafond. 
 
 Sur justification présentée par l'intéressé, le plafond et les seuils déterminés ci-dessus sont augmentés, par enfant à la
-charge du débiteur saisi ou du cédant, d'un montant fixé par l'arrêté du représentant du Gouvernement.
+charge du débiteur saisi ou du cédant, d'un montant fixé par l'arrêté du représentant de l'Etat. 
 
 Pour l'application de l'alinéa précédent, est considéré comme enfant à charge tout enfant se trouvant à la charge effective
 et permanente du débiteur saisi ou du cédant.
@@ -15899,9 +16447,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -15910,7 +16458,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L145-1
+  - Code du travail applicable à Mayotte. - art. L145-1 (V)
 
 
 ##### Section 2 : Procédure de cession et de saisie-arrêt.<a id=159></a>
@@ -15918,66 +16466,68 @@ _Cite_:
 ###### Article R145-2
 
 La cession des créances mentionnées à l'article L. 145-1 ne peut être consentie, quel qu'en soit le montant, que par une
-déclaration souscrite par le cédant en personne devant le greffier du tribunal de première instance [*autorité compétente*].
+déclaration souscrite par le cédant en personne devant le greffier du tribunal de première instance. 
 
 Le greffier fait mention de la déclaration sur les fiches individuelles prévues à l'article R. 145-20. Il adresse, lorsqu'il
 en est requis par les parties ou par l'une d'elles, une notification par lettre recommandée au débiteur de la rémunération ou
-à son représentant préposé au paiement, au lieu où travaille le cédant.
+à son représentant préposé au paiement, au lieu où travaille le cédant. 
 
-La retenue est opérée sur cette seule notification.
+La retenue est opérée sur cette seule notification. 
 
-La cession qui n'est pas notifiée dans le délai d'un an est périmée.
+La cession qui n'est pas notifiée dans le délai d'un an est périmée. 
 
 Le cessionnaire touche directement les retenues du débiteur de la rémunération sur la production d'une copie certifiée
-conforme de la déclaration.
+conforme de la déclaration. 
 
 Toutefois, lorsque la cession est paralysée par une ou plusieurs oppositions antérieures, les sommes retenues sont versées au
 greffe du tribunal de première instance, conformément aux dispositions de l'article R. 145-12.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L145-1, R145-20, R145-12
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L145-1 (V)
+  - Code du travail applicable à Mayotte. - art. R145-12 (V)
+  - Code du travail applicable à Mayotte. - art. R145-20 (V)
 
 
 ###### Article R145-3
 
 La saisie-arrêt portant sur les rémunérations mentionnées à l'article L. 145-1 ne peut, quel qu'en soit le montant, être
 faite, même si le créancier a titre, qu'après un essai de conciliation devant le président du tribunal de première instance
-ou du juge désigné par lui à cet effet.
+ou du juge désigné par lui à cet effet. 
 
 Sur la réquisition du créancier, le juge convoque le débiteur devant lui au moyen d'une lettre recommandée adressée par le
-greffier avec demande d'avis de réception [*condition de forme*] Le délai pour la comparution est de huit jours à partir de
-la date de remise figurant à l'avis de réception [*point de départ*].
+greffier avec demande d'avis de réception. Le délai pour la comparution est de huit jours à partir de la date de remise
+figurant à l'avis de réception. 
 
 Les lieu, jour et heure de l'essai de conciliation sont indiqués verbalement au créancier au moment où il formule sa
-réquisition.
+réquisition. 
 
 A défaut d'avis de réception et si le débiteur ne se présente pas, le créancier doit, sauf s'il a un titre exécutoire, le
 citer à nouveau en conciliation par exploit d'huissier dans le délai prescrit à l'alinéa 2 du présent article.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L145-1
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L145-1 (V)
 
 _Cité par_:
 
@@ -16005,9 +16555,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article R145-5
@@ -16035,9 +16585,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -16050,24 +16600,24 @@ _Cité par_:
 Lorsqu'une saisie-arrêt aura été pratiquée, s'il survient d'autres créanciers, leurs demandes signées et déclarées sincères
 par eux et contenant toutes les pièces de nature à mettre le juge à même de faire l'évaluation des créances sont inscrites
 par le greffier sur les fiches individuelles prévues à l'article R. 145-20. Le greffier en donne avis dans les quarante-huit
-heures au tiers saisi par lettre recommandée qui vaut opposition et également par lettre recommandée au débiteur saisi.
+heures au tiers saisi par lettre recommandée qui vaut opposition et également par lettre recommandée au débiteur saisi. 
 
 En cas de changement de domicile, le créancier saisissant ou intervenant doit déclarer au greffe sa nouvelle résidence et il
 en est fait mention par le greffier sur les fiches sus-indiquées.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte R145-20
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R145-20 (V)
 
 
 ###### Article R145-7
@@ -16079,32 +16629,32 @@ Le juge peut aussi ordonner d'office cette convocation.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte R145-20
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. R145-13 (V)
 
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R145-20 (V)
+
 
 ###### Article R145-8
 
-Dans les quarante-huit heures [*délai*] de la réquisition ou de l'ordonnance, le greffier adresse :
+Dans les quarante-huit heures de la réquisition ou de l'ordonnance, le greffier adresse : 
 
-1° Au saisi ;
+1° Au saisi ; 
 
-2° Au tiers saisi ;
+2° Au tiers saisi ; 
 
-3° A tous autres créanciers opposants,
+3° A tous autres créanciers opposants, 
 
 un avertissement recommandé à comparaître devant le juge à l'audience que celui-ci aura fixée. Le délai à observer est le
 même que celui qui est prévu à l'article R. 145-3.
@@ -16117,77 +16667,78 @@ la situation de droit existant entre le tiers saisi et le débiteur saisi.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte R145-3
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R145-3 (V)
 
 
 ###### Article R145-9
 
 Le jugement qui prononce la validité de la saisie-arrêt ne confère au saisissant sur les sommes saisies aucun droit exclusif
-au préjudice des intervenants.
+au préjudice des intervenants. 
 
 L'attribution des sommes saisies aux saisissants ou intervenants résulte des répartitions prévues à l'article R. 145-14, à
 concurrence de la somme répartie.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte R145-14
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R145-14 (V)
 
 
 ###### Article R145-10
 
 Si le jugement est rendu par défaut, avis de ses dispositions est transmis par le greffier à la partie défaillante par lettre
-recommandée dans les trois jours [*délai*] du prononcé.
+recommandée dans les trois jours du prononcé. 
 
 L'opposition n'est recevable que dans les quinze jours de la date de remise de cette lettre. Elle consiste dans une
 déclaration au greffe du tribunal de première instance, laquelle est consignée sur les fiches individuelles prévues à
-l'article R. 145-20.
+l'article R. 145-20. 
 
 Toutes parties intéressées sont prévenues par lettre recommandée du greffier, pour la prochaine audience utile, en observant
 les délais de l'article R. 145-3. Le jugement qui intervient est réputé contradictoire.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte R145-20, R145-3
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. R145-13 (V)
 
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R145-20 (V)
+  - Code du travail applicable à Mayotte. - art. R145-3 (V)
+
 
 ###### Article R145-11
 
 Le délai pour interjeter appel est de quinze jours. Il court pour les jugements contradictoires du jour du prononcé du
-jugement ; pour les jugements réputés contradictoires, du jour de leur notification [*point de départ*].
+jugement ; pour les jugements réputés contradictoires, du jour de leur notification.
 
 Le jugement contradictoire n'a pas besoin d'être signifié.
 
@@ -16197,50 +16748,50 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article R145-12
 
 Dans les quinze jours qui suivent chaque trimestre, à partir de l'avis prévu à l'article R. 145-5 ou dans les quinze jours
 qui suivent l'époque où les retenues cesseraient d'être opérées, le tiers saisi verse au greffier en chef le montant des
-sommes retenues ; il est valablement libéré sur la seule quittance du greffier en chef.
+sommes retenues ; il est valablement libéré sur la seule quittance du greffier en chef. 
 
 Le tiers saisi a la faculté de remettre au greffier en chef le montant desdites sommes par l'intermédiaire de
 l'administration des postes, au moyen d'un mandat-carte accompagné d'une demande d'avis de réception. L'avis de réception
-délivré par l'administration des postes au tiers saisi a la même valeur que la quittance du greffier en chef.
+délivré par l'administration des postes au tiers saisi a la même valeur que la quittance du greffier en chef. 
 
 Le tiers saisi opérant son versement remet au greffier en chef une note indicative des noms des parties, de la somme versée
 et de ses causes.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte R145-5
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. R145-14 (V)
   - Code du travail applicable à Mayotte. - art. R145-2 (V)
 
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R145-5 (V)
+
 
 ###### Article R145-13
 
 Lorsque le tiers saisi n'a pas effectué son versement à l'époque fixée ci-dessus, il peut y être contraint en vertu d'une
-ordonnance qui est rendue d'office par le juge et dans laquelle le montant de la somme à verser est énoncé.
+ordonnance qui est rendue d'office par le juge et dans laquelle le montant de la somme à verser est énoncé. 
 
-Cette ordonnance peut être sollicitée par les parties dans les formes prévues par le premier alinéa de l'article R. 145-7.
+Cette ordonnance peut être sollicitée par les parties dans les formes prévues par le premier alinéa de l'article R. 145-7. 
 
 L'ordonnance est notifiée par le greffier, sous pli recommandé, dans les trois jours de sa date. Le tiers saisi dispose de
 quinze jours à partir de cette notification pour former opposition au moyen d'une déclaration au greffe, qui est portée sur
@@ -16253,61 +16804,64 @@ formule exécutoire.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte R145-7, R145-20, R145-10
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R145-10 (V)
+  - Code du travail applicable à Mayotte. - art. R145-20 (V)
+  - Code du travail applicable à Mayotte. - art. R145-7 (V)
 
 
 ###### Article R145-14
 
 La répartition des sommes encaissées dans les conditions prévues aux articles R. 145-12 et R. 145-13 est faite au greffe par
-le juge assisté du greffier, après convocation des parties intéressées.
+le juge assisté du greffier, après convocation des parties intéressées. 
 
 Cette répartition est effectuée dès que la somme à distribuer atteint, déduction faite des frais à prélever et des créances
-privilégiées, un dividende de 35 p. 100 au moins.
+privilégiées, un dividende de 35 % au moins. 
 
 Toutefois, en cas de cause grave, notamment à la cessation des services du débiteur saisi, il est procédé à cette répartition
-quel que soit le montant des sommes à distribuer.
+quel que soit le montant des sommes à distribuer. 
 
 En aucun cas il ne peut être sursis à la répartition plus de six mois à compter du premier encaissement au greffe ou de la
-dernière distribution.
+dernière distribution. 
 
 Si les parties ne s'entendent pas amiablement devant le juge, celui-ci procède à la répartition entre les ayants droit et
 dresse un procès-verbal indiquant le montant des frais à prélever, le montant des créances privilégiées, s'il en existe, et
-le montant des sommes attribuées à chaque ayant droit.
+le montant des sommes attribuées à chaque ayant droit. 
 
-Les sommes versées aux ayants droit sont quittancées sur le procès-verbal.
+Les sommes versées aux ayants droit sont quittancées sur le procès-verbal. 
 
 Si les parties se sont entendues avant de comparaître devant le juge, la répartition amiable sera visée par lui, pourvu
 qu'elle ne comporte aucune disposition contraire à la loi et qu'elle ne comprenne aucun frais à la charge du débiteur. Le
-juge la fera porter sur les fiches individuelles prévues à l'article R. 145-20.
+juge la fera porter sur les fiches individuelles prévues à l'article R. 145-20. 
 
-Il n'est pas fait de répartition de sommes au-dessous de 10 F, à moins que les retenues opérées jusqu'à cette somme soient
-suffisantes pour désintéresser les créanciers.
+Il n'est pas fait de répartition de sommes au-dessous de 1,5 euros, à moins que les retenues opérées jusqu'à cette somme
+soient suffisantes pour désintéresser les créanciers. 
 
 Toute partie intéressée peut réclamer, à ses frais, une copie ou un extrait de l'état de répartition.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte R145-12, R145-13, R145-20
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R145-12 (V)
+  - Code du travail applicable à Mayotte. - art. R145-20 (V)
 
 _Cité par_:
 
@@ -16324,17 +16878,17 @@ au tiers saisi par le greffier.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte R145-20
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R145-20 (V)
 
 
 ###### Article R145-16
@@ -16349,9 +16903,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -16362,7 +16916,7 @@ _Cité par_:
 ###### Article R145-17
 
 Aucun créancier, compris dans les répartitions ci-dessus mentionnées, ne peut former une nouvelle saisie-arrêt sur la
-rémunération du débiteur, à moins qu'il ne soit pas payé à l'une des échéances convenues.
+rémunération du débiteur, à moins qu'il ne soit pas payé à l'une des échéances convenues. 
 
 Si un créancier, non compris dans ces répartitions ou dont la créance serait née postérieurement à l'ordonnance de mainlevée
 forme une saisie-arrêt ou si l'un de ces créanciers dont la saisie a été levée n'est pas payé au terme convenu et forme, pour
@@ -16372,17 +16926,17 @@ tiers saisi, dans les formes et délais prévus à l'article R. 145-5.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte R145-5
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R145-5 (V)
 
 
 ###### Article R145-18
@@ -16401,9 +16955,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article R145-19
@@ -16418,9 +16972,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article R145-20
@@ -16434,9 +16988,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -16457,17 +17011,17 @@ répartitions, sur simple quittance, en justifiant de l'autorisation du juge.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L125-2
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L125-2 (Ab)
 
 
 #### CHAPITRE VI : Règles particulières au contrôle et à la répartition des pourboires<a id=160></a>
@@ -16475,21 +17029,25 @@ _Créé par_:
 ###### Article R146-1
 
 L'employeur est tenu de justifier de l'encaissement et de la remise à son personnel des sommes mentionnées à l'article L.
-146-1 [*pourboires*].
+146-1.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L146-1
 
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L146-1
 
 _Cité par_:
 
@@ -16499,23 +17057,27 @@ _Cité par_:
 ###### Article R146-2
 
 Les modes de justification à la charge de l'employeur, les catégories de personnel qui doivent prendre part à la répartition
-des sommes visées à l'article L. 146-1 [*pourboires*] et les modalités de cette répartition sont déterminés par profession ou
-par catégorie professionnelle par les conventions collectives ou, à défaut, par des arrêtés du représentant du Gouvernement à
-Mayotte après consultation des organisations d'employeurs et de travailleurs intéressées.
+des sommes visées à l'article L. 146-1 et les modalités de cette répartition sont déterminés par profession ou par catégorie
+professionnelle par les conventions collectives ou, à défaut, par des arrêtés du représentant de l'Etat à Mayotte après
+consultation des organisations d'employeurs et de travailleurs intéressées.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L146-1
-
 _Codifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe
+  - Décret n°91-1263 du 16 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L146-1
 
 _Cité par_:
 
@@ -16534,34 +17096,46 @@ L'employeur qui contrevient aux dispositions des articles L. 113-3, L. 113-4, L.
 114-2 est passible de l'amende prévue pour les contraventions de la 4e classe.
 
 En cas de récidive, le tribunal de police peut prononcer, outre l'amende prévue pour les contraventions de la 5e classe, un
-emprisonnement de dix jours à un mois [*durée*].
+emprisonnement de dix jours à un mois.
 
-L'employeur qui contrevient à l'article L. 113-5 [*conditions d'agrément*] est passible d'un emprisonnement de dix jours à un
-mois et de l'amende prévue pour les contraventions de la 5e classe ou de l'une de ces deux peines seulement.
+L'employeur qui contrevient à l'article L. 113-5 est passible d'un emprisonnement de dix jours à un mois et de l'amende
+prévue pour les contraventions de la 5e classe ou de l'une de ces deux peines seulement.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L113-3, L113-4, L113-6, L113-7, L113-8, L113-10, L114-2, L113-5
 
 **Liens**:
 
   - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L113-3, L113-4, L113-6, L113-7, L113-8, L113-10, L114-2, L113-5
+  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 2
 
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L113-10
+  - Code du travail applicable à Mayotte. - art. L113-3
+  - Code du travail applicable à Mayotte. - art. L113-4
+  - Code du travail applicable à Mayotte. - art. L113-5
+  - Code du travail applicable à Mayotte. - art. L113-6
+  - Code du travail applicable à Mayotte. - art. L113-7
+  - Code du travail applicable à Mayotte. - art. L113-8
+  - Code du travail applicable à Mayotte. - art. L114-2
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. R161-1 (V)
 
 
 ###### Article R151-2
 
-Sont passibles de l'amende prévue pour les contraventions de la 5e classe [*(1) montant*] les employeurs qui paient des
-salaires inférieurs au minimum prévu par l'article L. 113-9 [*pourcentage du SMIG*].
+Sont passibles de l'amende prévue pour les contraventions de la 5e classe (1) les employeurs qui paient des salaires
+inférieurs au minimum prévu par l'article L. 113-9.
 
 L'amende sera appliquée autant de fois qu'il y aura d'apprentis rémunérés dans des conditions illégales.
 
@@ -16576,52 +17150,65 @@ code pénal.
 
 **Nota:**
 
-[*Nota : (1) voir l'article 131-13 du code pénal.*]
+(1) voir l'article 131-13 du code pénal.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L113-9
-  - Code pénal 471
-
 _Codifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe
+  - Décret n°91-1263 du 16 décembre 1991
 
 _Modifié par_:
 
-  - Décret n°93-726 1993-03-29 art. 1 JORF 30 mars 1993 en vigueur le 1er mars 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+_Cite_:
+
+  - Code pénal
+  - Code du travail applicable à Mayotte. - art. L113-9
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. R161-2 (V)
 
 
 ###### Article R151-3
 
-L'employeur qui contrevient aux dispositions de l'article L. 114-3 [*horaires de travail*] est passible de l'amende prévue
-pour les contraventions de la 4e classe.
+L'employeur qui contrevient aux dispositions de l'article L. 114-3 est passible de l'amende prévue pour les contraventions de
+la 4e classe.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L114-3
 
 **Liens**:
 
   - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L114-3
+  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 2
 
 _Codifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe
+  - Décret n°91-1263 du 16 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L114-3
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. R161-3 (V)
 
 
 ###### Article R151-4
 
-L'employeur qui contrevient aux dispositions des articles L. 114-4 [*travail de nuit*] et L. 114-5 [*congés pour la
-préparation des épreuves des apprentis*] est passible de l'amende prévue pour les contraventions de la 5e classe.
+L'employeur qui contrevient aux dispositions des articles L. 114-4 et L. 114-5 est passible de l'amende prévue pour les
+contraventions de la 5e classe.
 
 En cas de récidive, l'amende prévue pour les contraventions de la 5e classe commises en état de récidive est encourue.
 
@@ -16630,41 +17217,39 @@ En cas de récidive, l'amende prévue pour les contraventions de la 5e classe co
 **Liens**:
 
   - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L114-4, L114-5
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L114-4, L114-5
+  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 2
 
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L114-4
+  - Code du travail applicable à Mayotte. - art. L114-5
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. R161-4 (V)
 
 
 ##### Section 2 : Contrat de travail.<a id=164></a>
 
 ###### Article R151-5
 
-Toute contravention à l'article L. 122-33 [*obligation de délivrer un certificat à l'expiration du contrat de travail*] sera
-passible de l'amende prévue pour les contraventions de la 4e classe [*(1) montant*]. En cas de récidive, le tribunal de
-police pourra prononcer l'amende prévue pour les contraventions de la 5e classe.
-
-**Nota:**
-
-[*Nota : (1) voir l'article 131-13 du code pénal.*]
+Toute contravention à l'article L. 122-33 sera passible de l'amende prévue pour les contraventions de la 4e classe. En cas de
+récidive, le tribunal de police pourra prononcer l'amende prévue pour les contraventions de la 5e classe.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-33
 
 **Liens**:
 
   - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L122-33
+  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 2
 
 _Codifié par_:
 
@@ -16672,31 +17257,31 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°93-726 1993-03-29 art. 1 JORF 30 mars 1993 en vigueur le 1er mars 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-33
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. R161-5 (V)
 
 
 ###### Article R151-6
 
-Toute infraction aux dispositions des articles L. 122-35 [*réintégration dans l'entreprise aprés la libération des
-obligations militaires*] L. 122-36 [*priorité à l'embauche*] et L. 122-37 et à celles de l'article R. 122-6 est punie de
-l'amende prévue pour les contraventions de la 5e classe [*(1) montant*].
+Toute infraction aux dispositions des articles L. 122-35 L. 122-36 et L. 122-37 et à celles de l'article R. 122-6 est punie
+de l'amende prévue pour les contraventions de la 5e classe.
 
 En cas de récidive dans le délai d'un an, le tribunal peut prononcer l'amende prévue pour les contraventions de la 5e classe
 en récidive.
-
-**Nota:**
-
-[*Nota : (1) voir l'article 131-13 du code pénal.*]
 
 **Liens relatifs à cet article**
 
 **Liens**:
 
   - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L122-35, L122-36, L122-37, R122-6
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-35, L122-37, R122-6
+  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 2
 
 _Codifié par_:
 
@@ -16704,7 +17289,17 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°93-726 1993-03-29 art. 1 JORF 30 mars 1993 en vigueur le 1er mars 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-35
+  - Code du travail applicable à Mayotte. - art. L122-37
+  - Code du travail applicable à Mayotte. - art. R122-6
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. R161-6 (V)
 
 
 ###### Article R151-7
@@ -16718,6 +17313,7 @@ articles L. 122-45 à L. 122-51 et aux dispositions des articles R. 122-7 à R. 
 **Liens**:
 
   - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L122-45, L122-46, L122-47, L122-48, L122-49, L122-50, L122-51, R122-7, R122-8, R122-9, R122-10
+  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 2
 
 _Cite_:
 
@@ -16725,32 +17321,29 @@ _Cite_:
 
 _Codifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe
+  - Décret n°91-1263 du 16 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. R161-7 (V)
 
 
 ###### Article R151-8
 
-Toute contravention aux articles L. 122-67 à L. 122-71, R. 122-11 à R. 122-15 [*réglement intérieur de l'entreprise*] sera
-passible de l'amende prévue pour les contraventions de la 4e classe [*(1) montant*]. En cas de récidive, le tribunal de
-police pourra prononcer l'amende prévue pour les contraventions de la 5e classe.
-
-**Nota:**
-
-[*Nota : (1) voir l'article 131-13 du code pénal.*]
+Toute contravention aux articles L. 122-67 à L. 122-71, R. 122-11 à R. 122-15 sera passible de l'amende prévue pour les
+contraventions de la 4e classe. En cas de récidive, le tribunal de police pourra prononcer l'amende prévue pour les
+contraventions de la 5e classe.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L122-67 à L122-71, R122-11 à R122-15
 
 **Liens**:
 
   - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L122-67, L122-68, L122-69, L122-70, L122-71, R122-11, R122-12, R122-13, R122-14, R122-15
+  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 2
 
 _Codifié par_:
 
@@ -16758,26 +17351,25 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°93-726 1993-03-29 art. 1 JORF 30 mars 1993 en vigueur le 1er mars 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte.
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. R161-8 (V)
 
 
 #### CHAPITRE II : Marchandages<a id=165></a>
 
 ###### Article R152-1
 
-Toute contravention à l'article R. 124-1 [*publicité obligatoire*] sera passible de l'amende prévue pour les contraventions
-de la 4e classe [*(1) montant*]. En cas de récidive, le tribunal pourra prononcer l'amende prévue pour les contraventions de
-la 5e classe.
-
-**Nota:**
-
-[*Nota : (1) voir l'article 131-13 du code pénal.*]
+Toute contravention à l'article R. 124-1 sera passible de l'amende prévue pour les contraventions de la 4e classe. En cas de
+récidive, le tribunal pourra prononcer l'amende prévue pour les contraventions de la 5e classe.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte R124-1
 
 **Liens**:
 
@@ -16789,7 +17381,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°93-726 1993-03-29 art. 1 JORF 30 mars 1993 en vigueur le 1er mars 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R124-1 (M)
 
 _Cité par_:
 
@@ -16801,14 +17397,9 @@ _Cité par_:
 ###### Article R153-1
 
 Toute infraction aux prescriptions des articles L. 125-1, L. 125-2 et des arrêtés pris pour leur application ainsi qu'aux
-prescriptions de l'article R. 125-1 [*règles relatives au cautionnement*] sera passible de l'amende prévue pour les
-contraventions de la 5e classe.
+prescriptions de l'article R. 125-1 sera passible de l'amende prévue pour les contraventions de la 5e classe.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L125-1, L125-2, R125-1
 
 **Liens**:
 
@@ -16818,9 +17409,15 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L125-1 (M)
+  - Code du travail applicable à Mayotte. - art. L125-2 (M)
+  - Code du travail applicable à Mayotte. - art. R125-1 (M)
 
 
 #### CHAPITRE IV : Groupements d'employeurs<a id=167></a>
@@ -16839,18 +17436,23 @@ En cas de récidive, les peines prévues pour les contraventions de la 5e classe
 **Liens**:
 
   - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L126-5
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L126-5
+  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 2
 
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L126-5
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. R126-7 (V)
 
 
 #### CHAPITRE V : Conventions et accords collectifs de travail<a id=168></a>
@@ -16875,9 +17477,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 #### CHAPITRE VI : Salaire<a id=169></a>
@@ -16886,8 +17488,8 @@ _Créé par_:
 
 ###### Article R156-1
 
-I. - Tout employeur qui contrevient aux dispositions des articles L. 140-1 et L. 140-2 [*égalité entre les hommes et les
-femmes*] est passible de l'amende prévue pour les contraventions de la 5e classe [*(1) montant*].
+I. - Tout employeur qui contrevient aux dispositions des articles L. 140-1 et L. 140-2 est passible de l'amende prévue pour
+les contraventions de la 5e classe.
 
 L'amende sera appliquée autant de fois qu'il y aura de travailleurs rémunérés dans des conditions illégales.
 
@@ -16897,13 +17499,9 @@ récidive.
 En cas de condamnation, le tribunal peut ordonner l'affichage du jugement, conformément aux dispositions de l'article 471 du
 code pénal.
 
-II. - Le défaut de communication par l'employeur des éléments [*qui concourent à la détermination des rémunérations dans
-l'entreprise*] définis à l'article R. 140-1 est passible de l'amende prévue pour les contraventions de la 3e classe pouvant
-être portée à celle prévue pour les contraventions de la 4e classe en cas de récidive dans le délai d'un an.
-
-**Nota:**
-
-[*Nota : (1) voir l'article 131-13 du code pénal.*]
+II. - Le défaut de communication par l'employeur des éléments définis à l'article R. 140-1 est passible de l'amende prévue
+pour les contraventions de la 3e classe pouvant être portée à celle prévue pour les contraventions de la 4e classe en cas de
+récidive dans le délai d'un an.
 
 **Liens relatifs à cet article**
 
@@ -16911,27 +17509,33 @@ l'entreprise*] définis à l'article R. 140-1 est passible de l'amende prévue p
 
   - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L140-1, L140-2
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L140-1, L140-2, R140-1
-  - Code pénal 471
-
 _Codifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe
+  - Décret n°91-1263 du 16 décembre 1991
 
 _Modifié par_:
 
-  - Décret n°93-726 1993-03-29 art. 1 JORF 30 mars 1993 en vigueur le 1er mars 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+_Cite_:
+
+  - Code pénal
+  - Code du travail applicable à Mayotte. - art. L140-1
+  - Code du travail applicable à Mayotte. - art. L140-2
+  - Code du travail applicable à Mayotte. - art. R140-1
 
 
 ##### Section 2 : Salaire minimum garanti et rémunération mensuelle minimale garantie.<a id=171></a>
 
 ###### Article R156-2
 
-Sont passibles de l'amende prévue pour les contraventions de la 5e classe [*(1) montant*] les employeurs qui paient des
-salaires inférieurs au minimum prévu par l'article L. 141-2 ainsi que les employeurs qui paient des rémunérations inférieures
-à la rémunération mensuelle minimale garantie par l'article L. 141-3.
+Sont passibles de l'amende prévue pour les contraventions de la 5e classe les employeurs qui paient des salaires inférieurs
+au minimum prévu par l'article L. 141-2 ainsi que les employeurs qui paient des rémunérations inférieures à la rémunération
+mensuelle minimale garantie par l'article L. 141-3.
 
 L'amende sera appliquée autant de fois qu'il y aura de travailleurs rémunérés dans des conditions illégales.
 
@@ -16944,16 +17548,7 @@ En cas de pluralité de contraventions entraînant des peines de récidive, l'am
 En cas de condamnation, le tribunal peut ordonner l'affichage du jugement, conformément aux dispositions de l'article 471 du
 code pénal.
 
-**Nota:**
-
-[*Nota : (1) voir l'article 131-13 du code pénal.*]
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L141-2, L141-3
-  - Code pénal 471
 
 _Codifié par_:
 
@@ -16961,7 +17556,21 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°93-726 1993-03-29 art. 1 JORF 30 mars 1993 en vigueur le 1er mars 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+_Cite_:
+
+  - Code pénal
+  - Code du travail applicable à Mayotte. - art. L141-2
+  - Code du travail applicable à Mayotte. - art. L141-3
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. R163-1 (V)
 
 
 ##### Section 3 : Paiement du salaire.<a id=172></a>
@@ -16976,10 +17585,6 @@ En cas de récidive dans le délai d'un an, l'amende sera celle prévue pour les
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L143-1 à L143-3, L143-5, L146-1, L146-2, R143-1, R143-2, R146-1, R146-2
-
 **Liens**:
 
   - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L143-1, L143-2, L143-3, L143-5, L146-1, L146-2, R143-1, R143-2, R146-1, R146-2
@@ -16988,9 +17593,24 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Décret n°2013-612 du 10 juillet 2013 - art. 2
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte.
+  - Code du travail applicable à Mayotte. - art. L143-5
+  - Code du travail applicable à Mayotte. - art. L146-1
+  - Code du travail applicable à Mayotte. - art. L146-2
+  - Code du travail applicable à Mayotte. - art. R143-1
+  - Code du travail applicable à Mayotte. - art. R143-2
+  - Code du travail applicable à Mayotte. - art. R146-1
+  - Code du travail applicable à Mayotte. - art. R146-2
 
 
 ##### Section 4 : Retenues sur le salaire.<a id=173></a>
@@ -17010,18 +17630,26 @@ prendre part à la mainlevée prévue aux articles L. 145-4 et R. 145-16, des cr
 **Liens**:
 
   - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L144-3
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L144-3, L156-2, L145-4, R145-16
+  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 2
 
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L144-3
+  - Code du travail applicable à Mayotte. - art. L145-4
+  - Code du travail applicable à Mayotte. - art. L156-2
+  - Code du travail applicable à Mayotte. - art. R145-16
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. R163-2 (V)
 
 
 ## LIVRE II : Réglementation du travail<a id=174></a>
@@ -17032,26 +17660,25 @@ _Créé par_:
 
 ###### Article R212-1
 
-Les recours hiérarchiques dirigés contre les décisions prévues à l'article L. 212-6 [*heures supplémentaires*] sont portés
-devant le directeur du travail chargé de la coordination des départements d'outre-mer et des collectivités territoriales
-[*autorité compétente*].
+Les recours hiérarchiques dirigés contre les décisions prévues à l'article L. 212-6 sont portés devant le directeur du
+travail chargé de la coordination des départements d'outre-mer et des collectivités territoriales. 
 
 Ces recours doivent, à peine de forclusion, être présentés dans les quinze jours suivant la notification des décisions
 contestées, à l'inspection du travail, qui les transmet sans délai au directeur mentionné à l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L212-6
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L212-6 (V)
 
 _Cité par_:
 
@@ -17066,17 +17693,17 @@ l'emploi.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte R212-1
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R212-1 (V)
 
 
 #### CHAPITRE III : Travail de nuit<a id=177></a>
@@ -17090,17 +17717,19 @@ l'autorisation, ainsi que le nombre de femmes majeures auxquelles s'appliquera c
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L213-4, L213-1, L213-2
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L213-1 (M)
+  - Code du travail applicable à Mayotte. - art. L213-2 (M)
+  - Code du travail applicable à Mayotte. - art. L213-4 (M)
 
 _Cité par_:
 
@@ -17116,17 +17745,20 @@ travail de nuit des femmes, doivent adresser à l'inspecteur du travail, une dem
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L213-5, L213-1, L213-2, R213-1
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L213-1 (M)
+  - Code du travail applicable à Mayotte. - art. L213-2 (M)
+  - Code du travail applicable à Mayotte. - art. L213-5 (M)
+  - Code du travail applicable à Mayotte. - art. R213-1 (M)
 
 
 ### TITRE II : Repos et congés<a id=178></a>
@@ -17136,47 +17768,46 @@ _Créé par_:
 ###### Article R221-1
 
 Lorsqu'un établissement veut bénéficier de l'une des exceptions à l'attribution le dimanche du repos hebdomadaire, qui sont
-prévues à l'article L. 221-7, il est tenu d'adresser une demande au représentant du Gouvernement à Mayotte.
+prévues à l'article L. 221-7, il est tenu d'adresser une demande au représentant de l'Etat à Mayotte. 
 
-Les avis prévus audit article doivent être donnés dans le délai d'un mois.
+Les avis prévus audit article doivent être donnés dans le délai d'un mois. 
 
-Le représentant du Gouvernement statue ensuite par un arrêté motivé qu'il notifie dans la huitaine.
+Le représentant de l'Etat statue ensuite par un arrêté motivé qu'il notifie dans la huitaine.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L221-7
 
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L221-7 (V)
 
 
 ###### Article R221-2
 
-Les demandes formées en vertu de l'article L. 221-8 sont adressées au représentant du Gouvernement à Mayotte [*autorité
-compétente*].
+Les demandes formées en vertu de l'article L. 221-8 sont adressées au représentant de l'Etat à Mayotte. 
 
 Celui-ci statue par un arrêté motivé qu'il notifie dans la huitaine aux établissements intéressés.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L221-8
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L221-8 (V)
 
 
 ###### Article R221-3
@@ -17203,9 +17834,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article R221-4
@@ -17227,38 +17858,40 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article R221-5
 
 Tout employeur qui veut suspendre le repos hebdomadaire, en vertu des articles L. 221-13, L. 221-22 et L. 221-23, doit en
-aviser l'inspecteur du travail immédiatement et, sauf le cas de force majeure, avant le commencement du travail.
+aviser l'inspecteur du travail immédiatement et, sauf le cas de force majeure, avant le commencement du travail. 
 
 Il doit faire connaître à ce fonctionnaire les circonstances qui justifient la suspension du repos hebdomadaire, indiquer la
-date et la durée de cette suspension et spécifier le nombre de salariés auxquels elle s'applique.
+date et la durée de cette suspension et spécifier le nombre de salariés auxquels elle s'applique. 
 
 En outre, dans le cas prévu par l'article L. 221-13, lorsque des travaux urgents sont exécutés par une entreprise distincte,
 l'avis du chef, du directeur ou du gérant de cette entreprise mentionne la date du jour de repos compensateur assuré au
-personnel.
+personnel. 
 
 Pour les industries déterminées à l'article L. 221-23, l'avis indique les deux jours de repos mensuels réservés aux salariés.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L221-13, L221-22, L221-23
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L221-13 (V)
+  - Code du travail applicable à Mayotte. - art. L221-22 (V)
+  - Code du travail applicable à Mayotte. - art. L221-23 (V)
 
 
 ###### Article R221-6
@@ -17268,17 +17901,13 @@ la dérogation.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte R221-5
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 #### CHAPITRE II : Jours fériés<a id=180></a>
@@ -17291,17 +17920,17 @@ pratiquée dans l'établissement.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L222-7
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L222-7 (V)
 
 _Cité par_:
 
@@ -17319,11 +17948,19 @@ année.
 
 _Codifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe
+  - Décret n°91-1263 du 16 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2013-612 du 10 juillet 2013 - art. 3
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. D223-1 (V)
 
 
 ### TITRE V : Pénalités<a id=182></a>
@@ -17333,28 +17970,24 @@ _Créé par_:
 ###### Article R250-1
 
 Les infractions à l'article L. 200-1 et aux règlements pris pour son application seront passibles de l'amende prévue pour les
-contraventions de la 3e classe.
+contraventions de la 3e classe. 
 
 En cas de récidive dans le délai d'un an, les contrevenants seront passibles de l'amende prévue pour les contraventions de la
 4e classe.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L200-1
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L200-1
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L200-1 (V)
 
 _Cité par_:
 
@@ -17364,52 +17997,13 @@ _Cité par_:
 ###### Article R250-2
 
 L'amende est appliquée autant de fois qu'il y a de personnes employées dans des conditions contraires aux prescriptions
-mentionnées aux articles R. 250-1, R 253-1, R. 253-4, R. 253-5, R. 253-6, R. 253-7, R. 254-1, R. 254-3 et R. 254-6.
+mentionnées aux articles R. 250-1, R 253-1, R. 253-4, R. 253-5, R. 253-6, R. 253-7, 
+R. 254-1, R. 254-3 et R. 254-6. 
 
 En cas de pluralité de contraventions entraînant les peines de la récidive, l'amende est appliquée autant de fois qu'il a été
 relevé de nouvelles infractions.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte R250-1, R253-1, R253-4, R253-5, R253-6, R253-7, R254-1, R254-3, R254-6
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte R250-1, R253-1, R253-4, R253-5, R253-6, R253-7, R254-1, R254-3, R254-6
-
-_Codifié par_:
-
-  - Décret n°91-1263 1991-12-16 annexe
-
-_Créé par_:
-
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
-
-
-#### Chapitre 1er : Hygiène et sécurité.<a id=184></a>
-
-###### Article R251-1
-
-Le chef d'établissement sera puni de l'amende prévue pour les contraventions de la 5e classe [*(1) montant*] lorsque, à
-l'expiration du délai prévu dans la mise en demeure notifiée en application de l'article R. 230-9, il n'aura pas été remédié
-aux infractions constatées.
-
-L'amende est appliquée autant de fois qu'il y a de salariés directement exposés à la situation dangereuse visée par la mise
-en demeure.
-
-En cas de récidive, il pourra être prononcé l'amende prévue pour les contraventions de la 5e classe en récidive.
-
-**Nota:**
-
-[*Nota : (1) voir l'article 131-13 du code pénal.*]
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte R230-9
 
 _Codifié par_:
 
@@ -17417,7 +18011,44 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°93-726 1993-03-29 art. 1 JORF 30 mars 1993 en vigueur le 1er mars 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R250-1 (V)
+  - Code du travail applicable à Mayotte. - art. R253-1 (V)
+  - Code du travail applicable à Mayotte. - art. R253-4 (V)
+  - Code du travail applicable à Mayotte. - art. R254-1 (V)
+  - Code du travail applicable à Mayotte. - art. R254-3 (V)
+  - Code du travail applicable à Mayotte. - art. R254-6 (V)
+
+
+#### Chapitre 1er : Hygiène et sécurité.<a id=184></a>
+
+###### Article R251-1
+
+Le chef d'établissement sera puni de l'amende prévue pour les contraventions de la 5e classe lorsque, à l'expiration du délai
+prévu dans la mise en demeure notifiée en application de l'article R. 230-9, il n'aura pas été remédié aux infractions
+constatées.
+
+L'amende est appliquée autant de fois qu'il y a de salariés directement exposés à la situation dangereuse visée par la mise
+en demeure.
+
+En cas de récidive, il pourra être prononcé l'amende prévue pour les contraventions de la 5e classe en récidive.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte R230-9
 
 
 #### Chapitre 3 : Conditions du travail<a id=185></a>
@@ -17427,27 +18058,23 @@ _Modifié par_:
 ###### Article R253-1
 
 Seront passibles de l'amende prévue pour les contraventions de la 5e classe les infractions aux articles L. 211-1, L. 211-2
-et L. 211-3 ainsi qu'aux règlements pris pour leur application.
+et L. 211-3 ainsi qu'aux règlements pris pour leur application. 
 
 En cas de récidive dans le délai d'un an, l'amende sera celle prévue pour les contraventions de la 5e classe en récidive.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L211-1, L211-2, L211-3
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L211-1, L211-2, L211-3
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L211-1 (V)
 
 _Cité par_:
 
@@ -17461,27 +18088,24 @@ _Cité par_:
 ###### Article R253-2
 
 Tout chef d'établissement qui contrevient aux dispositions de l'article L. 212-1 et à celles des règlements prévus par
-l'article L. 212-2 sera passible de l'amende prévue pour les contraventions de la 4e classe.
+l'article L. 212-2 sera passible de l'amende prévue pour les contraventions de la 4e classe. 
 
 Les contraventions donneront lieu à autant d'amendes qu'il y a d'ouvriers indûment employés.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L212-1, L212-2
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L212-1, L212-2
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L212-1 (V)
+  - Code du travail applicable à Mayotte. - art. L212-2 (V)
 
 
 ##### Paragraphe 2 : Heures supplémentaires<a id=189></a>
@@ -17494,48 +18118,41 @@ d'ouvriers indûment employés.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L212-5, L212-6, L250-1
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L212-5, L212-6, L250-1
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L212-5 (V)
+  - Code du travail applicable à Mayotte. - art. L250-1 (V)
 
 
 ##### Paragraphe 3 : Dispositions relatives aux jeunes travailleurs<a id=190></a>
 
 ###### Article R253-4
 
-Seront passibles de l'amende prévue pour les contraventions de la 5e classe les infractions à l'article L. 212-8.
+Seront passibles de l'amende prévue pour les contraventions de la 5e classe les infractions à l'article L. 212-8. 
 
 En cas de récidive dans le délai d'un an, l'amende sera celle prévue pour les contraventions de la 5e classe en récidive.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L212-8
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L212-8
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L212-8 (V)
 
 _Cité par_:
 
@@ -17548,21 +18165,17 @@ Toute infraction à l'article L. 212-7 est passible de l'amende prévue pour les
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L212-7
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L212-7
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L212-7 (V)
 
 
 ##### Section 3 : Travail de nuit.<a id=191></a>
@@ -17570,27 +18183,23 @@ _Créé par_:
 ###### Article R253-6
 
 Seront passibles de l'amende prévue pour les contraventions de la 5e classe les infractions aux articles L. 213-1 à L. 213-8
-ainsi qu'aux règlements pris pour leur application.
+ainsi qu'aux règlements pris pour leur application. 
 
 En cas de récidive dans le délai d'un an, l'amende sera celle prévue pour les contraventions de la 5e classe en récidive.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L213-1, L213-2, L213-3, L213-4, L213-5, L213-6, L213-7, L213-8
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L213-1, L213-2, L213-3, L213-4, L213-5, L213-6, L213-7, L213-8
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L213-1 (V)
 
 
 ###### Article R253-7
@@ -17599,21 +18208,17 @@ Toute infraction à l'article L. 213-9 est passible de l'amende prévue pour les
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L213-9
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L213-9
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L213-9 (V)
 
 
 #### Chapitre 4 : Repos et congés<a id=192></a>
@@ -17623,27 +18228,24 @@ _Créé par_:
 ###### Article R254-1
 
 Seront passibles de l'amende prévue pour les contraventions de la 5e classe les infractions aux articles L. 221-2, L. 221-4 à
-L. 221-28 ainsi qu'aux règlements pris pour leur application.
+L. 221-28 ainsi qu'aux règlements pris pour leur application. 
 
 En cas de récidive dans le délai d'un an, l'amende sera celle prévue pour les contraventions de la 5e classe en récidive.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L221-2, L221-4 à L221-28
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L221-2, L221-4 à L221-28
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L221-2 (V)
+  - Code du travail applicable à Mayotte. - art. L221-4 (V)
 
 _Cité par_:
 
@@ -17656,21 +18258,17 @@ Toute infraction à l'article L. 221-3 est passible de l'amende prévue pour les
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L221-3
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L221-3
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L221-3 (V)
 
 
 ##### Section 2 : Jours fériés<a id=194></a>
@@ -17680,27 +18278,23 @@ _Créé par_:
 ###### Article R254-3
 
 Seront passibles de l'amende prévue pour les contraventions de la 5e classe les infractions aux articles L. 222-3 et L. 222-4
-ainsi qu'aux règlements pris pour leur application.
+ainsi qu'aux règlements pris pour leur application. 
 
 En cas de récidive dans le délai d'un an, l'amende sera celle prévue pour les contraventions de la 5e classe en récidive.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L222-3, L222-4
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L222-3, L222-4
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L222-3 (V)
 
 _Cité par_:
 
@@ -17713,21 +18307,17 @@ Toute infraction à l'article L. 222-5 est passible de l'amende prévue pour les
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L222-5
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L222-5
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L222-5 (V)
 
 
 ##### Paragraphe 2 : Dispositions particulières à la journée du 1er mai.<a id=196></a>
@@ -17735,27 +18325,24 @@ _Créé par_:
 ###### Article R254-5
 
 Toute contravention aux articles L. 222-6 à L. 222-8 et R. 222-1 est passible de l'amende prévue pour les contraventions de
-la 4e classe.
+la 4e classe. 
 
 L'amende est appliquée autant de fois qu'il y a des salariés indûment employés ou rémunérés.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L222-6, L222-7, L222-8, R222-1
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L222-6, L222-7, L222-8, R222-1
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L222-6 (V)
+  - Code du travail applicable à Mayotte. - art. R222-1 (V)
 
 
 ##### Section 3 : Congés annuels.<a id=197></a>
@@ -17763,27 +18350,23 @@ _Créé par_:
 ###### Article R254-6
 
 Seront passibles de l'amende prévue pour les contraventions de la 5e classe les infractions aux articles L. 223-1 à L. 223-12
-ainsi qu'aux règlements pris pour leur application.
+ainsi qu'aux règlements pris pour leur application. 
 
 En cas de récidive dans le délai d'un an, l'amende sera celle prévue pour les contraventions de la 5e classe en récidive.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L223-1 à L223-12
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L223-1 à L223-12
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L223-1 (V)
 
 _Cité par_:
 
@@ -17815,17 +18398,25 @@ conclu ou résilié ;
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L311-1
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
 _Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Transféré par_:
+
+  - Décret n°2006-1315 du 25 octobre 2006 - art. 15 () JORF 27 octobre 2006
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L311-1 (M)
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. R311-6 (V)
 
 _Cité par_:
 
@@ -17848,31 +18439,27 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. R341-1 (V)
 
 
-### Titre 2 : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité territoriale<a id=202></a>
+### TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité départementale<a id=202></a>
 
 #### Chapitre 1er : Généralités.<a id=203></a>
 
 ###### Article R321-1
 
-Les actions d'urgence que le représentant du Gouvernement à Mayotte est habilité à engager en application des dispositions
-des articles L. 321-1 comportent notamment des mesures temporaires de formation professionnelle.
+Les actions d'urgence que le représentant de l'Etat à Mayotte est habilité à engager en application des dispositions des
+articles L. 321-1 comportent notamment des mesures temporaires de formation professionnelle.
 
 Ces actions peuvent être conduites dans le cadre des conventions de coopération prévues à l'article L. 321-2.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L321-1, L321-2
 
 _Codifié par_:
 
@@ -17880,7 +18467,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°95-1163 du 6 novembre 1995 - art. 1 () JORF 8 novembre 1995
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L321-1 (M)
+  - Code du travail applicable à Mayotte. - art. L321-2 (M)
 
 _Cité par_:
 
@@ -17895,17 +18487,17 @@ dans le cadre d'une évolution de l'emploi au sein des entreprises.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte R321-1
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
 _Modifié par_:
 
-  - Décret n°95-1163 du 6 novembre 1995 - art. 1 () JORF 8 novembre 1995
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R321-1 (M)
 
 
 ###### Article R321-3
@@ -17921,12 +18513,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°95-1163 du 6 novembre 1995 - art. 1 () JORF 8 novembre 1995
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article R321-4
 
-Les conventions de formation déterminent notamment [*contenu*] :
+Les conventions de formation déterminent notamment :
 
 - l'objet, la nature et la durée de la formation dispensée ainsi que le nombre prévu de stagiaires ;
 
@@ -17950,7 +18542,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°95-1163 du 6 novembre 1995 - art. 1 () JORF 8 novembre 1995
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article R321-5
@@ -17959,40 +18551,40 @@ Les représentants du personnel sont consultés sur les projets relatifs aux con
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L321-2
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
 _Modifié par_:
 
-  - Décret n°95-1163 du 6 novembre 1995 - art. 1 () JORF 8 novembre 1995
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L321-2 (M)
 
 
 ###### Article R321-6
 
 Le comité de la formation professionnelle, de la promotion sociale et de l'emploi est informé sur les conditions générales de
-mise en oeuvre, dans la collectivité territoriale, des conventions mentionnées à l'article L. 321-2.
+mise en oeuvre, dans la collectivité départementale, des conventions mentionnées à l'article L. 321-2.
 
 Les conventions mentionnées à l'article L. 321-2 sont, avant leur conclusion, soumises pour avis au comité de la formation
 professionnelle, de la promotion sociale et de l'emploi.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L321-2
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
 _Modifié par_:
 
-  - Décret n°95-1163 du 6 novembre 1995 - art. 1 () JORF 8 novembre 1995
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L321-2 (M)
 
 
 #### Chapitre 3 : Dispositions relatives au contrat de retour à l'emploi<a id=204></a>
@@ -18011,17 +18603,21 @@ difficultés particulières d'accès à l'emploi.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L323-1
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-1163 du 6 novembre 1995 - art. 2 () JORF 8 novembre 1995
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L323-1
 
 
 ###### Article R323-2
@@ -18033,11 +18629,15 @@ passé en formation.
 
 _Codifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe
+  - Décret n°91-1263 du 16 décembre 1991
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-1163 du 6 novembre 1995 - art. 2 () JORF 8 novembre 1995
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Décret n°2012-658 du 4 mai 2012 - art. 1
 
 
 ###### Article R323-3
@@ -18053,9 +18653,13 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-1163 du 6 novembre 1995 - art. 2 () JORF 8 novembre 1995
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Décret n°2012-658 du 4 mai 2012 - art. 1
 
 
 ###### Article R323-4
@@ -18099,24 +18703,28 @@ de travail qui interviendrait avant la fin de la convention.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L323-1
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-1163 du 6 novembre 1995 - art. 2 () JORF 8 novembre 1995
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L323-1
 
 
 ###### Article R323-5
 
 Lorsque la convention ou un avenant à celle-ci prévoit une formation, la durée de celle-ci doit être au minimum de 200 heures
 et au maximum égale à la moitié de la durée du contrat lorsqu'il est à durée déterminée. Cette formation doit être dispensée
-dans le cadre d'une convention avec un organisme de formation agréé par le représentant du Gouvernement.
+dans le cadre d'une convention avec un organisme de formation agréé par le représentant de l'Etat.
 
 Les frais de formation pris en charge par l'Etat sont calculés sur une base forfaitaire par heure de formation dispensée et
 dans la limite de mille heures. Un premier versement égal à 40 p. 100 du coût de la formation est effectué à la date du début
@@ -18124,7 +18732,7 @@ de la formation. Le solde est versé, au terme du sixième mois à compter de la
 formation si celle-ci s'achève à une date ultérieure, sur présentation d'une attestation signée par l'organisme de formation,
 l'employeur et le salarié.
 
-Le montant horaire de cette aide forfaitaire est fixé par arrêté du représentant du Gouvernement à Mayotte.
+Le montant horaire de cette aide forfaitaire est fixé par arrêté du représentant de l'Etat à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -18132,9 +18740,13 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-1163 du 6 novembre 1995 - art. 2 () JORF 8 novembre 1995
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Décret n°2012-658 du 4 mai 2012 - art. 1
 
 
 ###### Article R323-6
@@ -18144,17 +18756,21 @@ l'exonération des cotisations prévue à l'article L. 323-3.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L323-3
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-1163 du 6 novembre 1995 - art. 2 () JORF 8 novembre 1995
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Décret n°2012-658 du 4 mai 2012 - art. 1
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L323-3
 
 
 ###### Article R323-7
@@ -18170,9 +18786,13 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-1163 du 6 novembre 1995 - art. 2 () JORF 8 novembre 1995
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Décret n°2012-658 du 4 mai 2012 - art. 1
 
 
 #### Chapitre 5 : Dispositions relatives à l'aide à la création d'entreprise à l'initiative de demandeurs d'emploi<a id=205></a>
@@ -18198,17 +18818,17 @@ mentionnée au 2° doit posséder à titre personnel plus de 25 p. 100 dudit cap
 
   - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-1163 du 6 novembre 1995 - art. 3 () JORF 8 novembre 1995
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L325-1 (M)
 
 _Cité par_:
 
@@ -18224,10 +18844,6 @@ personne qui possède la fraction la plus forte de ce capital.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
-
 **Liens**:
 
   - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
@@ -18236,9 +18852,13 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-1163 du 6 novembre 1995 - art. 3 () JORF 8 novembre 1995
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L325-1 (M)
 
 _Cité par_:
 
@@ -18247,8 +18867,8 @@ _Cité par_:
 
 ###### Article R325-3
 
-I. - La demande tendant à obtenir l'aide instituée par l'article L. 325-1 doit être adressée au représentant du Gouvernement
-par pli recommandé avec demande d'avis de réception postal.
+I. - La demande tendant à obtenir l'aide instituée par l'article L. 325-1 doit être adressée au représentant de l'Etat par
+pli recommandé avec demande d'avis de réception postal.
 
 Elle doit être préalable à la création ou à la reprise de l'entreprise ou à l'exercice de la nouvelle activité.
 
@@ -18257,19 +18877,15 @@ reprise de la nouvelle activité ; ce dossier doit comporter des indications pr�
 d'acquisition des actifs, les apports de fonds propres et les concours financiers nécessaires pour assurer l'exploitation de
 l'entreprise ainsi que sur les conditions de l'exercice effectif du contrôle de celle-ci.
 
-Un arrêté du représentant du Gouvernement précise la composition du dossier.
+Un arrêté du représentant de l'Etat précise la composition du dossier.
 
 II. - Si le dossier est incomplet, la demande fait l'objet d'une décision de rejet en l'état dans le délai d'un mois à
 compter de sa réception. Cette décision fait connaître au demandeur la liste des pièces manquantes ou incomplètes.
 
-L'envoi au représentant du Gouvernement du complément de dossier, par pli recommandé avec demande d'avis de réception postal,
-fait courir de nouveau le délai d'un mois mentionné au deuxième alinéa de l'article L. 325-1.
+L'envoi au représentant de l'Etat du complément de dossier, par pli recommandé avec demande d'avis de réception postal, fait
+courir de nouveau le délai d'un mois mentionné au troisième alinéa de l'article L. 325-1.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
 
 **Liens**:
 
@@ -18279,9 +18895,13 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-1163 du 6 novembre 1995 - art. 3 () JORF 8 novembre 1995
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L325-1 (M)
 
 _Cité par_:
 
@@ -18290,14 +18910,14 @@ _Cité par_:
 
 ###### Article R325-4
 
-Le représentant du Gouvernement statue sur le droit au bénéfice de l'aide.
+Le représentant de l'Etat statue sur le droit au bénéfice de l'aide.
 
 Lorsque les conditions fixées par les articles R. 325-1 et R. 325-2 et par le I de l'article R. 325-3 sont remplies, le
-représentant du Gouvernement prend l'avis d'un comité composé du receveur particulier des finances, du directeur du travail,
-de l'emploi et de la formation professionnelle, du directeur de l'Institut d'émission d'outre-mer ou de leurs représentants
-et de deux personnalités qualifiées désignées par le représentant du Gouvernement en raison de leur expérience dans le
-domaine de la création et de la gestion d'entreprise ; ce comité est présidé par le représentant du Gouvernement ou par toute
-personne qu'il désigne pour le représenter.
+représentant de l'Etat prend l'avis d'un comité composé du receveur particulier des finances, du directeur du travail, de
+l'emploi et de la formation professionnelle, du directeur de l'Institut d'émission d'outre-mer ou de leurs représentants et
+de deux personnalités qualifiées désignées par le représentant de l'Etat en raison de leur expérience dans le domaine de la
+création et de la gestion d'entreprise ; ce comité est présidé par le représentant de l'Etat ou par toute personne qu'il
+désigne pour le représenter.
 
 **Liens relatifs à cet article**
 
@@ -18305,32 +18925,30 @@ personne qu'il désigne pour le représenter.
 
   - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte R325-1, R325-2, R325-3
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-1163 du 6 novembre 1995 - art. 3 () JORF 8 novembre 1995
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R325-1 (M)
+  - Code du travail applicable à Mayotte. - art. R325-2 (M)
+  - Code du travail applicable à Mayotte. - art. R325-3 (M)
 
 
 ###### Article R325-5
 
-Lorsque le droit à l'aide institué par l'article L. 325-1 est reconnu, le représentant du Gouvernement délivre une
-attestation d'admission au bénéfice de l'article L. 325-1.
+Lorsque le droit à l'aide institué par l'article L. 325-1 est reconnu, le représentant de l'Etat délivre une attestation
+d'admission au bénéfice de l'article L. 325-1.
 
-Cette attestation est également délivrée par le représentant du Gouvernement, sur demande de l'intéressée, à la personne à
-laquelle l'aide doit être réputée accordée en application du deuxième alinéa de l'article L. 325-1.
+Cette attestation est également délivrée par le représentant de l'Etat, sur demande de l'intéressée, à la personne à laquelle
+l'aide doit être réputée accordée en application du deuxième alinéa de l'article L. 325-1.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
 
 **Liens**:
 
@@ -18340,9 +18958,13 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-1163 du 6 novembre 1995 - art. 3 () JORF 8 novembre 1995
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L325-1 (M)
 
 _Cité par_:
 
@@ -18353,13 +18975,9 @@ _Cité par_:
 ###### Article R325-6
 
 Lorsqu'une personne a obtenu l'aide de l'Etat au titre de l'article L. 325-1, elle ne peut obtenir à nouveau cette aide qu'à
-l'expiration d'un délai de trois ans suivant la précédente décision du représentant du Gouvernement.
+l'expiration d'un délai de trois ans suivant la précédente décision du représentant de l'Etat.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
 
 **Liens**:
 
@@ -18369,17 +18987,21 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-1163 du 6 novembre 1995 - art. 3 () JORF 8 novembre 1995
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L325-1 (M)
 
 
 ###### Article R325-7
 
 L'aide est versée en une fois, après constatation de l'exercice de la nouvelle activité, sous réserve que cette constatation
-puisse être opérée dans le délai de trois mois à compter de la notification de la décision du représentant du Gouvernement
-ou, le cas échéant, de l'expiration du délai au terme duquel l'aide doit être réputée accordée en application du deuxième
-alinéa de l'article L. 325-1.
+puisse être opérée dans le délai de trois mois à compter de la notification de la décision du représentant de l'Etat ou, le
+cas échéant, de l'expiration du délai au terme duquel l'aide doit être réputée accordée en application du deuxième alinéa de
+l'article L. 325-1.
 
 Cette aide doit être exclusivement employée à la couverture de dépenses directement nécessaires à l'exercice de la nouvelle
 activité.
@@ -18390,17 +19012,17 @@ activité.
 
   - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-1163 du 6 novembre 1995 - art. 3 () JORF 8 novembre 1995
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L325-1 (M)
 
 _Cité par_:
 
@@ -18410,7 +19032,7 @@ _Cité par_:
 
 ###### Article R325-8
 
-L'aide allouée en application de l'article L. 325-1 est retirée par décision du représentant du Gouvernement s'il est établi
+L'aide allouée en application de l'article L. 325-1 est retirée par décision du représentant de l'Etat s'il est établi
 qu'elle a été obtenue à la suite de fausses déclarations ou qu'elle n'a pas été utilisée conformément au deuxième alinéa de
 l'article R. 325-7.
 
@@ -18422,17 +19044,17 @@ L'intéressé doit alors rembourser l'aide qu'il a perçue.
 
   - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L325-1, R325-7
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-1163 du 6 novembre 1995 - art. 3 () JORF 8 novembre 1995
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L325-1 (M)
 
 _Cité par_:
 
@@ -18450,10 +19072,10 @@ qui suit permet aux intéressés de consulter, pendant les trois années prévue
 spécialisés répondant à leurs besoins sur la préparation, le démarrage, les problèmes techniques rencontrés à l'occasion de
 la mise en place de l'entreprise ou de son redressement si celle-ci est confrontée à des difficultés.
 
-Le représentant du Gouvernement désigne les organismes-conseil habilités à fournir ces prestations sur le territoire.
+Le représentant de l'Etat désigne les organismes-conseil habilités à fournir ces prestations sur le territoire.
 
 L'Etat participe au financement des chéquiers-conseil dont les modalités de mise en oeuvre sont définies par arrêté du
-représentant du Gouvernement.
+représentant de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -18461,17 +19083,18 @@ représentant du Gouvernement.
 
   - TXT_SOURCE: Code du travail applicable dans la collectivité territoriale de Mayotte L325-1
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L325-1, R325-1
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-1163 du 6 novembre 1995 - art. 3 () JORF 8 novembre 1995
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L325-1 (M)
+  - Code du travail applicable à Mayotte. - art. R325-1 (M)
 
 
 ### TITRE III : Main-d'oeuvre étrangère<a id=206></a>
@@ -18479,11 +19102,11 @@ _Créé par_:
 ###### Article R330-1
 
 Tout étranger, pour exercer à temps plein ou à temps partiel une activité professionnelle salariée à Mayotte doit être
-titulaire d'une autorisation de travail en cours de validité [*condition obligatoire*].
+titulaire d'une autorisation de travail en cours de validité.
 
-L'autorisation est délivrée par le représentant du Gouvernement. Elle autorise l'étranger à exercer, selon les cas, une ou
+L'autorisation est délivrée par le représentant de l'Etat. Elle autorise l'étranger à exercer, selon les cas, une ou
 plusieurs activités professionnelles salariées ou activité professionnelle salariée de son choix dans la collectivité
-territoriale de Mayotte.
+départementale de Mayotte.
 
 L'autorisation prend la forme d'un titre comportant notamment la photographie de l'intéressé. Ce titre doit être présenté à
 toute réquisition des autorités chargées du contrôle des conditions de travail.
@@ -18494,9 +19117,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -18513,15 +19136,15 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article R330-3
 
 L'étranger qui demande à exercer à Mayotte une activité professionnelle salariée doit joindre à la première demande
-d'autorisation de travail qu'il souscrit, un contrat de travail [*document obligatoire*].
+d'autorisation de travail qu'il souscrit, un contrat de travail.
 
 **Liens relatifs à cet article**
 
@@ -18529,15 +19152,15 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article R330-4
 
 L'étranger qui sollicite le renouvellement d'une autorisation de travail doit joindre à sa demande un contrat ou une promesse
-de contrat précisant la profession, le salaire offert et la durée hebdomadaire de travail [*document obligatoire*].
+de contrat précisant la profession, le salaire offert et la durée hebdomadaire de travail.
 
 **Liens relatifs à cet article**
 
@@ -18545,15 +19168,15 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article R330-5
 
-Pour accorder ou refuser l'autorisation de travail sollicitée le représentant du Gouvernement [*autorité compétente*] prend
-notamment en considération les éléments suivants d'appréciation :
+Pour accorder ou refuser l'autorisation de travail sollicitée le représentant de l'Etat prend notamment en considération les
+éléments suivants d'appréciation :
 
 1° La situation de l'emploi présente et à venir dans la profession demandée par le travailleur étranger ;
 
@@ -18574,9 +19197,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article R330-6
@@ -18592,22 +19215,30 @@ contrôle le mentionnent au procès-verbal et, dans le premier cas, recueillent 
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L330-3
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°97-561 du 27 mai 1997 - art. 1 () JORF 31 mai 1997 en vigueur le 1er août 1997
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Transféré par_:
+
+  - Décret n°2006-1315 du 25 octobre 2006 - art. 19 () JORF 27 octobre 2006
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L330-3 (M)
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. R330-7 (T)
   - Code du travail applicable à Mayotte. - art. R330-9 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. R330-8 (M)
 
 
 ###### Article R330-7
@@ -18644,17 +19275,23 @@ l'audition ne ferait pas obstacle au prononcé de l'amende ;
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte R330-6, L330-3, R330-8
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°97-561 du 27 mai 1997 - art. 1 () JORF 31 mai 1997 en vigueur le 1er août 1997
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Transféré par_:
+
+  - Décret n°2006-1315 du 25 octobre 2006 - art. 19 () JORF 27 octobre 2006
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L330-3 (M)
+  - Code du travail applicable à Mayotte. - art. R330-6 (M)
+  - Code du travail applicable à Mayotte. - art. R330-8 (M)
 
 _Cité par_:
 
@@ -18663,16 +19300,17 @@ _Cité par_:
 
 _Nouveaux textes_:
 
+  - Code du travail applicable à Mayotte. - art. R330-9 (M)
   - Code du travail applicable à Mayotte. - art. R330-9 (V)
 
 
 ###### Article R330-8
 
-A peine de nullité, les agents chargés du contrôle doivent transmettre le procès-verbal au représentant du Gouvernement dans
-les trois jours de sa signature.
+A peine de nullité, les agents chargés du contrôle doivent transmettre le procès-verbal au représentant de l'Etat dans les
+trois jours de sa signature.
 
-L'employeur et le salarié doivent être entendus par un fonctionnaire désigné par le représentant du Gouvernement, dans un
-délai compris entre quatre et neuf jours suivant la remise aux intéressés de la copie du procès-verbal.
+L'employeur et le salarié doivent être entendus par un fonctionnaire désigné par le représentant de l'Etat, dans un délai
+compris entre quatre et neuf jours suivant la remise aux intéressés de la copie du procès-verbal.
 
 Sauf à se faire représenter en cas d'empêchement pour un motif légitime, l'employeur ou le représentant légal de l'entreprise
 et le salarié sont tenus de comparaître en personne. Ils peuvent se faire assister par la personne de leur choix et présenter
@@ -18684,9 +19322,13 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°97-561 du 27 mai 1997 - art. 1 () JORF 31 mai 1997 en vigueur le 1er août 1997
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Transféré par_:
+
+  - Décret n°2006-1315 du 25 octobre 2006 - art. 19 () JORF 27 octobre 2006
 
 _Nouveaux textes_:
 
@@ -18704,14 +19346,14 @@ _Cité par_:
 
 ###### Article R330-9
 
-S'il décide de prononcer l'amende, le représentant du Gouvernement notifie sa décision à l'employeur et au salarié et en
-transmet une copie dans un délai de quatre jours au comptable du Trésor territorialement compétent.
+S'il décide de prononcer l'amende, le représentant de l'Etat notifie sa décision à l'employeur et au salarié et en transmet
+une copie dans un délai de quatre jours au comptable du Trésor territorialement compétent.
 
 Le montant de l'amende est fixé par référence au salaire minimum interprofessionnel garanti en vigueur à la date du procès-
 verbal constatant le manquement sanctionné.
 
 L'amende est mise en recouvrement conformément aux dispositions qui régissent les états exécutoires émis pour le recouvrement
-des créances de la collectivité territoriale de Mayotte.
+des créances de la collectivité départementale de Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -18719,9 +19361,13 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°97-561 du 27 mai 1997 - art. 1 () JORF 31 mai 1997 en vigueur le 1er août 1997
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Transféré par_:
+
+  - Décret n°2006-1315 du 25 octobre 2006 - art. 19 () JORF 27 octobre 2006
 
 _Nouveaux textes_:
 
@@ -18739,36 +19385,32 @@ _Anciens textes_:
 ###### Article R341-1
 
 Les infractions aux dispositions de l'article R. 312-1 seront punies de l'amende prévue pour les contraventions de la 5e
-classe.
+classe. 
 
 Le tribunal pourra ordonner, aux frais du condamné, l'affichage du jugement sur le chantier ainsi qu'à la porte du principal
 établissement de l'entreprise.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte R312-1
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte R312-1
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R312-1 (V)
 
 
 #### CHAPITRE II : Déclaration des mouvements de main-d'oeuvre<a id=209></a>
 
 ###### Article R342-1
 
-Toute personne qui aura contrevenu aux dispositions de l'article L. 311-1 ainsi qu'à l'arrêté du représentant du Gouvernement
-pris pour son application sera punie de la peine d'amende prévue pour les contraventions de la 4e classe.
+Toute personne qui aura contrevenu aux dispositions de l'article L. 311-1 ainsi qu'à l'arrêté du représentant de l'Etat pris
+pour son application sera punie de la peine d'amende prévue pour les contraventions de la 4e classe.
 
 Sera punie de la même peine toute personne qui n'aura pas fourni les renseignements prévus à l'article R. 311-1.
 
@@ -18778,17 +19420,18 @@ Sera punie de la même peine toute personne qui n'aura pas fourni les renseignem
 
   - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L311-1
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L311-1, R311-1
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L311-1 (M)
+  - Code du travail applicable à Mayotte. - art. R311-1 (M)
 
 
 ## LIVRE IV : Les groupements professionnels - La représentation des salariés<a id=210></a>
@@ -18799,23 +19442,27 @@ _Créé par_:
 
 ###### Article R411-1
 
-Le dépôt [*des statuts*] prévu à l'article L. 411-3 a lieu à la mairie de la localité où le syndicat est établi.
+Le dépôt prévu à l'article L. 411-3 a lieu à la mairie de la localité où le syndicat est établi.
 
 Communication des statuts doit être donnée par le maire au procureur de la République.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L411-3
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Décret n°2013-612 du 10 juillet 2013 - art. 4
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L411-3
 
 _Cité par_:
 
@@ -18827,24 +19474,24 @@ _Cité par_:
 
 ###### Article R412-1
 
-Un arrêté du représentant du Gouvernement fixe les conditions dans lesquelles sont allouées les indemnités de déplacement des
+Un arrêté du représentant de l'Etat fixe les conditions dans lesquelles sont allouées les indemnités de déplacement des
 membres de la commission consultative du travail, des commissions mixtes visées à l'article L. 133-1 et du comité de la
 formation professionnelle, de la promotion sociale et de l'emploi et, pour les membres autres que les fonctionnaires en
 activité, les vacations.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L133-1
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L133-1 (M)
 
 
 ### Titre 3 : Pénalités.<a id=214></a>
@@ -18860,17 +19507,21 @@ l'article R. 411-1 seront punis de l'amende prévue pour les contraventions de l
 
   - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte R411-1
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte R411-1
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Abrogé par_:
+
+  - Décret n°2006-1315 du 25 octobre 2006 - art. 22 () JORF 27 octobre 2006
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R411-1 (M)
 
 
 ## LIVRE V : Conflits du travail<a id=215></a>
@@ -18881,8 +19532,8 @@ _Créé par_:
 
 ###### Article R513-1
 
-Tout conflit collectif de travail est immédiatement notifié par la partie la plus diligente, au représentant du Gouvernement
-qui, en liaison avec l'inspection du travail, intervient en vue de rechercher une solution amiable.
+Tout conflit collectif de travail est immédiatement notifié par la partie la plus diligente, au représentant de l'Etat qui,
+en liaison avec l'inspection du travail, intervient en vue de rechercher une solution amiable.
 
 **Liens relatifs à cet article**
 
@@ -18890,9 +19541,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ##### Section 1 : Composition des commissions de conciliation.<a id=218></a>
@@ -18905,7 +19556,7 @@ Les représentants des employeurs et ceux des salariés sont nommés sur proposi
 et de salariés les plus représentatives à Mayotte. Ces organisations soumettent à cet effet des listes comportant des noms en
 nombre double de celui des postes à pourvoir.
 
-Avant de procéder aux nominations, le représentant du Gouvernement prend l'avis du directeur du travail, de l'emploi et de la
+Avant de procéder aux nominations, le représentant de l'Etat prend l'avis du directeur du travail, de l'emploi et de la
 formation professionnelle.
 
 Des membres suppléants, en nombre double de celui des membres titulaires, sont désignés dans les mêmes conditions que ces
@@ -18923,7 +19574,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article R513-3
@@ -18936,9 +19587,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ##### Section 2 : Fonctionnement des commissions de conciliation.<a id=219></a>
@@ -18948,7 +19599,7 @@ _Créé par_:
 En cas de recours par les parties à la procédure réglementaire de conciliation, la partie la plus diligente adresse au
 président de la commission une requête rédigée sur papier libre et exposant les points sur lesquels porte le litige.
 
-Lorsque le représentant du Gouvernement saisit la commission de conciliation, la convocation adressée aux membres de celle-ci
+Lorsque le représentant de l'Etat saisit la commission de conciliation, la convocation adressée aux membres de celle-ci
 précise l'objet du conflit.
 
 Les requêtes et communications susvisées doivent être inscrites à leur date sur un registre spécial ouvert au service de
@@ -18960,18 +19611,18 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article R513-5
 
 Devant les commissions de conciliation, les parties peuvent être assistées d'un membre de l'organisation syndicale ou
-professionnelle à laquelle elles appartiennent.
+professionnelle à laquelle elles appartiennent. 
 
 Sauf les personnes morales qui sont représentées dans les conditions prévues au septième alinéa de l'article L. 513-4, les
-parties ne peuvent se substituer un représentant qu'en cas d'empêchement grave constaté par la commission.
+parties ne peuvent se substituer un représentant qu'en cas d'empêchement grave constaté par la commission. 
 
 Dans l'un et l'autre cas le représentant doit appartenir à la même organisation que la partie qu'il représente ou exercer
 effectivement, à titre permanent, une activité dans l'entreprise où a lieu le conflit. Il doit être dûment mandaté et avoir
@@ -18979,17 +19630,17 @@ qualité pour conclure un accord de conciliation au nom de son mandant.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L513-4
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L513-4 (V)
 
 _Cité par_:
 
@@ -18999,8 +19650,7 @@ _Cité par_:
 ###### Article R513-6
 
 La convocation des parties au conflit doit être faite, à la diligence du président de la commission, soit par lettre
-recommandée avec demande d'avis de réception, soit par avertissement délivré contre récépissé signé par l'intéressé
-[*condition de forme*].
+recommandée avec demande d'avis de réception, soit par avertissement délivré contre récépissé signé par l'intéressé. 
 
 Lorsque l'une d'elles, régulièrement convoquée, ne comparaît pas ou ne se fait pas représenter devant la commission dans les
 cas et conditions prévus aux deux premiers alinéas de l'article L. 513-4, le président, après avoir constaté son absence,
@@ -19010,17 +19660,17 @@ en les formes prévues à l'alinéa 1er ci-dessus.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L513-4
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L513-4 (V)
 
 _Cité par_:
 
@@ -19041,38 +19691,38 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article R513-8
 
 Lorsqu'un accord est intervenu devant une commission de conciliation, procès-verbal en est dressé et notifié sur-le-champ par
-le président de la commission aux parties.
+le président de la commission aux parties. 
 
-Le dépôt en est effectué conformément aux dispositions de l'article L. 132-10.
+Le dépôt en est effectué conformément aux dispositions de l'article L. 132-10. 
 
 Si les parties ne se mettent pas d'accord sur tout ou partie du litige, un procès-verbal de non-conciliation, énonçant avec
 précision les points sur lesquels les parties se sont mises d'accord et ceux sur lesquels le différend persiste, est aussitôt
-dressé et notifié aux parties par lettre recommandée avec demande d'avis de réception.
+dressé et notifié aux parties par lettre recommandée avec demande d'avis de réception. 
 
 Le procès-verbal est signé par le président et les membres de la commission et par les parties présentes ou leurs
 représentants.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L132-10
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L132-10 (V)
 
 
 ###### Article R513-9
@@ -19085,64 +19735,15 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article R513-10
 
-Un arrêté du représentant du Gouvernement fixe les conditions dans lesquelles sont allouées les indemnités de déplacement des
+Un arrêté du représentant de l'Etat fixe les conditions dans lesquelles sont allouées les indemnités de déplacement des
 membres des commissions et, pour les membres autres que les fonctionnaires en activité, les vacations.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°91-1263 1991-12-16 annexe
-
-_Créé par_:
-
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
-
-
-#### CHAPITRE IV : Médiation<a id=220></a>
-
-###### Article R514-1
-
-La partie qui désire recourir à la médiation adresse à cet effet une requête écrite et motivée [*condition de forme*] au
-représentant du Gouvernement. La requête précise les points sur lesquels porte ou persiste le différend.
-
-Dès réception de la requête, le service de l'inspection du travail l'inscrit sur un registre spécial et constitue le dossier.
-
-Dans le cas prévu au c de l'article L. 514-1, la requête conjointe des parties est aussi adressée au représentant du
-Gouvernement, qui désigne, s'il y a lieu, le médiateur choisi et lui transmet le dossier constitué sur le différend.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L514-1
-
-_Codifié par_:
-
-  - Décret n°91-1263 1991-12-16 annexe
-
-_Créé par_:
-
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
-
-_Cité par_:
-
-  - Code du travail applicable à Mayotte. - art. D514-7 (V)
-
-
-###### Article R514-2
-
-Lorsqu'il engage la procédure à son initiative ou lorsque les parties ne lui proposent pas une personnalité choisie d'un
-commun accord, le représentant du Gouvernement désigne un médiateur choisi en fonction de son autorité morale et de sa
-compétence dans le domaine économique et social, après avis du directeur du travail, de l'emploi et de la formation
-professionnelle.
 
 **Liens relatifs à cet article**
 
@@ -19152,7 +19753,56 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+
+#### CHAPITRE IV : Médiation<a id=220></a>
+
+###### Article R514-1
+
+La partie qui désire recourir à la médiation adresse à cet effet une requête écrite et motivée au représentant de l'Etat. La
+requête précise les points sur lesquels porte ou persiste le différend. 
+
+Dès réception de la requête, le service de l'inspection du travail l'inscrit sur un registre spécial et constitue le
+dossier. 
+
+Dans le cas prévu au c de l'article L. 514-1, la requête conjointe des parties est aussi adressée au représentant de l'Etat,
+qui désigne, s'il y a lieu, le médiateur choisi et lui transmet le dossier constitué sur le différend.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. D514-7 (V)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L514-1 (V)
+
+
+###### Article R514-2
+
+Lorsqu'il engage la procédure à son initiative ou lorsque les parties ne lui proposent pas une personnalité choisie d'un
+commun accord, le représentant de l'Etat désigne un médiateur choisi en fonction de son autorité morale et de sa compétence
+dans le domaine économique et social, après avis du directeur du travail, de l'emploi et de la formation professionnelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°91-1263 1991-12-16 annexe
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
@@ -19169,9 +19819,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article R514-4
@@ -19180,28 +19830,32 @@ Le médiateur accomplit sa mission dans les conditions prévues à l'article L. 
 juge utiles. Les parties lui transmettent le mémoire et lui communiquent les documents et renseignements mentionnés audit
 article. Le médiateur, toutes les fois qu'il l'estime nécessaire, les invite, dans les formes prévues au premier alinéa de
 l'article R. 513-6, à comparaître personnellement ; elles peuvent toutefois, en cas d'empêchement grave, se substituer un
-représentant ayant qualité pour conclure un accord.
+représentant ayant qualité pour conclure un accord. 
 
 Les personnes morales parties au conflit sont tenues de se faire représenter devant le médiateur dans les conditions prévues
-à l'article L. 513-4 et à l'article R. 513-5.
+à l'article L. 513-4 et à l'article R. 513-5. 
 
 Lorsqu'une partie régulièrement convoquée ne comparaît pas ou ne se fait pas représenter devant le médiateur sans motif
 légitime, le médiateur établit conformément aux dispositions de l'article L. 520-1, un rapport qu'il envoie au représentant
-du Gouvernement aux fins de transmission au parquet.
+de l'Etat aux fins de transmission au parquet.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L514-2, R513-6, L513-4, R513-5, L520-1
 
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L513-4 (V)
+  - Code du travail applicable à Mayotte. - art. L514-2 (V)
+  - Code du travail applicable à Mayotte. - art. L520-1 (V)
+  - Code du travail applicable à Mayotte. - art. R513-5 (V)
+  - Code du travail applicable à Mayotte. - art. R513-6 (V)
 
 
 ###### Article R514-5
@@ -19218,9 +19872,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article R514-6
@@ -19234,22 +19888,22 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 #### CHAPITRE V : Arbitrage<a id=221></a>
 
 ###### Article R515-1
 
-La sentence est notifiée aux parties dans les vingt-quatre heures [*délai*] de sa date par les soins de l'arbitre. Cette
-notification est faite par lettre recommandée avec demande d'avis de réception ou par lettre remise en main propre contre
-décharge datée du jour de cette remise.
+La sentence est notifiée aux parties dans les vingt-quatre heures de sa date par les soins de l'arbitre. Cette notification
+est faite par lettre recommandée avec demande d'avis de réception ou par lettre remise en main propre contre décharge datée
+du jour de cette remise.
 
 Lorsqu'à l'issue d'une procédure d'arbitrage, la sentence est notifiée dans les conditions prévues au précédent alinéa,
-l'arbitre procède immédiatement à l'envoi, aux frais des parties, au représentant du Gouvernement, par lettre recommandée
-avec demande d'avis de réception, d'un exemplaire de la sentence et des pièces au vu desquelles la sentence a été rendue.
+l'arbitre procède immédiatement à l'envoi, aux frais des parties, au représentant de l'Etat, par lettre recommandée avec
+demande d'avis de réception, d'un exemplaire de la sentence et des pièces au vu desquelles la sentence a été rendue.
 
 **Liens relatifs à cet article**
 
@@ -19257,9 +19911,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article R515-2
@@ -19273,9 +19927,9 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ### TITRE II : Pénalités<a id=222></a>
@@ -19289,17 +19943,17 @@ l'article R. 153-1.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte R153-1
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L153-1 (V)
 
 
 ## LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=223></a>
@@ -19308,8 +19962,8 @@ _Créé par_:
 
 ###### Article R610-1
 
-Les inspecteurs du travail ont pour mission [*attributions*], en dehors de la surveillance qui leur est confiée, d'établir la
-statistique des conditions du travail industriel dans le secteur qu'ils sont chargés de surveiller.
+Les inspecteurs du travail ont pour mission, en dehors de la surveillance qui leur est confiée, d'établir la statistique des
+conditions du travail industriel dans le secteur qu'ils sont chargés de surveiller.
 
 **Liens relatifs à cet article**
 
@@ -19317,15 +19971,15 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article R610-2
 
-Les inspecteurs du travail doivent fournir, chaque année [*périodicité*], des rapports circonstanciés sur l'application, dans
-toute l'étendue de leur circonscription, des dispositions dont ils sont chargés d'assurer l'exécution.
+Les inspecteurs du travail doivent fournir, chaque année, des rapports circonstanciés sur l'application, dans toute l'étendue
+de leur circonscription, des dispositions dont ils sont chargés d'assurer l'exécution.
 
 Ces rapports mentionnent les accidents dont les travailleurs ont été victimes et leurs causes.
 
@@ -19338,16 +19992,16 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article R610-3
 
-Les inspecteurs du travail sont chargés [*attributions*] d'assurer l'exécution des dispositions du présent code relatives aux
-salariés des offices publics et ministériels, des professions libérales, des sociétés civiles, des syndicats professionnels
-et associations de quelque nature que ce soit.
+Les inspecteurs du travail sont chargés d'assurer l'exécution des dispositions du présent code relatives aux salariés des
+offices publics et ministériels, des professions libérales, des sociétés civiles, des syndicats professionnels et
+associations de quelque nature que ce soit.
 
 Toutefois, dans les offices ministériels, les inspecteurs du travail assurent l'exécution de ces dispositions concurremment
 avec les chambres de discipline.
@@ -19358,20 +20012,20 @@ _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ### TITRE II : Obligations des employeurs<a id=225></a>
 
 ###### Article R620-1
 
-La déclaration [*préalable*] prévue à l'article L. 620-1 est effectuée par l'employeur et, dans le cas prévu au 2° du
-deuxième alinéa dudit article, par le nouvel employeur au moyen d'une lettre recommandée adressée à l'inspecteur du travail.
+La déclaration prévue à l'article L. 620-1 est effectuée par l'employeur et, dans le cas prévu au 2° du deuxième alinéa dudit
+article, par le nouvel employeur au moyen d'une lettre recommandée adressée à l'inspecteur du travail. 
 
 Le récépissé de cette lettre doit être présenté par l'employeur ou son préposé sur la demande de l'inspecteur du travail à la
-première visite de celui-ci.
+première visite de celui-ci. 
 
 La déclaration précise auxquels des cas prévus à l'article L. 620-1 elle répond et indique en outre le nom et l'adresse du
 déclarant, l'emplacement de l'établissement, la nature exacte des industries ou des commerces exercés et le cas échéant, s'il
@@ -19379,17 +20033,17 @@ y a emploi d'enfants de moins de dix-huit ans ou de femmes ainsi qu'utilisation 
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L620-1
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L620-1 (V)
 
 _Cité par_:
 
@@ -19398,67 +20052,66 @@ _Cité par_:
 
 ###### Article R620-2
 
-Un duplicata de l'affiche mentionnée à l'article L. 620-2 [*affichage des horaires de travail*] est envoyé à l'inspecteur du
-travail.
+Un duplicata de l'affiche mentionnée à l'article L. 620-2 est envoyé à l'inspecteur du travail.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L620-2
 
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L620-2 (V)
 
 
 ###### Article R620-3
 
 Les indications complémentaires prévues au deuxième alinéa de l'article L. 620-3 qui doivent être portées sur le registre
-unique du personnel pour chaque salarié sont les suivantes [*mentions obligatoires*] :
+unique du personnel pour chaque salarié sont les suivantes : 
 
-1° Nationalité ;
+1° Nationalité ; 
 
-2° Date de naissance ;
+2° Date de naissance ; 
 
-3° Sexe ;
+3° Sexe ; 
 
-4° Emploi ;
+4° Emploi ; 
 
-5° Qualification ;
+5° Qualification ; 
 
-6° Dates d'entrée et de sortie de l'établissement ;
+6° Dates d'entrée et de sortie de l'établissement ; 
 
 7° Pour les travailleurs étrangers assujettis à la possession d'un titre autorisant l'exercice d'une activité salariés : le
-type et le numéro d'ordre du titre valant autorisation de travail.
+type et le numéro d'ordre du titre valant autorisation de travail. 
 
 En outre, les copies de ces mêmes titres doivent être annexées au registre unique du personnel et tenues à la disposition des
 personnes mentionnées au troisième alinéa de l'article 620-3 sur chaque chantier ou lieu de travail distinct de
-l'établissement pour ceux des ressortissants étrangers qui y sont occupés.
+l'établissement pour ceux des ressortissants étrangers qui y sont occupés. 
 
 En sus des indications énumérées à l'alinéa précédent des mentions complémentaires peuvent être exigées par arrêté du
-représentant du Gouvernement.
+représentant de l'Etat. 
 
 Les mentions obligatoires portées sur le registre doivent être conservées pendant cinq ans à compter de la date à laquelle le
 salarié a quitté l'établissement.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L620-3, 620-3
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L620-3 (V)
 
 
 ###### Article R620-4
@@ -19472,17 +20125,17 @@ occupant dix personnes au moins pendant plus d'une semaine.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L230-1
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L230-1 (M)
 
 _Cité par_:
 
@@ -19506,7 +20159,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ### TITRE III : Pénalités<a id=226></a>
@@ -19516,58 +20169,51 @@ _Modifié par_:
 ###### Article R631-1
 
 Toute contravention aux prescriptions de l'article L. 610-8 sera passible de l'amende prévue pour les contraventions de 3e
-classe.
+classe. 
 
 En cas de récidive dans le délai d'un an, l'amende sera celle prévue pour les contraventions de 4e classe.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L610-8
-
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L610-8
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L610-8 (V)
 
 
 #### CHAPITRE II : Obligations des employeurs<a id=228></a>
 
 ###### Article R632-1
 
-Seront punies de l'amende prévue pour les contraventions de la 4e classe :
+Seront punies de l'amende prévue pour les contraventions de la 4e classe : 
 
-1° Les infractions aux articles L. 620-1 à L. 620-7 ;
+1° Les infractions aux articles L. 620-1 à L. 620-7 ; 
 
-2° Les infractions aux articles R. 620-1 à R. 620-5 ;
+2° Les infractions aux articles R. 620-1 à R. 620-5 ; 
 
 En cas de récidive, l'amende applicable sera celle prévue pour les contraventions de la 5e classe.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte L620-1 à L620-7, R620-1 à R620-5
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code du travail applicable dans la collectivité territoriale de Mayotte L620-1, L620-2, L620-3, L620-4, L620-5, L620-6, L620-7, R620-1, R620-2, R620-3, R620-4, R620-5
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L620-1 (V)
+  - Code du travail applicable à Mayotte. - art. R620-1 (V)
 
 _Cité par_:
 
@@ -19581,17 +20227,17 @@ susceptibles d'être sanctionnées au titre des dispositions de cet article.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable dans la collectivité territoriale de Mayotte R632-1
-
 _Codifié par_:
 
   - Décret n°91-1263 1991-12-16 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°91-1263 1991-12-16 annexe JORF 19 décembre 1991
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R632-1 (V)
 
 
 # Partie réglementaire  - Décrets simples<a id=229></a>
@@ -19620,11 +20266,19 @@ _Cite_:
 
 _Codifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe
+  - Décret n°92-238 du 9 mars 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. D141-2-1 (V)
 
 
 ###### Article D141-2
@@ -19636,17 +20290,25 @@ supplémentaires prévues par la loi.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail applicable à la collectivité territoriale de Mayotte D141-1
-
 _Codifié par_:
 
   - Décret n°92-238 1992-03-09 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. D141-2-2 (V)
+
+_Cite_:
+
+  - Code du travail applicable à la collectivité territoriale de Mayotte D141-1
 
 
 ##### Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement<a id=234></a>
@@ -19663,25 +20325,33 @@ _Codifié par_:
 
   - Décret n°92-238 1992-03-09 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. D141-2-3 (V)
 
 
 ###### Article D141-4
 
-Pour les salariés auxquels l'employeur fournit la nourriture en totalité ou en partie [*avantages en nature*], le salaire
-minimum en espèces garanti est déterminé en déduisant du salaire minimum interprofessionnel garanti les sommes fixées par la
-convention ou accord collectifs. A défaut, la nourriture est évaluée par journée à un montant fixé par arrêté du représentant
-du Gouvernement à Mayotte en fonction de l'évolution de la rémunération horaire minimale interprofessionnelle garantie fixée
-à l'article L. 141-2, après avis de la commission consultative du travail.
+Pour les salariés auxquels l'employeur fournit la nourriture en totalité ou en partie, le salaire minimum en espèces garanti
+est déterminé en déduisant du salaire minimum interprofessionnel garanti les sommes fixées par la convention ou accord
+collectifs. A défaut, la nourriture est évaluée par journée à un montant fixé par arrêté du représentant de l'Etat à Mayotte
+en fonction de l'évolution de la rémunération horaire minimale interprofessionnelle garantie fixée à l'article L. 141-2,
+après avis de la commission consultative du travail.
 
 **Nota:**
 
-Nota : Code du travail applicable à la collectivité territoriale de Mayotte art. D141-3 : les dispositions de la présente
-section sont applicables aux salariés autres que le personnel navigant de la marine marchande et les concierges et gens de
-maison, lorsque leur rémunération est, de manière habituelle, constituée, pour partie, par la fourniture de la nourriture et
-du logement.
+Code du travail applicable à la collectivité territoriale de Mayotte art. D141-3 : les dispositions de la présente section
+sont applicables aux salariés autres que le personnel navigant de la marine marchande et les concierges et gens de maison,
+lorsque leur rémunération est, de manière habituelle, constituée, pour partie, par la fourniture de la nourriture et du
+logement.
 
 **Liens relatifs à cet article**
 
@@ -19691,27 +20361,35 @@ _Cite_:
 
 _Codifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe
+  - Décret n°92-238 du 9 mars 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. D141-2-4 (V)
 
 
 ###### Article D141-5
 
 Pour le personnel des hôtels, cafés, restaurants et des établissements ou organismes dans lesquels des denrées alimentaires
 ou des boissons sont consommées sur place et pour le personnel de cuisine des autres établissements qui, en raison des
-conditions particulières de leur travail ou des usages, sont nourris gratuitement par l'employeur [*avantages en nature*] ou
-reçoivent une indemnité compensatrice, la nourriture, calculée conformément aux dispositions de l'article D. 141-4, n'entre
-en compte que pour la moitié de sa valeur.
+conditions particulières de leur travail ou des usages, sont nourris gratuitement par l'employeur ou reçoivent une indemnité
+compensatrice, la nourriture, calculée conformément aux dispositions de l'article D. 141-4, n'entre en compte que pour la
+moitié de sa valeur.
 
 **Nota:**
 
-Nota : Code du travail applicable à la collectivité territoriale de Mayotte art. D141-3 : les dispositions de la présente
-section sont applicables aux salariés autres que le personnel navigant de la marine marchande et les concierges et gens de
-maison, lorsque leur rémunération est, de manière habituelle, constituée, pour partie, par la fourniture de la nourriture et
-du logement.
+Code du travail applicable à la collectivité territoriale de Mayotte art. D141-3 : les dispositions de la présente section
+sont applicables aux salariés autres que le personnel navigant de la marine marchande et les concierges et gens de maison,
+lorsque leur rémunération est, de manière habituelle, constituée, pour partie, par la fourniture de la nourriture et du
+logement.
 
 **Liens relatifs à cet article**
 
@@ -19721,17 +20399,25 @@ _Cite_:
 
 _Codifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe
+  - Décret n°92-238 du 9 mars 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. D141-2-5 (V)
 
 
 ###### Article D141-6
 
 Pour les salariés auxquels l'employeur fournit le logement, cette prestation en nature est évaluée, à défaut de convention ou
-d'accord collectifs, à un montant fixé par arrêté du représentant du Gouvernement à Mayotte, après avis de la commission
+d'accord collectifs, à un montant fixé par arrêté du représentant de l'Etat à Mayotte, après avis de la commission
 consultative du travail.
 
 Les avantages en nature autres que la nourriture ou le logement sont évalués d'après leur valeur réelle, au prix de revient
@@ -19742,44 +20428,60 @@ sont déduites du salaire minimum interprofessionnel garanti.
 
 **Nota:**
 
-Nota : Code du travail applicable à la collectivité territoriale de Mayotte art. D141-3 : les dispositions de la présente
-section sont applicables aux salariés autres que le personnel navigant de la marine marchande et les concierges et gens de
-maison, lorsque leur rémunération est, de manière habituelle, constituée, pour partie, par la fourniture de la nourriture et
-du logement.
+Code du travail applicable à la collectivité territoriale de Mayotte art. D141-3 : les dispositions de la présente section
+sont applicables aux salariés autres que le personnel navigant de la marine marchande et les concierges et gens de maison,
+lorsque leur rémunération est, de manière habituelle, constituée, pour partie, par la fourniture de la nourriture et du
+logement.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe
+  - Décret n°92-238 du 9 mars 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. D141-2-6 (V)
 
 
 ###### Article D141-7
 
 Dans tous les cas où le salarié, logé et nourri, perçoit une rémunération en espèces supérieure au minimum résultant des
-dispositions de la présente section, l'application desdites dispositions n'entraîne aucune modification de cette rémunération
-[*avantages en nature, droits acquis*].
+dispositions de la présente section, l'application desdites dispositions n'entraîne aucune modification de cette
+rémunération.
 
 **Nota:**
 
-Nota : Code du travail applicable à la collectivité territoriale de Mayotte art. D141-3 : les dispositions de la présente
-section sont applicables aux salariés autres que le personnel navigant de la marine marchande et les concierges et gens de
-maison, lorsque leur rémunération est, de manière habituelle, constituée, pour partie, par la fourniture de la nourriture et
-du logement.
+Code du travail applicable à la collectivité territoriale de Mayotte art. D141-3 : les dispositions de la présente section
+sont applicables aux salariés autres que le personnel navigant de la marine marchande et les concierges et gens de maison,
+lorsque leur rémunération est, de manière habituelle, constituée, pour partie, par la fourniture de la nourriture et du
+logement.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe
+  - Décret n°92-238 du 9 mars 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. D141-2-7 (V)
 
 
 ## Livre 2 : Réglementation du travail<a id=235></a>
@@ -19791,8 +20493,8 @@ _Créé par_:
 ###### Article D211-1
 
 La durée du travail des mineurs de seize ans dont l'emploi est autorisé pendant les vacances scolaires conformément aux
-dispositions de l'alinéa 4 de l'article L. 211-1 et à celles des arrêtés du représentant du Gouvernement fixant ses modalités
-d'application ne peut, en aucun cas, excéder trente-neuf heures par semaine, ni huit heures par jour [*durée maximum*].
+dispositions de l'alinéa 4 de l'article L. 211-1 et à celles des arrêtés du représentant de l'Etat fixant ses modalités
+d'application ne peut, en aucun cas, excéder trente-neuf heures par semaine, ni huit heures par jour.
 
 Leur rémunération ne peut être inférieure au salaire minimum interprofessionnel garanti, compte tenu d'un abattement au plus
 égal à 20 p. 100.
@@ -19807,19 +20509,19 @@ _Codifié par_:
 
   - Décret n°92-238 1992-03-09 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article D211-2
 
 Tout chef d'entreprise qui se propose d'occuper un mineur de seize ans pendant la période des vacances scolaires doit en
 faire par écrit la demande à l'inspecteur du travail dans un délai de quinze jours au moins précédant la date prévue pour
-l'embauchage [*conditions de forme*].
+l'embauchage.
 
 Cette demande indique les nom, prénoms, âge et domicile de l'enfant, la durée du contrat, le lieu d'emploi, la nature et les
-conditions de travail auxquel il est envisagé de l'occuper. Elle précise notamment l'horaire de travail et le montant de la
+conditions de travail auxquels il est envisagé de l'occuper. Elle précise notamment l'horaire de travail et le montant de la
 rémunération. Elle doit porter l'accord écrit et signé du représentant légal de l'enfant.
 
 **Liens relatifs à cet article**
@@ -19828,16 +20530,15 @@ _Codifié par_:
 
   - Décret n°92-238 1992-03-09 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article D211-3
 
 Si l'inspecteur du travail n'a pas manifesté son opposition motivée à l'embauchage dans un délai de huit jours francs à
-compter de l'expédition de la demande [*point de départ*], le cachet de la poste faisant foi, l'autorisation est réputée
-accordée [*accord tacite*].
+compter de l'expédition de la demande, le cachet de la poste faisant foi, l'autorisation est réputée accordée.
 
 Si, dans ce même délai, l'inspecteur du travail a fait connaître qu'il subordonnait son autorisation à une ou plusieurs
 modifications ou adjonctions dans le libellé de la demande, cette décision vaut autorisation d'embauchage, sous réserve que
@@ -19849,9 +20550,9 @@ _Codifié par_:
 
   - Décret n°92-238 1992-03-09 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 ###### Article D211-4
@@ -19866,9 +20567,9 @@ _Codifié par_:
 
   - Décret n°92-238 1992-03-09 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
 #### Chapitre 2 : Durée du travail<a id=238></a>
@@ -19878,7 +20579,7 @@ _Créé par_:
 ###### Article D212-1
 
 Les heures perdues dans les cas prévus à l'article L. 212-3 ne peuvent être récupérées que dans les douze mois précédant ou
-suivant leur perte [*délai*].
+suivant leur perte.
 
 L'inspecteur du travail est préalablement informé par le chef d'établissement des interruptions collectives de travail et des
 modalités de la récupération. Toutefois, si le travail est interrompu par un événement imprévu, l'avis est donné
@@ -19892,11 +20593,19 @@ _Cite_:
 
 _Codifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe
+  - Décret n°92-238 du 9 mars 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. D212-4 (V)
 
 
 ###### Article D212-2
@@ -19915,11 +20624,19 @@ _Cite_:
 
 _Codifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe
+  - Décret n°92-238 du 9 mars 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. D212-5 (V)
 
 
 ###### Article D212-3
@@ -19941,9 +20658,17 @@ _Codifié par_:
 
   - Décret n°92-238 1992-03-09 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. D212-6 (V)
 
 
 ###### Article D212-4
@@ -19957,15 +20682,23 @@ _Codifié par_:
 
   - Décret n°92-238 1992-03-09 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. D212-7 (V)
 
 
 ###### Article D212-5
 
 Les décisions visées aux alinéas 2 et 3 de l'article D. 212-3 et à l'article D. 212-4 sont prises par arrêté du représentant
-du Gouvernement à Mayotte, sur rapport du directeur du travail, de l'emploi et de la formation professionnelle.
+de l'Etat à Mayotte, sur rapport du directeur du travail, de l'emploi et de la formation professionnelle.
 
 La commission consultative du travail est préalablement consultée dans les cas visés au troisième alinéa de l'article D.
 212-3 et à l'article D. 212-4.
@@ -19980,9 +20713,17 @@ _Codifié par_:
 
   - Décret n°92-238 1992-03-09 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2000-285 du 30 mars 2000 - art. 1 () JORF 1er avril 2000
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. D212-8 (V)
 
 
 ### Titre 2 : Repos et congés<a id=240></a>
@@ -20000,15 +20741,23 @@ _Codifié par_:
 
   - Décret n°92-238 1992-03-09 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. D223-2 (V)
 
 
 ###### Article D223-2
 
 La période ordinaire des vacances doit dans tous les cas être portée par l'employeur à la connaissance du personnel au moins
-deux mois [*délai*] avant l'ouverture de cette période.
+deux mois avant l'ouverture de cette période.
 
 L'ordre des départs est communiqué à chaque ayant droit quinze jours avant son départ et affiché dans les ateliers, bureaux
 et magasins. Il est fixé par l'employeur, après consultation du personnel ou de ses délégués, en tenant compte de la
@@ -20020,13 +20769,21 @@ _Codifié par_:
 
   - Décret n°92-238 1992-03-09 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
 
 _Cité par_:
 
   - Code du travail applicable à Mayotte. - art. D223-1 (V)
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. D223-3 (T)
 
 
 ###### Article D223-3
@@ -20045,9 +20802,17 @@ _Codifié par_:
 
   - Décret n°92-238 1992-03-09 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. D223-4 (V)
 
 
 ###### Article D223-4
@@ -20061,18 +20826,24 @@ _Codifié par_:
 
   - Décret n°92-238 1992-03-09 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. D223-5 (V)
 
 
 ## Livre 3 : Emploi<a id=242></a>
 
-### Titre 1er : Déclarations de mouvements de main d'oeuvre<a id=243></a>
+### Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin<a id=243></a>
 
-#### Travail clandestin<a id=244></a>
-
-##### Chapitre 2 : Travail clandestin<a id=245></a>
+#### Chapitre 2 : Travail clandestin<a id=244></a>
 
 ###### Article D312-1
 
@@ -20097,23 +20868,31 @@ _Cite_:
 
 _Codifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe
+  - Décret n°92-238 du 9 mars 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. D312-9 (V)
 
 
-## Livre 5 : Conflits du travail<a id=246></a>
+## Livre 5 : Conflits du travail<a id=245></a>
 
-### Titre 1er : Conflits collectifs<a id=247></a>
+### Titre 1er : Conflits collectifs<a id=246></a>
 
-#### Chapitre 4 : Médiation<a id=248></a>
+#### Chapitre 4 : Médiation<a id=247></a>
 
 ###### Article D514-1
 
 Il est alloué aux personnes désignées en qualité de médiateur, en application des articles L. 514-1, R. 514-1 ou R. 514-2,
-une indemnité forfaitaire pour chaque médiation dont le taux varie suivant l'importance du différend [*rémunération*].
+une indemnité forfaitaire pour chaque médiation dont le taux varie suivant l'importance du différend.
 
 L'indemnité allouée aux médiateurs comprend le remboursement des frais divers de secrétariat, de correspondance ou de
 déplacement à l'intérieur de leur résidence, nécessités par l'accomplissement de leur mission.
@@ -20128,16 +20907,24 @@ _Codifié par_:
 
   - Décret n°92-238 1992-03-09 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. D514-7 (V)
 
 
 ###### Article D514-2
 
 Les experts aux offices desquels les médiateurs peuvent avoir recours sont rémunérés à la vacation.
 
-Les personnes qualifiées qui prêtent leur concours aux médiateurs perçoivent une indemnité forfaitaire [*rémunération*].
+Les personnes qualifiées qui prêtent leur concours aux médiateurs perçoivent une indemnité forfaitaire.
 
 **Liens relatifs à cet article**
 
@@ -20145,16 +20932,24 @@ _Codifié par_:
 
   - Décret n°92-238 1992-03-09 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. D514-8 (V)
 
 
 ###### Article D514-3
 
 Le taux et les conditions d'attribution de l'indemnité forfaitaire prévue à l'article D. 514-1 ainsi que le taux et les
 conditions d'attribution des vacations et de l'indemnité forfaitaire prévues à l'article D. 514-2 sont fixés par arrêté du
-représentant du Gouvernement à Mayotte.
+représentant de l'Etat à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -20164,11 +20959,19 @@ _Cite_:
 
 _Codifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe
+  - Décret n°92-238 du 9 mars 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. D514-9 (V)
 
 
 ###### Article D514-4
@@ -20188,8 +20991,16 @@ _Codifié par_:
 
   - Décret n°92-238 1992-03-09 annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-238 1992-03-09 annexe JORF 15 mars 1992
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2012-1205 du 30 octobre 2012 - art. 2
+
+_Nouveaux textes_:
+
+  - Code du travail applicable à Mayotte. - art. D514-10 (V)
 
 
