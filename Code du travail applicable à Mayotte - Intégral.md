@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2002-02-23
+Version Consolidée au 2002-12-14
 ## Contenu: 
   - [Partie législative (art. L000-1 à L711-4)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L000-1 à L000-2)](#2)
@@ -21,7 +21,7 @@ Version Consolidée au 2002-02-23
           - [Section 2 : Résiliation du contrat de travail à durée indéterminée. (art. L122-17 à L122-31)](#18)
           - [Section 3 : Conséquences de la rupture du contrat. (art. L122-32 à L122-34)](#19)
           - [Section 4 : Règles particulières aux personnes intéressées par le service national, aux jeunes gens astreints aux obligations imposées par le service préparatoire et aux hommes rappelés au service national. (art. L122-35 à L122-41)](#20)
-          - [Section 5 : Règles particulières aux salariés candidats ou élus à l'Assemblée nationale ou au Sénat. (art. L122-42 à L122-44)](#21)
+          - [Section 5 : Règles particulières aux salariés candidats ou élus à un mandat parlementaire ou local. (art. L122-42 à L122-44)](#21)
           - [Section 6 : Protection de la maternité et éducation des enfants. (art. L122-45 à L122-54)](#22)
           - [Section 7 : Règles particulières aux salariés victimes d'un accident du travail ou d'une maladie professionnelle. (art. L122-55 à L122-66)](#23)
           - [Section 8 : Règlement intérieur, protection des salariés et droit disciplinaire (art. L122-67 à L122-78)](#24)
@@ -3028,13 +3028,14 @@ _Abrogé par_:
   - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
-##### Section 5 : Règles particulières aux salariés candidats ou élus à l'Assemblée nationale ou au Sénat.<a id=21></a>
+##### Section 5 : Règles particulières aux salariés candidats ou élus à un mandat parlementaire ou local.<a id=21></a>
 
 ###### Article L122-42
 
-Les employeurs sont tenus [*obligations*] de laisser à leurs salariés, candidats à l'Assemblée nationale ou au Sénat, le
-temps nécessaire [*crédit d'heures*] pour participer à la campagne électorale dans la limite de vingt jours ouvrables
-[*délai*].
+Les employeurs sont tenus de laisser à leurs salariés, candidats à l'Assemblée nationale ou au Sénat, le temps nécessaire
+pour participer à la campagne électorale dans la limite de vingt jours ouvrables. Le même droit est accordé, sur leur
+demande, aux salariés candidats au Parlement européen, au conseil municipal dans une commune d'au moins 3500 habitants ou au
+conseil général de Mayotte, dans la limite de dix jours ouvrables.
 
 Le salarié bénéficie à sa convenance des dispositions de l'alinéa précédent, à condition que chaque absence soit au moins
 d'une demi-journée entière. Il doit avertir son employeur vingt-quatre heures au moins avant le début de chaque absence.
@@ -3046,26 +3047,21 @@ les absences ne sont pas rémunérées ; elles donnent alors lieu à récupérat
 La durée de ces absences est assimilée à une période de travail effectif pour la détermination des droits à congés payés
 ainsi que des droits liés à l'ancienneté résultant des dispositions législatives, réglementaires et conventionnelles.
 
-**Nota:**
-
-[*Nota : Code du travail applicable dans la collectivité territoriale de Mayotte L122-44 : Les dispositions de la présente
-section sont applicables aux agents non titulaires de l'Etat et aux personnels des collectivités locales, des établissements
-et entreprises publics, pour autant qu'ils ne bénéficient pas déjà de dispositions plus favorables.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-44
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2002-1450 2002-12-12 art. 8 I, II JORF 14 décembre 2002
+  - Ordonnance n°2002-1450 du 12 décembre 2002 - art. 8 () JORF 14 décembre 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L122-43
@@ -3075,7 +3071,7 @@ l'expiration de son mandat, s'il justifie d'une ancienneté minimale d'une anné
 fonction.
 
 La suspension prend effet quinze jours après la notification qui en est faite à l'employeur, à la diligence du salarié, par
-lettre recommandée avec demande d'avis de réception [*point de départ, délai, conditions de forme*].
+lettre recommandée avec demande d'avis de réception.
 
 Le salarié doit manifester son intention de reprendre son emploi en adressant à son employeur une lettre recommandée avec
 demande d'avis de réception au plus tard dans les deux mois qui suivent l'expiration de son mandat.
@@ -3096,17 +3092,7 @@ qu'il avait acquis au moment de son départ.
 Un décret fixera les conditions dans lesquelles les droits des salariés, notamment en matière de prévoyance et de retraite,
 leur seront conservés durant la durée du mandat.
 
-**Nota:**
-
-[*Nota : Code du travail applicable dans la collectivité territoriale de Mayotte L122-44 : Les dispositions de la présente
-section sont applicables aux agents non titulaires de l'Etat et aux personnels des collectivités locales, des établissements
-et entreprises publics, pour autant qu'ils ne bénéficient pas déjà de dispositions plus favorables.*]
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail applicable dans la collectivité territoriale de Mayotte L122-44
 
 _Codifié par_:
 
@@ -3115,7 +3101,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2002-1450 du 12 décembre 2002 - art. 8 () JORF 14 décembre 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -3133,12 +3123,16 @@ plus favorables.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2002-1450 du 12 décembre 2002 - art. 8 () JORF 14 décembre 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ##### Section 6 : Protection de la maternité et éducation des enfants.<a id=22></a>
