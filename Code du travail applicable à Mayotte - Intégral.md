@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2006-10-27
+Version Consolidée au 2006-12-08
 ## Contenu: 
   - [Partie législative (art. L000-1 à L711-4-1)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L000-1 à L000-4)](#2)
@@ -37,10 +37,10 @@ Version Consolidée au 2006-10-27
         - [CHAPITRE VIII : Titre de travail simplifié. (art. L128-1)](#34)
       - [TITRE III : CONVENTIONS ET ACCORDS COLLECTIFS DE TRAVAIL (art. L131-1 à L136-1)](#35)
         - [CHAPITRE Ier : Champ d'application. (art. L131-1)](#36)
-        - [CHAPITRE II : Nature et validité des conventions et accords collectifs de travail. (art. L132-1 à L132-26)](#37)
+        - [CHAPITRE II : Nature et validité des conventions et accords collectifs de travail. (art. L132-1 à L132-27)](#37)
           - [Section 1 : Dispositions communes. (art. L132-2 à L132-10)](#38)
           - [Section 2 : Conventions collectives de branches et accords professionnels et interprofessionnels. (art. L132-11 à L132-16)](#39)
-          - [Section 3 : Conventions et accords collectifs d'entreprise. (art. L132-17 à L132-26)](#40)
+          - [Section 3 : Conventions et accords collectifs d'entreprise. (art. L132-17 à L132-27)](#40)
         - [CHAPITRE III : Conventions et accords susceptibles d'être étendus et procédures d'extension et d'élargissement (art. L133-1 à L133-10)](#41)
           - [Section 1 : Conventions et accords susceptibles d'être étendus. (art. L133-1 à L133-2-1)](#42)
           - [Section 2 : Procédures d'extension et d'élargissement. (art. L133-3 à L133-10)](#43)
@@ -6622,6 +6622,59 @@ _Abrogé par_:
 _Cite_:
 
   - Code du travail applicable à Mayotte. - art. L132-2 (VT)
+
+
+###### Article L132-27
+
+Jusqu'à la date du 31 décembre 2010, des accords professionnels ou d'entreprise prévus par le présent chapitre peuvent
+améliorer le régime du travail et de la protection sociale du personnel des industries électriques et gazières de Mayotte en
+adaptant, compte tenu des spécificités locales, certaines des dispositions du statut national du personnel de ces mêmes
+industries tel qu'approuvé par le décret n° 46-1541 du 22 juin 1946 approuvant le statut national du personnel des industries
+électriques et gazières. Ces accords sont agréés par les ministres chargés de l'énergie, du travail, de l'outre-mer et, le
+cas échéant, par le ministre chargé de la protection sociale.
+
+Un accord professionnel ou d'entreprise négocié et conclu conformément aux dispositions du présent chapitre peut, à compter
+du 1er janvier 2011, substituer, compte tenu des dispositions législatives et réglementaires applicables à Mayotte, au régime
+du travail du personnel des industries électriques et gazières, les dispositions du statut national du personnel de ces mêmes
+industries, à l'exception de celles d'entre elles intéressant son régime spécial de sécurité sociale.
+
+Avant d'être agréé par les ministres chargés de l'énergie, du travail, de l'outre-mer et, le cas échéant, de la protection
+sociale, cet accord est soumis à l'avis de la commission consultative du travail prévue à l'article L. 420-1 et à celui des
+organisations syndicales nationales les plus représentatives du personnel des industries électriques et gazières et du
+Conseil supérieur de l'énergie.
+
+A défaut de l'agrément d'un tel accord, celles des dispositions du statut national des industries électriques et gazières qui
+n'ont pas été reprises dans les accords visés au premier alinéa du présent article peuvent être étendues à Mayotte, sous
+réserve des adaptations rendues nécessaires par la situation locale.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article et notamment les conditions d'obtention de
+l'agrément.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°46-1541 du 22 juin 1946
+  - Code du travail applicable à Mayotte. - art. L420-1
+
+_Codifié par_:
+
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
+
+_Créé par_:
+
+  - Loi n°2006-1537 du 7 décembre 2006 - art. 53 () JORF 8 décembre 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R136-1 (Ab)
+  - Code du travail applicable à Mayotte. - art. R136-3 (Ab)
+  - Code du travail applicable à Mayotte. - art. R136-4 (Ab)
 
 
 #### CHAPITRE III : Conventions et accords susceptibles d'être étendus et procédures d'extension et d'élargissement<a id=41></a>
