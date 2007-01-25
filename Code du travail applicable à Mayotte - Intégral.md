@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2006-12-08
+Version Consolidée au 2007-01-26
 ## Contenu: 
   - [Partie législative (art. L000-1 à L711-4-1)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L000-1 à L000-4)](#2)
@@ -17457,6 +17457,9 @@ _Abrogé par_:
 Nul ne peut, directement ou par personne interposée, engager, conserver à son service ou employer pour quelque durée que ce
 soit un étranger non muni du titre l'autorisant à exercer une activité salariée à Mayotte.
 
+Dans des conditions fixées par décret en Conseil d'Etat, l'employeur est tenu de s'assurer auprès des services du
+représentant de l'Etat de l'existence du titre autorisant l'étranger à exercer une activité salariée à Mayotte.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -17480,14 +17483,19 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L342-1 (VT)
   - Code du travail applicable à Mayotte. - art. L342-2 (VT)
   - Code du travail applicable à Mayotte. - art. L610-11 (VT)
+  - Code du travail applicable à Mayotte. - art. L610-15 (VT)
   - Code du travail applicable à Mayotte. - art. R330-14 (V)
   - Code du travail applicable à Mayotte. - art. R330-15 (V)
   - Code du travail applicable à Mayotte. - art. R330-16 (V)
   - Code général des collectivités territoriales - art. L1751-1-1 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 17 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+  - Ordonnance 2007-98 2007-01-25 art. 128 2° JORF 26 janvier 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L330-6
@@ -17577,6 +17585,41 @@ _Codifié par_:
 _Créé par_:
 
   - Ordonnance n°2005-44 du 20 janvier 2005 - art. 17 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+
+###### Article L330-9
+
+Les agents de contrôle visés aux articles L. 610-1 et L. 610-15 sont habilités à se communiquer tous renseignements et tous
+documents relatifs aux dispositions du présent chapitre.
+
+Afin de lutter contre le travail illégal, les agents chargés de la délivrance des titres de séjour, individuellement désignés
+et dûment habilités, peuvent avoir accès aux traitements automatisés des autorisations de travail dans les conditions
+définies par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+
+Pour les mêmes motifs, les agents de contrôle visés aux articles L. 610-1 et L. 610-15, individuellement désignés et dûment
+habilités, peuvent avoir accès aux traitements automatisés des titres de séjour des étrangers dans les conditions définies
+par la loi n° 78-17 du 6 janvier 1978 précitée.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°78-17 du 6 janvier 1978
+  - Code du travail applicable à Mayotte. - art. L610-1
+  - Code du travail applicable à Mayotte. - art. L610-15
+
+_Codifié par_:
+
+  - Ordonnance 91-246 1991-02-25 art. 1
+  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+
+_Modifié par_:
+
+  - Ordonnance 2007-98 2007-01-25 art. 128 1° JORF 26 janvier 2007
 
 _Abrogé par_:
 
