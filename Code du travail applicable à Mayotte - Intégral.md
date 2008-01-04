@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2007-11-14
+Version Consolidée au 2008-01-05
 ## Contenu: 
   - [Partie législative (art. L000-1 à L711-4-1)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L000-1 à L000-5)](#2)
@@ -585,23 +585,24 @@ Version Consolidée au 2007-11-14
       - [Titre 3 : Hygiène et sécurité (art. D233-1 à D233-9)](#582)
         - [Chapitre 3 : Sécurité. (art. D233-1 à D233-9)](#583)
     - [Livre 3 : Emploi (art. D312-1 à D327-10)](#584)
-      - [Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin (art. D312-1)](#585)
+      - [Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin (art. D312-1 à D313-2)](#585)
         - [Chapitre 2 : Travail clandestin (art. D312-1)](#586)
-      - [Titre 2 : Aides à l'emploi - Intervention du fonds national de l'emploi (art. D324-9 à D327-10)](#587)
-        - [Chapitre 4 : Dispositions particulières relatives à l'emploi des jeunes - Projet initiative-jeune (art. D324-9)](#588)
-        - [Chapitre 5 : Dispositions relatives à la création d'entreprises et à la création d'emplois - Aide à la création d'entreprises à l'initiative des demandeurs d'emploi (art. D325-1)](#589)
-        - [Chapitre 7 : Indemnisation du chômage (art. D327-10)](#590)
-          - [Section 2 : Perte temporaire de salaire (art. D327-10)](#591)
-    - [Livre 4 : Les groupements professionnels - La représentation des salariés (art. D442-1)](#592)
-      - [Titre 4 : Les comités d'entreprise (art. D442-1)](#593)
-        - [Chapitre 2 : Attributions et pouvoirs. (art. D442-1)](#594)
-    - [Livre 5 : Conflits du travail (art. D514-1 à D514-4)](#595)
-      - [Titre 1er : Conflits collectifs (art. D514-1 à D514-4)](#596)
-        - [Chapitre 4 : Médiation (art. D514-1 à D514-4)](#597)
-    - [Livre 7 : De la formation professionnelle (art. D712-1 à D712-17)](#598)
-      - [Chapitre 2 : Contrats de formation en alternance Section 1 : Contrats de qualification (art. D712-1 à D712-7)](#599)
-      - [Chapitre 2 : Contrats de formation en alternance Section 2 : Contrats d'orientation (art. D712-8 à D712-11)](#600)
-      - [Chapitre 2 : Contrats de formation en alternance Section 3 : Dispositions communes aux contrats de qualification et d'orientation (art. D712-12 à D712-17)](#601)
+        - [Chapitre 3 : Répression du travail illégal (art. D313-1 à D313-2)](#587)
+      - [Titre 2 : Aides à l'emploi - Intervention du fonds national de l'emploi (art. D324-9 à D327-10)](#588)
+        - [Chapitre 4 : Dispositions particulières relatives à l'emploi des jeunes - Projet initiative-jeune (art. D324-9)](#589)
+        - [Chapitre 5 : Dispositions relatives à la création d'entreprises et à la création d'emplois - Aide à la création d'entreprises à l'initiative des demandeurs d'emploi (art. D325-1)](#590)
+        - [Chapitre 7 : Indemnisation du chômage (art. D327-10)](#591)
+          - [Section 2 : Perte temporaire de salaire (art. D327-10)](#592)
+    - [Livre 4 : Les groupements professionnels - La représentation des salariés (art. D442-1)](#593)
+      - [Titre 4 : Les comités d'entreprise (art. D442-1)](#594)
+        - [Chapitre 2 : Attributions et pouvoirs. (art. D442-1)](#595)
+    - [Livre 5 : Conflits du travail (art. D514-1 à D514-4)](#596)
+      - [Titre 1er : Conflits collectifs (art. D514-1 à D514-4)](#597)
+        - [Chapitre 4 : Médiation (art. D514-1 à D514-4)](#598)
+    - [Livre 7 : De la formation professionnelle (art. D712-1 à D712-17)](#599)
+      - [Chapitre 2 : Contrats de formation en alternance Section 1 : Contrats de qualification (art. D712-1 à D712-7)](#600)
+      - [Chapitre 2 : Contrats de formation en alternance Section 2 : Contrats d'orientation (art. D712-8 à D712-11)](#601)
+      - [Chapitre 2 : Contrats de formation en alternance Section 3 : Dispositions communes aux contrats de qualification et d'orientation (art. D712-12 à D712-17)](#602)
 # Partie législative<a id=1></a>
 
 ## LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES.<a id=2></a>
@@ -54507,9 +54508,58 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D312-9 (V)
 
 
-### Titre 2 : Aides à l'emploi - Intervention du fonds national de l'emploi<a id=587></a>
+#### Chapitre 3 : Répression du travail illégal<a id=587></a>
 
-#### Chapitre 4 : Dispositions particulières relatives à l'emploi des jeunes - Projet initiative-jeune<a id=588></a>
+###### Article D313-1
+
+En application de l'article L. 313-3, l'autorité compétente peut refuser les aides publiques attachées aux dispositifs prévus
+par les articles L. 113-1, L. 322-2, L. 322-7, L. 323-2, L. 324-1, L. 325-2, L. 711-5 et L. 711-7 du présent code ainsi que
+les articles L. 1511-1 à L. 1511-5 du code général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-6 du 2 janvier 2008 - art. 1
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L1511-1
+  - Code du travail applicable à Mayotte. - art. L113-1
+  - Code du travail applicable à Mayotte. - art. L313-3
+  - Code du travail applicable à Mayotte. - art. L322-2
+  - Code du travail applicable à Mayotte. - art. L323-2
+  - Code du travail applicable à Mayotte. - art. L324-1
+  - Code du travail applicable à Mayotte. - art. L325-2
+  - Code du travail applicable à Mayotte. - art. L711-5
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. D313-2 (V)
+
+
+###### Article D313-2
+
+Lorsqu'elle est saisie d'une demande du bénéfice d'une des aides mentionnées à l'article D. 313-1 par une personne verbalisée
+pour une infraction mentionnée à l'article L. 313-1, l'autorité compétente doit, avant toute décision de refus, informer
+celle-ci, par lettre recommandée avec demande d'avis de réception, qu'elle est passible de la sanction prévue par l'article
+L. 313-3 et qu'elle peut présenter ses observations écrites dans un délai de quinze jours.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-6 du 2 janvier 2008 - art. 1
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L313-1
+  - Code du travail applicable à Mayotte. - art. L313-3
+
+
+### Titre 2 : Aides à l'emploi - Intervention du fonds national de l'emploi<a id=588></a>
+
+#### Chapitre 4 : Dispositions particulières relatives à l'emploi des jeunes - Projet initiative-jeune<a id=589></a>
 
 ###### Article D324-9
 
@@ -54544,7 +54594,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D324-2 (Ab)
 
 
-#### Chapitre 5 : Dispositions relatives à la création d'entreprises et à la création d'emplois - Aide à la création d'entreprises à l'initiative des demandeurs d'emploi<a id=589></a>
+#### Chapitre 5 : Dispositions relatives à la création d'entreprises et à la création d'emplois - Aide à la création d'entreprises à l'initiative des demandeurs d'emploi<a id=590></a>
 
 ###### Article D325-1
 
@@ -54593,9 +54643,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D325-1-1 (Ab)
 
 
-#### Chapitre 7 : Indemnisation du chômage<a id=590></a>
+#### Chapitre 7 : Indemnisation du chômage<a id=591></a>
 
-##### Section 2 : Perte temporaire de salaire<a id=591></a>
+##### Section 2 : Perte temporaire de salaire<a id=592></a>
 
 ###### Article D327-10
 
@@ -54625,11 +54675,11 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D321-12-1 (Ab)
 
 
-## Livre 4 : Les groupements professionnels - La représentation des salariés<a id=592></a>
+## Livre 4 : Les groupements professionnels - La représentation des salariés<a id=593></a>
 
-### Titre 4 : Les comités d'entreprise<a id=593></a>
+### Titre 4 : Les comités d'entreprise<a id=594></a>
 
-#### Chapitre 2 : Attributions et pouvoirs.<a id=594></a>
+#### Chapitre 2 : Attributions et pouvoirs.<a id=595></a>
 
 ###### Article D442-1
 
@@ -54750,11 +54800,11 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L442-8
 
 
-## Livre 5 : Conflits du travail<a id=595></a>
+## Livre 5 : Conflits du travail<a id=596></a>
 
-### Titre 1er : Conflits collectifs<a id=596></a>
+### Titre 1er : Conflits collectifs<a id=597></a>
 
-#### Chapitre 4 : Médiation<a id=597></a>
+#### Chapitre 4 : Médiation<a id=598></a>
 
 ###### Article D514-1
 
@@ -54871,9 +54921,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D514-10 (V)
 
 
-## Livre 7 : De la formation professionnelle<a id=598></a>
+## Livre 7 : De la formation professionnelle<a id=599></a>
 
-### Chapitre 2 : Contrats de formation en alternance Section 1 : Contrats de qualification<a id=599></a>
+### Chapitre 2 : Contrats de formation en alternance Section 1 : Contrats de qualification<a id=600></a>
 
 ###### Article D712-1
 
@@ -55111,7 +55161,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D711-8 (VT)
 
 
-### Chapitre 2 : Contrats de formation en alternance Section 2 : Contrats d'orientation<a id=600></a>
+### Chapitre 2 : Contrats de formation en alternance Section 2 : Contrats d'orientation<a id=601></a>
 
 ###### Article D712-8
 
@@ -55288,7 +55338,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D711-12 (VT)
 
 
-### Chapitre 2 : Contrats de formation en alternance Section 3 : Dispositions communes aux contrats de qualification et d'orientation<a id=601></a>
+### Chapitre 2 : Contrats de formation en alternance Section 3 : Dispositions communes aux contrats de qualification et d'orientation<a id=602></a>
 
 ###### Article D712-12
 
