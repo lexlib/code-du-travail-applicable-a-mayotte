@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2008-01-05
+Version Consolidée au 2008-02-15
 ## Contenu: 
   - [Partie législative (art. L000-1 à L711-4-1)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L000-1 à L000-5)](#2)
@@ -16649,26 +16649,19 @@ _Cité par_:
 
 ###### Article L326
 
-Comme il est dit à l'article L. 830-1 du code du travail applicable dans les départements de métropole et d'outre-mer ci-
-après reproduit :
-
-"Art. L. 830-1. - L'Agence nationale pour l'emploi prévue à l'article L. 311-7 assure le service public du placement à
-Mayotte dans les conditions prévues par le code du travail applicable localement."
+L'institution mentionnée à l'article L. 311-7 du code du travail mentionnée à l'article L. 5312-1 du code du travail assure
+le service public du placement à Mayotte dans les conditions prévues par le code du travail applicable localement.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-_Créé par_:
-
-  - Loi n°2003-660 du 21 juillet 2003 - art. 15 (V) JORF 22 juillet 2003
+  - Loi n°2008-126 du 13 février 2008 - art. 14
 
 _Cite_:
 
-  - Code du travail - art. L830-1 (M)
+  - Code du travail - art. L311-7 (Ab)
+  - Code du travail - art. L5312-1 (VD)
 
 _Cité par_:
 
