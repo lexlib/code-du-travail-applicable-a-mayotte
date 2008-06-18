@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2008-05-25
+Version Consolidée au 2008-06-19
 ## Contenu: 
   - [Partie législative (art. L000-1 à L711-4-1)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L000-1 à L000-5)](#2)
@@ -7879,18 +7879,11 @@ L'acceptation sans protestation ni réserve d'un bulletin de paie par le travail
 renonciation au paiement de tout ou partie du salaire et des indemnités ou accessoires de salaire qui lui sont dus en vertu
 de la loi, du règlement, d'une convention ou accord collectif de travail ou d'un contrat.
 
-Cette acceptation ne peut valoir non plus compte arrêté et réglé.
-
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Loi n°2008-561 du 17 juin 2008 - art. 25 (V)
 
 _Cité par_:
 
@@ -8240,18 +8233,17 @@ _Cite_:
 
 ###### Article L143-15
 
-L'action en paiement du salaire se prescrit par cinq ans.
+L'action en paiement ou en répétition du salaire se prescrit par cinq ans conformément à l'article 2224 du code civil.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Loi n°2008-561 du 17 juin 2008 - art. 25 (V)
+
+_Cite_:
+
+  - Code civil - art. 2224
 
 
 #### CHAPITRE IV : Retenues sur le salaire.<a id=55></a>
