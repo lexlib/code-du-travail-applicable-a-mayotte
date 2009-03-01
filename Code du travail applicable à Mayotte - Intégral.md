@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2009-01-01
+Version Consolidée au 2009-03-02
 ## Contenu: 
   - [Partie législative (art. L000-1 à L711-4-1)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L000-1 à L000-6)](#2)
@@ -249,360 +249,372 @@ Version Consolidée au 2009-01-01
           - [Section 5 : Pouvoirs de l'inspection du travail (art. R231-65 à R231-71)](#246)
             - [Sous-section 1 : Mesures prises pour soustraire un salarié à une situation de danger grave et imminent sur un chantier du bâtiment et des travaux publics. (art. R231-65 à R231-69)](#247)
             - [Sous-section 2 : Mises en demeure. (art. R231-70 à R231-71)](#248)
-        - [CHAPITRE II : Hygiène, aménagement des lieux de travail, prévention des incendies (art. R232-6 à R232-100)](#249)
-          - [Section 1 : Aménagement et hygiène des lieux de travail (art. R232-6 à R232-25)](#250)
-            - [Sous-section 1 : Dispositions générales relatives à l'aménagement des lieux de travail. (art. R232-6 à R232-15)](#251)
+        - [CHAPITRE II : Hygiène, aménagement des lieux de travail, prévention des incendies (art. R232-1 à R232-101)](#249)
+          - [Section 1 : Aménagement et hygiène des lieux de travail (art. R232-1 à R232-26)](#250)
+            - [Sous-section 1 : Dispositions générales relatives à l'aménagement des lieux de travail. (art. R232-1 à R232-15)](#251)
             - [Sous-section 2 : Installations sanitaires. (art. R232-16 à R232-23)](#252)
             - [Sous-section 3 : Postes de distribution de boissons. (art. R232-24 à R232-25)](#253)
-          - [Section 2 : Ambiances des lieux de travail (art. R232-32 à R232-59)](#254)
-            - [Sous-section 1 : Aération, assainissement. (art. R232-32 à R232-34)](#255)
-            - [Sous-section 2 : Eclairage. (art. R232-50)](#256)
-            - [Sous-section 3 : Prévention des risques dûs au bruit. (art. R232-54 à R232-59)](#257)
-          - [Section 3 : Restauration - Hébergement (art. R232-62)](#258)
-            - [Sous-section 1 : Repas. (art. R232-62)](#259)
-          - [Section 4 : Prévention des incendies - Evacuation (art. R232-72 à R232-84)](#260)
-            - [Sous-section 1 : Dispositions générales. (art. R232-72)](#261)
-            - [Sous-section 3 : Emploi des matières inflammables. (art. R232-81 à R232-82)](#262)
-            - [Sous-section 4 : Moyens de prévention et de lutte contre l'incendie. (art. R232-84)](#263)
-          - [Section 5 : Mesures d'application (art. R232-100)](#264)
-            - [Sous-section 2 : Dispositions générales. (art. R232-100)](#265)
-        - [CHAPITRE III : Sécurité (art. R233-1 à R233-87)](#266)
-          - [Section 1 : Règles générales d'utilisation des équipements de travail et moyens de protection, y compris les équipements de protection individuelle. (art. R233-1 à R233-4)](#267)
-          - [Section 2 : Mesures d'organisation et conditions de mise en oeuvre des équipements de travail (art. R233-5 à R233-22)](#268)
-            - [Sous-section 1 : Mesures générales. (art. R233-5 à R233-12)](#269)
-            - [Sous-section 2 : Mesures particulières applicables à l'utilisation de certains équipements de travail ou à certaines situations de travail. (art. R233-13 à R233-19)](#270)
-            - [Sous-section 3 : Mesures complémentaires applicables à l'utilisation des équipements de travail mobiles. (art. R233-20 à R233-22)](#271)
-          - [Section 3 : Prescriptions techniques applicables pour l'utilisation des équipements de travail. (art. R233-24 à R233-41)](#272)
-          - [Section 5 : Dispositions diverses et mesures d'application. (art. R233-59 à R233-60)](#273)
-          - [Section 6 : Règles de sécurité relatives aux machines, équipements de travail et moyens de protection (art. R233-63 à R233-77)](#274)
-            - [Sous-section 1 : Dispositions générales. (art. R233-63 à R233-64)](#275)
-            - [Sous-section 6 : Mesures de contrôle. (art. R233-74)](#276)
-            - [Sous-section 7 : Organismes agréés prévus par les articles L. 233-8 et R. 233-74. (art. R233-76)](#277)
-            - [Sous-section 8 : Maintien en état de conformité. (art. R233-77)](#278)
-          - [Section 7 : Equipements de travail et moyens de protection soumis aux obligations de sécurité définies aux articles L. 233-6 et L. 233-7 (art. R233-78 à R233-87)](#279)
-            - [Sous-section 1 : Equipements de travail. (art. R233-78 à R233-80)](#280)
-            - [Sous-section 2 : Composants de sécurité. (art. R233-81 à R233-86)](#281)
-            - [Sous-section 3 : Equipements de protection individuelle d'occasion. (art. R233-87)](#282)
-        - [CHAPITRE IV : Dispositions particulières aux femmes et aux jeunes travailleurs. (art. R234-1 à R234-23)](#283)
-          - [Section 1 : Hygiène. (art. R234-3 à R234-4)](#284)
-          - [Section 2 : Limitation des charges. (art. R234-5 à R234-6)](#285)
-          - [Section 3 : Travaux interdits aux femmes. (art. R234-7 à R234-8)](#286)
-          - [Section 4 : Travaux interdits aux jeunes travailleurs. (art. R234-9 à R234-23)](#287)
-        - [CHAPITRE V : Mesures particulières de protection et de salubrité applicables aux établissements dont les salariés exécutent des travaux de bâtiment, des travaux publics et tous autres travaux concernant les immeubles (art. R235-1 à R235-255)](#288)
-          - [Section 1 : Mesures générales de sécurité (art. R235-2 à R235-24)](#289)
-            - [Sous-section 1 : Résistance et stabilité. (art. R235-2 à R235-4)](#290)
-            - [Sous-section 2 : Mesures de protection collective destinées à empêcher les chutes des salariés. (art. R235-5 à R235-12)](#291)
-            - [Sous-section 3 : Mesures de protection destinées à empêcher les chutes d'objets et de matériaux et les accidents dus aux planches munies de pointes saillantes. (art. R235-13 à R235-15)](#292)
-            - [Sous-section 4 : Mesures de protection individuelle. (art. R235-16 à R235-18)](#293)
-            - [Sous-section 5 : Travaux exécutés par grands vents. (art. R235-19)](#294)
-            - [Sous-section 6 : Dispositions concernant la circulation des véhicules, appareils et engins de chantier. (art. R235-20 à R235-21)](#295)
-            - [Sous-section 7 : Examens, vérifications, registres. (art. R235-22 à R235-24)](#296)
-          - [Section 2 : Appareils de levage, câbles, chaînes, cordages et crochets (art. R235-25 à R235-63)](#297)
-            - [Sous-section 1 : Appareils de levage mus mécaniquement. (art. R235-25 à R235-45)](#298)
-              - [I. - Installation des appareils et des voies. (art. R235-26 à R235-30)](#299)
-              - [II. - Organes et dispositifs annexes. (art. R235-31 à R235-37)](#300)
-              - [III. - Recettes. (art. R235-38)](#301)
-              - [IV. - Manoeuvres. (art. R235-39 à R235-42)](#302)
-              - [V. - Transport ou élévation des salariés. (art. R235-43 à R235-44)](#303)
-              - [VI. - Epreuves, examens et inspections. (art. R235-45)](#304)
-            - [Sous-section 2 : Appareils de levage mus à la main (art. R235-46 à R235-54)](#305)
-              - [I. - Installation et résistance des appareils. (art. R235-46 à R235-48)](#306)
-              - [II. - Treuils, recettes, manoeuvres. (art. R235-49 à R235-51)](#307)
-              - [III. - Transport ou élévation des salariés. (art. R235-52 à R235-54)](#308)
-            - [Sous-section 3 : Câbles, chaînes, cordages et crochets. (art. R235-55 à R235-63)](#309)
-          - [Section 3 : Travaux de terrassement à ciel ouvert et travaux souterrains (art. R235-64 à R235-96)](#310)
-            - [Sous-section 1 : Travaux de terrassement à ciel ouvert. (art. R235-64 à R235-79)](#311)
-            - [Sous-section 2 : Travaux souterrains (art. R235-80 à R235-96)](#312)
-              - [I. - Mesures à prendre pour éviter les éboulements et les chutes de blocs. (art. R235-80 à R235-82)](#313)
-              - [II. - Ventilation. (art. R235-83 à R235-89)](#314)
-              - [III. - Circulation. (art. R235-90 à R235-94)](#315)
-              - [IV. - Signalisation, éclairage. (art. R235-95 à R235-96)](#316)
-          - [Section 4 : Travaux de démolition. (art. R235-97 à R235-105)](#317)
-          - [Section 5 : Echafaudages, plates-formes, passerelles et escaliers (art. R235-106 à R235-157)](#318)
-            - [Sous-section 1 : Echafaudages (art. R235-106 à R235-142)](#319)
-              - [I. - Dispositions générales. (art. R235-106 à R235-109)](#320)
-              - [II. - Dispositions communes aux échafaudages fixes en bois ou en métal. (art. R235-110 à R235-122)](#321)
-              - [III. - Dispositions particulières aux échafaudages fixes en bois. (art. R235-123 à R235-129)](#322)
-              - [IV. - Dispositions particulières aux échafaudages fixes en métal. (art. R235-130)](#323)
-              - [V. - Echafaudages montés sur roues. (art. R235-131)](#324)
-              - [VI. - Echafaudages volants. (art. R235-132 à R235-135)](#325)
-              - [VII. - Dispositions diverses. (art. R235-136 à R235-142)](#326)
-            - [Sous-section 2 : Plates-formes, passerelles et escaliers. (art. R235-143 à R235-150)](#327)
-            - [Sous-section 3 : Echelles. (art. R235-151 à R235-157)](#328)
-          - [Section 6 : Travaux sur les toitures, travaux de montage, de démontage et de levage de charpentes et ossatures et travaux de construction comportant la mise en oeuvre d'éléments préfabriqués lourds (art. R235-158 à R235-172)](#329)
-            - [Sous-section 1 : Travaux sur les toitures. (art. R235-158 à R235-165)](#330)
-            - [Sous-section 2 : Travaux de montage, de démontage et de levage de charpentes et ossatures. (art. R235-166 à R235-171)](#331)
-            - [Sous-section 3 : Travaux de construction comportant la mise en oeuvre d'éléments préfabriqués lourds. (art. R235-172)](#332)
-          - [Section 7 : Travaux au voisinage de lignes, canalisations et installations électriques (art. R235-173 à R235-187)](#333)
-            - [Sous-section 1. (art. R235-173 à R235-183)](#334)
-            - [Sous-section 2. (art. R235-184 à R235-187)](#335)
-          - [Section 8 : Mesures générales d'hygiène et logement provisoire des salariés (art. R235-188 à R235-198)](#336)
-            - [Sous-section 1 : Mesures générales d'hygiène. (art. R235-188 à R235-195)](#337)
-            - [Sous-section 2 : Logement provisoire des salariés - Réfectoires et cuisines. (art. R235-196 à R235-198)](#338)
-          - [Section 9 : Dispositions diverses. (art. R235-199 à R235-214)](#339)
-          - [Section 10 : Dispositions particulières relatives à la coordination pour certaines opérations de bâtiment ou de génie civil (art. R235-215 à R235-255)](#340)
-            - [Sous-section 1 : Déclaration préalable. (art. R235-215 à R235-216)](#341)
-            - [Sous-section 2 : Coordonnateur en matière de sécurité et de protection de la santé (art. R235-217 à R235-229)](#342)
-              - [Paragraphe 1 : Attribution de la mission de coordination. (art. R235-217 à R235-218)](#343)
-              - [Paragraphe 2 : Exercice de la fonction de coordonnateur. (art. R235-219 à R235-221)](#344)
-              - [Paragraphe 3 : Critères de compétence du coordonnateur. (art. R235-222 à R235-224)](#345)
-              - [Paragraphe 4 : Formation des coordonnateurs. (art. R235-225 à R235-229)](#346)
-            - [Sous-section 3 : Mission de coordination. (art. R235-230 à R235-233)](#347)
-            - [Sous-section 4 : Plan général de coordination en matière de sécurité et de protection de la santé (art. R235-234 à R235-242)](#348)
-              - [Paragraphe 1 : Dispositions applicables aux opérations de 1re catégorie. (art. R235-234 à R235-239)](#349)
-              - [Paragraphe 2 : Dispositions particulières applicables à certaines opérations de 2e catégorie. (art. R235-240 à R235-242)](#350)
-            - [Sous-section 5 : Plan particulier de sécurité et de protection de la santé (art. R235-243 à R235-255)](#351)
-              - [Paragraphe 1 : Dispositions applicables aux opérations de 1re catégorie. (art. R235-243 à R235-253)](#352)
-              - [Paragraphe 2 : Dispositions particulières applicables à certaines opérations de 2e catégorie. (art. R235-254 à R235-255)](#353)
-        - [CHAPITRE VI : Mesures particulières de protection des salariés dans les établissements qui mettent en oeuvre des courants électriques (art. R236-1 à R236-58)](#354)
-          - [Section 1 : Généralités (art. R236-1 à R236-3)](#355)
-            - [Champ d'application. (art. R236-1)](#356)
-            - [Définitions. (art. R236-2)](#357)
-            - [Classement des installations en fonction des tensions. (art. R236-3)](#358)
-          - [Section 2 : Conditions générales auxquelles doivent satisfaire les installations (art. R236-4 à R236-15)](#359)
-            - [Normes de sécurité obligatoires. (art. R236-4)](#360)
-            - [Dispositions générales. (art. R236-5)](#361)
-            - [Identification des circuits, des appareils et des conducteurs. (art. R236-6)](#362)
-            - [Installations à très basse tension. (art. R236-7)](#363)
-            - [Limitation des domaines de tension pour certains appareils récepteurs et dispositions particulières applicables à certains matériels d'utilisation. (art. R236-8)](#364)
-            - [Séparation des sources d'énergie. (art. R236-9)](#365)
-            - [Coupure d'urgence. (art. R236-10)](#366)
-            - [Interdiction d'utiliser la terre ou les masses comme partie d'un circuit actif. (art. R236-11)](#367)
-            - [Prises de terre et conducteurs de protection. (art. R236-12)](#368)
-            - [Section des conducteurs de terre et des liaisons équipotentielles. (art. R236-13)](#369)
-            - [Résistances de terre, conducteurs de terre. (art. R236-14)](#370)
-            - [Installation de sécurité. (art. R236-15)](#371)
-          - [Section 3 : Protection des salariés contre les risques de contact avec des conducteurs actifs ou des pièces conductrices habituellement sous tension (contact direct) (art. R236-16 à R236-28)](#372)
-            - [Mise hors de portée des conducteurs actifs et des pièces conductrices sous tension. (art. R236-16)](#373)
-            - [Mise hors de portée par éloignement. (art. R236-17)](#374)
-            - [Mise hors de portée au moyen d'obstacles. (art. R236-18)](#375)
-            - [Mise hors de portée par isolation. (art. R236-19)](#376)
-            - [Culots et douilles, prises de courant, prolongateurs et connecteurs. (art. R236-20)](#377)
-            - [Lignes de contact. (art. R236-21 à R236-25)](#378)
-            - [Locaux et emplacements de travail à risques particuliers de choc électrique. (art. R236-26 à R236-27)](#379)
-            - [Installations mobiles à risques particuliers de choc électrique. (art. R236-28)](#380)
-          - [Section 4 : Protection des salariés contre les risques de contact avec des masses mises accidentellement sous tension (contact indirect) (art. R236-29 à R236-40)](#381)
-            - [Dispositions générales. (art. R236-29)](#382)
-            - [Sous-section 1 : Installation à courant alternatif (art. R236-30 à R236-39)](#383)
-              - [Types de mesures de protection. (art. R236-30 à R236-39)](#384)
-                - [A. - Protection contre les contacts indirects par mise à la terre des masses et par coupure automatique de l'alimentation (art. R236-31 à R236-36)](#385)
-                  - [Généralités. (art. R236-31)](#386)
-                  - [Installation électrique réalisée suivant le schéma TN (mise au neutre). (art. R236-32)](#387)
-                  - [Installations réalisées suivant le schéma TT (neutre directement relié à la terre). (art. R236-33)](#388)
-                  - [Installations électriques réalisées suivant le schéma IT (neutre isolé ou neutre relié à la terre par une impédance limitant le courant de défaut). (art. R236-34)](#389)
-                  - [Liaison équipotentielle supplémentaire. (art. R236-35)](#390)
-                  - [Double isolation ou isolation renforcée. (art. R236-36)](#391)
-                - [B. - Protection contre les contacts indirects sans mise à la terre et sans coupure de l'alimentation (art. R236-37 à R236-39)](#392)
-                  - [Impédance de protection. (art. R236-37)](#393)
-                  - [Protection complémentaire. (art. R236-38)](#394)
-                  - [Protection par séparation des circuits. (art. R236-39)](#395)
-            - [Sous-section 2 : Installations à courant autre qu'alternatif (art. R236-40)](#396)
-              - [Types de mesures de protection. (art. R236-40)](#397)
-          - [Section 5 : Prévention des brûlures, incendies et explosions d'origine électrique (art. R236-41 à R236-44)](#398)
-            - [Réalisation des installations. (art. R236-41)](#399)
-            - [Interrupteurs, coupe-circuit, disjoncteurs, matériels contenant un diélectrique liquide inflammable. (art. R236-42)](#400)
-            - [Locaux ou emplacements présentant des dangers d'incendie. (art. R236-43)](#401)
-            - [Zone présentant des risques d'explosion. (art. R236-44)](#402)
-          - [Section 6 : Utilisation, surveillance, entretien et vérification des installations électriques (art. R236-45 à R236-55)](#403)
-            - [Généralités. (art. R236-45)](#404)
-            - [Prescriptions au personnel. (art. R236-46)](#405)
-            - [Surveillance des installations. (art. R236-47)](#406)
-            - [Généralités sur les travaux sur des installations ou à proximité d'installations électriques. (art. R236-48)](#407)
-            - [Travaux effectués hors tension. (art. R236-49)](#408)
-            - [Travaux effectués sous tension. (art. R236-50)](#409)
-            - [Travaux effectués au voisinage des pièces sous tension. (art. R236-51)](#410)
-            - [Dispositions à prendre après un incident. (art. R236-52)](#411)
-            - [Vérification initiale et périodique. (art. R236-53)](#412)
-            - [Vérification sur mise en demeure. (art. R236-54)](#413)
-            - [Dossier tenu à la disposition de l'agent de contrôle de l'inspection du travail. (art. R236-55)](#414)
-          - [Section 7 : Mesures diverses (art. R236-56 à R236-58)](#415)
-            - [Formation requise pour administrer les premiers soins. (art. R236-56)](#416)
-            - [Dérogations. (art. R236-57)](#417)
-            - [Arrêtés d'application. (art. R236-58)](#418)
-        - [CHAPITRE VIII : Autres mesures particulières relatives à la protection des salariés (art. R238-1-1 à R238-8-15)](#419)
-          - [Section 1 : Mesures particulières de protection relatives à l'emploi des explosifs. (art. R238-1-1 à R238-1-47)](#420)
-            - [Sous-section 1 : Dispositions applicables à tous les tirs de mine (art. R238-1-3 à R238-1-24)](#421)
-              - [I. - Obligations générales des personnes chargées des produits explosifs. (art. R238-1-3 à R238-1-6)](#422)
-              - [II. - Règles générales relatives aux produits explosifs. (art. R238-1-7 à R238-1-10)](#423)
-              - [III. - Règles générales de mise en oeuvre des produits explosifs. (art. R238-1-11 à R238-1-24)](#424)
-            - [Sous-section 2 : Dispositions complémentaires particulières à certains tirs de mine (art. R238-1-25 à R238-1-46)](#425)
-              - [I. - Tir à la mèche. (art. R238-1-25 à R238-1-29)](#426)
-              - [II. - Tir au cordeau détonant. (art. R238-1-30 à R238-1-32)](#427)
-              - [III. - Tir électrique. (art. R238-1-33 à R238-1-38)](#428)
-              - [IV. - Tir par mines longues (art. R238-1-39 à R238-1-44)](#429)
-              - [V. - Tirs spéciaux. (art. R238-1-45 à R238-1-46)](#430)
-            - [Sous-section 3 : Dispositions diverses (art. R238-1-47)](#431)
-          - [Section 2 : Mesures particulières de sécurité relatives aux appareils de levage. (art. R238-2-1 à R238-2-42)](#432)
-            - [Sous-section 1 : Installation des appareils et des voies. (art. R238-2-2 à R238-2-5)](#433)
-            - [Sous-section 2 : Installations électriques. (art. R238-2-6 à R238-2-9)](#434)
-            - [Sous-section 3 : Cabines et moyens d'accès. (art. R238-2-10 à R238-2-19)](#435)
-            - [Sous-section 4 : Moteurs, chaînes et câbles, limiteurs de course. (art. R238-2-20 à R238-2-24)](#436)
-            - [Sous-section 5 : Manoeuvres. (art. R238-2-25 à R238-2-30)](#437)
-            - [Sous-section 6 : Visites et entretien. (art. R238-2-31 à R238-2-36)](#438)
-            - [Sous-section 7 : Dispositions diverses (art. R238-2-37 à R238-2-42)](#439)
-          - [Section 3 : Mesures particulières relatives à la protection des salariés qui exécutent des travaux de peinture et de pulvérisation. (art. R238-3-1 à R238-3-20)](#440)
-            - [Sous-section 1 : Prévention des intoxications. (art. R238-3-2 à R238-3-8)](#441)
-            - [Sous-section 2 : Prévention des incendies. (art. R238-3-9 à R238-3-18)](#442)
-            - [Sous-section 3 : Dispositions finales. (art. R238-3-19 à R238-3-20)](#443)
-          - [Section 4 : Mesures particulières de protection applicables aux établissements dans lesquels sont entreposés ou manipulés certains liquides particulièrement inflammables. (art. R238-4-1 à R238-4-10)](#444)
-          - [Section 5 : Mesures particulières relatives à la manipulation du linge sale dans les ateliers de blanchissage. (art. R238-5-1 à R238-5-8)](#445)
-          - [Section 6 : Mesures particulières relatives à la protection des salariés intervenant en milieu hyperbare (art. R238-6-1 à R238-6-39)](#446)
-            - [Sous-section 1 : Champ d'application, définitions. (art. R238-6-1 à R238-6-2)](#447)
-            - [Sous-section 2 : Conditions d'accès en milieu hyperbare. (art. R238-6-3 à R238-6-4)](#448)
-            - [Sous-section 3 : Gaz respiratoires. (art. R238-6-5 à R238-6-12)](#449)
-            - [Sous-section 4 : Equipement collectif. (art. R238-6-13 à R238-6-24)](#450)
-            - [Sous-section 5 : Equipement individuel. (art. R238-6-25 à R238-6-27)](#451)
-            - [Sous-section 6 : Procédures de sécurité. (art. R238-6-28 à R238-6-32)](#452)
-            - [Sous-section 7 : Surveillance médicale du personnel. (art. R238-6-33 à R238-6-36)](#453)
-            - [Sous-section 8 : Dispositions diverses (art. R238-6-37 à R238-6-39)](#454)
-          - [Section 7 : Mesures particulières relatives aux marins, aux ports, aux navires et autres bâtiments de mer. (art. R238-7-1 à R238-7-4)](#455)
-          - [Section 8 : Comités d'hygiène, de sécurité et des conditions de travail (art. R238-8-1 à R238-8-15)](#456)
-            - [Sous-section 1 : Composition et fonctionnement. (art. R238-8-1 à R238-8-14)](#457)
-            - [Sous-section 2 : Dispositions particulières applicables à l'établissement de santé de Mayotte. (art. R238-8-15)](#458)
-        - [CHAPITRE IX : Dispositions applicables aux opérations de construction dans l'intérêt de l'hygiène et de la sécurité du travail (art. R239-1 à R239-53)](#459)
-          - [Section 1 : Dispositions générales. (art. R239-1)](#460)
-          - [Section 2 : Règles d'hygiène (art. R239-2 à R239-15)](#461)
-            - [Sous-section 1 : Eclairage. (art. R239-2 à R239-5)](#462)
-            - [Sous-section 2 : Aération, assainissement. (art. R239-6 à R239-10)](#463)
-            - [Sous-section 3 : Température des locaux. (art. R239-11 à R239-12)](#464)
-            - [Sous-section 4 : Insonorisation. (art. R239-13)](#465)
-            - [Sous-section 5 : Installations sanitaires, restauration. (art. R239-14 à R239-15)](#466)
-          - [Section 3 : Règles de sécurité. (art. R239-16 à R239-37)](#467)
-          - [Section 4 : Prévention des incendies, évacuation (art. R239-38 à R239-52)](#468)
-            - [Sous-section 1 : Dispositions générales. (art. R239-38)](#469)
-            - [Sous-section 2 : Dégagements. (art. R239-39 à R239-45)](#470)
-            - [Sous-section 3 : Désenfumage. (art. R239-46)](#471)
-            - [Sous-section 4 : Locaux où sont entreposées ou manipulées des matières inflammables. (art. R239-47)](#472)
-            - [Sous-section 5 : Bâtiments dont le plancher bas du dernier niveau est situé à plus de 8 mètres du sol. (art. R239-48 à R239-50)](#473)
-            - [Sous-section 6 : Moyens de prévention et de lutte contre l'incendie. (art. R239-51)](#474)
-            - [Sous-section 7 : Mesures d'application. (art. R239-52)](#475)
-          - [Section 5 : Dossier de maintenance des lieux de travail. (art. R239-53)](#476)
-      - [TITRE V : Pénalités (art. R250-1 à R255-2)](#477)
-        - [Chapitre préliminaire. (art. R250-1 à R250-2)](#478)
-        - [Chapitre 1er : Hygiène et sécurité. (art. R251-1 à R251-2)](#479)
-        - [Chapitre 3 : Conditions du travail (art. R253-1 à R253-7)](#480)
-          - [Section 1 : Age d'admission. (art. R253-1)](#481)
-          - [Section 2 : Durée du travail (art. R253-2 à R253-5)](#482)
-            - [Paragraphe 1 : Dispositions générales (art. R253-2)](#483)
-            - [Paragraphe 2 : Heures supplémentaires (art. R253-3)](#484)
-            - [Paragraphe 3 : Dispositions relatives aux jeunes travailleurs (art. R253-4 à R253-5)](#485)
-          - [Section 3 : Travail de nuit. (art. R253-6 à R253-7)](#486)
-        - [Chapitre 4 : Repos et congés (art. R254-1 à R254-6)](#487)
-          - [Section 1 : Repos hebdomadaire. (art. R254-1 à R254-2)](#488)
-          - [Section 2 : Jours fériés (art. R254-3 à R254-5)](#489)
-            - [Paragraphe 1 : Dispositions générales (art. R254-3 à R254-4)](#490)
-            - [Paragraphe 2 : Dispositions particulières à la journée du 1er mai. (art. R254-5)](#491)
-          - [Section 3 : Congés annuels. (art. R254-6)](#492)
-        - [Chapitre V : Congés non rémunérés. (art. R255-1 à R255-2)](#493)
-    - [LIVRE III : Emploi (art. R311-1 à R343-1)](#494)
-      - [TITRE Ier : Déclaration des mouvements de main-d'oeuvre - Travail clandestin (art. R311-1 à R312-8)](#495)
-        - [CHAPITRE Ier : Obligation des employeurs (art. R311-1 à R311-6)](#496)
-          - [Section 1 : Déclaration préalable à l'embauche. (art. R311-1 à R311-5)](#497)
-          - [Section 2 : Déclaration de mouvements de main-d'oeuvre (art. R311-6)](#498)
-        - [CHAPITRE II : Cumul d'emploi et travail dissimulé (art. R312-1 à R312-8)](#499)
-          - [Section 2 : Travail dissimulé. (art. R312-1 à R312-8)](#500)
-      - [TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité départementale (art. R320-2 à R327-14)](#501)
-        - [CHAPITRE PRELIMINAIRE : Licenciement pour motif économique (art. R320-1)](#502)
-        - [Chapitre 1er : Généralités. (art. R321-1 à R321-6)](#503)
-        - [Chapitre 3 : Dispositions relatives au contrat de retour à l'emploi (art. R323-1 à R323-7)](#504)
-        - [CHAPITRE IV : Dispositions particulières relatives à l'emploi des jeunes (art. R324-1)](#505)
-          - [Projet initiative-jeune (art. R324-1)](#506)
-        - [CHAPITRE V : Dispositions relatives à la création d'entreprises et à la création d'emplois (art. R325-1 à R325-9)](#507)
-          - [Section 1 : Aide à la création d'entreprises à l'initiative des demandeurs d'emploi (art. R325-1 à R325-2)](#508)
-          - [Section 3 : Agence mahoraise pour le développement d'activités d'utilité sociale (art. R325-3 à R325-8)](#509)
-          - [Section 4 : Fonds pour l'emploi (art. R325-9)](#510)
-        - [CHAPITRE VI : Placement (art. R326-1 à R326-34)](#511)
-          - [Section 1 : Agence nationale pour l'emploi (art. R326-1 à R326-7)](#512)
-          - [Section 2 : Organismes qui concourent au service public du placement (art. R326-8 à R326-12)](#513)
-          - [Section 3 : Notification par les employeurs des places vacantes (art. R326-13)](#514)
-          - [Section 4 : Inscription et radiation de la liste des demandeurs d'emploi (art. R326-14 à R326-22)](#515)
-          - [Section 5 : Collectivités territoriales (art. R326-23 à R326-28)](#516)
-          - [Section 6 : Dispositions diverses (art. R326-29 à R326-34)](#517)
-        - [CHAPITRE VII : Indemnisation du chômage (art. R327-10 à R327-14)](#518)
-          - [Section 2 : Perte temporaire de salaire (art. R327-10 à R327-14)](#519)
-      - [TITRE III : Main-d'oeuvre étrangère (art. R330-1 à R330-11)](#520)
-        - [Section 1 : Etrangers. (art. R330-1 à R330-7)](#521)
-        - [Section 2 : Sanction administrative pour l'emploi d'étrangers sans titre de travail. (art. R330-8 à R330-11)](#522)
-      - [TITRE IV : Pénalités (art. R341-1 à R343-1)](#523)
-        - [CHAPITRE Ier : Travail clandestin (art. R341-1)](#524)
-        - [CHAPITRE II : Déclaration des mouvements de main-d'oeuvre (art. R342-1 à R342-2)](#525)
-        - [CHAPITRE III : Licenciement pour motif économique (art. R343-1)](#526)
-    - [LIVRE IV : Les groupements professionnels - La représentation des salariés (art. R411-1 à R451-1)](#527)
-      - [TITRE Ier : Les syndicats professionnels (art. R411-1 à R412-1)](#528)
-        - [CHAPITRE Ier : Statut juridique des syndicats (art. R411-1)](#529)
-        - [CHAPITRE II : Droit syndical et représentativité des syndicats (art. R412-1)](#530)
-          - [Section 1 : Critères de représentativité (art. R412-1)](#531)
-      - [TITRE III : Les délégués du personnel (art. R432-1 à R435-1)](#532)
-        - [CHAPITRE II : Attributions et pouvoirs (art. R432-1 à R432-3)](#533)
-        - [CHAPITRE III : Composition et élections (art. R433-1 à R433-6)](#534)
-        - [CHAPITRE V : Licenciement des délégués du personnel (art. R435-1)](#535)
-      - [TITRE IV : Les comités d'entreprise (art. R441-1 à R445-10)](#536)
-        - [CHAPITRE Ier : Champ d'application (art. R441-1)](#537)
-        - [CHAPITRE II : Attributions et pouvoirs (art. R442-1 à R442-21)](#538)
-          - [Section 1 : Personnalité civile. (art. R442-1)](#539)
-          - [Section 2 : Institutions sociales d'entreprises. (art. R442-2 à R442-3)](#540)
-          - [Section 3 : Gestion des activités sociales et culturelles. (art. R442-4 à R442-7)](#541)
-          - [Section 4 : Comités interentreprises. (art. R442-8 à R442-10)](#542)
-          - [Section 5 : Financement des activités sociales et culturelles. (art. R442-11 à R442-16)](#543)
-          - [Section 6 : Attributions économiques. (art. R442-17 à R442-18)](#544)
-          - [Section 7 : Rapport annuel d'information du comité d'entreprise dans les entreprises de moins de trois cents salariés. (art. R442-19)](#545)
-          - [Section 8 : Prérogatives du comité d'entreprise dans les assemblées générales d'actionnaires. (art. R442-20 à R442-21)](#546)
-        - [CHAPITRE III : Composition et élections (art. R443-1 à R443-5)](#547)
-        - [CHAPITRE IV : Fonctionnement (art. R444-1 à R444-3)](#548)
-        - [CHAPITRE V : Licenciement des représentants du personnel, des représentants syndicaux et des salariés assimilés (art. R445-1 à R445-10)](#549)
-      - [TITRE V : Pénalités (art. R451-1)](#550)
-    - [LIVRE V : Conflits du travail (art. R513-1 à R520-1)](#551)
-      - [TITRE Ier : Conflits collectifs (art. R513-1 à R515-2)](#552)
-        - [CHAPITRE III : Conciliation (art. R513-1 à R513-10)](#553)
-          - [Section 1 : Composition des commissions de conciliation. (art. R513-2 à R513-3)](#554)
-          - [Section 2 : Fonctionnement des commissions de conciliation. (art. R513-4 à R513-10)](#555)
-        - [CHAPITRE IV : Médiation (art. R514-1 à R514-6)](#556)
-        - [CHAPITRE V : Arbitrage (art. R515-1 à R515-2)](#557)
-      - [TITRE II : Pénalités (art. R520-1)](#558)
-    - [LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail (art. R610-1 à R632-2)](#559)
-      - [TITRE Ier : Services de contrôle (art. R610-1 à R610-3)](#560)
-      - [TITRE II : Obligations des employeurs (art. R620-1 à R620-5)](#561)
-      - [TITRE III : Pénalités (art. R631-1 à R632-2)](#562)
-        - [CHAPITRE Ier : Service de contrôle (art. R631-1)](#563)
-        - [CHAPITRE II : Obligations des employeurs (art. R632-1 à R632-2)](#564)
-    - [LIVRE VII : Formation professionnelle (art. R711-1 à R713-16)](#565)
-      - [Chapitre 1er : Dispositions communes aux contrats de qualification et aux contrats d'orientation (art. R711-1)](#566)
-      - [CHAPITRE II : Contrôle de la formation professionnelle (art. R712-1 à R712-8)](#567)
-      - [CHAPITRE III : Organisme collecteur paritaire et organismes de formation (art. R713-1 à R713-16)](#568)
-  - [Partie réglementaire  - Décrets simples (art. D141-1 à D712-17)](#569)
-    - [Livre 1er : Conventions relatives au travail (art. D141-1 à D141-7)](#570)
-      - [Titre 4 : Salaire (art. D141-1 à D141-7)](#571)
-        - [Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG* (art. D141-1 à D141-7)](#572)
-          - [Section 1 : Dispositions générales (art. D141-1 à D141-2)](#573)
-          - [Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement (art. D141-3 à D141-7)](#574)
-    - [Livre 2 : Réglementation du travail (art. D211-1 à D233-9)](#575)
-      - [Titre 1er : Conditions de travail (art. D211-1 à D212-5)](#576)
-        - [Chapitre 1er : Age d'admission (art. D211-1 à D211-4)](#577)
-        - [Chapitre 2 : Durée du travail (art. D212-1 à D212-5)](#578)
-          - [Section 1 : Récupération des heures perdues (art. D212-1 à D212-5)](#579)
-      - [Titre 2 : Repos et congés (art. D223-1 à D223-4)](#580)
-        - [Chapitre 3 : Congés annuels (art. D223-1 à D223-4)](#581)
-      - [Titre 3 : Hygiène et sécurité (art. D233-1 à D233-9)](#582)
-        - [Chapitre 3 : Sécurité. (art. D233-1 à D233-9)](#583)
-    - [Livre 3 : Emploi (art. D312-1 à D327-10)](#584)
-      - [Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin (art. D312-1 à D313-2)](#585)
-        - [Chapitre 2 : Travail clandestin (art. D312-1)](#586)
-        - [Chapitre 3 : Répression du travail illégal (art. D313-1 à D313-2)](#587)
-      - [Titre 2 : Aides à l'emploi - Intervention du fonds national de l'emploi (art. D324-9 à D327-10)](#588)
-        - [Chapitre 4 : Dispositions particulières relatives à l'emploi des jeunes - Projet initiative-jeune (art. D324-9)](#589)
-        - [Chapitre 5 : Dispositions relatives à la création d'entreprises et à la création d'emplois - Aide à la création d'entreprises à l'initiative des demandeurs d'emploi (art. D325-1)](#590)
-        - [Chapitre 7 : Indemnisation du chômage (art. D327-10)](#591)
-          - [Section 2 : Perte temporaire de salaire (art. D327-10)](#592)
-    - [Livre 4 : Les groupements professionnels - La représentation des salariés (art. D442-1)](#593)
-      - [Titre 4 : Les comités d'entreprise (art. D442-1)](#594)
-        - [Chapitre 2 : Attributions et pouvoirs. (art. D442-1)](#595)
-    - [Livre 5 : Conflits du travail (art. D514-1 à D514-4)](#596)
-      - [Titre 1er : Conflits collectifs (art. D514-1 à D514-4)](#597)
-        - [Chapitre 4 : Médiation (art. D514-1 à D514-4)](#598)
-    - [Livre 7 : De la formation professionnelle (art. D712-1 à D712-17)](#599)
-      - [Chapitre 2 : Contrats de formation en alternance Section 1 : Contrats de qualification (art. D712-1 à D712-7)](#600)
-      - [Chapitre 2 : Contrats de formation en alternance Section 2 : Contrats d'orientation (art. D712-8 à D712-11)](#601)
-      - [Chapitre 2 : Contrats de formation en alternance Section 3 : Dispositions communes aux contrats de qualification et d'orientation (art. D712-12 à D712-17)](#602)
+            - [Sous-section 4 : Confort du poste de travail - Sièges. (art. R232-26)](#254)
+          - [Section 2 : Ambiances des lieux de travail (art. R232-27 à R232-60)](#255)
+            - [Sous-section 1 : Aération, assainissement. (art. R232-27 à R232-41)](#256)
+            - [Sous-section 2 : Eclairage. (art. R232-42 à R232-52)](#257)
+            - [Sous-section 3 : Prévention des risques dûs au bruit. (art. R232-53 à R232-59)](#258)
+            - [Sous-section 4 : Ambiances particulières. (art. R232-60)](#259)
+          - [Section 3 : Restauration - Hébergement (art. R232-61 à R232-71)](#260)
+            - [Sous-section 1 : Repas. (art. R232-61 à R232-64)](#261)
+            - [Sous-section 2 : Hébergement. (art. R232-65 à R232-71)](#262)
+          - [Section 4 : Prévention des incendies - Evacuation (art. R232-72 à R232-89)](#263)
+            - [Sous-section 1 : Dispositions générales. (art. R232-72 à R232-73)](#264)
+            - [Sous-section 2 : Dégagements. (art. R232-74 à R232-79)](#265)
+            - [Sous-section 3 : Emploi des matières inflammables. (art. R232-80 à R232-83)](#266)
+            - [Sous-section 4 : Moyens de prévention et de lutte contre l'incendie. (art. R232-84 à R232-89)](#267)
+          - [Section 5 : Mesures d'application (art. R232-90 à R232-101)](#268)
+            - [Sous-section 1 : Dispositions particulières aux établissements agricoles. (art. R232-90 à R232-99)](#269)
+            - [Sous-section 2 : Dispositions générales. (art. R232-100 à R232-101)](#270)
+        - [CHAPITRE III : Sécurité (art. R233-1 à R233-99)](#271)
+          - [Section 1 : Règles générales d'utilisation des équipements de travail et moyens de protection, y compris les équipements de protection individuelle. (art. R233-1 à R233-4)](#272)
+          - [Section 2 : Mesures d'organisation et conditions de mise en oeuvre des équipements de travail (art. R233-5 à R233-23)](#273)
+            - [Sous-section 1 : Mesures générales. (art. R233-5 à R233-12)](#274)
+            - [Sous-section 2 : Mesures particulières applicables à l'utilisation de certains équipements de travail ou à certaines situations de travail. (art. R233-13 à R233-19)](#275)
+            - [Sous-section 3 : Mesures complémentaires applicables à l'utilisation des équipements de travail mobiles. (art. R233-20 à R233-22)](#276)
+            - [Sous-section 4 : Autorisation de conduite pour l'utilisation de certains équipements de travail mobiles et des équipements de travail servant au levage. (art. R233-23)](#277)
+          - [Section 3 : Prescriptions techniques applicables pour l'utilisation des équipements de travail. (art. R233-24 à R233-51)](#278)
+          - [Section 4 : Mesures d'organisation et conditions d'utilisation des équipements de protection individuelle. (art. R233-52 à R233-56)](#279)
+          - [Section 5 : Dispositions diverses et mesures d'application. (art. R233-57 à R233-60)](#280)
+          - [Section 6 : Règles de sécurité relatives aux machines, équipements de travail et moyens de protection (art. R233-61 à R233-77)](#281)
+            - [Sous-section 1 : Dispositions générales. (art. R233-61 à R233-66)](#282)
+            - [Sous-section 2 : Organismes habilités. (art. R233-67 à R233-68)](#283)
+            - [Sous-section 3 : Conditions générales d'utilisation des équipements de travail et moyens de protection. (art. R233-69)](#284)
+            - [Sous-section 4 : Formalités obligatoires préalables à la mise sur le marché des équipements de travail et moyens de protection neufs ou considérés comme neufs. (art. R233-70 à R233-72)](#285)
+            - [Sous-section 5 : Formalités obligatoires préalables à la mise sur le marché des équipements de travail et moyens de protection d'occasion. (art. R233-73)](#286)
+            - [Sous-section 6 : Mesures de contrôle. (art. R233-74 à R233-75)](#287)
+            - [Sous-section 7 : Organismes agréés prévus par les articles L. 233-8 et R. 233-74. (art. R233-76)](#288)
+            - [Sous-section 8 : Maintien en état de conformité. (art. R233-77)](#289)
+          - [Section 7 : Equipements de travail et moyens de protection soumis aux obligations de sécurité définies aux articles L. 233-6 et L. 233-7 (art. R233-78 à R233-87)](#290)
+            - [Sous-section 1 : Equipements de travail. (art. R233-78 à R233-80)](#291)
+            - [Sous-section 2 : Composants de sécurité. (art. R233-81 à R233-86)](#292)
+            - [Sous-section 3 : Equipements de protection individuelle d'occasion. (art. R233-87)](#293)
+          - [Section 8 : Règles relatives à la procédure d'autorisation prévue au II de l'article R. 233-69. (art. R233-88 à R233-99)](#294)
+        - [CHAPITRE IV : Dispositions particulières aux femmes et aux jeunes travailleurs. (art. R234-1 à R234-23)](#295)
+          - [Section 1 : Hygiène. (art. R234-3 à R234-4)](#296)
+          - [Section 2 : Limitation des charges. (art. R234-5 à R234-6)](#297)
+          - [Section 3 : Travaux interdits aux femmes. (art. R234-7 à R234-8)](#298)
+          - [Section 4 : Travaux interdits aux jeunes travailleurs. (art. R234-9 à R234-23)](#299)
+        - [CHAPITRE V : Mesures particulières de protection et de salubrité applicables aux établissements dont les salariés exécutent des travaux de bâtiment, des travaux publics et tous autres travaux concernant les immeubles (art. R235-1 à R235-255)](#300)
+          - [Section 1 : Mesures générales de sécurité (art. R235-2 à R235-24)](#301)
+            - [Sous-section 1 : Résistance et stabilité. (art. R235-2 à R235-4)](#302)
+            - [Sous-section 2 : Mesures de protection collective destinées à empêcher les chutes des salariés. (art. R235-5 à R235-12)](#303)
+            - [Sous-section 3 : Mesures de protection destinées à empêcher les chutes d'objets et de matériaux et les accidents dus aux planches munies de pointes saillantes. (art. R235-13 à R235-15)](#304)
+            - [Sous-section 4 : Mesures de protection individuelle. (art. R235-16 à R235-18)](#305)
+            - [Sous-section 5 : Travaux exécutés par grands vents. (art. R235-19)](#306)
+            - [Sous-section 6 : Dispositions concernant la circulation des véhicules, appareils et engins de chantier. (art. R235-20 à R235-21)](#307)
+            - [Sous-section 7 : Examens, vérifications, registres. (art. R235-22 à R235-24)](#308)
+          - [Section 2 : Appareils de levage, câbles, chaînes, cordages et crochets (art. R235-25 à R235-63)](#309)
+            - [Sous-section 1 : Appareils de levage mus mécaniquement. (art. R235-25 à R235-45)](#310)
+              - [I. - Installation des appareils et des voies. (art. R235-26 à R235-30)](#311)
+              - [II. - Organes et dispositifs annexes. (art. R235-31 à R235-37)](#312)
+              - [III. - Recettes. (art. R235-38)](#313)
+              - [IV. - Manoeuvres. (art. R235-39 à R235-42)](#314)
+              - [V. - Transport ou élévation des salariés. (art. R235-43 à R235-44)](#315)
+              - [VI. - Epreuves, examens et inspections. (art. R235-45)](#316)
+            - [Sous-section 2 : Appareils de levage mus à la main (art. R235-46 à R235-54)](#317)
+              - [I. - Installation et résistance des appareils. (art. R235-46 à R235-48)](#318)
+              - [II. - Treuils, recettes, manoeuvres. (art. R235-49 à R235-51)](#319)
+              - [III. - Transport ou élévation des salariés. (art. R235-52 à R235-54)](#320)
+            - [Sous-section 3 : Câbles, chaînes, cordages et crochets. (art. R235-55 à R235-63)](#321)
+          - [Section 3 : Travaux de terrassement à ciel ouvert et travaux souterrains (art. R235-64 à R235-96)](#322)
+            - [Sous-section 1 : Travaux de terrassement à ciel ouvert. (art. R235-64 à R235-79)](#323)
+            - [Sous-section 2 : Travaux souterrains (art. R235-80 à R235-96)](#324)
+              - [I. - Mesures à prendre pour éviter les éboulements et les chutes de blocs. (art. R235-80 à R235-82)](#325)
+              - [II. - Ventilation. (art. R235-83 à R235-89)](#326)
+              - [III. - Circulation. (art. R235-90 à R235-94)](#327)
+              - [IV. - Signalisation, éclairage. (art. R235-95 à R235-96)](#328)
+          - [Section 4 : Travaux de démolition. (art. R235-97 à R235-105)](#329)
+          - [Section 5 : Echafaudages, plates-formes, passerelles et escaliers (art. R235-106 à R235-157)](#330)
+            - [Sous-section 1 : Echafaudages (art. R235-106 à R235-142)](#331)
+              - [I. - Dispositions générales. (art. R235-106 à R235-109)](#332)
+              - [II. - Dispositions communes aux échafaudages fixes en bois ou en métal. (art. R235-110 à R235-122)](#333)
+              - [III. - Dispositions particulières aux échafaudages fixes en bois. (art. R235-123 à R235-129)](#334)
+              - [IV. - Dispositions particulières aux échafaudages fixes en métal. (art. R235-130)](#335)
+              - [V. - Echafaudages montés sur roues. (art. R235-131)](#336)
+              - [VI. - Echafaudages volants. (art. R235-132 à R235-135)](#337)
+              - [VII. - Dispositions diverses. (art. R235-136 à R235-142)](#338)
+            - [Sous-section 2 : Plates-formes, passerelles et escaliers. (art. R235-143 à R235-150)](#339)
+            - [Sous-section 3 : Echelles. (art. R235-151 à R235-157)](#340)
+          - [Section 6 : Travaux sur les toitures, travaux de montage, de démontage et de levage de charpentes et ossatures et travaux de construction comportant la mise en oeuvre d'éléments préfabriqués lourds (art. R235-158 à R235-172)](#341)
+            - [Sous-section 1 : Travaux sur les toitures. (art. R235-158 à R235-165)](#342)
+            - [Sous-section 2 : Travaux de montage, de démontage et de levage de charpentes et ossatures. (art. R235-166 à R235-171)](#343)
+            - [Sous-section 3 : Travaux de construction comportant la mise en oeuvre d'éléments préfabriqués lourds. (art. R235-172)](#344)
+          - [Section 7 : Travaux au voisinage de lignes, canalisations et installations électriques (art. R235-173 à R235-187)](#345)
+            - [Sous-section 1. (art. R235-173 à R235-183)](#346)
+            - [Sous-section 2. (art. R235-184 à R235-187)](#347)
+          - [Section 8 : Mesures générales d'hygiène et logement provisoire des salariés (art. R235-188 à R235-198)](#348)
+            - [Sous-section 1 : Mesures générales d'hygiène. (art. R235-188 à R235-195)](#349)
+            - [Sous-section 2 : Logement provisoire des salariés - Réfectoires et cuisines. (art. R235-196 à R235-198)](#350)
+          - [Section 9 : Dispositions diverses. (art. R235-199 à R235-214)](#351)
+          - [Section 10 : Dispositions particulières relatives à la coordination pour certaines opérations de bâtiment ou de génie civil (art. R235-215 à R235-255)](#352)
+            - [Sous-section 1 : Déclaration préalable. (art. R235-215 à R235-216)](#353)
+            - [Sous-section 2 : Coordonnateur en matière de sécurité et de protection de la santé (art. R235-217 à R235-229)](#354)
+              - [Paragraphe 1 : Attribution de la mission de coordination. (art. R235-217 à R235-218)](#355)
+              - [Paragraphe 2 : Exercice de la fonction de coordonnateur. (art. R235-219 à R235-221)](#356)
+              - [Paragraphe 3 : Critères de compétence du coordonnateur. (art. R235-222 à R235-224)](#357)
+              - [Paragraphe 4 : Formation des coordonnateurs. (art. R235-225 à R235-229)](#358)
+            - [Sous-section 3 : Mission de coordination. (art. R235-230 à R235-233)](#359)
+            - [Sous-section 4 : Plan général de coordination en matière de sécurité et de protection de la santé (art. R235-234 à R235-242)](#360)
+              - [Paragraphe 1 : Dispositions applicables aux opérations de 1re catégorie. (art. R235-234 à R235-239)](#361)
+              - [Paragraphe 2 : Dispositions particulières applicables à certaines opérations de 2e catégorie. (art. R235-240 à R235-242)](#362)
+            - [Sous-section 5 : Plan particulier de sécurité et de protection de la santé (art. R235-243 à R235-255)](#363)
+              - [Paragraphe 1 : Dispositions applicables aux opérations de 1re catégorie. (art. R235-243 à R235-253)](#364)
+              - [Paragraphe 2 : Dispositions particulières applicables à certaines opérations de 2e catégorie. (art. R235-254 à R235-255)](#365)
+        - [CHAPITRE VI : Mesures particulières de protection des salariés dans les établissements qui mettent en oeuvre des courants électriques (art. R236-1 à R236-58)](#366)
+          - [Section 1 : Généralités (art. R236-1 à R236-3)](#367)
+            - [Champ d'application. (art. R236-1)](#368)
+            - [Définitions. (art. R236-2)](#369)
+            - [Classement des installations en fonction des tensions. (art. R236-3)](#370)
+          - [Section 2 : Conditions générales auxquelles doivent satisfaire les installations (art. R236-4 à R236-15)](#371)
+            - [Normes de sécurité obligatoires. (art. R236-4)](#372)
+            - [Dispositions générales. (art. R236-5)](#373)
+            - [Identification des circuits, des appareils et des conducteurs. (art. R236-6)](#374)
+            - [Installations à très basse tension. (art. R236-7)](#375)
+            - [Limitation des domaines de tension pour certains appareils récepteurs et dispositions particulières applicables à certains matériels d'utilisation. (art. R236-8)](#376)
+            - [Séparation des sources d'énergie. (art. R236-9)](#377)
+            - [Coupure d'urgence. (art. R236-10)](#378)
+            - [Interdiction d'utiliser la terre ou les masses comme partie d'un circuit actif. (art. R236-11)](#379)
+            - [Prises de terre et conducteurs de protection. (art. R236-12)](#380)
+            - [Section des conducteurs de terre et des liaisons équipotentielles. (art. R236-13)](#381)
+            - [Résistances de terre, conducteurs de terre. (art. R236-14)](#382)
+            - [Installation de sécurité. (art. R236-15)](#383)
+          - [Section 3 : Protection des salariés contre les risques de contact avec des conducteurs actifs ou des pièces conductrices habituellement sous tension (contact direct) (art. R236-16 à R236-28)](#384)
+            - [Mise hors de portée des conducteurs actifs et des pièces conductrices sous tension. (art. R236-16)](#385)
+            - [Mise hors de portée par éloignement. (art. R236-17)](#386)
+            - [Mise hors de portée au moyen d'obstacles. (art. R236-18)](#387)
+            - [Mise hors de portée par isolation. (art. R236-19)](#388)
+            - [Culots et douilles, prises de courant, prolongateurs et connecteurs. (art. R236-20)](#389)
+            - [Lignes de contact. (art. R236-21 à R236-25)](#390)
+            - [Locaux et emplacements de travail à risques particuliers de choc électrique. (art. R236-26 à R236-27)](#391)
+            - [Installations mobiles à risques particuliers de choc électrique. (art. R236-28)](#392)
+          - [Section 4 : Protection des salariés contre les risques de contact avec des masses mises accidentellement sous tension (contact indirect) (art. R236-29 à R236-40)](#393)
+            - [Dispositions générales. (art. R236-29)](#394)
+            - [Sous-section 1 : Installation à courant alternatif (art. R236-30 à R236-39)](#395)
+              - [Types de mesures de protection. (art. R236-30 à R236-39)](#396)
+                - [A. - Protection contre les contacts indirects par mise à la terre des masses et par coupure automatique de l'alimentation (art. R236-31 à R236-36)](#397)
+                  - [Généralités. (art. R236-31)](#398)
+                  - [Installation électrique réalisée suivant le schéma TN (mise au neutre). (art. R236-32)](#399)
+                  - [Installations réalisées suivant le schéma TT (neutre directement relié à la terre). (art. R236-33)](#400)
+                  - [Installations électriques réalisées suivant le schéma IT (neutre isolé ou neutre relié à la terre par une impédance limitant le courant de défaut). (art. R236-34)](#401)
+                  - [Liaison équipotentielle supplémentaire. (art. R236-35)](#402)
+                  - [Double isolation ou isolation renforcée. (art. R236-36)](#403)
+                - [B. - Protection contre les contacts indirects sans mise à la terre et sans coupure de l'alimentation (art. R236-37 à R236-39)](#404)
+                  - [Impédance de protection. (art. R236-37)](#405)
+                  - [Protection complémentaire. (art. R236-38)](#406)
+                  - [Protection par séparation des circuits. (art. R236-39)](#407)
+            - [Sous-section 2 : Installations à courant autre qu'alternatif (art. R236-40)](#408)
+              - [Types de mesures de protection. (art. R236-40)](#409)
+          - [Section 5 : Prévention des brûlures, incendies et explosions d'origine électrique (art. R236-41 à R236-44)](#410)
+            - [Réalisation des installations. (art. R236-41)](#411)
+            - [Interrupteurs, coupe-circuit, disjoncteurs, matériels contenant un diélectrique liquide inflammable. (art. R236-42)](#412)
+            - [Locaux ou emplacements présentant des dangers d'incendie. (art. R236-43)](#413)
+            - [Zone présentant des risques d'explosion. (art. R236-44)](#414)
+          - [Section 6 : Utilisation, surveillance, entretien et vérification des installations électriques (art. R236-45 à R236-55)](#415)
+            - [Généralités. (art. R236-45)](#416)
+            - [Prescriptions au personnel. (art. R236-46)](#417)
+            - [Surveillance des installations. (art. R236-47)](#418)
+            - [Généralités sur les travaux sur des installations ou à proximité d'installations électriques. (art. R236-48)](#419)
+            - [Travaux effectués hors tension. (art. R236-49)](#420)
+            - [Travaux effectués sous tension. (art. R236-50)](#421)
+            - [Travaux effectués au voisinage des pièces sous tension. (art. R236-51)](#422)
+            - [Dispositions à prendre après un incident. (art. R236-52)](#423)
+            - [Vérification initiale et périodique. (art. R236-53)](#424)
+            - [Vérification sur mise en demeure. (art. R236-54)](#425)
+            - [Dossier tenu à la disposition de l'agent de contrôle de l'inspection du travail. (art. R236-55)](#426)
+          - [Section 7 : Mesures diverses (art. R236-56 à R236-58)](#427)
+            - [Formation requise pour administrer les premiers soins. (art. R236-56)](#428)
+            - [Dérogations. (art. R236-57)](#429)
+            - [Arrêtés d'application. (art. R236-58)](#430)
+        - [CHAPITRE VIII : Autres mesures particulières relatives à la protection des salariés (art. R238-1-1 à R238-8-15)](#431)
+          - [Section 1 : Mesures particulières de protection relatives à l'emploi des explosifs. (art. R238-1-1 à R238-1-47)](#432)
+            - [Sous-section 1 : Dispositions applicables à tous les tirs de mine (art. R238-1-3 à R238-1-24)](#433)
+              - [I. - Obligations générales des personnes chargées des produits explosifs. (art. R238-1-3 à R238-1-6)](#434)
+              - [II. - Règles générales relatives aux produits explosifs. (art. R238-1-7 à R238-1-10)](#435)
+              - [III. - Règles générales de mise en oeuvre des produits explosifs. (art. R238-1-11 à R238-1-24)](#436)
+            - [Sous-section 2 : Dispositions complémentaires particulières à certains tirs de mine (art. R238-1-25 à R238-1-46)](#437)
+              - [I. - Tir à la mèche. (art. R238-1-25 à R238-1-29)](#438)
+              - [II. - Tir au cordeau détonant. (art. R238-1-30 à R238-1-32)](#439)
+              - [III. - Tir électrique. (art. R238-1-33 à R238-1-38)](#440)
+              - [IV. - Tir par mines longues (art. R238-1-39 à R238-1-44)](#441)
+              - [V. - Tirs spéciaux. (art. R238-1-45 à R238-1-46)](#442)
+            - [Sous-section 3 : Dispositions diverses (art. R238-1-47)](#443)
+          - [Section 2 : Mesures particulières de sécurité relatives aux appareils de levage. (art. R238-2-1 à R238-2-42)](#444)
+            - [Sous-section 1 : Installation des appareils et des voies. (art. R238-2-2 à R238-2-5)](#445)
+            - [Sous-section 2 : Installations électriques. (art. R238-2-6 à R238-2-9)](#446)
+            - [Sous-section 3 : Cabines et moyens d'accès. (art. R238-2-10 à R238-2-19)](#447)
+            - [Sous-section 4 : Moteurs, chaînes et câbles, limiteurs de course. (art. R238-2-20 à R238-2-24)](#448)
+            - [Sous-section 5 : Manoeuvres. (art. R238-2-25 à R238-2-30)](#449)
+            - [Sous-section 6 : Visites et entretien. (art. R238-2-31 à R238-2-36)](#450)
+            - [Sous-section 7 : Dispositions diverses (art. R238-2-37 à R238-2-42)](#451)
+          - [Section 3 : Mesures particulières relatives à la protection des salariés qui exécutent des travaux de peinture et de pulvérisation. (art. R238-3-1 à R238-3-20)](#452)
+            - [Sous-section 1 : Prévention des intoxications. (art. R238-3-2 à R238-3-8)](#453)
+            - [Sous-section 2 : Prévention des incendies. (art. R238-3-9 à R238-3-18)](#454)
+            - [Sous-section 3 : Dispositions finales. (art. R238-3-19 à R238-3-20)](#455)
+          - [Section 4 : Mesures particulières de protection applicables aux établissements dans lesquels sont entreposés ou manipulés certains liquides particulièrement inflammables. (art. R238-4-1 à R238-4-10)](#456)
+          - [Section 5 : Mesures particulières relatives à la manipulation du linge sale dans les ateliers de blanchissage. (art. R238-5-1 à R238-5-8)](#457)
+          - [Section 6 : Mesures particulières relatives à la protection des salariés intervenant en milieu hyperbare (art. R238-6-1 à R238-6-39)](#458)
+            - [Sous-section 1 : Champ d'application, définitions. (art. R238-6-1 à R238-6-2)](#459)
+            - [Sous-section 2 : Conditions d'accès en milieu hyperbare. (art. R238-6-3 à R238-6-4)](#460)
+            - [Sous-section 3 : Gaz respiratoires. (art. R238-6-5 à R238-6-12)](#461)
+            - [Sous-section 4 : Equipement collectif. (art. R238-6-13 à R238-6-24)](#462)
+            - [Sous-section 5 : Equipement individuel. (art. R238-6-25 à R238-6-27)](#463)
+            - [Sous-section 6 : Procédures de sécurité. (art. R238-6-28 à R238-6-32)](#464)
+            - [Sous-section 7 : Surveillance médicale du personnel. (art. R238-6-33 à R238-6-36)](#465)
+            - [Sous-section 8 : Dispositions diverses (art. R238-6-37 à R238-6-39)](#466)
+          - [Section 7 : Mesures particulières relatives aux marins, aux ports, aux navires et autres bâtiments de mer. (art. R238-7-1 à R238-7-4)](#467)
+          - [Section 8 : Comités d'hygiène, de sécurité et des conditions de travail (art. R238-8-1 à R238-8-15)](#468)
+            - [Sous-section 1 : Composition et fonctionnement. (art. R238-8-1 à R238-8-14)](#469)
+            - [Sous-section 2 : Dispositions particulières applicables à l'établissement de santé de Mayotte. (art. R238-8-15)](#470)
+        - [CHAPITRE IX : Dispositions applicables aux opérations de construction dans l'intérêt de l'hygiène et de la sécurité du travail (art. R239-1 à R239-53)](#471)
+          - [Section 1 : Dispositions générales. (art. R239-1)](#472)
+          - [Section 2 : Règles d'hygiène (art. R239-2 à R239-15)](#473)
+            - [Sous-section 1 : Eclairage. (art. R239-2 à R239-5)](#474)
+            - [Sous-section 2 : Aération, assainissement. (art. R239-6 à R239-10)](#475)
+            - [Sous-section 3 : Température des locaux. (art. R239-11 à R239-12)](#476)
+            - [Sous-section 4 : Insonorisation. (art. R239-13)](#477)
+            - [Sous-section 5 : Installations sanitaires, restauration. (art. R239-14 à R239-15)](#478)
+          - [Section 3 : Règles de sécurité. (art. R239-16 à R239-37)](#479)
+          - [Section 4 : Prévention des incendies, évacuation (art. R239-38 à R239-52)](#480)
+            - [Sous-section 1 : Dispositions générales. (art. R239-38)](#481)
+            - [Sous-section 2 : Dégagements. (art. R239-39 à R239-45)](#482)
+            - [Sous-section 3 : Désenfumage. (art. R239-46)](#483)
+            - [Sous-section 4 : Locaux où sont entreposées ou manipulées des matières inflammables. (art. R239-47)](#484)
+            - [Sous-section 5 : Bâtiments dont le plancher bas du dernier niveau est situé à plus de 8 mètres du sol. (art. R239-48 à R239-50)](#485)
+            - [Sous-section 6 : Moyens de prévention et de lutte contre l'incendie. (art. R239-51)](#486)
+            - [Sous-section 7 : Mesures d'application. (art. R239-52)](#487)
+          - [Section 5 : Dossier de maintenance des lieux de travail. (art. R239-53)](#488)
+      - [TITRE V : Pénalités (art. R250-1 à R255-2)](#489)
+        - [Chapitre préliminaire. (art. R250-1 à R250-2)](#490)
+        - [Chapitre 1er : Hygiène et sécurité. (art. R251-1 à R251-2)](#491)
+        - [Chapitre 3 : Conditions du travail (art. R253-1 à R253-7)](#492)
+          - [Section 1 : Age d'admission. (art. R253-1)](#493)
+          - [Section 2 : Durée du travail (art. R253-2 à R253-5)](#494)
+            - [Paragraphe 1 : Dispositions générales (art. R253-2)](#495)
+            - [Paragraphe 2 : Heures supplémentaires (art. R253-3)](#496)
+            - [Paragraphe 3 : Dispositions relatives aux jeunes travailleurs (art. R253-4 à R253-5)](#497)
+          - [Section 3 : Travail de nuit. (art. R253-6 à R253-7)](#498)
+        - [Chapitre 4 : Repos et congés (art. R254-1 à R254-6)](#499)
+          - [Section 1 : Repos hebdomadaire. (art. R254-1 à R254-2)](#500)
+          - [Section 2 : Jours fériés (art. R254-3 à R254-5)](#501)
+            - [Paragraphe 1 : Dispositions générales (art. R254-3 à R254-4)](#502)
+            - [Paragraphe 2 : Dispositions particulières à la journée du 1er mai. (art. R254-5)](#503)
+          - [Section 3 : Congés annuels. (art. R254-6)](#504)
+        - [Chapitre V : Congés non rémunérés. (art. R255-1 à R255-2)](#505)
+    - [LIVRE III : Emploi (art. R311-1 à R343-1)](#506)
+      - [TITRE Ier : Déclaration des mouvements de main-d'oeuvre - Travail clandestin (art. R311-1 à R312-8)](#507)
+        - [CHAPITRE Ier : Obligation des employeurs (art. R311-1 à R311-6)](#508)
+          - [Section 1 : Déclaration préalable à l'embauche. (art. R311-1 à R311-5)](#509)
+          - [Section 2 : Déclaration de mouvements de main-d'oeuvre (art. R311-6)](#510)
+        - [CHAPITRE II : Cumul d'emploi et travail dissimulé (art. R312-1 à R312-8)](#511)
+          - [Section 2 : Travail dissimulé. (art. R312-1 à R312-8)](#512)
+      - [TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité départementale (art. R320-2 à R327-14)](#513)
+        - [CHAPITRE PRELIMINAIRE : Licenciement pour motif économique (art. R320-1)](#514)
+        - [Chapitre 1er : Généralités. (art. R321-1 à R321-6)](#515)
+        - [Chapitre 3 : Dispositions relatives au contrat de retour à l'emploi (art. R323-1 à R323-7)](#516)
+        - [CHAPITRE IV : Dispositions particulières relatives à l'emploi des jeunes (art. R324-1)](#517)
+          - [Projet initiative-jeune (art. R324-1)](#518)
+        - [CHAPITRE V : Dispositions relatives à la création d'entreprises et à la création d'emplois (art. R325-1 à R325-9)](#519)
+          - [Section 1 : Aide à la création d'entreprises à l'initiative des demandeurs d'emploi (art. R325-1 à R325-2)](#520)
+          - [Section 3 : Agence mahoraise pour le développement d'activités d'utilité sociale (art. R325-3 à R325-8)](#521)
+          - [Section 4 : Fonds pour l'emploi (art. R325-9)](#522)
+        - [CHAPITRE VI : Placement (art. R326-1 à R326-34)](#523)
+          - [Section 1 : Agence nationale pour l'emploi (art. R326-1 à R326-7)](#524)
+          - [Section 2 : Organismes qui concourent au service public du placement (art. R326-8 à R326-12)](#525)
+          - [Section 3 : Notification par les employeurs des places vacantes (art. R326-13)](#526)
+          - [Section 4 : Inscription et radiation de la liste des demandeurs d'emploi (art. R326-14 à R326-22)](#527)
+          - [Section 5 : Collectivités territoriales (art. R326-23 à R326-28)](#528)
+          - [Section 6 : Dispositions diverses (art. R326-29 à R326-34)](#529)
+        - [CHAPITRE VII : Indemnisation du chômage (art. R327-10 à R327-14)](#530)
+          - [Section 2 : Perte temporaire de salaire (art. R327-10 à R327-14)](#531)
+      - [TITRE III : Main-d'oeuvre étrangère (art. R330-1 à R330-11)](#532)
+        - [Section 1 : Etrangers. (art. R330-1 à R330-7)](#533)
+        - [Section 2 : Sanction administrative pour l'emploi d'étrangers sans titre de travail. (art. R330-8 à R330-11)](#534)
+      - [TITRE IV : Pénalités (art. R341-1 à R343-1)](#535)
+        - [CHAPITRE Ier : Travail clandestin (art. R341-1)](#536)
+        - [CHAPITRE II : Déclaration des mouvements de main-d'oeuvre (art. R342-1 à R342-2)](#537)
+        - [CHAPITRE III : Licenciement pour motif économique (art. R343-1)](#538)
+    - [LIVRE IV : Les groupements professionnels - La représentation des salariés (art. R411-1 à R451-1)](#539)
+      - [TITRE Ier : Les syndicats professionnels (art. R411-1 à R412-1)](#540)
+        - [CHAPITRE Ier : Statut juridique des syndicats (art. R411-1)](#541)
+        - [CHAPITRE II : Droit syndical et représentativité des syndicats (art. R412-1)](#542)
+          - [Section 1 : Critères de représentativité (art. R412-1)](#543)
+      - [TITRE III : Les délégués du personnel (art. R432-1 à R435-1)](#544)
+        - [CHAPITRE II : Attributions et pouvoirs (art. R432-1 à R432-3)](#545)
+        - [CHAPITRE III : Composition et élections (art. R433-1 à R433-6)](#546)
+        - [CHAPITRE V : Licenciement des délégués du personnel (art. R435-1)](#547)
+      - [TITRE IV : Les comités d'entreprise (art. R441-1 à R445-10)](#548)
+        - [CHAPITRE Ier : Champ d'application (art. R441-1)](#549)
+        - [CHAPITRE II : Attributions et pouvoirs (art. R442-1 à R442-21)](#550)
+          - [Section 1 : Personnalité civile. (art. R442-1)](#551)
+          - [Section 2 : Institutions sociales d'entreprises. (art. R442-2 à R442-3)](#552)
+          - [Section 3 : Gestion des activités sociales et culturelles. (art. R442-4 à R442-7)](#553)
+          - [Section 4 : Comités interentreprises. (art. R442-8 à R442-10)](#554)
+          - [Section 5 : Financement des activités sociales et culturelles. (art. R442-11 à R442-16)](#555)
+          - [Section 6 : Attributions économiques. (art. R442-17 à R442-18)](#556)
+          - [Section 7 : Rapport annuel d'information du comité d'entreprise dans les entreprises de moins de trois cents salariés. (art. R442-19)](#557)
+          - [Section 8 : Prérogatives du comité d'entreprise dans les assemblées générales d'actionnaires. (art. R442-20 à R442-21)](#558)
+        - [CHAPITRE III : Composition et élections (art. R443-1 à R443-5)](#559)
+        - [CHAPITRE IV : Fonctionnement (art. R444-1 à R444-3)](#560)
+        - [CHAPITRE V : Licenciement des représentants du personnel, des représentants syndicaux et des salariés assimilés (art. R445-1 à R445-10)](#561)
+      - [TITRE V : Pénalités (art. R451-1)](#562)
+    - [LIVRE V : Conflits du travail (art. R513-1 à R520-1)](#563)
+      - [TITRE Ier : Conflits collectifs (art. R513-1 à R515-2)](#564)
+        - [CHAPITRE III : Conciliation (art. R513-1 à R513-10)](#565)
+          - [Section 1 : Composition des commissions de conciliation. (art. R513-2 à R513-3)](#566)
+          - [Section 2 : Fonctionnement des commissions de conciliation. (art. R513-4 à R513-10)](#567)
+        - [CHAPITRE IV : Médiation (art. R514-1 à R514-6)](#568)
+        - [CHAPITRE V : Arbitrage (art. R515-1 à R515-2)](#569)
+      - [TITRE II : Pénalités (art. R520-1)](#570)
+    - [LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail (art. R610-1 à R632-2)](#571)
+      - [TITRE Ier : Services de contrôle (art. R610-1 à R610-3)](#572)
+      - [TITRE II : Obligations des employeurs (art. R620-1 à R620-5)](#573)
+      - [TITRE III : Pénalités (art. R631-1 à R632-2)](#574)
+        - [CHAPITRE Ier : Service de contrôle (art. R631-1)](#575)
+        - [CHAPITRE II : Obligations des employeurs (art. R632-1 à R632-2)](#576)
+    - [LIVRE VII : Formation professionnelle (art. R711-1 à R713-16)](#577)
+      - [Chapitre 1er : Dispositions communes aux contrats de qualification et aux contrats d'orientation (art. R711-1)](#578)
+      - [CHAPITRE II : Contrôle de la formation professionnelle (art. R712-1 à R712-8)](#579)
+      - [CHAPITRE III : Organisme collecteur paritaire et organismes de formation (art. R713-1 à R713-16)](#580)
+  - [Partie réglementaire  - Décrets simples (art. D141-1 à D712-17)](#581)
+    - [Livre 1er : Conventions relatives au travail (art. D141-1 à D141-7)](#582)
+      - [Titre 4 : Salaire (art. D141-1 à D141-7)](#583)
+        - [Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG* (art. D141-1 à D141-7)](#584)
+          - [Section 1 : Dispositions générales (art. D141-1 à D141-2)](#585)
+          - [Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement (art. D141-3 à D141-7)](#586)
+    - [Livre 2 : Réglementation du travail (art. D211-1 à D233-9)](#587)
+      - [Titre 1er : Conditions de travail (art. D211-1 à D212-5)](#588)
+        - [Chapitre 1er : Age d'admission (art. D211-1 à D211-4)](#589)
+        - [Chapitre 2 : Durée du travail (art. D212-1 à D212-5)](#590)
+          - [Section 1 : Récupération des heures perdues (art. D212-1 à D212-5)](#591)
+      - [Titre 2 : Repos et congés (art. D223-1 à D223-4)](#592)
+        - [Chapitre 3 : Congés annuels (art. D223-1 à D223-4)](#593)
+      - [Titre 3 : Hygiène et sécurité (art. D233-1 à D233-9)](#594)
+        - [Chapitre 3 : Sécurité. (art. D233-1 à D233-9)](#595)
+    - [Livre 3 : Emploi (art. D312-1 à D327-10)](#596)
+      - [Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin (art. D312-1 à D313-2)](#597)
+        - [Chapitre 2 : Travail clandestin (art. D312-1)](#598)
+        - [Chapitre 3 : Répression du travail illégal (art. D313-1 à D313-2)](#599)
+      - [Titre 2 : Aides à l'emploi - Intervention du fonds national de l'emploi (art. D324-9 à D327-10)](#600)
+        - [Chapitre 4 : Dispositions particulières relatives à l'emploi des jeunes - Projet initiative-jeune (art. D324-9)](#601)
+        - [Chapitre 5 : Dispositions relatives à la création d'entreprises et à la création d'emplois - Aide à la création d'entreprises à l'initiative des demandeurs d'emploi (art. D325-1)](#602)
+        - [Chapitre 7 : Indemnisation du chômage (art. D327-10)](#603)
+          - [Section 2 : Perte temporaire de salaire (art. D327-10)](#604)
+    - [Livre 4 : Les groupements professionnels - La représentation des salariés (art. D442-1)](#605)
+      - [Titre 4 : Les comités d'entreprise (art. D442-1)](#606)
+        - [Chapitre 2 : Attributions et pouvoirs. (art. D442-1)](#607)
+    - [Livre 5 : Conflits du travail (art. D514-1 à D514-4)](#608)
+      - [Titre 1er : Conflits collectifs (art. D514-1 à D514-4)](#609)
+        - [Chapitre 4 : Médiation (art. D514-1 à D514-4)](#610)
+    - [Livre 7 : De la formation professionnelle (art. D712-1 à D712-17)](#611)
+      - [Chapitre 2 : Contrats de formation en alternance Section 1 : Contrats de qualification (art. D712-1 à D712-7)](#612)
+      - [Chapitre 2 : Contrats de formation en alternance Section 2 : Contrats d'orientation (art. D712-8 à D712-11)](#613)
+      - [Chapitre 2 : Contrats de formation en alternance Section 3 : Dispositions communes aux contrats de qualification et d'orientation (art. D712-12 à D712-17)](#614)
 # Partie législative<a id=1></a>
 
 ## LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES.<a id=2></a>
@@ -31227,6 +31239,124 @@ _Cité par_:
 
 ##### Sous-section 1 : Dispositions générales relatives à l'aménagement des lieux de travail.<a id=251></a>
 
+###### Article R232-1
+
+Au sens du présent chapitre, on entend par lieux de travail les lieux destinés à recevoir des postes de travail situés ou non
+dans les bâtiments de l'établissement, ainsi que tout autre endroit compris dans l'aire de l'établissement auquel le salarié
+a accès dans le cadre de son travail. Les champs, bois et autres terrains faisant partie d'un établissement agricole ou
+forestier, mais situés en dehors de la zone bâtie d'un tel établissement, ne sont pas considérés comme des lieux de travail.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R239-16 (Ab)
+
+
+###### Article R232-2
+
+Les bâtiments abritant des lieux de travail doivent avoir des structures et une solidité appropriées au type d'utilisation.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°95-260 du 8 mars 1995 - art. 57-2 (Ab)
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R232-3
+
+Les portes et portails en va-et-vient doivent être transparents ou posséder des panneaux transparents. Un marquage doit être
+apposé à hauteur de vue sur les portes transparentes. Les parties transparentes doivent être constituées de matériaux de
+sécurité ou être protégées contre l'enfoncement de sorte que les salariés ne puissent être blessés en cas de bris de ces
+surfaces. 
+
+Les portes et portails coulissants doivent être munis d'un système de sécurité les empêchant de sortir de leur rail et de
+tomber. 
+
+Les portes et portails s'ouvrant vers le haut doivent être munis d'un système de sécurité les empêchant de retomber. 
+
+Les portes et portails doivent être entretenus et contrôlés régulièrement. Lorsque leur chute peut présenter un danger pour
+les salariés, notamment en raison de leurs dimensions, de leur poids ou de leur mode de fixation, la périodicité des
+contrôles et les interventions sont consignées dans le dossier prévu à l'article R. 232-13.
+
+Les portes et portails automatiques doivent fonctionner sans risque d'accident pour les salariés ; ces portes et portails
+doivent être entretenus et contrôlés régulièrement. Les modalités d'application du présent alinéa sont définies, en tant que
+de besoin, par arrêté du ministre chargé du travail.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R232-13
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R239-24 (Ab)
+
+
+###### Article R232-4
+
+Lorsqu'il n'est pas possible, compte tenu de la nature du travail, d'éviter des zones de danger comportant notamment des
+risques de chute de personnes ou des risques de chute d'objets, et même s'il s'agit d'activités ponctuelles d'entretien ou de
+réparation, ces zones doivent être signalées de manière bien visible ; elles doivent, en outre, être matérialisées par des
+dispositifs destinés à éviter que les salariés non autorisés pénètrent dans ces zones.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R239-28 (Ab)
+
+
+###### Article R232-5
+
+Le chef d'établissement ou son préposé prend toutes dispositions nécessaires pour que seuls les salariés autorisés à cet
+effet puissent accéder aux zones de danger ; les mesures appropriées doivent être prises pour protéger ces salariés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
 ###### Article R232-6
 
 L'accès et l'intervention sur les toits en matériaux fragiles n'offrant pas une résistance suffisante ne peuvent se faire que
@@ -31248,6 +31378,136 @@ _Codifié par_:
 _Abrogé par_:
 
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R232-7
+
+Les lieux de travail sont équipés d'un matériel de premiers secours adapté à la nature des risques et facilement accessible. 
+
+Ce matériel doit faire l'objet d'une signalisation par panneaux conformes aux dispositions prévues par l'article R. 232-14.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R232-14
+
+
+###### Article R232-8
+
+Lorsque le contenu transporté par les tuyauteries présente un danger, ces tuyauteries doivent faire l'objet d'une
+signalisation permettant de déterminer la nature du contenu transporté. Un arrêté du ministre chargé du travail précise les
+modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R232-9
+
+Les salariés handicapés doivent pouvoir accéder aisément à leur poste de travail ainsi qu'aux locaux sanitaires et aux locaux
+de restauration qu'ils sont susceptibles d'utiliser dans l'établissement.
+
+Leurs postes de travail ainsi que les signaux de sécurité qui les concernent doivent être aménagés si leur handicap l'exige.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R232-10
+
+Les lieux de travail intérieurs et extérieurs doivent être aménagés de telle façon que la circulation des piétons et des
+véhicules puisse se faire de manière sûre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R232-11
+
+Les postes de travail extérieurs doivent être aménagés de telle façon que les salariés :
+
+1° Puissent rapidement quitter leur poste de travail en cas de danger ou puissent rapidement être secourus ;
+
+2° Soient protégés contre la chute d'objets.
+
+3° Dans la mesure du possible :
+
+a) Soient protégés contre les conditions atmosphériques ;
+
+b) Ne soient pas exposés à des niveaux sonores nocifs ou à des émissions de gaz, vapeurs, aérosols de particules solides ou
+liquides de substances insalubres, gênantes ou dangereuses ;
+
+c) Ne puissent glisser ou chuter.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R239-36 (Ab)
+
+
+###### Article R232-12
+
+Les lieux de travail qui ont été soumis aux dispositions du chapitre IX du présent titre lors de leur construction ou de leur
+aménagement doivent être utilisés en conformité avec ces dispositions. En cas de changement de destination, ils doivent être
+aménagés pour être rendus conformes aux dispositions régissant cette nouvelle destination à la date des travaux
+d'aménagement. 
+
+Le chef d'établissement tient à la disposition des agents de contrôle de l'inspection du travail le dossier de maintenance
+prévu à l'article R. 239-53 et doit, lorsque son entreprise quitte les locaux, soit restituer ce document au propriétaire des
+locaux, soit le transmettre à l'occupant suivant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R239-53
 
 
 ###### Article R232-13
@@ -31286,6 +31546,31 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R232-36
   - Code du travail applicable à Mayotte. - art. R232-54
   - Code du travail applicable à Mayotte. - art. R239-50
+
+
+###### Article R232-14
+
+La signalisation relative à la sécurité et à la santé au travail doit être conforme à des modalités déterminées par arrêté du
+ministre chargé du travail.
+
+Ces dispositions n'affectent pas l'utilisation de la signalisation relative aux trafics routier, ferroviaire, fluvial,
+maritime et aérien, pour ce qui concerne ces trafics à l'intérieur de l'établissement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R232-7 (Ab)
+  - Code du travail applicable à Mayotte. - art. R232-79 (Ab)
+  - Code du travail applicable à Mayotte. - art. R239-37 (Ab)
 
 
 ###### Article R232-15
@@ -31339,6 +31624,84 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R231-25 (Ab)
   - Code du travail applicable à Mayotte. - art. R232-95 (Ab)
   - Code du travail applicable à Mayotte. - art. R239-14 (Ab)
+
+
+###### Article R232-17
+
+Les vestiaires collectifs et les lavabos doivent être installés dans un local spécial de surface convenable, isolé des locaux
+de travail et de stockage et placé à proximité du passage des salariés. 
+
+Si les vestiaires et les lavabos sont installés dans des locaux séparés, la communication entre ceux-ci doit pouvoir
+s'effectuer sans traverser les locaux de travail ou de stockage et sans passer par l'extérieur. 
+
+Le sol et les parois des locaux affectés aux vestiaires et lavabos doivent permettre un nettoyage efficace. 
+
+Ces locaux doivent être aérés conformément aux dispositions des articles R. 232-27 à R. 232-36.
+
+Ils doivent être tenus en état constant de propreté. 
+
+Dans les établissements occupant un personnel mixte, des installations séparées doivent être prévues pour les salariés
+masculins et féminins.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R232-27
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R235-188 (Ab)
+
+
+###### Article R232-18
+
+Les vestiaires collectifs doivent être pourvus d'un nombre suffisant de sièges et d'armoires individuelles ininflammables.
+
+Ces armoires doivent permettre de suspendre deux vêtements de ville.
+
+Lorsque les vêtements de travail sont susceptibles d'être souillés de matières dangereuses, salissantes ou malodorantes, les
+armoires doivent comprendre un compartiment réservé à ces vêtements.
+
+Les armoires individuelles doivent être munies d'une serrure ou d'un cadenas.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R232-19
+
+Les lavabos sont à eau potable.
+
+L'eau est à température réglable et est distribuée à raison d'un lavabo pour dix personnes au plus.
+
+Des moyens de nettoyage et de séchage ou d'essuyage appropriés sont mis à la disposition des salariés ; ils sont entretenus
+ou changés chaque fois que cela est nécessaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
 ###### Article R232-20
@@ -31420,6 +31783,25 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R239-15 (Ab)
 
 
+###### Article R232-22
+
+Les personnes handicapées physiques doivent pouvoir disposer d'installations sanitaires appropriées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R239-15 (Ab)
+
+
 ###### Article R232-23
 
 Lorsque l'aménagement des vestiaires, des lavabos et des douches ne peut, pour des raisons tenant à la disposition des locaux
@@ -31493,9 +31875,200 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 2 : Ambiances des lieux de travail<a id=254></a>
+##### Sous-section 4 : Confort du poste de travail - Sièges.<a id=254></a>
 
-##### Sous-section 1 : Aération, assainissement.<a id=255></a>
+###### Article R232-26
+
+Un siège approprié est mis à la disposition de chaque salarié à son poste de travail ou à proximité de celui-ci.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+##### Section 2 : Ambiances des lieux de travail<a id=255></a>
+
+##### Sous-section 1 : Aération, assainissement.<a id=256></a>
+
+###### Article R232-27
+
+Dans les locaux fermés où le personnel est appelé à séjourner, l'air doit être renouvelé de façon à : 
+
+1° Maintenir un état de pureté de l'atmosphère propre à préserver la santé des salariés ; 
+
+2° Eviter les élévations exagérées de température, les odeurs désagréables et les condensations. 
+
+Les règles applicables à l'aération, à la ventilation et à l'assainissement des locaux mentionnés au premier alinéa ci-dessus
+sont fixées, suivant la nature et les caractères de ces locaux, aux articles R. 232-28 à R. 232-36.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R232-17 (Ab)
+  - Code du travail applicable à Mayotte. - art. R232-21 (Ab)
+  - Code du travail applicable à Mayotte. - art. R232-40 (Ab)
+  - Code du travail applicable à Mayotte. - art. R239-6 (Ab)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R232-28
+
+
+###### Article R232-28
+
+Pour l'application de la présente sous-section, les termes mentionnés ci-dessous ont les significations suivantes :
+
+Air neuf : air pris à l'air libre hors des sources de pollution.
+
+Air recyclé : air pris et réintroduit dans un local ou un groupe de locaux.
+
+Toutefois, l'air pris hors des points de captage de polluants et réintroduit dans le même local après conditionnement
+thermique n'est pas considéré comme de l'air recyclé.
+
+Locaux à pollution non spécifique : locaux dans lesquels la pollution est liée à la seule présence humaine, à l'exception des
+locaux sanitaires.
+
+Locaux à pollution spécifique : locaux dans lesquels des substances dangereuses ou gênantes sont émises sous forme de gaz,
+vapeurs, aérosols solides ou liquides autres que celles qui sont liées à la seule présence humaine, locaux pouvant contenir
+des sources de micro-organismes potentiellement pathogènes et locaux sanitaires.
+
+Ventilation mécanique : ventilation assurée par une installation mécanique.
+
+Ventilation naturelle permanente : ventilation assurée naturellement par le vent ou par l'écart de température entre
+l'extérieur et l'intérieur.
+
+Poussières : est considérée comme " poussière " toute particule solide dont le diamètre aérodynamique est au plus égal à 100
+micromètres ou dont la vitesse limite de chute, dans les conditions normales de température, est au plus égale à 0,25 mètre
+par seconde. Les poussières ainsi définies sont appelées " poussières totales ".
+
+Toute poussière susceptible d'atteindre les alvéoles pulmonaires est considérée comme " poussière alvéolaire ".
+
+Le " diamètre aérodynamique " d'une poussière est le diamètre d'une sphère de densité égale à l'unité ayant la même vitesse
+de chute dans les mêmes conditions de température et d'humidité relative.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R232-27 (Ab)
+  - Code du travail applicable à Mayotte. - art. R239-8 (Ab)
+
+
+###### Article R232-29
+
+Dans les locaux à pollution non spécifique, l'aération doit avoir lieu soit par ventilation mécanique, soit par ventilation
+naturelle permanente. Dans ce dernier cas, les locaux doivent comporter des ouvrants donnant directement sur l'extérieur et
+dont les dispositifs de commande sont accessibles aux occupants.
+
+L'aération exclusive par ouverture de fenêtres ou autres ouvrants donnant directement sur l'extérieur est autorisée lorsque
+le volume par occupant est égal ou supérieur à :
+
+a) 15 mètres cubes pour les bureaux ainsi que pour les locaux où est effectué un travail physique léger ;
+
+b) 24 mètres cubes pour les autres locaux.
+
+Les locaux réservés à la circulation et les locaux qui ne sont occupés que de manière épisodique peuvent être ventilés, par
+l'intermédiaire des locaux adjacents à pollution non spécifique sur lesquels ils ouvrent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R232-30
+
+Dans les locaux à pollution non spécifique, lorsque l'aération est assurée par des dispositifs de ventilation, le débit
+minimal d'air neuf à introduire par occupant est fixé dans le tableau ci-après.
+
+DESIGNATION DES LOCAUX : Bureaux, locaux sans travail physique
+
+DEBIT MINIMAL D'AIR par occupant (en mètres cubes par heure) : 25
+
+DESIGNATION DES LOCAUX : Locaux de restauration, locaux de vente, locaux de réunion
+
+DEBIT MINIMAL D'AIR par occupant (en mètres cubes par heure) : 30
+
+DESIGNATION DES LOCAUX : Ateliers et locaux avec travail physique léger
+
+DEBIT MINIMAL D'AIR par occupant (en mètres cubes par heure) : 45
+
+DESIGNATION DES LOCAUX : Autres ateliers et locaux
+
+DEBIT MINIMAL D'AIR par occupant (en mètres cubes par heure) : 60
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R232-31 (Ab)
+  - Code du travail applicable à Mayotte. - art. R232-33 (Ab)
+  - Code du travail applicable à Mayotte. - art. R232-37 (Ab)
+  - Code du travail applicable à Mayotte. - art. R232-39 (Ab)
+
+
+###### Article R232-31
+
+L'air envoyé après recyclage dans les locaux à pollution non spécifique doit être filtré. 
+
+L'air recyclé n'est pas pris en compte pour le calcul du débit minimal d'air neuf prévu dans le tableau figurant à l'article
+R. 232-30.
+
+En cas de panne du système d'épuration ou de filtration, le recyclage doit être arrêté. 
+
+L'air pollué d'un local à pollution spécifique ne doit pas être envoyé après recyclage dans un local à pollution non
+spécifique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R232-30
+
 
 ###### Article R232-32
 
@@ -31526,6 +32099,34 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R231-12 (Ab)
   - Code du travail applicable à Mayotte. - art. R232-35 (Ab)
   - Code du travail applicable à Mayotte. - art. R238-6-6 (Ab)
+
+
+###### Article R232-33
+
+Pour chaque local à pollution spécifique, la ventilation doit être réalisée et son débit déterminé en fonction de la nature
+et de la quantité des polluants ainsi que, le cas échéant, de la quantité de chaleur à évacuer, sans que le débit minimal
+d'air neuf puisse être inférieur aux valeurs fixées à l'article R. 232-30.
+
+Lorsque l'air provient de locaux à pollution non spécifique, il doit être tenu compte du nombre total d'occupants des locaux
+desservis pour déterminer le débit minimal d'entrée d'air neuf.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R232-30
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R232-39 (Ab)
 
 
 ###### Article R232-34
@@ -31569,7 +32170,413 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R231-32 (Ab)
 
 
-##### Sous-section 2 : Eclairage.<a id=256></a>
+###### Article R232-35
+
+L'air provenant d'un local à pollution spécifique ne peut être recyclé que s'il est efficacement épuré. Il ne peut être
+envoyé après recyclage dans d'autres locaux que si la pollution de tous les locaux concernés est de même nature. En cas de
+recyclage, les concentrations de poussières et substances dans l'atmosphère du local doivent demeurer inférieures aux limites
+définies à l'article R. 232-32. 
+
+Les prescriptions particulières mentionnées à l'article R. 232-32 interdisent ou limitent, le cas échéant, l'utilisation du
+recyclage pour certaines catégories de substances ou catégories de locaux. 
+
+Les conditions du recyclage sont portées à la connaissance du médecin du travail et des délégués du personnel. 
+
+Les personnes mentionnées à l'alinéa précédent sont, en outre, consultées sur toute nouvelle installation ou toute
+modification des conditions de recyclage. 
+
+Les installations de recyclage doivent comporter un système de surveillance permettant de déceler les défauts des dispositifs
+d'épuration. En cas de défaut, les mesures nécessaires sont prises par l'employeur pour maintenir le respect des valeurs
+limites définies à l'article R. 232-32, le cas échéant, en arrêtant le recyclage.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R232-32
+
+
+###### Article R232-36
+
+Le chef d'établissement doit maintenir l'ensemble des installations mentionnées dans la présente sous-section en bon état de
+fonctionnement et en assurer régulièrement le contrôle. 
+
+Le chef d'établissement indique dans une consigne d'utilisation les dispositions prises pour la ventilation et fixe les
+mesures à prendre en cas de panne des installations. 
+
+Cette consigne, établie en tenant compte, s'il y a lieu, des indications du dossier d'entretien des lieux de travail fourni
+par le maître d'ouvrage conformément à l'article R. 239-53, est soumise à l'avis du médecin du travail et des délégués du
+personnel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R232-13 (Ab)
+  - Code du travail applicable à Mayotte. - art. R232-38 (Ab)
+  - Code du travail applicable à Mayotte. - art. R239-10 (Ab)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R239-53
+
+
+###### Article R232-37
+
+L'agent de contrôle de l'inspection du travail peut prescrire au chef d'établissement de faire procéder par une personne ou
+un organisme agréé aux contrôles et aux mesures permettant de vérifier le respect des dispositions des articles R. 232-30 à
+R. 232-36. 
+
+Le chef d'établissement choisit la personne ou l'organisme agréé sur une liste dressée par le ministre chargé du travail. 
+
+Le chef d'établissement justifie qu'il a saisi l'organisme agréé dans les quinze jours suivant la date de demande de
+vérification et transmet à l'agent de contrôle de l'inspection du travail les résultats qui lui sont communiqués dans les dix
+jours qui suivent cette communication.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Cité par_:
+
+  - Décret n°2014-1289 du 23 octobre 2014 - art. (VD)
+  - Code du travail applicable à Mayotte. - art. R232-38 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R232-30
+
+
+###### Article R232-38
+
+Des arrêtés du ministre chargé du travail fixent : 
+
+a) Les conditions et modalités d'agrément des organismes mentionnés à l'article R. 232-37 ; 
+
+b) Les méthodes de mesure de concentration, de débit, d'efficacité de captage, de filtration et d'épuration ; 
+
+c) La nature et la fréquence du contrôle des installations mentionnées au premier alinéa de l'article R. 232-36.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R232-36
+  - Code du travail applicable à Mayotte. - art. R232-37 (Ab)
+
+
+###### Article R232-39
+
+Dans les puits, conduites de gaz, carneaux, conduits de fumée, cuves, réservoirs, citernes, fosses, galeries et dans les
+lieux où il n'est pas possible d'assurer de manière permanente le respect des dispositions de la présente sous-section, les
+travaux ne doivent être entrepris qu'après vérification de l'absence de risque pour l'hygiène et la sécurité des salariés et,
+le cas échéant, après assainissement de l'atmosphère et vidange du contenu. 
+
+Pendant l'exécution des travaux la ventilation doit être réalisée, selon le cas, suivant les prescriptions définies à
+l'article R. 232-30 ou à l'article R. 232-33, de manière à maintenir la salubrité de l'atmosphère et à en assurer un balayage
+permanent, sans préjudice des dispositions du chapitre V du présent titre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R232-30 (Ab)
+  - Code du travail applicable à Mayotte. - art. R232-33 (Ab)
+
+
+###### Article R232-40
+
+Si l'exécution des mesures de protection collective prévues aux articles R. 232-27 à R. 232-39 est reconnue impossible, des
+équipements de protection individuelle doivent être mis à la disposition du personnel. 
+
+Ces équipements doivent être choisis et adaptés en fonction de la nature des travaux à effectuer et doivent présenter des
+caractéristiques d'efficacité compatibles avec la nature du risque auquel les salariés sont exposés. Ils ne doivent pas les
+gêner dans leur travail ni, autant qu'il est possible, réduire leur champ visuel. 
+
+Le chef d'établissement doit prendre les mesures nécessaires pour que ces équipements soient effectivement utilisés, pour
+qu'ils soient maintenus en bon état de fonctionnement et désinfectés avant d'être attribués à un nouveau titulaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R232-27 (Ab)
+
+
+###### Article R232-41
+
+L'atmosphère des locaux affectés au travail et de leurs dépendances doit être tenue constamment à l'abri de toute émanation
+provenant d'égouts, fosses, puisards, fosses d'aisances ou de toute autre source d'infection.
+
+Dans les établissements qui déversent les eaux résiduaires ou de lavage dans un égout public ou privé, toute communication
+entre l'égout et l'établissement doit être munie d'un intercepteur hydraulique. Cet intercepteur hydraulique doit être
+fréquemment nettoyé, et sa garde d'eau doit être assurée en permanence.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+##### Sous-section 2 : Eclairage.<a id=257></a>
+
+###### Article R232-42
+
+La présente sous-section fixe les règles relatives à l'éclairage et à l'éclairement :
+
+1° Des locaux affectés au travail et de leurs dépendances, notamment les passages et escaliers ;
+
+2° Des espaces extérieurs où sont effectués des travaux permanents ;
+
+3° Des zones et voies de circulation extérieures empruntées de façon habituelle pendant les heures de travail.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R232-44 (Ab)
+  - Code du travail applicable à Mayotte. - art. R239-4 (Ab)
+
+
+###### Article R232-43
+
+L'éclairage doit être conçu et réalisé de manière à éviter la fatigue visuelle, ainsi que les affections de la vue qui en
+résultent, et permettre de déceler les risques perceptibles par la vue.
+
+Les locaux de travail doivent autant que possible disposer d'une lumière naturelle suffisante.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R232-44
+
+Pendant la présence du personnel dans les lieux définis à l'article R. 232-42, les niveaux d'éclairement mesurés au plan de
+travail ou, à défaut, au sol doivent être au moins égaux aux valeurs indiquées dans le tableau ci-après : 
+
+Locaux affectés au travail et leurs dépendances 
+
+Voies de circulation intérieure 
+
+VALEURS MINIMALES d'éclairement : 40 lux 
+
+Escaliers et entrepôts 
+
+VALEURS MINIMALES d'éclairement : 60 lux 
+
+Locaux de travail, vestiaires, sanitaires 
+
+VALEURS MINIMALES d'éclairement : 120 lux 
+
+Locaux aveugles affectés à un travail permanent 
+
+VALEURS MINIMALES d'éclairement : 200 lux 
+
+Espaces extérieurs 
+
+Zones et voies de circulation extérieures 
+
+VALEURS MINIMALES d'éclairement : 10 lux 
+
+Espaces extérieurs où sont effectués des travaux à caractère permanent 
+
+VALEURS MINIMALES d'éclairement : 40 lux 
+
+Dans les zones de travail, le niveau d'éclairement doit en outre être adapté à la nature et à la précision des travaux à
+exécuter.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R232-42 (Ab)
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R232-50 (Ab)
+  - Code du travail applicable à Mayotte. - art. R232-51 (Ab)
+
+
+###### Article R232-45
+
+En éclairage artificiel, le rapport des niveaux d'éclairement, dans un même local, entre celui de la zone de travail et
+l'éclairement général doit être compris entre 1 et 5 ; il en est de même pour le rapport des niveaux d'éclairement entre les
+locaux contigus en communication.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R232-52 (Ab)
+
+
+###### Article R232-46
+
+Les postes de travail situés à l'intérieur des locaux de travail doivent être protégés du rayonnement solaire gênant soit par
+la conception des ouvertures, soit par des protections fixes ou mobiles appropriées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R232-52 (Ab)
+
+
+###### Article R232-47
+
+Les dispositions appropriées doivent être prises pour protéger les salariés contre l'éblouissement et la fatigue visuelle
+provoqués par des surfaces à forte luminance ou par des rapports de luminance trop importants entre surfaces voisines.
+
+Les sources d'éclairage doivent avoir une qualité de rendu des couleurs en rapport avec l'activité prévue et elles ne doivent
+pas compromettre la sécurité du personnel.
+
+Les phénomènes de fluctuation de la lumière ne doivent pas être perceptibles et ne doivent pas provoquer d'effet
+stroboscopique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R232-50 (Ab)
+  - Code du travail applicable à Mayotte. - art. R232-51 (Ab)
+
+
+###### Article R232-48
+
+Toutes dispositions doivent être prises afin que les salariés ne puissent se trouver incommodés par les effets thermiques dus
+au rayonnement des sources d'éclairage mises en oeuvre.
+
+Les sources d'éclairage doivent être aménagées ou installées de façon à éviter tout risque de brûlure.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R232-49
+
+Les organes de commande d'éclairage doivent être d'accès facile. Dans les locaux aveugles, ils doivent être munis de voyants
+lumineux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R232-50 (Ab)
+  - Code du travail applicable à Mayotte. - art. R232-52 (Ab)
+
 
 ###### Article R232-50
 
@@ -31601,7 +32608,87 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R239-5 (Ab)
 
 
-##### Sous-section 3 : Prévention des risques dûs au bruit.<a id=257></a>
+###### Article R232-51
+
+L'agent de contrôle de l'inspection du travail peut prescrire au chef d'établissement de faire procéder à des relevés
+photométriques par une personne ou un organisme agréé, dans le but de vérifier le respect des dispositions des articles R.
+232-44, R. 232-45 et R. 232-47. 
+
+Le chef d'établissement choisit la personne ou l'organisme agréé sur une liste dressée par le ministre chargé du travail. 
+
+Les résultats des relevés photométriques sont communiqués par le chef d'établissement à l'agent de contrôle de l'inspection
+du travail dans les quinze jours suivant la date de la demande de vérification. 
+
+Les conditions et les modalités de l'agrément prévu par le présent article ainsi que les règles à suivre pour effectuer les
+relevés photométriques sont fixées par arrêtés du ministre chargé du travail.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Cité par_:
+
+  - Décret n°2014-1289 du 23 octobre 2014 - art. (VD)
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R232-44 (Ab)
+  - Code du travail applicable à Mayotte. - art. R232-47 (Ab)
+
+
+###### Article R232-52
+
+Les dispositions des articles R. 232-45, R. 232-46, R. 232-47 (1er alinéa) et R. 232-49 ne sont pas applicables sur les
+chantiers du bâtiment et des travaux publics définis à l'article R. 235-1 du chapitre V du présent titre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R232-45 (Ab)
+  - Code du travail applicable à Mayotte. - art. R232-46 (Ab)
+  - Code du travail applicable à Mayotte. - art. R232-49 (Ab)
+  - Code du travail applicable à Mayotte. - art. R235-1
+
+
+##### Sous-section 3 : Prévention des risques dûs au bruit.<a id=258></a>
+
+###### Article R232-53
+
+L'employeur est tenu de réduire le bruit au niveau le plus bas raisonnablement possible compte tenu de l'état des techniques.
+
+L'exposition au bruit doit demeurer à un niveau compatible avec la santé des salariés, notamment avec la protection de
+l'ouïe.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R232-58 (Ab)
+  - Code du travail applicable à Mayotte. - art. R232-59 (Ab)
+
 
 ###### Article R232-54
 
@@ -31748,6 +32835,81 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L240-3
 
 
+###### Article R232-57
+
+I. - Lorsque l'exposition sonore quotidienne subie par un salarié dépasse le niveau de 85 dB (A) ou lorsque la pression
+acoustique de crête dépasse le niveau de 135 dB, les salariés concernés reçoivent une information et une formation adéquates,
+avec le concours du médecin du travail, en ce qui concerne :
+
+a) Les risques résultant, pour leur ouïe, de l'exposition au bruit ;
+
+b) Les moyens mis en oeuvre pour prévenir ces risques ;
+
+c) L'obligation de se conformer aux mesures de prévention et de protection prévues par le règlement intérieur ou les
+consignes ;
+
+d) Le port et les modalités d'utilisation des protecteurs individuels ;
+
+e) Le rôle de la surveillance médicale de la fonction auditive.
+
+II. - Les lieux ou emplacements de travail où l'exposition sonore quotidienne subie par un salarié ou la pression acoustique
+de crête sont susceptibles de dépasser respectivement les niveaux de 90 dB (A) et 140 dB font l'objet d'une signalisation
+appropriée.
+
+L'employeur réglemente l'accès des lieux de travail lorsque le risque d'exposition le justifie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R232-58
+
+I.-Pour l'application des articles R. 232-53 à R. 232-57 et dans le cas où des salariés effectuent des opérations entraînant
+une variation notable de l'exposition au bruit d'une journée de travail à l'autre, l'agent de contrôle de l'inspection du
+travail peut autoriser exceptionnellement, après avis du médecin du travail et des délégués du personnel, à substituer la
+valeur moyenne hebdomadaire des expositions sonores quotidiennes à celle de l'exposition sonore quotidienne. 
+
+II.-Dans le cas où il n'est pas possible de réduire, par des mesures techniques ou d'organisation du travail, l'exposition
+sonore quotidienne subie par un salarié au-dessous du niveau de 90 dB (A) et où les protecteurs individuels prévus à
+l'article R. 232-55 ne peuvent assurer une exposition sonore résiduelle conforme au III dudit article, le directeur du
+travail, de l'emploi et de la formation professionnelle, après enquête de l'agent de contrôle de l'inspection du travail,
+peut accorder des dérogations à cette disposition pour une période ne dépassant pas trois ans. Ces dérogations sont
+renouvelables. 
+
+Dans ce cas toutefois, des protecteurs individuels procurant le plus haut degré de protection possible doivent être fournis. 
+
+L'employeur transmet, avec sa demande, l'avis des délégués du personnel ainsi que celui du médecin du travail. 
+
+Chacune de ces dérogations est assortie de conditions garantissant, compte tenu des circonstances particulières, que les
+risques supportés sont les plus faibles possible.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Cité par_:
+
+  - Décret n°2014-1291 du 23 octobre 2014 - art. (VD)
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R232-53 (Ab)
+  - Code du travail applicable à Mayotte. - art. R232-55
+
+
 ###### Article R232-59
 
 I.-L'agent de contrôle de l'inspection du travail peut mettre en demeure l'employeur de faire procéder à un mesurage de
@@ -31787,9 +32949,46 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R232-55 (Ab)
 
 
-##### Section 3 : Restauration - Hébergement<a id=258></a>
+##### Sous-section 4 : Ambiances particulières.<a id=259></a>
 
-##### Sous-section 1 : Repas.<a id=259></a>
+###### Article R232-60
+
+L'employeur prend, après avis du médecin du travail et des délégués du personnel, toutes les dispositions nécessaires pour
+assurer la protection des salariés contre les intempéries.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+##### Section 3 : Restauration - Hébergement<a id=260></a>
+
+##### Sous-section 1 : Repas.<a id=261></a>
+
+###### Article R232-61
+
+Il est interdit de laisser les salariés prendre leur repas dans les locaux affectés au travail.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R232-62 (Ab)
+
 
 ###### Article R232-62
 
@@ -31840,9 +33039,192 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R239-14 (Ab)
 
 
-##### Section 4 : Prévention des incendies - Evacuation<a id=260></a>
+###### Article R232-63
 
-##### Sous-section 1 : Dispositions générales.<a id=261></a>
+A défaut de local de repos, lorsque la nature des activités l'exige et après avis des délégués du personnel, le local de
+restauration ou l'emplacement prévu à l'article précédent doit pouvoir être utilisé en dehors des heures de repas comme local
+ou emplacement de repos. Les sièges mis à la disposition des salariés pour cet usage comportent des dossiers.
+
+Dans ces locaux ou emplacements, des mesures de protection des non-fumeurs contre la gêne due à la fumée du tabac doivent
+être prises.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R232-64
+
+Sans préjudice des dispositions des articles L. 122-48 et R. 122-9, les femmes enceintes et les mères allaitant leurs enfants
+doivent avoir la possibilité de se reposer en position allongée, dans des conditions appropriées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L122-48
+  - Code du travail applicable à Mayotte. - art. R122-9 (Ab)
+
+
+##### Sous-section 2 : Hébergement.<a id=262></a>
+
+###### Article R232-65
+
+La surface et le volume habitables des locaux affectés à l'hébergement du personnel ne doivent pas être inférieurs à 6 mètres
+carrés et 15 mètres cubes par personne. Les parties de locaux d'une hauteur inférieure à 1,90 mètre ne sont pas comptées
+comme surface habitable.
+
+Ces locaux doivent être aérés d'une façon permanente.
+
+Ils doivent être équipés de fenêtres ou autres ouvrants de surface transparente donnant directement sur l'extérieur et munis
+d'un dispositif d'occultation.
+
+Le salarié doit pouvoir clore le logement et y accéder librement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R232-66
+
+Les équipements et caractéristiques des locaux affectés à l'hébergement doivent permettre de maintenir à 18 °C au moins la
+température intérieure et d'éviter les condensations et les températures excessives.
+
+Les installations électriques doivent être conformes aux dispositions réglementaires du présent code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R232-67
+
+Chaque couple doit avoir sa chambre.
+
+Les pièces à usage de dortoir ne doivent être occupées que par des personnes du même sexe. Le nombre de personnes par pièce
+est limité à six. Les lits sont distants les uns des autres de 80 centimètres au moins. Il est interdit d'installer des lits
+superposés.
+
+Chaque personne ou chaque couple doit disposer pour son usage exclusif d'une literie et du mobilier nécessaires, qui sont
+maintenus propres et en bon état.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Cité par_:
+
+  - Décret n°2014-1289 du 23 octobre 2014 - art. (VD)
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R232-68
+
+Il est interdit d'héberger le personnel dans les locaux affectés à un usage industriel ou commercial.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R232-69
+
+Les revêtements des sols et des parois des locaux affectés à l'hébergement doivent permettre un entretien efficace et être
+refaits chaque fois que la propreté l'exige.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R232-70
+
+Les locaux affectés à l'hébergement doivent être maintenus dans un état constant de propreté et d'hygiène.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R232-71
+
+Des lavabos à eau potable et à température réglable ainsi que des serviettes et du savon doivent être mis à la disposition du
+personnel hébergé, à raison d'un lavabo pour trois personnes. 
+
+Des cabinets d'aisances et des urinoirs sont installés à proximité des pièces destinées à l'hébergement dans les conditions
+déterminées par l'article R. 322-21. 
+
+Des douches à température réglable doivent également être installées à proximité des pièces destinées à l'hébergement, dans
+des cabines individuelles, à raison d'une cabine pour six personnes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R322-21 (Ab)
+
+
+##### Section 4 : Prévention des incendies - Evacuation<a id=263></a>
+
+##### Sous-section 1 : Dispositions générales.<a id=264></a>
 
 ###### Article R232-72
 
@@ -31880,7 +33262,238 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L231-1
 
 
-##### Sous-section 3 : Emploi des matières inflammables.<a id=262></a>
+###### Article R232-73
+
+L'effectif théorique des personnes susceptibles d'être présentes à prendre en compte pour l'application de la présente
+section comprend l'effectif du personnel, majoré, le cas échéant, de l'effectif du public susceptible d'être admis et calculé
+suivant les règles précisées par la réglementation relative à la protection du public contre les risques d'incendie et de
+panique pour les établissements recevant du public.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R239-38 (Ab)
+
+
+##### Sous-section 2 : Dégagements.<a id=265></a>
+
+###### Article R232-74
+
+Les établissements mentionnés à l'article R. 232-72 doivent posséder des dégagements (portes, couloirs, circulations,
+escaliers, rampes) répartis de manière à permettre une évacuation rapide de tous les occupants dans des conditions de
+sécurité maximale. 
+
+Ces dégagements doivent être toujours libres. Aucun objet, marchandise ou matériel ne doit faire obstacle à la circulation
+des personnes ou réduire la largeur des dégagements au-dessous des minima fixés ci-après. 
+
+Ces dégagements doivent être disposés de manière à éviter les culs-de-sac.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R232-72 (Ab)
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R239-39 (Ab)
+
+
+###### Article R232-75
+
+Tous les locaux auxquels les salariés ont normalement accès doivent être desservis par des dégagements dont le nombre et la
+largeur exigibles s'établissent comme suit :
+
+(A) : NOMBRE de dégagements
+
+(B) : LARGEUR totale cumulée
+
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ :------------------------------------------------: ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ :                           :   A   :     B      : ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ :---------------------------:-------:------------: ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ :  Moins de 21 personnes    :   1   :   0,80 m   : ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ :  De 21 à 100 personnes    :   1   :   1,50 m   : ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ :  De 101 à 300 personnes   :   2   :      2 m   : ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ :  De 301 à 500 personnes   :   2   :    2,5 m   : ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ :---------------------------:-------:------------: ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
+
+
+Au-delà des cinq cents premières personnes :
+
+a) Le nombre minimum des dégagements doit être augmenté d'une unité par cinq cents personnes ou fraction de cinq cents
+personnes ;
+
+b) La largeur totale des dégagements doit être augmentée de 0,50 mètre par cent personnes ou fraction de cent personnes.
+
+La largeur de tout dégagement faisant partie des dégagements réglementaires ne doit jamais être inférieure à 0,80 mètre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R232-78 (Ab)
+
+
+###### Article R232-76
+
+Les portes susceptibles d'être utilisées pour l'évacuation de plus de cinquante personnes doivent s'ouvrir dans le sens de la
+sortie.
+
+Les portes faisant partie des dégagements réglementaires doivent pouvoir s'ouvrir par une manoeuvre simple. Toute porte
+verrouillée doit être manoeuvrable de l'intérieur dans les mêmes conditions et sans clé.
+
+Les portes coulissantes, à tambour ou s'ouvrant vers le haut ne peuvent constituer des portes de secours. Elles ne sont pas
+considérées comme des dégagements réglementaires. Toutefois les portes coulissantes motorisées qui, en cas de défaillance du
+dispositif de commande ou du dispositif d'alimentation, libèrent la largeur totale de la baie par effacement latéral ou par
+débattement sur l'extérieur par simple poussée peuvent constituer des dégagements réglementaires.
+
+L'existence d'ascenseurs, monte-charge, chemins ou tapis roulants ne peut justifier une diminution du nombre et de la largeur
+des dégagements.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R239-39 (Ab)
+
+
+###### Article R232-77
+
+Tous les escaliers doivent se prolonger jusqu'au niveau d'évacuation sur l'extérieur. Les parois et les marches ne doivent
+pas comporter de matériaux de revêtement classés, selon leur réaction au feu, dans une catégorie de rang inférieur à celle
+précisée par arrêté du ministre chargé du travail.
+
+Les escaliers doivent être munis de rampe ou de main-courante ; ceux d'une largeur au moins égale à 1,5 mètre en sont munis
+de chaque côté.
+
+Les escaliers desservant les étages doivent être dissociés, au niveau de l'évacuation sur l'extérieur, de ceux desservant les
+sous-sols.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R232-78
+
+Les largeurs minimales fixées à l'article R. 232-75 sont augmentées de la moitié pour les escaliers desservant les sous-sols.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R232-75 (Ab)
+
+
+###### Article R232-79
+
+Une signalisation conforme à l'article R. 232-14 doit indiquer le chemin vers la sortie la plus rapprochée. 
+
+Les dégagements qui ne servent pas habituellement de passage pendant la période de travail doivent être signalés par la
+mention sortie de secours. 
+
+Les établissements doivent disposer d'un éclairage de sécurité, conforme à la réglementation en vigueur, permettant d'assurer
+l'évacuation des personnes en cas d'interruption accidentelle de l'éclairage normal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R232-14
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R239-39 (Ab)
+
+
+##### Sous-section 3 : Emploi des matières inflammables.<a id=266></a>
+
+###### Article R232-80
+
+Les dispositions spécifiques relatives aux installations électriques pour les locaux ou les emplacements présentant des
+dangers d'incendie ou des risques d'explosion sont précisées dans la réglementation relative à la protection des salariés
+dans les établissements qui mettent en oeuvre des courants électriques, prévue par le chapitre VI du présent titre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R239-47 (Ab)
+
 
 ###### Article R232-81
 
@@ -31951,7 +33564,27 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R239-47 (Ab)
 
 
-##### Sous-section 4 : Moyens de prévention et de lutte contre l'incendie.<a id=263></a>
+###### Article R232-83
+
+Un arrêté du ministre chargé du travail fixe, en tant que de besoin, les dispositions spécifiques relatives aux installations
+industrielles utilisant le gaz combustible et les hydrocarbures liquéfiés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R239-47 (Ab)
+
+
+##### Sous-section 4 : Moyens de prévention et de lutte contre l'incendie.<a id=267></a>
 
 ###### Article R232-84
 
@@ -31997,9 +33630,336 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R239-51 (Ab)
 
 
-##### Section 5 : Mesures d'application<a id=264></a>
+###### Article R232-85
 
-##### Sous-section 2 : Dispositions générales.<a id=265></a>
+Les établissements où peuvent se trouver occupées ou réunies habituellement plus de cinquante personnes, ainsi que ceux,
+quelle que soit leur importance, où sont manipulées et mises en oeuvre des matières inflammables citées à l'article R. 232-81
+doivent être équipés d'un système d'alarme sonore. 
+
+L'alarme générale doit être donnée par bâtiment si l'établissement comporte plusieurs bâtiments isolés entre eux. 
+
+Le signal sonore d'alarme générale ne doit pas permettre la confusion avec d'autres signalisations utilisées dans
+l'établissement. Il doit être audible de tout point du bâtiment pendant le temps nécessaire à l'évacuation, avec une
+autonomie minimale de cinq minutes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R232-81 (Ab)
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R232-87 (Ab)
+  - Code du travail applicable à Mayotte. - art. R232-88 (Ab)
+
+
+###### Article R232-86
+
+Des arrêtés du ministre chargé du travail peuvent préciser certaines dispositions relatives aux moyens de prévention et de
+lutte contre l'incendie et rendre obligatoires certaines normes concernant ce matériel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R232-87
+
+Dans les établissements mentionnés à l'article R. 232-85, une consigne est établie et affichée d'une manière très
+apparente : 
+
+a) Dans chaque local pour les locaux dont l'effectif est supérieur à cinq personnes et pour les locaux visés à l'article R.
+232-82 ;
+
+b) Dans chaque local ou dans chaque dégagement desservant un groupe de locaux dans les autres cas. 
+
+Cette consigne indique le matériel d'extinction et de secours qui se trouve dans le local ou à ses abords. Elle désigne le
+personnel chargé de mettre ce matériel en action. 
+
+Elle désigne de même, pour chaque local, les personnes chargées de diriger l'évacuation du personnel et, éventuellement, du
+public, et, le cas échéant, précise les mesures spécifiques liées à la présence de handicapés. 
+
+Elle indique les moyens d'alerte et désigne les personnes chargées d'aviser les sapeurs-pompiers dès le début d'un incendie.
+L'adresse et le numéro d'appel téléphonique du service de secours de premier appel y sont portés en caractères apparents. 
+
+Elle indique que toute personne apercevant un début d'incendie doit donner l'alarme et mettre en oeuvre les moyens de premier
+secours, sans attendre l'arrivée du personnel spécialement désigné.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R232-82 (Ab)
+  - Code du travail applicable à Mayotte. - art. R232-85
+
+
+###### Article R232-88
+
+La consigne doit prévoir des essais et visites périodiques du matériel et des exercices au cours desquels le personnel
+apprend à reconnaître les caractéristiques du signal sonore d'alarme générale, à se servir des moyens de premier secours et à
+exécuter les diverses manoeuvres nécessaires.
+
+Ces exercices et essais périodiques doivent avoir lieu au moins tous les six mois. Leur date et les observations auxquelles
+ils peuvent avoir donné lieu sont consignées sur un registre tenu à la disposition des agents de contrôle de l'inspection du
+travail.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R232-82
+  - Code du travail applicable à Mayotte. - art. R232-85 (Ab)
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R232-88 (Ab)
+
+
+###### Article R232-89
+
+La consigne pour le cas d'incendie doit être communiquée aux agents de contrôle de l'inspection du travail.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+##### Section 5 : Mesures d'application<a id=268></a>
+
+##### Sous-section 1 : Dispositions particulières aux établissements agricoles.<a id=269></a>
+
+###### Article R232-90
+
+Lorsque les dispositions de la section I relatives au nettoyage et de la section II relatives à l'aération, l'assainissement
+et l'ambiance thermique ne peuvent recevoir application en raison de la nature des opérations agricoles pratiquées, des
+mesures d'effet équivalent doivent être prises pour la protection de la santé des salariés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R232-93 (Ab)
+
+
+###### Article R232-91
+
+Les salariés ne doivent être admis dans les locaux ayant fait l'objet d'un traitement antiparasitaire qu'après ventilation
+suffisante et observation, s'il y a lieu, de délais évitant les effets toxiques rémanents. En cas de nécessité d'intervention
+anticipée, les moyens de protection individuelle appropriés doivent être fournis.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R232-92
+
+Lorsque les travaux sont effectués dans des locaux fermés et dans une atmosphère dangereuse pour la santé des salariés, le
+temps de présence doit être aussi limité que possible.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R232-93
+
+Les dispositions de la sous-section 3 de la section II du présent chapitre sont néanmoins applicables dans les établissements
+agricoles visés à l'article R. 232-90, sauf dans les lieux où l'éclairage peut être contre-indiqué en raison des techniques
+agricoles pratiquées. 
+
+Dans ce cas, des moyens individuels d'éclairage doivent être mis à la disposition du personnel et être tenus constamment en
+bon état de fonctionnement à la diligence de l'employeur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R232-90 (Ab)
+
+
+###### Article R232-94
+
+Lorsque les salariés sont exposés aux intempéries en raison des conditions d'exécution du travail, l'employeur est tenu de
+mettre à leur disposition des moyens de protection individuelle, dont les caractéristiques techniques sont, en tant que de
+besoin, fixées par des arrêtés du ministre chargé du travail.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R232-95
+
+Les dispositions des articles R. 232-16 à R. 232-19 ne sont applicables qu'au cas où le travail est effectué dans les locaux
+de l'exploitation, de l'entreprise ou de l'établissement agricole ou à proximité de ceux-ci et, si ce n'est pas le cas,
+lorsque les salariés y prennent et finissent leur travail de façon habituelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R232-16 (Ab)
+
+
+###### Article R232-96
+
+Pour l'application de l'article R. 232-23, le directeur du travail, de l'emploi et de la formation professionnelle peut
+également tenir compte des impossibilités techniques liées à la nature ou à la situation de l'exploitation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R232-23 (Ab)
+
+
+###### Article R232-97
+
+Les dispositions de l'article R. 232-21 ne sont applicables qu'au cas où le travail est effectué dans les locaux de
+l'exploitation, de l'entreprise ou de l'établissement agricole, ou à proximité de ceux-ci.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R232-21 (Ab)
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R239-14 (Ab)
+
+
+###### Article R232-98
+
+Les dispositions de la sous-section 2 de la section III du présent chapitre ne sont pas applicables dans les établissements
+agricoles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R232-99
+
+Lorsque les dispositions de la section I relatives à l'hygiène des locaux affectés au travail ainsi que celles de la sous-
+section 1 de la section III relatives aux repas ne peuvent recevoir application en raison de la nature des opérations
+agricoles pratiquées ou de la situation des lieux de travail, des mesures d'effet équivalent doivent être prises en vue
+d'assurer la protection de la santé des salariés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+##### Sous-section 2 : Dispositions générales.<a id=270></a>
 
 ###### Article R232-100
 
@@ -32029,9 +33989,33 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R232-59 (Ab)
 
 
-#### CHAPITRE III : Sécurité<a id=266></a>
+###### Article R232-101
 
-##### Section 1 : Règles générales d'utilisation des équipements de travail et moyens de protection, y compris les équipements de protection individuelle.<a id=267></a>
+Dans le cas où il est reconnu qu'il est pratiquement impossible d'appliquer l'une des prescriptions de la section IV
+"Prévention des incendies-évacuation", il peut être accordé à un établissement une dispense temporaire ou permanente d'une
+partie de ces prescriptions, sur proposition de mesures compensatoires assurant un niveau de sécurité jugé équivalent.
+
+La dispense est accordée par le directeur du travail, de l'emploi et de la formation professionnelle, après enquête de
+l'agent de contrôle de l'inspection du travail, après avis des délégués du personnel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Cité par_:
+
+  - Décret n°2014-1291 du 23 octobre 2014 - art. (VD)
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+#### CHAPITRE III : Sécurité<a id=271></a>
+
+##### Section 1 : Règles générales d'utilisation des équipements de travail et moyens de protection, y compris les équipements de protection individuelle.<a id=272></a>
 
 ###### Article R233-1
 
@@ -32186,9 +34170,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R233-60 (Ab)
 
 
-##### Section 2 : Mesures d'organisation et conditions de mise en oeuvre des équipements de travail<a id=268></a>
+##### Section 2 : Mesures d'organisation et conditions de mise en oeuvre des équipements de travail<a id=273></a>
 
-##### Sous-section 1 : Mesures générales.<a id=269></a>
+##### Sous-section 1 : Mesures générales.<a id=274></a>
 
 ###### Article R233-5
 
@@ -32388,7 +34372,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Sous-section 2 : Mesures particulières applicables à l'utilisation de certains équipements de travail ou à certaines situations de travail.<a id=270></a>
+##### Sous-section 2 : Mesures particulières applicables à l'utilisation de certains équipements de travail ou à certaines situations de travail.<a id=275></a>
 
 ###### Article R233-13
 
@@ -32443,6 +34427,149 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R233-13 (Ab)
 
 
+###### Article R233-15
+
+Des arrêtés du ministre chargé du travail déterminent les équipements de travail ou les catégories d'équipement de travail
+pour lesquels le chef d'établissement ou le travailleur indépendant est tenu de procéder ou de faire procéder à des
+vérifications générales périodiques afin que soit décelée en temps utile toute détérioration susceptible de créer des
+dangers. 
+
+Ces arrêtés précisent la périodicité des vérifications et, en tant que de besoin, leur nature et leur contenu. 
+
+L'intervalle entre lesdites vérifications peut être réduit sur mise en demeure de l'agent de contrôle de l'inspection du
+travail lorsque, en raison notamment des conditions ou de la fréquence d'utilisation, du mode de fonctionnement ou de la
+conception de certains organes, les équipements de travail sont soumis à des contraintes génératrices d'une usure prématurée
+susceptible d'être à l'origine de situations dangereuses. 
+
+Les vérifications sont effectuées par des personnes qualifiées, appartenant ou non à l'établissement, dont la liste est tenue
+à la disposition de l'agent de contrôle de l'inspection du travail ou du contrôleur du travail. Ces personnes doivent être
+compétentes dans le domaine de la prévention des risques présentés par les équipements de travail définis par les arrêtés
+prévus au premier alinéa ci-dessus et connaître les dispositions réglementaires afférentes. 
+
+Le résultat des vérifications générales périodiques est consigné sur le registre de sécurité ouvert par le chef
+d'établissement conformément à l'article L. 620-5. Ce registre est tenu à la disposition de l'agent de contrôle de
+l'inspection du travail, des agents de l'organisme chargé du risque accidents du travail et maladies professionnelles et des
+délégués du personnel. 
+
+Lorsque les vérifications périodiques sont réalisées par des personnes n'appartenant pas à l'établissement, les rapports
+établis à la suite de ces vérifications doivent être annexés au registre de sécurité ; à défaut, les indications précises
+relatives à la date des vérifications, à la date de remise des rapports correspondants et à leur archivage dans
+l'établissement doivent être portées sur le registre de sécurité. 
+
+Un arrêté du représentant de l'Etat à Mayotte fixe les conditions dans lesquelles le registre de sécurité et les rapports
+sont tenus et conservés. 
+
+S'ils répondent aux critères de qualification et de compétence définis par l'alinéa 4 ci-dessus, les travailleurs
+indépendants peuvent procéder eux-mêmes à ces vérifications. 
+
+Dans les situations visées à l'article R. 235-23, les travailleurs indépendants consignent les résultats de ces
+vérifications, ainsi que le nom et la qualité de la personne qui les a effectuées, sur le registre prévu audit article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L620-5
+  - Code du travail applicable à Mayotte. - art. R235-23
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R233-16 (Ab)
+  - Code du travail applicable à Mayotte. - art. R233-17 (Ab)
+  - Code du travail applicable à Mayotte. - art. R233-60 (Ab)
+
+
+###### Article R233-16
+
+Des arrêtés du ministre chargé du travail déterminent les équipements de travail et les catégories d'équipements de travail
+pour lesquels le chef d'établissement est tenu, dans les conditions définies à l'article R. 233-15, de procéder ou de faire
+procéder, lors de leur mise en service dans l'établissement, à une vérification initiale en vue de s'assurer qu'ils sont
+installés conformément aux spécifications prévues, le cas échéant, par la notice d'instructions du fabricant et peuvent être
+utilisés en sécurité. 
+
+Les travailleurs indépendants sont également tenus à la vérification initiale mentionnée à l'alinéa précédent, dans les
+conditions prévues audit alinéa.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R233-15
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R233-60 (MMN)
+
+
+###### Article R233-17
+
+Des arrêtés du ministre chargé du travail déterminent les équipements de travail et les catégories d'équipements de travail
+pour lesquels le chef d'établissement ou le travailleur indépendant est tenu, dans les conditions définies à l'article R.
+233-15, de procéder ou de faire procéder, lors de leur remise en service après toute opération de démontage et remontage ou
+modification susceptible de mettre en cause leur sécurité, à une vérification en vue de s'assurer de l'absence de toute
+défectuosité susceptible d'être à l'origine de situations dangereuses.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R233-15
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R233-60 (MMN)
+
+
+###### Article R233-18
+
+Des arrêtés du ministre chargé du travail déterminent les équipements de travail et les catégories d'équipements de travail
+pour lesquels un carnet de maintenance doit être établi et tenu à jour par le chef d'établissement en vue de s'assurer que
+les opérations de maintenance nécessaires au fonctionnement de l'équipement de travail dans des conditions permettant de
+préserver la sécurité et la santé des salariés sont effectuées.
+
+Ces arrêtés précisent la nature des informations qui doivent être portées sur le carnet de maintenance.
+
+Le carnet de maintenance est tenu à la disposition de l'agent de contrôle de l'inspection du travail, des agents de
+l'organisme chargé du risque accidents du travail et maladies professionnelles et des délégués du personnel.
+
+Un arrêté du représentant de l'Etat à Mayotte fixe les conditions dans lesquelles le carnet de maintenance est tenu et
+conservé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
 ###### Article R233-19
 
 Les machines à amenage manuel des pièces à travailler ou à déplacement manuel des outillages doivent être équipées des outils
@@ -32469,7 +34596,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R233-60 (Ab)
 
 
-##### Sous-section 3 : Mesures complémentaires applicables à l'utilisation des équipements de travail mobiles.<a id=271></a>
+##### Sous-section 3 : Mesures complémentaires applicables à l'utilisation des équipements de travail mobiles.<a id=276></a>
 
 ###### Article R233-20
 
@@ -32528,7 +34655,42 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 3 : Prescriptions techniques applicables pour l'utilisation des équipements de travail.<a id=272></a>
+##### Sous-section 4 : Autorisation de conduite pour l'utilisation de certains équipements de travail mobiles et des équipements de travail servant au levage.<a id=277></a>
+
+###### Article R233-23
+
+La conduite des équipements de travail mobiles automoteurs et des équipements de travail servant au levage est réservée aux
+salariés qui ont reçu une formation adéquate. Cette formation doit être complétée et réactualisée chaque fois que nécessaire.
+
+En outre, la conduite de certains équipements présentant des risques particuliers, en raison de leurs caractéristiques ou de
+leur objet, est subordonnée à l'obtention d'une autorisation de conduite délivrée par le chef d'entreprise.
+
+L'autorisation de conduite est tenue par l'employeur à la disposition de l'agent de contrôle de l'inspection du travail.
+
+Des arrêtés du ministre chargé du travail déterminent :
+
+a) Les conditions de la formation exigée au premier alinéa du présent article ;
+
+b) Les catégories d'équipements de travail dont la conduite nécessite d'être titulaire d'une autorisation de conduite ;
+
+c) Les conditions dans lesquelles le chef d'entreprise s'assure que le salarié dispose de la compétence et de l'aptitude
+nécessaires pour assumer, en toute sécurité, la fonction de conducteur d'un équipement de travail ;
+
+d) La date à compter de laquelle, selon les catégories d'équipements, entre en vigueur l'obligation d'être titulaire d'une
+autorisation de conduite.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+##### Section 3 : Prescriptions techniques applicables pour l'utilisation des équipements de travail.<a id=278></a>
 
 ###### Article R233-24
 
@@ -32924,7 +35086,430 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R233-25 (Ab)
 
 
-##### Section 5 : Dispositions diverses et mesures d'application.<a id=273></a>
+###### Article R233-42
+
+Les équipements de travail mobiles avec salariés portés doivent être choisis, compte tenu des travaux à effectuer et des
+conditions effectives d'utilisation, de manière à prévenir les risques de retournement ou de renversement de l'équipement et
+de chute d'objets.
+
+Lorsque le risque de retournement ou de renversement ne peut pas être complètement évité, ces équipements doivent être munis
+soit d'une structure les empêchant de se renverser de plus d'un quart de tour, soit d'une structure ou de tout autre
+dispositif d'effet équivalent garantissant un espace suffisant autour des salariés portés si le mouvement peut continuer au-
+delà de cette limite. De telles structures de protection ne sont pas requises lorsque l'équipement est stabilisé pendant
+l'emploi ou lorsque le retournement ou le renversement en est rendu impossible par conception.
+
+Lorsque le risque de chute d'objets ne peut pas être complètement évité, ces équipements doivent être équipés d'une structure
+de protection contre ce risque.
+
+Les structures de protection contre le retournement, le renversement ou la chute d'objets peuvent être intégrées dans une
+cabine.
+
+Si l'équipement n'est pas muni des points d'ancrage permettant de recevoir une structure de protection, des mesures doivent
+être prises pour prévenir le risque de retournement ou de renversement de l'équipement ou de chute d'objets, telles que la
+limitation de son utilisation, de la vitesse et l'aménagement des zones de circulation et de travail.
+
+S'il existe un risque qu'un salarié porté, lors d'un retournement ou d'un renversement, soit écrasé entre des parties de
+l'équipement de travail et le sol, l'équipement doit être muni d'un système de retenue des salariés portés sur leur siège,
+sauf si l'état de la technique et les conditions effectives d'utilisation l'interdisent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R233-43
+
+Les équipements de travail mobiles avec salariés portés doivent être aménagés de façon à réduire au minimum les risques pour
+ces salariés pendant le déplacement, notamment les risques de contact avec les roues, chenilles, ou autres éléments mobiles
+concourant au déplacement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R233-44
+
+Lorsque le blocage intempestif des éléments de transmission d'énergie entre un équipement de travail mobile et ses
+accessoires ou remorques peut engendrer des risques spécifiques, cet équipement de travail doit être aménagé ou équipé de
+façon qu'il puisse être remédié à ce blocage. Lorsque celui-ci ne peut pas être empêché, toutes mesures doivent être prises
+pour éviter les conséquences dommageables pour les salariés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R233-45
+
+Si les éléments de transmission d'énergie entre équipements de travail mobiles risquent de s'encrasser et de se détériorer en
+traînant par terre, des fixations doivent être prévues.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R233-46
+
+Les équipements de travail mobiles automoteurs doivent être munis de dispositifs empêchant une mise en marche par des
+personnes non habilitées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R233-47
+
+Les équipements de travail mobiles automoteurs doivent être munis d'un dispositif de freinage et d'arrêt. Dans la mesure où
+la sécurité l'exige, notamment pour les équipements dont le système de freinage est fortement sollicité, un dispositif de
+secours actionné par des commandes aisément accessibles ou par des systèmes automatiques doit permettre le freinage et
+l'arrêt en cas de défaillance du dispositif principal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R233-48
+
+Lorsque le champ de vision direct du conducteur est insuffisant, les équipements de travail mobiles automoteurs doivent être
+munis de dispositifs auxiliaires, améliorant la visibilité.
+
+Lorsque ces équipements sont utilisés de nuit ou dans des lieux obscurs, ils doivent être munis d'un dispositif d'éclairage
+adapté au travail à effectuer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R233-49
+
+Les équipements de travail mobiles automoteurs commandés à distance doivent être munis d'un dispositif permettant l'arrêt
+automatique lorsqu'ils sortent du champ de contrôle.
+
+S'ils peuvent heurter des salariés, les équipements de travail mobiles automoteurs commandés à distance ou fonctionnant sans
+conducteur doivent être équipés de dispositifs de protection ou de protecteurs contre ces risques, sauf si d'autres
+dispositifs appropriés sont en place pour contrôler le risque de heurt.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R233-50
+
+En cas de mouvement simultané de plusieurs équipements de travail mobiles automoteurs roulant sur rails, ces équipements
+doivent être munis de moyens réduisant les conséquences d'une collision éventuelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R233-51
+
+Les équipements de travail mobiles automoteurs qui, par eux-mêmes ou du fait de leurs remorques ou de leur chargement,
+présentent des risques d'incendie doivent être munis de dispositifs de lutte contre l'incendie, sauf si le lieu d'utilisation
+en est équipé à des endroits suffisamment rapprochés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+##### Section 4 : Mesures d'organisation et conditions d'utilisation des équipements de protection individuelle.<a id=279></a>
+
+###### Article R233-52
+
+Les équipements de protection individuelle et les vêtements de travail visés à l'article R. 233-1 doivent être fournis
+gratuitement par le chef d'établissement, qui assure leur bon fonctionnement et leur état hygiénique satisfaisant par les
+entretiens, réparations et remplacements nécessaires. 
+
+Les équipements de protection individuelle sont réservés à un usage personnel dans le cadre des activités professionnelles de
+leur attributaire. Toutefois, si la nature de l'équipement ainsi que les circonstances exigent l'utilisation successive de
+cet équipement de protection individuelle par plusieurs personnes, les mesures appropriées doivent être prises pour qu'une
+telle utilisation ne pose aucun problème de santé ou d'hygiène aux différents utilisateurs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R231-25 (Ab)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R233-1
+
+
+###### Article R233-53
+
+Le chef d'établissement détermine après consultation des délégués du personnel les conditions dans lesquelles les équipements
+de protection individuelle doivent être mis à disposition et utilisés, notamment celles concernant la durée du port, en
+fonction de la gravité du risque, de la fréquence de l'exposition au risque et des caractéristiques du poste de travail de
+chaque salarié, et en tenant compte des performances des équipements de protection individuelle en cause.
+
+Les équipements de protection individuelle doivent être utilisés conformément à leur destination.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R233-54 (Ab)
+  - Code du travail applicable à Mayotte. - art. R233-60 (Ab)
+
+
+###### Article R233-54
+
+Des arrêtés du ministre chargé du travail déterminent les équipements de protection individuelle et catégories d'équipement
+de protection individuelle pour lesquels le chef d'établissement ou le travailleur indépendant doit procéder ou faire
+procéder à des vérifications générales périodiques afin que soit décelé en temps utile toute défectuosité susceptible d'être
+à l'origine de situations dangereuses ou tout défaut d'accessibilité contraire aux conditions déterminées conformément à
+l'article R. 233-53. 
+
+Ces arrêtés précisent la périodicité des vérifications et, en tant que de besoin, leur nature et leur contenu. 
+
+L'intervalle entre lesdites vérifications peut être réduit sur mise en demeure de l'agent de contrôle de l'inspection du
+travail lorsque, en raison notamment des conditions de stockage ou d'environnement, du mode de fonctionnement ou de la
+conception de certains organes, les équipements de protection individuelle sont soumis à des contraintes susceptibles de
+nuire à leur fonction protectrice. 
+
+Les vérifications sont effectuées par des personnes qualifiées, appartenant ou non à l'établissement, dont la liste est tenue
+à la disposition de l'agent de contrôle de l'inspection du travail. Ces personnes doivent avoir la compétence nécessaire pour
+exercer leur mission en ce qui concerne les équipements de protection individuelle définis par les arrêtés prévus au premier
+alinéa ci-dessus et connaître les dispositions réglementaires afférentes. 
+
+Le résultat des vérifications générales périodiques est consigné sur le registre de sécurité ouvert par le chef
+d'établissement conformément à l'article L. 620-5. Ce registre est tenu constamment à la disposition de l'agent de contrôle
+de l'inspection du travail, des agents de l'organisme chargé du risque accidents du travail et maladies professionnelles
+ainsi que des délégués du personnel. 
+
+Lorsque les vérifications périodiques sont réalisées par des personnes n'appartenant pas à l'établissement, les rapports
+établis à la suite de ces vérifications doivent être annexés au registre de sécurité ; à défaut, les indications précises
+relatives à la date des vérifications, à la date de remise des rapports correspondants et à leur archivage dans
+l'établissement doivent être portées sur le registre de sécurité. 
+
+Un arrêté du représentant de l'Etat à Mayotte fixe les conditions dans lesquelles le registre de sécurité et les rapports
+sont tenus et conservés. 
+
+S'ils répondent aux critères de qualification et de compétence définis par l'alinéa 4 ci-dessus, les travailleurs
+indépendants peuvent procéder eux-mêmes à ces vérifications. 
+
+Dans les cas visés à l'article R. 235-23, les travailleurs indépendants consignent les résultats de ces vérifications, ainsi
+que le nom et la qualité de la personne qui les a effectuées, sur le registre prévu audit article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L620-5
+  - Code du travail applicable à Mayotte. - art. R233-53
+  - Code du travail applicable à Mayotte. - art. R235-23
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R233-60 (MMN)
+
+
+###### Article R233-55
+
+Le chef d'établissement doit informer de manière appropriée les salariés qui doivent utiliser des équipements de protection
+individuelle :
+
+a) Des risques contre lesquels l'équipement de protection individuelle les protège ;
+
+b) Des conditions d'utilisation dudit équipement, notamment les usages auxquels il est réservé ;
+
+c) Des instructions ou consignes concernant les équipements de protection individuelle et de leurs conditions de mise à
+disposition.
+
+Une consigne d'utilisation reprenant de manière compréhensible les informations mentionnées aux a et b du précédent alinéa
+doit être élaborée par le chef d'établissement. Le chef d'établissement doit en outre tenir à la disposition des délégués du
+personnel, la consigne d'utilisation susvisée et une documentation relative à la réglementation applicable à la mise à
+disposition et à l'utilisation des équipements de protection individuelle concernant les salariés de l'établissement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R233-56 (Ab)
+  - Code du travail applicable à Mayotte. - art. R233-59 (MMN)
+
+
+###### Article R233-56
+
+Le chef d'établissement doit faire bénéficier les salariés qui doivent utiliser un équipement de protection individuelle
+d'une formation adéquate comportant, en tant que de besoin, un entraînement au port de cet équipement de protection
+individuelle. Cette formation doit être renouvelée aussi souvent qu'il est nécessaire pour que l'équipement soit utilisé
+conformément à la consigne d'utilisation prévue au dernier alinéa de l'article R. 233-55.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R233-55 (Ab)
+
+
+##### Section 5 : Dispositions diverses et mesures d'application.<a id=280></a>
+
+###### Article R233-57
+
+Les passerelles, planchers en encorbellement, plates-formes en surélévation, ainsi que leurs moyens d'accès, doivent être
+construits, installés ou protégés de façon telle que les salariés appelés à les utiliser ne soient pas exposés à des chutes.
+
+Les ponts volants ou les passerelles pour le chargement ou le déchargement des navires ou bateaux doivent former un tout
+rigide et être munis de garde-corps des deux côtés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R233-58
+
+Les cuves, bassins et réservoirs doivent être construits, installés et protégés dans les conditions assurant la sécurité des
+salariés. 
+
+L'installation ou, à défaut, les dispositifs de protection desdites cuves, bassins ou réservoirs doivent être tels qu'ils
+empêchent les salariés d'y tomber. 
+
+Des mesures appropriées doivent garantir les salariés contre les risques de débordement ou d'éclaboussures, ainsi que contre
+les risques de déversement par rupture des parois des cuves, bassins, réservoirs, touries et bonbonnes contenant des produits
+susceptibles de provoquer des brûlures d'origine thermique ou chimique. 
+
+Des visites périodiques destinées à s'assurer de l'état des cuves, bassins et réservoirs contenant des produits corrosifs
+doivent avoir lieu à intervalles n'excédant pas un an. 
+
+Ces visites sont effectuées par un personnel qualifié sous la responsabilité du chef d'établissement. 
+
+La date de chaque vérification et ses résultats sont consignés sur le registre de sécurité prévu à l'article L. 620-5.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L620-5
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R233-59 (MMN)
+
 
 ###### Article R233-59
 
@@ -33020,9 +35605,43 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R233-7 (Ab)
 
 
-##### Section 6 : Règles de sécurité relatives aux machines, équipements de travail et moyens de protection<a id=274></a>
+##### Section 6 : Règles de sécurité relatives aux machines, équipements de travail et moyens de protection<a id=281></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=275></a>
+##### Sous-section 1 : Dispositions générales.<a id=282></a>
+
+###### Article R233-61
+
+La présente section définit les conditions dans lesquelles les machines, les autres équipements de travail, les composants de
+sécurité et les équipements de protection individuelle visés à la section VII peuvent être mis en vente, exposés, importés,
+loués, mis à disposition, cédés à quelque titre que ce soit ou utilisés dans la collectivité départementale de Mayotte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R233-62
+
+Un ensemble de machines constitué par l'assemblage d'une machine ou d'un tracteur avec un équipement interchangeable n'est
+pas tenu de satisfaire aux dispositions de la présente section applicables audit ensemble, si les deux parties constitutives
+de cet ensemble sont compatibles entre elles et si chacune de ces parties a satisfait auxdites dispositions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
 
 ###### Article R233-63
 
@@ -33078,7 +35697,326 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R233-87 (Ab)
 
 
-##### Sous-section 6 : Mesures de contrôle.<a id=276></a>
+###### Article R233-65
+
+Est considéré comme " maintenu en service " tout équipement de travail ou moyen de protection R. 233-64 lorsque les
+opérations mentionnées audit article sont effectuées au sein d'une même entreprise. 
+
+Il en est de même en cas de modification affectant la situation juridique de l'entreprise elle-même, notamment par
+succession, vente, fusion, transformation du fonds, mise en société.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R233-64 (Ab)
+
+
+###### Article R233-66
+
+I.-Il est interdit d'exposer, de mettre en vente, de vendre, d'importer, de louer, de mettre à disposition ou de céder à
+quelque titre que ce soit tout équipement de travail ou moyen de protection ne satisfaisant pas aux dispositions de l'article
+R. 233-69 qui lui sont applicables. 
+
+Toutefois, lorsque ni le fabricant, ni l'importateur n'ont satisfait aux obligations qui leur incombent conformément à la
+présente section, celles-ci doivent être accomplies par tout responsable d'une des opérations mentionnées à l'alinéa
+précédent. 
+
+Il est interdit d'apposer sur un équipement de travail ou moyen de protection, sur son emballage ou sur tout document le
+concernant, toute marque ou inscription susceptible de créer une confusion avec les marquages prévus dans le cadre des
+procédures applicables à Mayotte selon les dispositions du I de l'article R. 233-69. 
+
+II.-Il est également interdit d'apposer sur un équipement de travail ou moyen de protection, sur son emballage ou sur tout
+document le concernant, un marquage prévu dans le cadre d'une procédure applicable à Mayotte selon les dispositions de
+l'article R. 233-69 ou de délivrer une déclaration ou un certificat de conformité prévu dans ce même cadre, lorsque ledit
+équipement de travail ou moyen de protection n'est pas conforme aux règles techniques applicables à Mayotte ou ne satisfait
+pas aux procédures de certification de conformité qui lui sont applicables.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R233-69
+
+
+##### Sous-section 2 : Organismes habilités.<a id=283></a>
+
+###### Article R233-67
+
+Les organismes chargés de l'expertise prévue à la section VIII ou d'effectuer des opérations de contrôle de conformité
+définies par la présente section sont habilités à cet effet par arrêté du ministre chargé du travail.
+
+Cette habilitation est accordée en fonction des garanties d'indépendance et de compétence présentées par ces organismes, de
+l'expérience acquise en particulier dans le domaine technique considéré et de la disposition des moyens nécessaires à
+l'exécution des tâches pour lesquelles ils sont habilités.
+
+Ces organismes doivent pouvoir justifier de leur indépendance à l'égard des personnes susceptibles d'être intéressées par les
+résultats des essais ou examens qu'ils réalisent.
+
+Ces organismes doivent, en outre, avoir souscrit une assurance couvrant leur responsabilité civile.
+
+La rémunération des agents ne doit être liée ni au nombre des contrôles, ni au résultat de ces contrôles.
+
+Les agents des organismes habilités sont tenus de ne pas révéler les secrets de fabrication et les procédés d'exploitation
+dont ils pourraient avoir connaissance lors de l'examen des équipements de travail et moyens de protection et des dossiers y
+afférents, sauf à l'égard du ministre chargé du travail.
+
+Afin de permettre au ministre chargé du travail d'apprécier les garanties présentées par ces organismes, ceux-ci doivent
+s'engager à permettre aux personnes désignées par le ministre d'accéder à leurs locaux et de procéder à toutes les
+investigations permettant de vérifier qu'ils continuent de satisfaire aux conditions mentionnées aux alinéas précédents.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R233-68 (Ab)
+  - Code du travail applicable à Mayotte. - art. R233-76 (MMN)
+  - Code du travail applicable à Mayotte. - art. R233-89 (Ab)
+
+
+###### Article R233-68
+
+En cas de manquement aux obligations définies à l'article R. 233-67, l'habilitation est retirée par arrêté du ministre chargé
+du travail et après que le responsable de l'organisme a été invité à présenter ses observations. 
+
+Cet arrêté précise les conditions dans lesquelles les dossiers détenus par l'organisme doivent être mis à la disposition du
+ministre chargé du travail. 
+
+Le retrait de l'habilitation ne met pas fin à l'obligation définie au sixième alinéa de l'article R. 233-67.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R233-67
+
+
+##### Sous-section 3 : Conditions générales d'utilisation des équipements de travail et moyens de protection.<a id=284></a>
+
+###### Article R233-69
+
+I. - Les machines, matériels, outils, engins et plus généralement tous les équipements de travail, ainsi que les protecteurs,
+dispositifs et produits de protection mentionnés à la section VII pouvant être utilisés dans un département de métropole ou
+d'outre-mer peuvent être mis en vente, exposés, importés, loués, mis à disposition, cédés à quelque titre que ce soit ou
+utilisés dans la collectivité départementale de Mayotte sous réserve des dispositions des sous-sections 4 et 5 de la présente
+section.
+
+II. - Les machines, matériels, outils, engins et plus généralement tous les équipements de travail, ainsi que les
+protecteurs, dispositifs et produits de protection mentionnés à la section VII qui ne sont pas visés au I du présent article
+ne peuvent être mis en vente, exposés, importés, loués, mis à disposition, cédés à quelque titre que ce soit ou utilisés dans
+la collectivité départementale de Mayotte qu'après y avoir été autorisés par le représentant de l'Etat dans les conditions
+prévues à la section VIII du présent chapitre, sous réserve des dispositions des sous-sections 4 et 5 de la présente section.
+La délivrance de cette autorisation tient compte des conditions locales et a pour objet d'assurer aux salariés des conditions
+de sécurité équivalentes à celles dont bénéficie le salarié exerçant son activité en métropole ou dans un départements
+d'outre-mer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R233-66 (Ab)
+  - Code du travail applicable à Mayotte. - art. R233-70 (Ab)
+  - Code du travail applicable à Mayotte. - art. R233-72 (Ab)
+  - Code du travail applicable à Mayotte. - art. R233-74 (Ab)
+  - Code du travail applicable à Mayotte. - art. R233-76 (Ab)
+  - Code du travail applicable à Mayotte. - art. R233-78 (Ab)
+  - Code du travail applicable à Mayotte. - art. R233-79 (Ab)
+  - Code du travail applicable à Mayotte. - art. R233-81 (Ab)
+  - Code du travail applicable à Mayotte. - art. R233-82 (Ab)
+  - Code du travail applicable à Mayotte. - art. R233-84 (Ab)
+  - Code du travail applicable à Mayotte. - art. R233-85 (Ab)
+  - Code du travail applicable à Mayotte. - art. R233-87 (Ab)
+  - Code du travail applicable à Mayotte. - art. R233-88 (Ab)
+  - Code du travail applicable à Mayotte. - art. R233-89 (Ab)
+  - Code du travail applicable à Mayotte. - art. R233-91 (Ab)
+  - Code du travail applicable à Mayotte. - art. R233-94 (Ab)
+  - Code du travail applicable à Mayotte. - art. R233-95 (Ab)
+  - Code du travail applicable à Mayotte. - art. R233-96 (Ab)
+  - Code du travail applicable à Mayotte. - art. R233-97 (Ab)
+  - Code du travail applicable à Mayotte. - art. R233-98 (Ab)
+
+
+##### Sous-section 4 : Formalités obligatoires préalables à la mise sur le marché des équipements de travail et moyens de protection neufs ou considérés comme neufs.<a id=285></a>
+
+###### Article R233-70
+
+Le fabricant, ou l'importateur, ou le responsable de la mise sur le marché d'un exemplaire neuf ou considéré comme neuf
+d'équipement de travail ou de composant de sécurité ou d'équipement de protection individuelle visé au I de l'article R.
+233-69, doit établir et signer une déclaration de conformité par laquelle il atteste que l'équipement de travail ou moyen de
+protection concerné est conforme aux règles techniques et satisfait aux règles de procédure qui lui sont applicables. Cette
+déclaration doit être remise au preneur lors de la vente, de la location, de la cession ou de la mise à disposition à quelque
+titre que ce soit d'un exemplaire d'équipement de travail ou de composant de sécurité, par le responsable de l'opération sus-
+indiquée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R233-69
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R233-75 (Ab)
+
+
+###### Article R233-71
+
+Un marquage de conformité identique à celui en vigueur dans les départements de métropole ou d'outre-mer doit être apposé de
+manière distincte, lisible et indélébile : 
+
+a) Pour les équipements de travail neufs ou considérés comme neufs visés aux 1°, 3° ou 4° de l'article R. 233-78, sur chaque
+exemplaire ; 
+
+b) Pour les équipements de protection individuelle neufs ou considérés comme neufs sur chaque exemplaire ou, si cela n'est
+pas possible compte tenu des caractéristiques de l'équipement de protection individuelle, sur l'emballage. 
+
+Le marquage de conformité est constitué par le sigle " CE ", assorti d'autres indications fixées, en tant que de besoin, par
+arrêté du ministre chargé du travail. 
+
+Le marquage CE est apposé par le fabricant, ou l'importateur, ou le responsable de la mise sur le marché, qui atteste ainsi
+que l'exemplaire d'équipement de travail ou d'équipement de protection individuelle concerné est conforme aux règles
+techniques et satisfait aux procédures de certification qui lui sont applicables dans les départements de métropole et
+d'outre-mer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R233-78
+
+
+###### Article R233-72
+
+Le fabricant, ou l'importateur, ou le responsable de la mise sur le marché d'un exemplaire neuf ou considéré comme neuf
+d'équipement de travail ou de composant de sécurité ou d'équipement de protection individuelle, visé au II de l'article R.
+233-69, doit être en possession de l'autorisation délivrée par le représentant de l'Etat à Mayotte pour pouvoir effectuer
+l'une des opérations énumérées au présent article. 
+
+Il établit et signe en outre une déclaration de conformité par laquelle il atteste que l'équipement de travail ou moyen de
+protection concerné est conforme aux règles techniques mentionnées à l'article R. 233-88 et satisfait aux règles de procédure
+qui lui sont applicables. 
+
+Une copie de ces deux documents est fournie à l'employeur qui se trouvera, après la transaction, en possession de
+l'équipement de travail, du composant de sécurité ou de l'équipement de protection individuelle. Ce dernier tient ces
+documents à la disposition des agents de contrôle de l'inspection du travail, des agents de l'organisme chargé du risque
+accidents du travail et maladies professionnelles, du représentant de l'Etat à Mayotte, et, le cas échéant, du ministre
+chargé du travail.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R233-69
+  - Code du travail applicable à Mayotte. - art. R233-88
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R233-75 (Ab)
+
+
+##### Sous-section 5 : Formalités obligatoires préalables à la mise sur le marché des équipements de travail et moyens de protection d'occasion.<a id=286></a>
+
+###### Article R233-73
+
+Lors de la vente, de la location, de la cession ou de la mise à disposition à quelque titre que ce soit, en vue de son
+utilisation, d'un équipement de travail ou d'un moyen de protection d'occasion qui est au nombre de ceux mentionnés à la
+section VII ci-après, le responsable de l'opération doit remettre au preneur un certificat de conformité par lequel il
+atteste que l'équipement de travail ou le moyen de protection concerné est conforme aux règles techniques qui lui sont
+applicables. Le contenu de ce certificat de conformité est fixé par arrêté du ministre chargé du travail. 
+
+Ces règles techniques peuvent être, selon le cas : 
+
+a) Les mêmes règles techniques que celles qui sont applicables à ces équipements de travail ou moyens de protection en
+métropole ou dans un département d'outre-mer ; 
+
+b) Les mêmes règles techniques que celles qui sont applicables aux équipements de travail ou moyens de protection neufs en
+vigueur à Mayotte selon les dispositions de la section VIII ou des règles techniques adaptées selon les modalités des arrêtés
+prévus à l'article R. 233-88.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R233-75 (Ab)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R233-88
+
+
+##### Sous-section 6 : Mesures de contrôle.<a id=287></a>
 
 ###### Article R233-74
 
@@ -33111,7 +36049,35 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R233-76 (Ab)
 
 
-##### Sous-section 7 : Organismes agréés prévus par les articles L. 233-8 et R. 233-74.<a id=277></a>
+###### Article R233-75
+
+La déclaration de conformité mentionnée à l'article R. 233-70 ou les documents visés à l'article R. 233-72 doivent être
+présentés par le fabricant, ou l'importateur, ou le responsable de la mise sur le marché sur demande des agents mentionnés
+aux articles L. 610-2 et L. 610-9. 
+
+Le certificat de conformité mentionné à l'article R. 233-73 doit être présenté dans les mêmes conditions par le responsable
+de l'opération visée audit article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L610-2
+  - Code du travail applicable à Mayotte. - art. L610-9
+  - Code du travail applicable à Mayotte. - art. R233-70 (Ab)
+  - Code du travail applicable à Mayotte. - art. R233-72 (Ab)
+  - Code du travail applicable à Mayotte. - art. R233-73 (Ab)
+
+
+##### Sous-section 7 : Organismes agréés prévus par les articles L. 233-8 et R. 233-74.<a id=288></a>
 
 ###### Article R233-76
 
@@ -33164,7 +36130,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R233-77 (Ab)
 
 
-##### Sous-section 8 : Maintien en état de conformité.<a id=278></a>
+##### Sous-section 8 : Maintien en état de conformité.<a id=289></a>
 
 ###### Article R233-77
 
@@ -33195,9 +36161,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R233-76 (Ab)
 
 
-##### Section 7 : Equipements de travail et moyens de protection soumis aux obligations de sécurité définies aux articles L. 233-6 et L. 233-7<a id=279></a>
+##### Section 7 : Equipements de travail et moyens de protection soumis aux obligations de sécurité définies aux articles L. 233-6 et L. 233-7<a id=290></a>
 
-##### Sous-section 1 : Equipements de travail.<a id=280></a>
+##### Sous-section 1 : Equipements de travail.<a id=291></a>
 
 ###### Article R233-78
 
@@ -33446,7 +36412,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R233-78 (Ab)
 
 
-##### Sous-section 2 : Composants de sécurité.<a id=281></a>
+##### Sous-section 2 : Composants de sécurité.<a id=292></a>
 
 ###### Article R233-81
 
@@ -33728,7 +36694,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R233-83
 
 
-##### Sous-section 3 : Equipements de protection individuelle d'occasion.<a id=282></a>
+##### Sous-section 3 : Equipements de protection individuelle d'occasion.<a id=293></a>
 
 ###### Article R233-87
 
@@ -33774,7 +36740,384 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R233-84 (Ab)
 
 
-#### CHAPITRE IV : Dispositions particulières aux femmes et aux jeunes travailleurs.<a id=283></a>
+##### Section 8 : Règles relatives à la procédure d'autorisation prévue au II de l'article R. 233-69.<a id=294></a>
+
+###### Article R233-88
+
+Pour pouvoir faire l'objet de la procédure d'autorisation prévue au II de l'article R. 233-69, les machines, équipements de
+travail et équipements de protection individuelle mentionnés à la section VII du présent titre doivent respecter les règles
+techniques qui leur sont applicables. 
+
+Ces règles techniques sont fixées par arrêté du ministre chargé du travail. Elles peuvent être différentes selon qu'elles
+concernent des équipements neufs ou considérés comme neufs ou des équipements d'occasion.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R233-69
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R233-72 (Ab)
+  - Code du travail applicable à Mayotte. - art. R233-73 (Ab)
+
+
+###### Article R233-89
+
+La demande d'autorisation prévue au II de l'article R. 233-69 est adressée au représentant de l'Etat à Mayotte. Elle comprend
+obligatoirement : 
+
+a) Les nom et adresse du fabricant ou de l'importateur ainsi que le lieu de fabrication de la machine, du composant de
+sécurité ou de l'équipement de protection individuelle ; 
+
+b) Une déclaration par laquelle l'importateur ou le fabricant déclare, sous sa responsabilité, que la machine, le composant
+de sécurité ou l'équipement de protection individuelle qui va faire l'objet de la transaction est conforme aux règles
+techniques qui lui sont applicables, qu'il soit neuf, considéré comme neuf ou d'occasion ; 
+
+c) La documentation technique relative aux moyens mis en oeuvre pour en assurer la conformité aux règles techniques
+applicables. 
+
+Le représentant de l'Etat à Mayotte dispose d'un délai de deux mois à compter de la réception de la demande d'autorisation
+pour notifier à l'importateur ou au fabricant, soit qu'il accepte ou refuse son autorisation, soit qu'il réserve sa décision
+jusqu'à ce que lui soit parvenu le résultat d'un examen technique effectué par l'un des organismes visés à l'article R.
+233-67. En cas de non-réponse dans ce délai, la demande d'autorisation est considérée comme rejetée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R233-67 (Ab)
+  - Code du travail applicable à Mayotte. - art. R233-69
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R233-90 (Ab)
+  - Code du travail applicable à Mayotte. - art. R233-99 (Ab)
+
+
+###### Article R233-90
+
+Si le représentant de l'Etat choisit de faire procéder à l'examen technique mentionné à l'article R. 233-89, il transmet au
+fabricant ou à l'importateur les coordonnées de l'organisme habilité qui sera chargé de procéder à l'examen technique. Ce
+dernier devra transmettre à cet organisme une demande comportant : 
+
+a) Ses nom et adresse ainsi que le lieu de fabrication de la machine, du composant de sécurité ou de l'équipement de
+protection individuelle ; 
+
+b) La documentation technique relative aux moyens mis en oeuvre pour en assurer la conformité aux règles techniques
+applicables. 
+
+Lorsqu'il s'agit d'une machine visée au 1° de l'article R. 233-78 ou d'un composant de sécurité visé à l'article R. 233-81,
+la demande est accompagnée d'un exemplaire du modèle ou de l'indication du lieu où le modèle peut être examiné. 
+
+Lorsqu'il s'agit d'un équipement de protection individuelle visé à l'article R. 233-83, la demande est accompagnée du nombre
+d'exemplaires du modèle nécessaires à l'examen. 
+
+La demande d'examen et la documentation technique sont rédigées en français.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R233-78
+  - Code du travail applicable à Mayotte. - art. R233-81
+  - Code du travail applicable à Mayotte. - art. R233-83
+  - Code du travail applicable à Mayotte. - art. R233-89
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R233-99 (Ab)
+
+
+###### Article R233-91
+
+L'organisme habilité saisi de la demande d'examen technique procède à l'examen de la documentation technique et à l'examen du
+modèle de machine, de composant de sécurité ou d'équipement de protection individuelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R233-69
+
+
+###### Article R233-92
+
+Lorsqu'il s'agit d'une machine visée à l'article R. 233-78, ou d'un composant de sécurité visé à l'article R. 233-81,
+l'organisme s'assure : 
+
+1° Que la documentation technique comporte tous les éléments nécessaires ; 
+
+2° Que la machine ou le composant de sécurité a été fabriqué conformément aux indications contenues dans la documentation
+technique ; 
+
+3° Que la machine peut être utilisée en sécurité dans les conditions prévues d'utilisation ; 
+
+4° Que le composant de sécurité est apte à remplir les fonctions de sécurité prévues ; 
+
+5° En effectuant les examens et essais appropriés, que la machine ou le composant de sécurité est conforme aux règles
+techniques qui lui sont applicables.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R233-78
+  - Code du travail applicable à Mayotte. - art. R233-81 (Ab)
+
+
+###### Article R233-93
+
+Lorsqu'il s'agit d'un équipement de protection individuelle visé à l'article R. 233-83, soumis à la procédure d'examen
+technique, l'organisme habilité procède aux examens et essais suivants. 
+
+Il examine la documentation technique. Dans le cadre de cet examen, il s'assure qu'elle comporte tous les éléments
+nécessaires. 
+
+L'organisme examine le modèle d'équipement de protection individuelle en vue de s'assurer que l'équipement de protection
+individuelle en cause a été fabriqué conformément aux indications contenues dans la documentation technique et qu'il peut
+être utilisé en sécurité conformément à sa destination. 
+
+Il s'assure de la conformité de l'équipement de protection individuelle aux règles techniques qui lui sont applicables. A cet
+effet, il effectue les examens et essais appropriés pour s'assurer, selon le cas, de la conformité du modèle d'équipement de
+protection individuelle : 
+
+a) Soit aux normes auxquelles fait référence la documentation technique ; 
+
+b) Soit aux spécifications techniques utilisées dans la mesure où ces spécifications techniques ont été au préalable
+reconnues conformes aux règles techniques applicables à l'équipement de protection individuelle soumis.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R233-83 (Ab)
+
+
+###### Article R233-94
+
+Lorsque l'organisme habilité décide que le modèle de machine, de composant de sécurité ou d'équipement de protection
+individuelle examiné est conforme aux règles techniques le concernant, il établit une attestation qu'il transmet au
+représentant de l'Etat à Mayotte.
+
+L'attestation reproduit les conclusions de l'examen, indique les conditions dont elle est éventuellement assortie et comprend
+les descriptions et dessins nécessaires pour identifier le modèle faisant l'objet de l'attestation.
+
+Lorsque l'organisme habilité décide que le modèle de machine, de composant de sécurité ou d'équipement de protection
+individuelle n'est pas conforme aux règles techniques le concernant, il fait connaître au représentant de l'Etat à Mayotte
+son refus de lui délivrer une attestation ainsi que les motifs de ce refus.
+
+L'organisme habilité doit faire connaître son avis, positif ou négatif, au représentant de l'Etat à Mayotte par lettre
+recommandée avec demande d'avis de réception dans un délai de deux mois à compter de la date de dépôt du dossier complet.
+
+Le représentant de l'Etat à Mayotte dispose de quinze jours à compter de la réception de l'avis de l'organisme habilité pour
+notifier sa décision au fabricant ou à l'importateur. En cas de non-réponse dans ce délai, l'autorisation est considérée
+comme rejetée.
+
+Lorsque l'organisme habilité n'a pas fait connaître son avis dans le délai imparti, le représentant de l'Etat à Mayotte peut,
+si le dépassement de délai est injustifié, s'adresser à un autre organisme.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R233-69
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R233-97 (Ab)
+
+
+###### Article R233-95
+
+Les décisions du représentant de l'Etat à Mayotte prévues au II de l'article R. 233-69 peuvent faire l'objet d'une
+réclamation devant le ministre chargé du travail, au plus tard dans les deux mois qui suivent la notification de la décision
+au demandeur. 
+
+Si la décision du représentant de l'Etat à Mayotte n'apparaît pas justifiée, le ministre chargé du travail peut la réformer,
+après que le réclamant, le demandeur de l'attestation s'il est différent du réclamant et l'organisme habilité en cause ont
+été invités à présenter leurs observations. Il doit statuer dans le délai de deux mois. En cas de non-réponse dans ce délai,
+la réclamation est considérée comme rejetée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R233-69
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R233-98 (Ab)
+
+
+###### Article R233-96
+
+Préalablement à l'exposition, la mise en vente, la vente, l'importation, la location, la mise à disposition ou la cession à
+quelque titre que ce soit d'un exemplaire neuf ou d'occasion de machine, de composant de sécurité ou d'équipement de
+protection individuelle ayant fait l'objet d'une autorisation du représentant de l'Etat à Mayotte, le responsable de
+l'opération effectuée s'assure de la conformité des exemplaires en cause avec le modèle de machine, de composant de sécurité
+ou d'équipement de protection individuelle pour lequel a été délivrée l'autorisation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R233-69
+
+
+###### Article R233-97
+
+Toute modification d'une machine, d'un composant de sécurité ou d'un équipement de protection individuelle ayant fait l'objet
+d'une autorisation du représentant de l'Etat à Mayotte doit être portée à sa connaissance et, le cas échéant, à la
+connaissance de l'organisme ayant délivré l'avis prévu à l'article R. 233-94. 
+
+Le représentant de l'Etat à Mayotte et, le cas échéant, l'organisme prend connaissance de ces modifications et s'assure que
+celles-ci n'exigent pas une nouvelle autorisation ou un nouvel avis relatif à l'examen de la conformité de la machine, du
+composant de sécurité ou de l'équipement de protection individuelle. Dans ce cas, le représentant de l'Etat à Mayotte fait
+savoir au fabricant ou à l'importateur que l'autorisation prévue au II de l'article R. 233-69 reste valable pour le modèle
+ainsi modifié. 
+
+Dans le cas contraire, le représentant de l'Etat à Mayotte fait savoir au fabricant ou à l'importateur que l'autorisation
+cesse d'être valable pour le modèle ainsi modifié. Si le fabricant ou l'importateur entend maintenir lesdites modifications,
+il doit déposer une nouvelle demande d'autorisation dans les conditions et selon les modalités prévues par la présente
+section.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 du 25 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R233-69
+  - Code du travail applicable à Mayotte. - art. R233-94 (Ab)
+
+
+###### Article R233-98
+
+L'autorisation prévue au II de l'article R. 233-69 peut être retirée à tout moment par le représentant de l'Etat à Mayotte
+s'il apparaît à l'expérience que les règles techniques applicables ne sont pas prises en compte. Cette décision est prise
+après que le titulaire de l'autorisation a été appelé à présenter ses observations. Elle doit être motivée par des non-
+conformités suffisamment importantes pour justifier la remise en cause de la décision initiale. La décision de retrait de
+l'autorisation peut faire l'objet d'une réclamation dans les conditions définies à l'article R. 233-95.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R233-69
+  - Code du travail applicable à Mayotte. - art. R233-95 (Ab)
+
+
+###### Article R233-99
+
+Le ministre chargé du travail peut demander au représentant de l'Etat à Mayotte communication de la documentation technique
+visée à l'article R. 233-89 ainsi, le cas échéant, que les avis formulés par les organismes habilités visés à l'article R.
+233-90.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-196 2004-02-25
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. R233-89 (Ab)
+  - Code du travail applicable à Mayotte. - art. R233-90 (Ab)
+
+
+#### CHAPITRE IV : Dispositions particulières aux femmes et aux jeunes travailleurs.<a id=295></a>
 
 ###### Article R234-1
 
@@ -33814,7 +37157,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 1 : Hygiène.<a id=284></a>
+##### Section 1 : Hygiène.<a id=296></a>
 
 ###### Article R234-3
 
@@ -33855,7 +37198,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 2 : Limitation des charges.<a id=285></a>
+##### Section 2 : Limitation des charges.<a id=297></a>
 
 ###### Article R234-5
 
@@ -33947,7 +37290,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 3 : Travaux interdits aux femmes.<a id=286></a>
+##### Section 3 : Travaux interdits aux femmes.<a id=298></a>
 
 ###### Article R234-7
 
@@ -34005,7 +37348,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 4 : Travaux interdits aux jeunes travailleurs.<a id=287></a>
+##### Section 4 : Travaux interdits aux jeunes travailleurs.<a id=299></a>
 
 ###### Article R234-9
 
@@ -34494,7 +37837,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-#### CHAPITRE V : Mesures particulières de protection et de salubrité applicables aux établissements dont les salariés exécutent des travaux de bâtiment, des travaux publics et tous autres travaux concernant les immeubles<a id=288></a>
+#### CHAPITRE V : Mesures particulières de protection et de salubrité applicables aux établissements dont les salariés exécutent des travaux de bâtiment, des travaux publics et tous autres travaux concernant les immeubles<a id=300></a>
 
 ###### Article R235-1
 
@@ -34545,9 +37888,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R235-25 (Ab)
 
 
-##### Section 1 : Mesures générales de sécurité<a id=289></a>
+##### Section 1 : Mesures générales de sécurité<a id=301></a>
 
-##### Sous-section 1 : Résistance et stabilité.<a id=290></a>
+##### Sous-section 1 : Résistance et stabilité.<a id=302></a>
 
 ###### Article R235-2
 
@@ -34613,7 +37956,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Sous-section 2 : Mesures de protection collective destinées à empêcher les chutes des salariés.<a id=291></a>
+##### Sous-section 2 : Mesures de protection collective destinées à empêcher les chutes des salariés.<a id=303></a>
 
 ###### Article R235-5
 
@@ -34801,7 +38144,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Sous-section 3 : Mesures de protection destinées à empêcher les chutes d'objets et de matériaux et les accidents dus aux planches munies de pointes saillantes.<a id=292></a>
+##### Sous-section 3 : Mesures de protection destinées à empêcher les chutes d'objets et de matériaux et les accidents dus aux planches munies de pointes saillantes.<a id=304></a>
 
 ###### Article R235-13
 
@@ -34850,7 +38193,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Sous-section 4 : Mesures de protection individuelle.<a id=293></a>
+##### Sous-section 4 : Mesures de protection individuelle.<a id=305></a>
 
 ###### Article R235-16
 
@@ -34920,7 +38263,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Sous-section 5 : Travaux exécutés par grands vents.<a id=294></a>
+##### Sous-section 5 : Travaux exécutés par grands vents.<a id=306></a>
 
 ###### Article R235-19
 
@@ -34947,7 +38290,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Sous-section 6 : Dispositions concernant la circulation des véhicules, appareils et engins de chantier.<a id=295></a>
+##### Sous-section 6 : Dispositions concernant la circulation des véhicules, appareils et engins de chantier.<a id=307></a>
 
 ###### Article R235-20
 
@@ -34987,7 +38330,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Sous-section 7 : Examens, vérifications, registres.<a id=296></a>
+##### Sous-section 7 : Examens, vérifications, registres.<a id=308></a>
 
 ###### Article R235-22
 
@@ -35088,9 +38431,9 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 2 : Appareils de levage, câbles, chaînes, cordages et crochets<a id=297></a>
+##### Section 2 : Appareils de levage, câbles, chaînes, cordages et crochets<a id=309></a>
 
-##### Sous-section 1 : Appareils de levage mus mécaniquement.<a id=298></a>
+##### Sous-section 1 : Appareils de levage mus mécaniquement.<a id=310></a>
 
 ###### Article R235-25
 
@@ -35114,7 +38457,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R235-26
 
 
-##### I. - Installation des appareils et des voies.<a id=299></a>
+##### I. - Installation des appareils et des voies.<a id=311></a>
 
 ###### Article R235-26
 
@@ -35228,7 +38571,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### II. - Organes et dispositifs annexes.<a id=300></a>
+##### II. - Organes et dispositifs annexes.<a id=312></a>
 
 ###### Article R235-31
 
@@ -35382,7 +38725,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### III. - Recettes.<a id=301></a>
+##### III. - Recettes.<a id=313></a>
 
 ###### Article R235-38
 
@@ -35409,7 +38752,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R235-50 (Ab)
 
 
-##### IV. - Manoeuvres.<a id=302></a>
+##### IV. - Manoeuvres.<a id=314></a>
 
 ###### Article R235-39
 
@@ -35503,7 +38846,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### V. - Transport ou élévation des salariés.<a id=303></a>
+##### V. - Transport ou élévation des salariés.<a id=315></a>
 
 ###### Article R235-43
 
@@ -35617,7 +38960,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R238-2-19
 
 
-##### VI. - Epreuves, examens et inspections.<a id=304></a>
+##### VI. - Epreuves, examens et inspections.<a id=316></a>
 
 ###### Article R235-45
 
@@ -35647,9 +38990,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R238-2-28
 
 
-##### Sous-section 2 : Appareils de levage mus à la main<a id=305></a>
+##### Sous-section 2 : Appareils de levage mus à la main<a id=317></a>
 
-##### I. - Installation et résistance des appareils.<a id=306></a>
+##### I. - Installation et résistance des appareils.<a id=318></a>
 
 ###### Article R235-46
 
@@ -35704,7 +39047,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### II. - Treuils, recettes, manoeuvres.<a id=307></a>
+##### II. - Treuils, recettes, manoeuvres.<a id=319></a>
 
 ###### Article R235-49
 
@@ -35763,7 +39106,7 @@ _Cite_:
   - Code du travail applicable à Mayotte.
 
 
-##### III. - Transport ou élévation des salariés.<a id=308></a>
+##### III. - Transport ou élévation des salariés.<a id=320></a>
 
 ###### Article R235-52
 
@@ -35846,7 +39189,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R235-53 (Ab)
 
 
-##### Sous-section 3 : Câbles, chaînes, cordages et crochets.<a id=309></a>
+##### Sous-section 3 : Câbles, chaînes, cordages et crochets.<a id=321></a>
 
 ###### Article R235-55
 
@@ -36026,9 +39369,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R235-22
 
 
-##### Section 3 : Travaux de terrassement à ciel ouvert et travaux souterrains<a id=310></a>
+##### Section 3 : Travaux de terrassement à ciel ouvert et travaux souterrains<a id=322></a>
 
-##### Sous-section 1 : Travaux de terrassement à ciel ouvert.<a id=311></a>
+##### Sous-section 1 : Travaux de terrassement à ciel ouvert.<a id=323></a>
 
 ###### Article R235-64
 
@@ -36332,9 +39675,9 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Sous-section 2 : Travaux souterrains<a id=312></a>
+##### Sous-section 2 : Travaux souterrains<a id=324></a>
 
-##### I. - Mesures à prendre pour éviter les éboulements et les chutes de blocs.<a id=313></a>
+##### I. - Mesures à prendre pour éviter les éboulements et les chutes de blocs.<a id=325></a>
 
 ###### Article R235-80
 
@@ -36400,7 +39743,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### II. - Ventilation.<a id=314></a>
+##### II. - Ventilation.<a id=326></a>
 
 ###### Article R235-83
 
@@ -36552,7 +39895,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### III. - Circulation.<a id=315></a>
+##### III. - Circulation.<a id=327></a>
 
 ###### Article R235-90
 
@@ -36649,7 +39992,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### IV. - Signalisation, éclairage.<a id=316></a>
+##### IV. - Signalisation, éclairage.<a id=328></a>
 
 ###### Article R235-95
 
@@ -36702,7 +40045,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 4 : Travaux de démolition.<a id=317></a>
+##### Section 4 : Travaux de démolition.<a id=329></a>
 
 ###### Article R235-97
 
@@ -36895,11 +40238,11 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R235-5 (Ab)
 
 
-##### Section 5 : Echafaudages, plates-formes, passerelles et escaliers<a id=318></a>
+##### Section 5 : Echafaudages, plates-formes, passerelles et escaliers<a id=330></a>
 
-##### Sous-section 1 : Echafaudages<a id=319></a>
+##### Sous-section 1 : Echafaudages<a id=331></a>
 
-##### I. - Dispositions générales.<a id=320></a>
+##### I. - Dispositions générales.<a id=332></a>
 
 ###### Article R235-106
 
@@ -36975,7 +40318,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### II. - Dispositions communes aux échafaudages fixes en bois ou en métal.<a id=321></a>
+##### II. - Dispositions communes aux échafaudages fixes en bois ou en métal.<a id=333></a>
 
 ###### Article R235-110
 
@@ -37303,7 +40646,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### III. - Dispositions particulières aux échafaudages fixes en bois.<a id=322></a>
+##### III. - Dispositions particulières aux échafaudages fixes en bois.<a id=334></a>
 
 ###### Article R235-123
 
@@ -37433,7 +40776,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### IV. - Dispositions particulières aux échafaudages fixes en métal.<a id=323></a>
+##### IV. - Dispositions particulières aux échafaudages fixes en métal.<a id=335></a>
 
 ###### Article R235-130
 
@@ -37458,7 +40801,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### V. - Echafaudages montés sur roues.<a id=324></a>
+##### V. - Echafaudages montés sur roues.<a id=336></a>
 
 ###### Article R235-131
 
@@ -37488,7 +40831,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R235-112 (Ab)
 
 
-##### VI. - Echafaudages volants.<a id=325></a>
+##### VI. - Echafaudages volants.<a id=337></a>
 
 ###### Article R235-132
 
@@ -37617,7 +40960,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### VII. - Dispositions diverses.<a id=326></a>
+##### VII. - Dispositions diverses.<a id=338></a>
 
 ###### Article R235-136
 
@@ -37773,7 +41116,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R238-2-27
 
 
-##### Sous-section 2 : Plates-formes, passerelles et escaliers.<a id=327></a>
+##### Sous-section 2 : Plates-formes, passerelles et escaliers.<a id=339></a>
 
 ###### Article R235-143
 
@@ -37948,7 +41291,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Sous-section 3 : Echelles.<a id=328></a>
+##### Sous-section 3 : Echelles.<a id=340></a>
 
 ###### Article R235-151
 
@@ -38065,9 +41408,9 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 6 : Travaux sur les toitures, travaux de montage, de démontage et de levage de charpentes et ossatures et travaux de construction comportant la mise en oeuvre d'éléments préfabriqués lourds<a id=329></a>
+##### Section 6 : Travaux sur les toitures, travaux de montage, de démontage et de levage de charpentes et ossatures et travaux de construction comportant la mise en oeuvre d'éléments préfabriqués lourds<a id=341></a>
 
-##### Sous-section 1 : Travaux sur les toitures.<a id=330></a>
+##### Sous-section 1 : Travaux sur les toitures.<a id=342></a>
 
 ###### Article R235-158
 
@@ -38234,7 +41577,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Sous-section 2 : Travaux de montage, de démontage et de levage de charpentes et ossatures.<a id=331></a>
+##### Sous-section 2 : Travaux de montage, de démontage et de levage de charpentes et ossatures.<a id=343></a>
 
 ###### Article R235-166
 
@@ -38406,7 +41749,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Sous-section 3 : Travaux de construction comportant la mise en oeuvre d'éléments préfabriqués lourds.<a id=332></a>
+##### Sous-section 3 : Travaux de construction comportant la mise en oeuvre d'éléments préfabriqués lourds.<a id=344></a>
 
 ###### Article R235-172
 
@@ -38429,9 +41772,9 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 7 : Travaux au voisinage de lignes, canalisations et installations électriques<a id=333></a>
+##### Section 7 : Travaux au voisinage de lignes, canalisations et installations électriques<a id=345></a>
 
-##### Sous-section 1.<a id=334></a>
+##### Sous-section 1.<a id=346></a>
 
 ###### Article R235-173
 
@@ -38782,7 +42125,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R235-179 (Ab)
 
 
-##### Sous-section 2.<a id=335></a>
+##### Sous-section 2.<a id=347></a>
 
 ###### Article R235-184
 
@@ -38889,9 +42232,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R235-185 (Ab)
 
 
-##### Section 8 : Mesures générales d'hygiène et logement provisoire des salariés<a id=336></a>
+##### Section 8 : Mesures générales d'hygiène et logement provisoire des salariés<a id=348></a>
 
-##### Sous-section 1 : Mesures générales d'hygiène.<a id=337></a>
+##### Sous-section 1 : Mesures générales d'hygiène.<a id=349></a>
 
 ###### Article R235-188
 
@@ -39097,7 +42440,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R235-193 (Ab)
 
 
-##### Sous-section 2 : Logement provisoire des salariés - Réfectoires et cuisines.<a id=338></a>
+##### Sous-section 2 : Logement provisoire des salariés - Réfectoires et cuisines.<a id=350></a>
 
 ###### Article R235-196
 
@@ -39168,7 +42511,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 9 : Dispositions diverses.<a id=339></a>
+##### Section 9 : Dispositions diverses.<a id=351></a>
 
 ###### Article R235-199
 
@@ -39529,9 +42872,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R235-23 (Ab)
 
 
-##### Section 10 : Dispositions particulières relatives à la coordination pour certaines opérations de bâtiment ou de génie civil<a id=340></a>
+##### Section 10 : Dispositions particulières relatives à la coordination pour certaines opérations de bâtiment ou de génie civil<a id=352></a>
 
-##### Sous-section 1 : Déclaration préalable.<a id=341></a>
+##### Sous-section 1 : Déclaration préalable.<a id=353></a>
 
 ###### Article R235-215
 
@@ -39584,9 +42927,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L610-1
 
 
-##### Sous-section 2 : Coordonnateur en matière de sécurité et de protection de la santé<a id=342></a>
+##### Sous-section 2 : Coordonnateur en matière de sécurité et de protection de la santé<a id=354></a>
 
-##### Paragraphe 1 : Attribution de la mission de coordination.<a id=343></a>
+##### Paragraphe 1 : Attribution de la mission de coordination.<a id=355></a>
 
 ###### Article R235-217
 
@@ -39646,7 +42989,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Paragraphe 2 : Exercice de la fonction de coordonnateur.<a id=344></a>
+##### Paragraphe 2 : Exercice de la fonction de coordonnateur.<a id=356></a>
 
 ###### Article R235-219
 
@@ -39738,7 +43081,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L610-1
 
 
-##### Paragraphe 3 : Critères de compétence du coordonnateur.<a id=345></a>
+##### Paragraphe 3 : Critères de compétence du coordonnateur.<a id=357></a>
 
 ###### Article R235-222
 
@@ -39854,7 +43197,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R235-229 (Ab)
 
 
-##### Paragraphe 4 : Formation des coordonnateurs.<a id=346></a>
+##### Paragraphe 4 : Formation des coordonnateurs.<a id=358></a>
 
 ###### Article R235-225
 
@@ -40024,7 +43367,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R235-224 (Ab)
 
 
-##### Sous-section 3 : Mission de coordination.<a id=347></a>
+##### Sous-section 3 : Mission de coordination.<a id=359></a>
 
 ###### Article R235-230
 
@@ -40231,9 +43574,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R235-232 (Ab)
 
 
-##### Sous-section 4 : Plan général de coordination en matière de sécurité et de protection de la santé<a id=348></a>
+##### Sous-section 4 : Plan général de coordination en matière de sécurité et de protection de la santé<a id=360></a>
 
-##### Paragraphe 1 : Dispositions applicables aux opérations de 1re catégorie.<a id=349></a>
+##### Paragraphe 1 : Dispositions applicables aux opérations de 1re catégorie.<a id=361></a>
 
 ###### Article R235-234
 
@@ -40421,7 +43764,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Paragraphe 2 : Dispositions particulières applicables à certaines opérations de 2e catégorie.<a id=350></a>
+##### Paragraphe 2 : Dispositions particulières applicables à certaines opérations de 2e catégorie.<a id=362></a>
 
 ###### Article R235-240
 
@@ -40524,9 +43867,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R235-244 (Ab)
 
 
-##### Sous-section 5 : Plan particulier de sécurité et de protection de la santé<a id=351></a>
+##### Sous-section 5 : Plan particulier de sécurité et de protection de la santé<a id=363></a>
 
-##### Paragraphe 1 : Dispositions applicables aux opérations de 1re catégorie.<a id=352></a>
+##### Paragraphe 1 : Dispositions applicables aux opérations de 1re catégorie.<a id=364></a>
 
 ###### Article R235-243
 
@@ -40910,7 +44253,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L610-1
 
 
-##### Paragraphe 2 : Dispositions particulières applicables à certaines opérations de 2e catégorie.<a id=353></a>
+##### Paragraphe 2 : Dispositions particulières applicables à certaines opérations de 2e catégorie.<a id=365></a>
 
 ###### Article R235-254
 
@@ -40974,11 +44317,11 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R235-254 (Ab)
 
 
-#### CHAPITRE VI : Mesures particulières de protection des salariés dans les établissements qui mettent en oeuvre des courants électriques<a id=354></a>
+#### CHAPITRE VI : Mesures particulières de protection des salariés dans les établissements qui mettent en oeuvre des courants électriques<a id=366></a>
 
-##### Section 1 : Généralités<a id=355></a>
+##### Section 1 : Généralités<a id=367></a>
 
-##### Champ d'application.<a id=356></a>
+##### Champ d'application.<a id=368></a>
 
 ###### Article R236-1
 
@@ -41041,7 +44384,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R236-4 (Ab)
 
 
-##### Définitions.<a id=357></a>
+##### Définitions.<a id=369></a>
 
 ###### Article R236-2
 
@@ -41256,7 +44599,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R236-1 (Ab)
 
 
-##### Classement des installations en fonction des tensions.<a id=358></a>
+##### Classement des installations en fonction des tensions.<a id=370></a>
 
 ###### Article R236-3
 
@@ -41302,9 +44645,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R236-1 (M)
 
 
-##### Section 2 : Conditions générales auxquelles doivent satisfaire les installations<a id=359></a>
+##### Section 2 : Conditions générales auxquelles doivent satisfaire les installations<a id=371></a>
 
-##### Normes de sécurité obligatoires.<a id=360></a>
+##### Normes de sécurité obligatoires.<a id=372></a>
 
 ###### Article R236-4
 
@@ -41330,7 +44673,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R236-1 (Ab)
 
 
-##### Dispositions générales.<a id=361></a>
+##### Dispositions générales.<a id=373></a>
 
 ###### Article R236-5
 
@@ -41381,7 +44724,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R236-1 (M)
 
 
-##### Identification des circuits, des appareils et des conducteurs.<a id=362></a>
+##### Identification des circuits, des appareils et des conducteurs.<a id=374></a>
 
 ###### Article R236-6
 
@@ -41408,7 +44751,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Installations à très basse tension.<a id=363></a>
+##### Installations à très basse tension.<a id=375></a>
 
 ###### Article R236-7
 
@@ -41481,7 +44824,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R236-8 (Ab)
 
 
-##### Limitation des domaines de tension pour certains appareils récepteurs et dispositions particulières applicables à certains matériels d'utilisation.<a id=364></a>
+##### Limitation des domaines de tension pour certains appareils récepteurs et dispositions particulières applicables à certains matériels d'utilisation.<a id=376></a>
 
 ###### Article R236-8
 
@@ -41513,7 +44856,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R236-7
 
 
-##### Séparation des sources d'énergie.<a id=365></a>
+##### Séparation des sources d'énergie.<a id=377></a>
 
 ###### Article R236-9
 
@@ -41571,7 +44914,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R236-49 (Ab)
 
 
-##### Coupure d'urgence.<a id=366></a>
+##### Coupure d'urgence.<a id=378></a>
 
 ###### Article R236-10
 
@@ -41590,7 +44933,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Interdiction d'utiliser la terre ou les masses comme partie d'un circuit actif.<a id=367></a>
+##### Interdiction d'utiliser la terre ou les masses comme partie d'un circuit actif.<a id=379></a>
 
 ###### Article R236-11
 
@@ -41626,7 +44969,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Prises de terre et conducteurs de protection.<a id=368></a>
+##### Prises de terre et conducteurs de protection.<a id=380></a>
 
 ###### Article R236-12
 
@@ -41659,7 +45002,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section des conducteurs de terre et des liaisons équipotentielles.<a id=369></a>
+##### Section des conducteurs de terre et des liaisons équipotentielles.<a id=381></a>
 
 ###### Article R236-13
 
@@ -41678,7 +45021,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Résistances de terre, conducteurs de terre.<a id=370></a>
+##### Résistances de terre, conducteurs de terre.<a id=382></a>
 
 ###### Article R236-14
 
@@ -41709,7 +45052,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R236-26 (Ab)
 
 
-##### Installation de sécurité.<a id=371></a>
+##### Installation de sécurité.<a id=383></a>
 
 ###### Article R236-15
 
@@ -41737,9 +45080,9 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 3 : Protection des salariés contre les risques de contact avec des conducteurs actifs ou des pièces conductrices habituellement sous tension (contact direct)<a id=372></a>
+##### Section 3 : Protection des salariés contre les risques de contact avec des conducteurs actifs ou des pièces conductrices habituellement sous tension (contact direct)<a id=384></a>
 
-##### Mise hors de portée des conducteurs actifs et des pièces conductrices sous tension.<a id=373></a>
+##### Mise hors de portée des conducteurs actifs et des pièces conductrices sous tension.<a id=385></a>
 
 ###### Article R236-16
 
@@ -41774,7 +45117,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R236-21 (Ab)
 
 
-##### Mise hors de portée par éloignement.<a id=374></a>
+##### Mise hors de portée par éloignement.<a id=386></a>
 
 ###### Article R236-17
 
@@ -41796,7 +45139,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Mise hors de portée au moyen d'obstacles.<a id=375></a>
+##### Mise hors de portée au moyen d'obstacles.<a id=387></a>
 
 ###### Article R236-18
 
@@ -41822,7 +45165,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R236-21 (Ab)
 
 
-##### Mise hors de portée par isolation.<a id=376></a>
+##### Mise hors de portée par isolation.<a id=388></a>
 
 ###### Article R236-19
 
@@ -41884,7 +45227,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R236-55 (Ab)
 
 
-##### Culots et douilles, prises de courant, prolongateurs et connecteurs.<a id=377></a>
+##### Culots et douilles, prises de courant, prolongateurs et connecteurs.<a id=389></a>
 
 ###### Article R236-20
 
@@ -41950,7 +45293,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R236-48
 
 
-##### Lignes de contact.<a id=378></a>
+##### Lignes de contact.<a id=390></a>
 
 ###### Article R236-21
 
@@ -42086,7 +45429,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Locaux et emplacements de travail à risques particuliers de choc électrique.<a id=379></a>
+##### Locaux et emplacements de travail à risques particuliers de choc électrique.<a id=391></a>
 
 ###### Article R236-26
 
@@ -42142,7 +45485,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R236-22
 
 
-##### Installations mobiles à risques particuliers de choc électrique.<a id=380></a>
+##### Installations mobiles à risques particuliers de choc électrique.<a id=392></a>
 
 ###### Article R236-28
 
@@ -42169,9 +45512,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R236-22 (Ab)
 
 
-##### Section 4 : Protection des salariés contre les risques de contact avec des masses mises accidentellement sous tension (contact indirect)<a id=381></a>
+##### Section 4 : Protection des salariés contre les risques de contact avec des masses mises accidentellement sous tension (contact indirect)<a id=393></a>
 
-##### Dispositions générales.<a id=382></a>
+##### Dispositions générales.<a id=394></a>
 
 ###### Article R236-29
 
@@ -42198,9 +45541,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R236-7 (Ab)
 
 
-##### Sous-section 1 : Installation à courant alternatif<a id=383></a>
+##### Sous-section 1 : Installation à courant alternatif<a id=395></a>
 
-##### Types de mesures de protection.<a id=384></a>
+##### Types de mesures de protection.<a id=396></a>
 
 ###### Article R236-30
 
@@ -42231,9 +45574,9 @@ _Cite_:
   - Code du travail applicable à Mayotte.
 
 
-##### A. - Protection contre les contacts indirects par mise à la terre des masses et par coupure automatique de l'alimentation<a id=385></a>
+##### A. - Protection contre les contacts indirects par mise à la terre des masses et par coupure automatique de l'alimentation<a id=397></a>
 
-##### Généralités.<a id=386></a>
+##### Généralités.<a id=398></a>
 
 ###### Article R236-31
 
@@ -42284,7 +45627,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R236-37
 
 
-##### Installation électrique réalisée suivant le schéma TN (mise au neutre).<a id=387></a>
+##### Installation électrique réalisée suivant le schéma TN (mise au neutre).<a id=399></a>
 
 ###### Article R236-32
 
@@ -42313,7 +45656,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Installations réalisées suivant le schéma TT (neutre directement relié à la terre).<a id=388></a>
+##### Installations réalisées suivant le schéma TT (neutre directement relié à la terre).<a id=400></a>
 
 ###### Article R236-33
 
@@ -42333,7 +45676,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Installations électriques réalisées suivant le schéma IT (neutre isolé ou neutre relié à la terre par une impédance limitant le courant de défaut).<a id=389></a>
+##### Installations électriques réalisées suivant le schéma IT (neutre isolé ou neutre relié à la terre par une impédance limitant le courant de défaut).<a id=401></a>
 
 ###### Article R236-34
 
@@ -42371,7 +45714,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Liaison équipotentielle supplémentaire.<a id=390></a>
+##### Liaison équipotentielle supplémentaire.<a id=402></a>
 
 ###### Article R236-35
 
@@ -42397,7 +45740,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R236-31
 
 
-##### Double isolation ou isolation renforcée.<a id=391></a>
+##### Double isolation ou isolation renforcée.<a id=403></a>
 
 ###### Article R236-36
 
@@ -42424,9 +45767,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R236-38 (Ab)
 
 
-##### B. - Protection contre les contacts indirects sans mise à la terre et sans coupure de l'alimentation<a id=392></a>
+##### B. - Protection contre les contacts indirects sans mise à la terre et sans coupure de l'alimentation<a id=404></a>
 
-##### Impédance de protection.<a id=393></a>
+##### Impédance de protection.<a id=405></a>
 
 ###### Article R236-37
 
@@ -42451,7 +45794,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R236-38 (Ab)
 
 
-##### Protection complémentaire.<a id=394></a>
+##### Protection complémentaire.<a id=406></a>
 
 ###### Article R236-38
 
@@ -42477,7 +45820,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R236-39
 
 
-##### Protection par séparation des circuits.<a id=395></a>
+##### Protection par séparation des circuits.<a id=407></a>
 
 ###### Article R236-39
 
@@ -42506,9 +45849,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R236-38 (Ab)
 
 
-##### Sous-section 2 : Installations à courant autre qu'alternatif<a id=396></a>
+##### Sous-section 2 : Installations à courant autre qu'alternatif<a id=408></a>
 
-##### Types de mesures de protection.<a id=397></a>
+##### Types de mesures de protection.<a id=409></a>
 
 ###### Article R236-40
 
@@ -42534,9 +45877,9 @@ _Cite_:
   - Code du travail applicable à Mayotte.
 
 
-##### Section 5 : Prévention des brûlures, incendies et explosions d'origine électrique<a id=398></a>
+##### Section 5 : Prévention des brûlures, incendies et explosions d'origine électrique<a id=410></a>
 
-##### Réalisation des installations.<a id=399></a>
+##### Réalisation des installations.<a id=411></a>
 
 ###### Article R236-41
 
@@ -42585,7 +45928,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Interrupteurs, coupe-circuit, disjoncteurs, matériels contenant un diélectrique liquide inflammable.<a id=400></a>
+##### Interrupteurs, coupe-circuit, disjoncteurs, matériels contenant un diélectrique liquide inflammable.<a id=412></a>
 
 ###### Article R236-42
 
@@ -42639,7 +45982,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R236-9
 
 
-##### Locaux ou emplacements présentant des dangers d'incendie.<a id=401></a>
+##### Locaux ou emplacements présentant des dangers d'incendie.<a id=413></a>
 
 ###### Article R236-43
 
@@ -42685,7 +46028,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R236-44 (Ab)
 
 
-##### Zone présentant des risques d'explosion.<a id=402></a>
+##### Zone présentant des risques d'explosion.<a id=414></a>
 
 ###### Article R236-44
 
@@ -42718,9 +46061,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R236-48 (Ab)
 
 
-##### Section 6 : Utilisation, surveillance, entretien et vérification des installations électriques<a id=403></a>
+##### Section 6 : Utilisation, surveillance, entretien et vérification des installations électriques<a id=415></a>
 
-##### Généralités.<a id=404></a>
+##### Généralités.<a id=416></a>
 
 ###### Article R236-45
 
@@ -42758,7 +46101,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R236-53
 
 
-##### Prescriptions au personnel.<a id=405></a>
+##### Prescriptions au personnel.<a id=417></a>
 
 ###### Article R236-46
 
@@ -42805,7 +46148,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R236-47
 
 
-##### Surveillance des installations.<a id=406></a>
+##### Surveillance des installations.<a id=418></a>
 
 ###### Article R236-47
 
@@ -42860,7 +46203,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R236-52
 
 
-##### Généralités sur les travaux sur des installations ou à proximité d'installations électriques.<a id=407></a>
+##### Généralités sur les travaux sur des installations ou à proximité d'installations électriques.<a id=419></a>
 
 ###### Article R236-48
 
@@ -42919,7 +46262,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R236-50
 
 
-##### Travaux effectués hors tension.<a id=408></a>
+##### Travaux effectués hors tension.<a id=420></a>
 
 ###### Article R236-49
 
@@ -42978,7 +46321,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R236-9 (Ab)
 
 
-##### Travaux effectués sous tension.<a id=409></a>
+##### Travaux effectués sous tension.<a id=421></a>
 
 ###### Article R236-50
 
@@ -43027,7 +46370,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R236-52 (Ab)
 
 
-##### Travaux effectués au voisinage des pièces sous tension.<a id=410></a>
+##### Travaux effectués au voisinage des pièces sous tension.<a id=422></a>
 
 ###### Article R236-51
 
@@ -43087,7 +46430,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R236-1 (M)
 
 
-##### Dispositions à prendre après un incident.<a id=411></a>
+##### Dispositions à prendre après un incident.<a id=423></a>
 
 ###### Article R236-52
 
@@ -43121,7 +46464,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R236-50
 
 
-##### Vérification initiale et périodique.<a id=412></a>
+##### Vérification initiale et périodique.<a id=424></a>
 
 ###### Article R236-53
 
@@ -43172,7 +46515,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R236-47 (Ab)
 
 
-##### Vérification sur mise en demeure.<a id=413></a>
+##### Vérification sur mise en demeure.<a id=425></a>
 
 ###### Article R236-54
 
@@ -43194,7 +46537,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Dossier tenu à la disposition de l'agent de contrôle de l'inspection du travail.<a id=414></a>
+##### Dossier tenu à la disposition de l'agent de contrôle de l'inspection du travail.<a id=426></a>
 
 ###### Article R236-55
 
@@ -43230,9 +46573,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R236-53 (Ab)
 
 
-##### Section 7 : Mesures diverses<a id=415></a>
+##### Section 7 : Mesures diverses<a id=427></a>
 
-##### Formation requise pour administrer les premiers soins.<a id=416></a>
+##### Formation requise pour administrer les premiers soins.<a id=428></a>
 
 ###### Article R236-56
 
@@ -43252,7 +46595,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Dérogations.<a id=417></a>
+##### Dérogations.<a id=429></a>
 
 ###### Article R236-57
 
@@ -43281,7 +46624,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Arrêtés d'application.<a id=418></a>
+##### Arrêtés d'application.<a id=430></a>
 
 ###### Article R236-58
 
@@ -43298,9 +46641,9 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-#### CHAPITRE VIII : Autres mesures particulières relatives à la protection des salariés<a id=419></a>
+#### CHAPITRE VIII : Autres mesures particulières relatives à la protection des salariés<a id=431></a>
 
-##### Section 1 : Mesures particulières de protection relatives à l'emploi des explosifs.<a id=420></a>
+##### Section 1 : Mesures particulières de protection relatives à l'emploi des explosifs.<a id=432></a>
 
 ###### Article R238-1-1
 
@@ -43395,9 +46738,9 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Sous-section 1 : Dispositions applicables à tous les tirs de mine<a id=421></a>
+##### Sous-section 1 : Dispositions applicables à tous les tirs de mine<a id=433></a>
 
-##### I. - Obligations générales des personnes chargées des produits explosifs.<a id=422></a>
+##### I. - Obligations générales des personnes chargées des produits explosifs.<a id=434></a>
 
 ###### Article R238-1-3
 
@@ -43512,7 +46855,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R238-1-4
 
 
-##### II. - Règles générales relatives aux produits explosifs.<a id=423></a>
+##### II. - Règles générales relatives aux produits explosifs.<a id=435></a>
 
 ###### Article R238-1-7
 
@@ -43636,7 +46979,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R238-1-4
 
 
-##### III. - Règles générales de mise en oeuvre des produits explosifs.<a id=424></a>
+##### III. - Règles générales de mise en oeuvre des produits explosifs.<a id=436></a>
 
 ###### Article R238-1-11
 
@@ -44027,9 +47370,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R238-1-4
 
 
-##### Sous-section 2 : Dispositions complémentaires particulières à certains tirs de mine<a id=425></a>
+##### Sous-section 2 : Dispositions complémentaires particulières à certains tirs de mine<a id=437></a>
 
-##### I. - Tir à la mèche.<a id=426></a>
+##### I. - Tir à la mèche.<a id=438></a>
 
 ###### Article R238-1-25
 
@@ -44126,7 +47469,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### II. - Tir au cordeau détonant.<a id=427></a>
+##### II. - Tir au cordeau détonant.<a id=439></a>
 
 ###### Article R238-1-30
 
@@ -44201,7 +47544,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### III. - Tir électrique.<a id=428></a>
+##### III. - Tir électrique.<a id=440></a>
 
 ###### Article R238-1-33
 
@@ -44363,7 +47706,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R238-1-18 (Ab)
 
 
-##### IV. - Tir par mines longues<a id=429></a>
+##### IV. - Tir par mines longues<a id=441></a>
 
 ###### Article R238-1-39
 
@@ -44465,7 +47808,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### V. - Tirs spéciaux.<a id=430></a>
+##### V. - Tirs spéciaux.<a id=442></a>
 
 ###### Article R238-1-45
 
@@ -44511,7 +47854,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R238-1-4 (Ab)
 
 
-##### Sous-section 3 : Dispositions diverses<a id=431></a>
+##### Sous-section 3 : Dispositions diverses<a id=443></a>
 
 ###### Article R238-1-47
 
@@ -44543,7 +47886,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 2 : Mesures particulières de sécurité relatives aux appareils de levage.<a id=432></a>
+##### Section 2 : Mesures particulières de sécurité relatives aux appareils de levage.<a id=444></a>
 
 ###### Article R238-2-1
 
@@ -44579,7 +47922,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L251-1
 
 
-##### Sous-section 1 : Installation des appareils et des voies.<a id=433></a>
+##### Sous-section 1 : Installation des appareils et des voies.<a id=445></a>
 
 ###### Article R238-2-2
 
@@ -44678,7 +48021,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R238-2-42 (Ab)
 
 
-##### Sous-section 2 : Installations électriques.<a id=434></a>
+##### Sous-section 2 : Installations électriques.<a id=446></a>
 
 ###### Article R238-2-6
 
@@ -44781,7 +48124,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Sous-section 3 : Cabines et moyens d'accès.<a id=435></a>
+##### Sous-section 3 : Cabines et moyens d'accès.<a id=447></a>
 
 ###### Article R238-2-10
 
@@ -45035,7 +48378,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R235-44 (Ab)
 
 
-##### Sous-section 4 : Moteurs, chaînes et câbles, limiteurs de course.<a id=436></a>
+##### Sous-section 4 : Moteurs, chaînes et câbles, limiteurs de course.<a id=448></a>
 
 ###### Article R238-2-20
 
@@ -45152,7 +48495,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Sous-section 5 : Manoeuvres.<a id=437></a>
+##### Sous-section 5 : Manoeuvres.<a id=449></a>
 
 ###### Article R238-2-25
 
@@ -45339,7 +48682,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Sous-section 6 : Visites et entretien.<a id=438></a>
+##### Sous-section 6 : Visites et entretien.<a id=450></a>
 
 ###### Article R238-2-31
 
@@ -45502,7 +48845,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Sous-section 7 : Dispositions diverses<a id=439></a>
+##### Sous-section 7 : Dispositions diverses<a id=451></a>
 
 ###### Article R238-2-37
 
@@ -45714,7 +49057,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R238-2-8 (Ab)
 
 
-##### Section 3 : Mesures particulières relatives à la protection des salariés qui exécutent des travaux de peinture et de pulvérisation.<a id=440></a>
+##### Section 3 : Mesures particulières relatives à la protection des salariés qui exécutent des travaux de peinture et de pulvérisation.<a id=452></a>
 
 ###### Article R238-3-1
 
@@ -45754,7 +49097,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R238-3-14 (Ab)
 
 
-##### Sous-section 1 : Prévention des intoxications.<a id=441></a>
+##### Sous-section 1 : Prévention des intoxications.<a id=453></a>
 
 ###### Article R238-3-2
 
@@ -45932,7 +49275,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R238-3-7 (Ab)
 
 
-##### Sous-section 2 : Prévention des incendies.<a id=442></a>
+##### Sous-section 2 : Prévention des incendies.<a id=454></a>
 
 ###### Article R238-3-9
 
@@ -46137,7 +49480,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Sous-section 3 : Dispositions finales.<a id=443></a>
+##### Sous-section 3 : Dispositions finales.<a id=455></a>
 
 ###### Article R238-3-19
 
@@ -46234,7 +49577,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R238-3-9 (Ab)
 
 
-##### Section 4 : Mesures particulières de protection applicables aux établissements dans lesquels sont entreposés ou manipulés certains liquides particulièrement inflammables.<a id=444></a>
+##### Section 4 : Mesures particulières de protection applicables aux établissements dans lesquels sont entreposés ou manipulés certains liquides particulièrement inflammables.<a id=456></a>
 
 ###### Article R238-4-1
 
@@ -46487,7 +49830,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 5 : Mesures particulières relatives à la manipulation du linge sale dans les ateliers de blanchissage.<a id=445></a>
+##### Section 5 : Mesures particulières relatives à la manipulation du linge sale dans les ateliers de blanchissage.<a id=457></a>
 
 ###### Article R238-5-1
 
@@ -46662,9 +50005,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R238-5-6 (Ab)
 
 
-##### Section 6 : Mesures particulières relatives à la protection des salariés intervenant en milieu hyperbare<a id=446></a>
+##### Section 6 : Mesures particulières relatives à la protection des salariés intervenant en milieu hyperbare<a id=458></a>
 
-##### Sous-section 1 : Champ d'application, définitions.<a id=447></a>
+##### Sous-section 1 : Champ d'application, définitions.<a id=459></a>
 
 ###### Article R238-6-1
 
@@ -46723,7 +50066,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R238-6-1 (Ab)
 
 
-##### Sous-section 2 : Conditions d'accès en milieu hyperbare.<a id=448></a>
+##### Sous-section 2 : Conditions d'accès en milieu hyperbare.<a id=460></a>
 
 ###### Article R238-6-3
 
@@ -46790,7 +50133,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Sous-section 3 : Gaz respiratoires.<a id=449></a>
+##### Sous-section 3 : Gaz respiratoires.<a id=461></a>
 
 ###### Article R238-6-5
 
@@ -47026,7 +50369,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R238-6-8 (Ab)
 
 
-##### Sous-section 4 : Equipement collectif.<a id=450></a>
+##### Sous-section 4 : Equipement collectif.<a id=462></a>
 
 ###### Article R238-6-13
 
@@ -47295,7 +50638,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Sous-section 5 : Equipement individuel.<a id=451></a>
+##### Sous-section 5 : Equipement individuel.<a id=463></a>
 
 ###### Article R238-6-25
 
@@ -47346,7 +50689,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Sous-section 6 : Procédures de sécurité.<a id=452></a>
+##### Sous-section 6 : Procédures de sécurité.<a id=464></a>
 
 ###### Article R238-6-28
 
@@ -47513,7 +50856,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R238-6-30 (Ab)
 
 
-##### Sous-section 7 : Surveillance médicale du personnel.<a id=453></a>
+##### Sous-section 7 : Surveillance médicale du personnel.<a id=465></a>
 
 ###### Article R238-6-33
 
@@ -47645,7 +50988,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R238-6-34 (Ab)
 
 
-##### Sous-section 8 : Dispositions diverses<a id=454></a>
+##### Sous-section 8 : Dispositions diverses<a id=466></a>
 
 ###### Article R238-6-37
 
@@ -47734,7 +51077,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R238-6-34 (Ab)
 
 
-##### Section 7 : Mesures particulières relatives aux marins, aux ports, aux navires et autres bâtiments de mer.<a id=455></a>
+##### Section 7 : Mesures particulières relatives aux marins, aux ports, aux navires et autres bâtiments de mer.<a id=467></a>
 
 ###### Article R238-7-1
 
@@ -47816,9 +51159,9 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 8 : Comités d'hygiène, de sécurité et des conditions de travail<a id=456></a>
+##### Section 8 : Comités d'hygiène, de sécurité et des conditions de travail<a id=468></a>
 
-##### Sous-section 1 : Composition et fonctionnement.<a id=457></a>
+##### Sous-section 1 : Composition et fonctionnement.<a id=469></a>
 
 ###### Article R238-8-1
 
@@ -48220,7 +51563,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L620-5
 
 
-##### Sous-section 2 : Dispositions particulières applicables à l'établissement de santé de Mayotte.<a id=458></a>
+##### Sous-section 2 : Dispositions particulières applicables à l'établissement de santé de Mayotte.<a id=470></a>
 
 ###### Article R238-8-15
 
@@ -48240,9 +51583,9 @@ _Créé par_:
   - Décret n°2006-1315 du 25 octobre 2006 - art. 11 () JORF 27 octobre 2006
 
 
-#### CHAPITRE IX : Dispositions applicables aux opérations de construction dans l'intérêt de l'hygiène et de la sécurité du travail<a id=459></a>
+#### CHAPITRE IX : Dispositions applicables aux opérations de construction dans l'intérêt de l'hygiène et de la sécurité du travail<a id=471></a>
 
-##### Section 1 : Dispositions générales.<a id=460></a>
+##### Section 1 : Dispositions générales.<a id=472></a>
 
 ###### Article R239-1
 
@@ -48276,9 +51619,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L239-1
 
 
-##### Section 2 : Règles d'hygiène<a id=461></a>
+##### Section 2 : Règles d'hygiène<a id=473></a>
 
-##### Sous-section 1 : Eclairage.<a id=462></a>
+##### Sous-section 1 : Eclairage.<a id=474></a>
 
 ###### Article R239-2
 
@@ -48381,7 +51724,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R239-53 (Ab)
 
 
-##### Sous-section 2 : Aération, assainissement.<a id=463></a>
+##### Sous-section 2 : Aération, assainissement.<a id=475></a>
 
 ###### Article R239-6
 
@@ -48563,7 +51906,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R239-53 (Ab)
 
 
-##### Sous-section 3 : Température des locaux.<a id=464></a>
+##### Sous-section 3 : Température des locaux.<a id=476></a>
 
 ###### Article R239-11
 
@@ -48613,7 +51956,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Sous-section 4 : Insonorisation.<a id=465></a>
+##### Sous-section 4 : Insonorisation.<a id=477></a>
 
 ###### Article R239-13
 
@@ -48643,7 +51986,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Sous-section 5 : Installations sanitaires, restauration.<a id=466></a>
+##### Sous-section 5 : Installations sanitaires, restauration.<a id=478></a>
 
 ###### Article R239-14
 
@@ -48707,7 +52050,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R232-22 (Ab)
 
 
-##### Section 3 : Règles de sécurité.<a id=467></a>
+##### Section 3 : Règles de sécurité.<a id=479></a>
 
 ###### Article R239-16
 
@@ -49305,9 +52648,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R232-14 (Ab)
 
 
-##### Section 4 : Prévention des incendies, évacuation<a id=468></a>
+##### Section 4 : Prévention des incendies, évacuation<a id=480></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=469></a>
+##### Sous-section 1 : Dispositions générales.<a id=481></a>
 
 ###### Article R239-38
 
@@ -49349,7 +52692,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R232-73 (Ab)
 
 
-##### Sous-section 2 : Dégagements.<a id=470></a>
+##### Sous-section 2 : Dégagements.<a id=482></a>
 
 ###### Article R239-39
 
@@ -49605,7 +52948,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Sous-section 3 : Désenfumage.<a id=471></a>
+##### Sous-section 3 : Désenfumage.<a id=483></a>
 
 ###### Article R239-46
 
@@ -49643,7 +52986,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Sous-section 4 : Locaux où sont entreposées ou manipulées des matières inflammables.<a id=472></a>
+##### Sous-section 4 : Locaux où sont entreposées ou manipulées des matières inflammables.<a id=484></a>
 
 ###### Article R239-47
 
@@ -49674,7 +53017,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R232-83 (Ab)
 
 
-##### Sous-section 5 : Bâtiments dont le plancher bas du dernier niveau est situé à plus de 8 mètres du sol.<a id=473></a>
+##### Sous-section 5 : Bâtiments dont le plancher bas du dernier niveau est situé à plus de 8 mètres du sol.<a id=485></a>
 
 ###### Article R239-48
 
@@ -49769,7 +53112,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R232-13 (Ab)
 
 
-##### Sous-section 6 : Moyens de prévention et de lutte contre l'incendie.<a id=474></a>
+##### Sous-section 6 : Moyens de prévention et de lutte contre l'incendie.<a id=486></a>
 
 ###### Article R239-51
 
@@ -49797,7 +53140,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R232-84 (Ab)
 
 
-##### Sous-section 7 : Mesures d'application.<a id=475></a>
+##### Sous-section 7 : Mesures d'application.<a id=487></a>
 
 ###### Article R239-52
 
@@ -49825,7 +53168,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 5 : Dossier de maintenance des lieux de travail.<a id=476></a>
+##### Section 5 : Dossier de maintenance des lieux de travail.<a id=488></a>
 
 ###### Article R239-53
 
@@ -49890,9 +53233,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R239-5 (Ab)
 
 
-### TITRE V : Pénalités<a id=477></a>
+### TITRE V : Pénalités<a id=489></a>
 
-#### Chapitre préliminaire.<a id=478></a>
+#### Chapitre préliminaire.<a id=490></a>
 
 ###### Article R250-1
 
@@ -49958,7 +53301,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R254-6
 
 
-#### Chapitre 1er : Hygiène et sécurité.<a id=479></a>
+#### Chapitre 1er : Hygiène et sécurité.<a id=491></a>
 
 ###### Article R251-1
 
@@ -50017,9 +53360,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L234-1
 
 
-#### Chapitre 3 : Conditions du travail<a id=480></a>
+#### Chapitre 3 : Conditions du travail<a id=492></a>
 
-##### Section 1 : Age d'admission.<a id=481></a>
+##### Section 1 : Age d'admission.<a id=493></a>
 
 ###### Article R253-1
 
@@ -50051,9 +53394,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R250-2 (Ab)
 
 
-##### Section 2 : Durée du travail<a id=482></a>
+##### Section 2 : Durée du travail<a id=494></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=483></a>
+##### Paragraphe 1 : Dispositions générales<a id=495></a>
 
 ###### Article R253-2
 
@@ -50082,7 +53425,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L212-2
 
 
-##### Paragraphe 2 : Heures supplémentaires<a id=484></a>
+##### Paragraphe 2 : Heures supplémentaires<a id=496></a>
 
 ###### Article R253-3
 
@@ -50110,7 +53453,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L250-1
 
 
-##### Paragraphe 3 : Dispositions relatives aux jeunes travailleurs<a id=485></a>
+##### Paragraphe 3 : Dispositions relatives aux jeunes travailleurs<a id=497></a>
 
 ###### Article R253-4
 
@@ -50164,7 +53507,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L212-7
 
 
-##### Section 3 : Travail de nuit.<a id=486></a>
+##### Section 3 : Travail de nuit.<a id=498></a>
 
 ###### Article R253-6
 
@@ -50215,9 +53558,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L213-9
 
 
-#### Chapitre 4 : Repos et congés<a id=487></a>
+#### Chapitre 4 : Repos et congés<a id=499></a>
 
-##### Section 1 : Repos hebdomadaire.<a id=488></a>
+##### Section 1 : Repos hebdomadaire.<a id=500></a>
 
 ###### Article R254-1
 
@@ -50273,9 +53616,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L221-3
 
 
-##### Section 2 : Jours fériés<a id=489></a>
+##### Section 2 : Jours fériés<a id=501></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=490></a>
+##### Paragraphe 1 : Dispositions générales<a id=502></a>
 
 ###### Article R254-3
 
@@ -50330,7 +53673,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L222-5
 
 
-##### Paragraphe 2 : Dispositions particulières à la journée du 1er mai.<a id=491></a>
+##### Paragraphe 2 : Dispositions particulières à la journée du 1er mai.<a id=503></a>
 
 ###### Article R254-5
 
@@ -50359,7 +53702,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R222-1 (Ab)
 
 
-##### Section 3 : Congés annuels.<a id=492></a>
+##### Section 3 : Congés annuels.<a id=504></a>
 
 ###### Article R254-6
 
@@ -50391,7 +53734,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R250-2 (Ab)
 
 
-#### Chapitre V : Congés non rémunérés.<a id=493></a>
+#### Chapitre V : Congés non rémunérés.<a id=505></a>
 
 ###### Article R255-1
 
@@ -50442,13 +53785,13 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L225-9
 
 
-## LIVRE III : Emploi<a id=494></a>
+## LIVRE III : Emploi<a id=506></a>
 
-### TITRE Ier : Déclaration des mouvements de main-d'oeuvre - Travail clandestin<a id=495></a>
+### TITRE Ier : Déclaration des mouvements de main-d'oeuvre - Travail clandestin<a id=507></a>
 
-#### CHAPITRE Ier : Obligation des employeurs<a id=496></a>
+#### CHAPITRE Ier : Obligation des employeurs<a id=508></a>
 
-##### Section 1 : Déclaration préalable à l'embauche.<a id=497></a>
+##### Section 1 : Déclaration préalable à l'embauche.<a id=509></a>
 
 ###### Article R311-1
 
@@ -50632,7 +53975,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R620-3-1 (Ab)
 
 
-##### Section 2 : Déclaration de mouvements de main-d'oeuvre<a id=498></a>
+##### Section 2 : Déclaration de mouvements de main-d'oeuvre<a id=510></a>
 
 ###### Article R311-6
 
@@ -50678,9 +54021,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R342-1 (Ab)
 
 
-#### CHAPITRE II : Cumul d'emploi et travail dissimulé<a id=499></a>
+#### CHAPITRE II : Cumul d'emploi et travail dissimulé<a id=511></a>
 
-##### Section 2 : Travail dissimulé.<a id=500></a>
+##### Section 2 : Travail dissimulé.<a id=512></a>
 
 ###### Article R312-1
 
@@ -50995,7 +54338,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L312-5
 
 
-### TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité départementale<a id=501></a>
+### TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité départementale<a id=513></a>
 
 ###### Article R320-2
 
@@ -51030,7 +54373,7 @@ _Cite_:
   - Code du travail L320-14
 
 
-#### CHAPITRE PRELIMINAIRE : Licenciement pour motif économique<a id=502></a>
+#### CHAPITRE PRELIMINAIRE : Licenciement pour motif économique<a id=514></a>
 
 ###### Article R320-1
 
@@ -51064,7 +54407,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L320-5 (MMN)
 
 
-#### Chapitre 1er : Généralités.<a id=503></a>
+#### Chapitre 1er : Généralités.<a id=515></a>
 
 ###### Article R321-1
 
@@ -51201,7 +54544,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L321-2 (M)
 
 
-#### Chapitre 3 : Dispositions relatives au contrat de retour à l'emploi<a id=504></a>
+#### Chapitre 3 : Dispositions relatives au contrat de retour à l'emploi<a id=516></a>
 
 ###### Article R323-1
 
@@ -51409,9 +54752,9 @@ _Abrogé par_:
   - Décret n°2012-658 du 4 mai 2012 - art. 1
 
 
-#### CHAPITRE IV : Dispositions particulières relatives à l'emploi des jeunes<a id=505></a>
+#### CHAPITRE IV : Dispositions particulières relatives à l'emploi des jeunes<a id=517></a>
 
-##### Projet initiative-jeune<a id=506></a>
+##### Projet initiative-jeune<a id=518></a>
 
 ###### Article R324-1
 
@@ -51535,9 +54878,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R324-2 (Ab)
 
 
-#### CHAPITRE V : Dispositions relatives à la création d'entreprises et à la création d'emplois<a id=507></a>
+#### CHAPITRE V : Dispositions relatives à la création d'entreprises et à la création d'emplois<a id=519></a>
 
-##### Section 1 : Aide à la création d'entreprises à l'initiative des demandeurs d'emploi<a id=508></a>
+##### Section 1 : Aide à la création d'entreprises à l'initiative des demandeurs d'emploi<a id=520></a>
 
 ###### Article R325-1
 
@@ -51601,7 +54944,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R325-4 (M)
 
 
-##### Section 3 : Agence mahoraise pour le développement d'activités d'utilité sociale<a id=509></a>
+##### Section 3 : Agence mahoraise pour le développement d'activités d'utilité sociale<a id=521></a>
 
 ###### Article R325-3
 
@@ -52028,7 +55371,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R325-7 (Ab)
 
 
-##### Section 4 : Fonds pour l'emploi<a id=510></a>
+##### Section 4 : Fonds pour l'emploi<a id=522></a>
 
 ###### Article R325-9
 
@@ -52081,9 +55424,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L325-8 (V)
 
 
-#### CHAPITRE VI : Placement<a id=511></a>
+#### CHAPITRE VI : Placement<a id=523></a>
 
-##### Section 1 : Agence nationale pour l'emploi<a id=512></a>
+##### Section 1 : Agence nationale pour l'emploi<a id=524></a>
 
 ###### Article R326-1
 
@@ -52300,7 +55643,7 @@ _Créé par_:
   - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
 
 
-##### Section 2 : Organismes qui concourent au service public du placement<a id=513></a>
+##### Section 2 : Organismes qui concourent au service public du placement<a id=525></a>
 
 ###### Article R326-8
 
@@ -52428,7 +55771,7 @@ _Créé par_:
   - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
 
 
-##### Section 3 : Notification par les employeurs des places vacantes<a id=514></a>
+##### Section 3 : Notification par les employeurs des places vacantes<a id=526></a>
 
 ###### Article R326-13
 
@@ -52450,7 +55793,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L326-2 (T)
 
 
-##### Section 4 : Inscription et radiation de la liste des demandeurs d'emploi<a id=515></a>
+##### Section 4 : Inscription et radiation de la liste des demandeurs d'emploi<a id=527></a>
 
 ###### Article R326-14
 
@@ -52722,7 +56065,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R326-21 (V)
 
 
-##### Section 5 : Collectivités territoriales<a id=516></a>
+##### Section 5 : Collectivités territoriales<a id=528></a>
 
 ###### Article R326-23
 
@@ -52845,7 +56188,7 @@ _Créé par_:
   - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
 
 
-##### Section 6 : Dispositions diverses<a id=517></a>
+##### Section 6 : Dispositions diverses<a id=529></a>
 
 ###### Article R326-29
 
@@ -52998,9 +56341,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. R811-4 (Ab)
 
 
-#### CHAPITRE VII : Indemnisation du chômage<a id=518></a>
+#### CHAPITRE VII : Indemnisation du chômage<a id=530></a>
 
-##### Section 2 : Perte temporaire de salaire<a id=519></a>
+##### Section 2 : Perte temporaire de salaire<a id=531></a>
 
 ###### Article R327-10
 
@@ -53247,9 +56590,9 @@ _Anciens textes_:
   - Code du travail applicable à Mayotte. - art. R327-23 (T)
 
 
-### TITRE III : Main-d'oeuvre étrangère<a id=520></a>
+### TITRE III : Main-d'oeuvre étrangère<a id=532></a>
 
-#### Section 1 : Etrangers.<a id=521></a>
+#### Section 1 : Etrangers.<a id=533></a>
 
 ###### Article R330-1
 
@@ -53495,7 +56838,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. R330-9 (M)
 
 
-#### Section 2 : Sanction administrative pour l'emploi d'étrangers sans titre de travail.<a id=522></a>
+#### Section 2 : Sanction administrative pour l'emploi d'étrangers sans titre de travail.<a id=534></a>
 
 ###### Article R330-8
 
@@ -53662,9 +57005,9 @@ _Anciens textes_:
   - Code du travail applicable à Mayotte. - art. R330-9 (T)
 
 
-### TITRE IV : Pénalités<a id=523></a>
+### TITRE IV : Pénalités<a id=535></a>
 
-#### CHAPITRE Ier : Travail clandestin<a id=524></a>
+#### CHAPITRE Ier : Travail clandestin<a id=536></a>
 
 ###### Article R341-1
 
@@ -53693,7 +57036,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R312-1
 
 
-#### CHAPITRE II : Déclaration des mouvements de main-d'oeuvre<a id=525></a>
+#### CHAPITRE II : Déclaration des mouvements de main-d'oeuvre<a id=537></a>
 
 ###### Article R342-1
 
@@ -53766,7 +57109,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R311-5
 
 
-#### CHAPITRE III : Licenciement pour motif économique<a id=526></a>
+#### CHAPITRE III : Licenciement pour motif économique<a id=538></a>
 
 ###### Article R343-1
 
@@ -53795,11 +57138,11 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R320-1 (Ab)
 
 
-## LIVRE IV : Les groupements professionnels - La représentation des salariés<a id=527></a>
+## LIVRE IV : Les groupements professionnels - La représentation des salariés<a id=539></a>
 
-### TITRE Ier : Les syndicats professionnels<a id=528></a>
+### TITRE Ier : Les syndicats professionnels<a id=540></a>
 
-#### CHAPITRE Ier : Statut juridique des syndicats<a id=529></a>
+#### CHAPITRE Ier : Statut juridique des syndicats<a id=541></a>
 
 ###### Article R411-1
 
@@ -53831,9 +57174,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R451-1 (V)
 
 
-#### CHAPITRE II : Droit syndical et représentativité des syndicats<a id=530></a>
+#### CHAPITRE II : Droit syndical et représentativité des syndicats<a id=542></a>
 
-##### Section 1 : Critères de représentativité<a id=531></a>
+##### Section 1 : Critères de représentativité<a id=543></a>
 
 ###### Article R412-1
 
@@ -53858,9 +57201,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L133-1
 
 
-### TITRE III : Les délégués du personnel<a id=532></a>
+### TITRE III : Les délégués du personnel<a id=544></a>
 
-#### CHAPITRE II : Attributions et pouvoirs<a id=533></a>
+#### CHAPITRE II : Attributions et pouvoirs<a id=545></a>
 
 ###### Article R432-1
 
@@ -53937,7 +57280,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L620-5
 
 
-#### CHAPITRE III : Composition et élections<a id=534></a>
+#### CHAPITRE III : Composition et élections<a id=546></a>
 
 ###### Article R433-1
 
@@ -54167,7 +57510,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L433-3
 
 
-#### CHAPITRE V : Licenciement des délégués du personnel<a id=535></a>
+#### CHAPITRE V : Licenciement des délégués du personnel<a id=547></a>
 
 ###### Article R435-1
 
@@ -54194,9 +57537,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R445-1
 
 
-### TITRE IV : Les comités d'entreprise<a id=536></a>
+### TITRE IV : Les comités d'entreprise<a id=548></a>
 
-#### CHAPITRE Ier : Champ d'application<a id=537></a>
+#### CHAPITRE Ier : Champ d'application<a id=549></a>
 
 ###### Article R441-1
 
@@ -54222,9 +57565,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L441-4
 
 
-#### CHAPITRE II : Attributions et pouvoirs<a id=538></a>
+#### CHAPITRE II : Attributions et pouvoirs<a id=550></a>
 
-##### Section 1 : Personnalité civile.<a id=539></a>
+##### Section 1 : Personnalité civile.<a id=551></a>
 
 ###### Article R442-1
 
@@ -54250,7 +57593,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L441-8
 
 
-##### Section 2 : Institutions sociales d'entreprises.<a id=540></a>
+##### Section 2 : Institutions sociales d'entreprises.<a id=552></a>
 
 ###### Article R442-2
 
@@ -54325,7 +57668,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R442-6
 
 
-##### Section 3 : Gestion des activités sociales et culturelles.<a id=541></a>
+##### Section 3 : Gestion des activités sociales et culturelles.<a id=553></a>
 
 ###### Article R442-4
 
@@ -54467,7 +57810,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 4 : Comités interentreprises.<a id=542></a>
+##### Section 4 : Comités interentreprises.<a id=554></a>
 
 ###### Article R442-8
 
@@ -54577,7 +57920,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L444-8
 
 
-##### Section 5 : Financement des activités sociales et culturelles.<a id=543></a>
+##### Section 5 : Financement des activités sociales et culturelles.<a id=555></a>
 
 ###### Article R442-11
 
@@ -54765,7 +58108,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 6 : Attributions économiques.<a id=544></a>
+##### Section 6 : Attributions économiques.<a id=556></a>
 
 ###### Article R442-17
 
@@ -54816,7 +58159,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 7 : Rapport annuel d'information du comité d'entreprise dans les entreprises de moins de trois cents salariés.<a id=545></a>
+##### Section 7 : Rapport annuel d'information du comité d'entreprise dans les entreprises de moins de trois cents salariés.<a id=557></a>
 
 ###### Article R442-19
 
@@ -54938,7 +58281,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L442-12
 
 
-##### Section 8 : Prérogatives du comité d'entreprise dans les assemblées générales d'actionnaires.<a id=546></a>
+##### Section 8 : Prérogatives du comité d'entreprise dans les assemblées générales d'actionnaires.<a id=558></a>
 
 ###### Article R442-20
 
@@ -55008,7 +58351,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-#### CHAPITRE III : Composition et élections<a id=547></a>
+#### CHAPITRE III : Composition et élections<a id=559></a>
 
 ###### Article R443-1
 
@@ -55183,7 +58526,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L443-6
 
 
-#### CHAPITRE IV : Fonctionnement<a id=548></a>
+#### CHAPITRE IV : Fonctionnement<a id=560></a>
 
 ###### Article R444-1
 
@@ -55254,7 +58597,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R443-4 (Ab)
 
 
-#### CHAPITRE V : Licenciement des représentants du personnel, des représentants syndicaux et des salariés assimilés<a id=549></a>
+#### CHAPITRE V : Licenciement des représentants du personnel, des représentants syndicaux et des salariés assimilés<a id=561></a>
 
 ###### Article R445-1
 
@@ -55560,7 +58903,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R445-4
 
 
-### TITRE V : Pénalités<a id=550></a>
+### TITRE V : Pénalités<a id=562></a>
 
 ###### Article R451-1
 
@@ -55582,11 +58925,11 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R411-1 (M)
 
 
-## LIVRE V : Conflits du travail<a id=551></a>
+## LIVRE V : Conflits du travail<a id=563></a>
 
-### TITRE Ier : Conflits collectifs<a id=552></a>
+### TITRE Ier : Conflits collectifs<a id=564></a>
 
-#### CHAPITRE III : Conciliation<a id=553></a>
+#### CHAPITRE III : Conciliation<a id=565></a>
 
 ###### Article R513-1
 
@@ -55608,7 +58951,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 1 : Composition des commissions de conciliation.<a id=554></a>
+##### Section 1 : Composition des commissions de conciliation.<a id=566></a>
 
 ###### Article R513-2
 
@@ -55662,7 +59005,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 2 : Fonctionnement des commissions de conciliation.<a id=555></a>
+##### Section 2 : Fonctionnement des commissions de conciliation.<a id=567></a>
 
 ###### Article R513-4
 
@@ -55854,7 +59197,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-#### CHAPITRE IV : Médiation<a id=556></a>
+#### CHAPITRE IV : Médiation<a id=568></a>
 
 ###### Article R514-1
 
@@ -56015,7 +59358,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-#### CHAPITRE V : Arbitrage<a id=557></a>
+#### CHAPITRE V : Arbitrage<a id=569></a>
 
 ###### Article R515-1
 
@@ -56062,7 +59405,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-### TITRE II : Pénalités<a id=558></a>
+### TITRE II : Pénalités<a id=570></a>
 
 ###### Article R520-1
 
@@ -56090,9 +59433,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L153-1
 
 
-## LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=559></a>
+## LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=571></a>
 
-### TITRE Ier : Services de contrôle<a id=560></a>
+### TITRE Ier : Services de contrôle<a id=572></a>
 
 ###### Article R610-1
 
@@ -56163,7 +59506,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-### TITRE II : Obligations des employeurs<a id=561></a>
+### TITRE II : Obligations des employeurs<a id=573></a>
 
 ###### Article R620-1
 
@@ -56355,9 +59698,9 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-### TITRE III : Pénalités<a id=562></a>
+### TITRE III : Pénalités<a id=574></a>
 
-#### CHAPITRE Ier : Service de contrôle<a id=563></a>
+#### CHAPITRE Ier : Service de contrôle<a id=575></a>
 
 ###### Article R631-1
 
@@ -56385,7 +59728,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L610-8
 
 
-#### CHAPITRE II : Obligations des employeurs<a id=564></a>
+#### CHAPITRE II : Obligations des employeurs<a id=576></a>
 
 ###### Article R632-1
 
@@ -56445,9 +59788,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R632-1 (Ab)
 
 
-## LIVRE VII : Formation professionnelle<a id=565></a>
+## LIVRE VII : Formation professionnelle<a id=577></a>
 
-### Chapitre 1er : Dispositions communes aux contrats de qualification et aux contrats d'orientation<a id=566></a>
+### Chapitre 1er : Dispositions communes aux contrats de qualification et aux contrats d'orientation<a id=578></a>
 
 ###### Article R711-1
 
@@ -56494,7 +59837,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. R712-12 (T)
 
 
-### CHAPITRE II : Contrôle de la formation professionnelle<a id=567></a>
+### CHAPITRE II : Contrôle de la formation professionnelle<a id=579></a>
 
 ###### Article R712-1
 
@@ -56748,7 +60091,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R712-7 (VT)
 
 
-### CHAPITRE III : Organisme collecteur paritaire et organismes de formation<a id=568></a>
+### CHAPITRE III : Organisme collecteur paritaire et organismes de formation<a id=580></a>
 
 ###### Article R713-1
 
@@ -57291,15 +60634,15 @@ _Abrogé par_:
   - Décret n°2013-800 du 2 septembre 2013 - art. 1
 
 
-# Partie réglementaire  - Décrets simples<a id=569></a>
+# Partie réglementaire  - Décrets simples<a id=581></a>
 
-## Livre 1er : Conventions relatives au travail<a id=570></a>
+## Livre 1er : Conventions relatives au travail<a id=582></a>
 
-### Titre 4 : Salaire<a id=571></a>
+### Titre 4 : Salaire<a id=583></a>
 
-#### Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG*<a id=572></a>
+#### Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG*<a id=584></a>
 
-##### Section 1 : Dispositions générales<a id=573></a>
+##### Section 1 : Dispositions générales<a id=585></a>
 
 ###### Article D141-1
 
@@ -57362,7 +60705,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D141-2-2 (Ab)
 
 
-##### Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement<a id=574></a>
+##### Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement<a id=586></a>
 
 ###### Article D141-3
 
@@ -57535,11 +60878,11 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D141-2-7 (Ab)
 
 
-## Livre 2 : Réglementation du travail<a id=575></a>
+## Livre 2 : Réglementation du travail<a id=587></a>
 
-### Titre 1er : Conditions de travail<a id=576></a>
+### Titre 1er : Conditions de travail<a id=588></a>
 
-#### Chapitre 1er : Age d'admission<a id=577></a>
+#### Chapitre 1er : Age d'admission<a id=589></a>
 
 ###### Article D211-1
 
@@ -57623,9 +60966,9 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Chapitre 2 : Durée du travail<a id=578></a>
+#### Chapitre 2 : Durée du travail<a id=590></a>
 
-##### Section 1 : Récupération des heures perdues<a id=579></a>
+##### Section 1 : Récupération des heures perdues<a id=591></a>
 
 ###### Article D212-1
 
@@ -57785,9 +61128,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D212-8 (Ab)
 
 
-### Titre 2 : Repos et congés<a id=580></a>
+### Titre 2 : Repos et congés<a id=592></a>
 
-#### Chapitre 3 : Congés annuels<a id=581></a>
+#### Chapitre 3 : Congés annuels<a id=593></a>
 
 ###### Article D223-1
 
@@ -57911,9 +61254,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D223-5 (V)
 
 
-### Titre 3 : Hygiène et sécurité<a id=582></a>
+### Titre 3 : Hygiène et sécurité<a id=594></a>
 
-#### Chapitre 3 : Sécurité.<a id=583></a>
+#### Chapitre 3 : Sécurité.<a id=595></a>
 
 ###### Article D233-1
 
@@ -58275,11 +61618,11 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D233-80-9 (Ab)
 
 
-## Livre 3 : Emploi<a id=584></a>
+## Livre 3 : Emploi<a id=596></a>
 
-### Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin<a id=585></a>
+### Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin<a id=597></a>
 
-#### Chapitre 2 : Travail clandestin<a id=586></a>
+#### Chapitre 2 : Travail clandestin<a id=598></a>
 
 ###### Article D312-1
 
@@ -58319,7 +61662,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D312-9 (Ab)
 
 
-#### Chapitre 3 : Répression du travail illégal<a id=587></a>
+#### Chapitre 3 : Répression du travail illégal<a id=599></a>
 
 ###### Article D313-1
 
@@ -58364,9 +61707,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L313-3
 
 
-### Titre 2 : Aides à l'emploi - Intervention du fonds national de l'emploi<a id=588></a>
+### Titre 2 : Aides à l'emploi - Intervention du fonds national de l'emploi<a id=600></a>
 
-#### Chapitre 4 : Dispositions particulières relatives à l'emploi des jeunes - Projet initiative-jeune<a id=589></a>
+#### Chapitre 4 : Dispositions particulières relatives à l'emploi des jeunes - Projet initiative-jeune<a id=601></a>
 
 ###### Article D324-9
 
@@ -58401,7 +61744,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D324-2 (Ab)
 
 
-#### Chapitre 5 : Dispositions relatives à la création d'entreprises et à la création d'emplois - Aide à la création d'entreprises à l'initiative des demandeurs d'emploi<a id=590></a>
+#### Chapitre 5 : Dispositions relatives à la création d'entreprises et à la création d'emplois - Aide à la création d'entreprises à l'initiative des demandeurs d'emploi<a id=602></a>
 
 ###### Article D325-1
 
@@ -58450,9 +61793,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D325-1-1 (Ab)
 
 
-#### Chapitre 7 : Indemnisation du chômage<a id=591></a>
+#### Chapitre 7 : Indemnisation du chômage<a id=603></a>
 
-##### Section 2 : Perte temporaire de salaire<a id=592></a>
+##### Section 2 : Perte temporaire de salaire<a id=604></a>
 
 ###### Article D327-10
 
@@ -58482,11 +61825,11 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D321-12-1 (Ab)
 
 
-## Livre 4 : Les groupements professionnels - La représentation des salariés<a id=593></a>
+## Livre 4 : Les groupements professionnels - La représentation des salariés<a id=605></a>
 
-### Titre 4 : Les comités d'entreprise<a id=594></a>
+### Titre 4 : Les comités d'entreprise<a id=606></a>
 
-#### Chapitre 2 : Attributions et pouvoirs.<a id=595></a>
+#### Chapitre 2 : Attributions et pouvoirs.<a id=607></a>
 
 ###### Article D442-1
 
@@ -58607,11 +61950,11 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L442-8
 
 
-## Livre 5 : Conflits du travail<a id=596></a>
+## Livre 5 : Conflits du travail<a id=608></a>
 
-### Titre 1er : Conflits collectifs<a id=597></a>
+### Titre 1er : Conflits collectifs<a id=609></a>
 
-#### Chapitre 4 : Médiation<a id=598></a>
+#### Chapitre 4 : Médiation<a id=610></a>
 
 ###### Article D514-1
 
@@ -58728,9 +62071,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D514-10 (Ab)
 
 
-## Livre 7 : De la formation professionnelle<a id=599></a>
+## Livre 7 : De la formation professionnelle<a id=611></a>
 
-### Chapitre 2 : Contrats de formation en alternance Section 1 : Contrats de qualification<a id=600></a>
+### Chapitre 2 : Contrats de formation en alternance Section 1 : Contrats de qualification<a id=612></a>
 
 ###### Article D712-1
 
@@ -58975,7 +62318,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D711-8 (Ab)
 
 
-### Chapitre 2 : Contrats de formation en alternance Section 2 : Contrats d'orientation<a id=601></a>
+### Chapitre 2 : Contrats de formation en alternance Section 2 : Contrats d'orientation<a id=613></a>
 
 ###### Article D712-8
 
@@ -59156,7 +62499,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D711-12 (VT)
 
 
-### Chapitre 2 : Contrats de formation en alternance Section 3 : Dispositions communes aux contrats de qualification et d'orientation<a id=602></a>
+### Chapitre 2 : Contrats de formation en alternance Section 3 : Dispositions communes aux contrats de qualification et d'orientation<a id=614></a>
 
 ###### Article D712-12
 
