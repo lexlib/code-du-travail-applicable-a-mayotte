@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2009-05-29
+Version Consolidée au 2009-06-09
 ## Contenu: 
   - [Partie législative (art. L000-1 à L711-4-1)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L000-1 à L000-6)](#2)
@@ -519,102 +519,101 @@ Version Consolidée au 2009-05-29
         - [Chapitre 3 : Dispositions relatives au contrat de retour à l'emploi (art. R323-1 à R323-7)](#516)
         - [CHAPITRE IV : Dispositions particulières relatives à l'emploi des jeunes (art. R324-1)](#517)
           - [Projet initiative-jeune (art. R324-1)](#518)
-        - [CHAPITRE V : Dispositions relatives à la création d'entreprises et à la création d'emplois (art. R325-1 à R325-9)](#519)
+        - [CHAPITRE V : Dispositions relatives à la création d'entreprises et à la création d'emplois (art. R325-1 à R325-8)](#519)
           - [Section 1 : Aide à la création d'entreprises à l'initiative des demandeurs d'emploi (art. R325-1 à R325-2)](#520)
           - [Section 3 : Agence mahoraise pour le développement d'activités d'utilité sociale (art. R325-3 à R325-8)](#521)
-          - [Section 4 : Fonds pour l'emploi (art. R325-9)](#522)
-        - [CHAPITRE VI : Placement (art. R326-1 à R326-34)](#523)
-          - [Section 1 : Agence nationale pour l'emploi (art. R326-1 à R326-7)](#524)
-          - [Section 2 : Organismes qui concourent au service public du placement (art. R326-8 à R326-12)](#525)
-          - [Section 3 : Notification par les employeurs des places vacantes (art. R326-13)](#526)
-          - [Section 4 : Inscription et radiation de la liste des demandeurs d'emploi (art. R326-14 à R326-22)](#527)
-          - [Section 5 : Collectivités territoriales (art. R326-23 à R326-28)](#528)
-          - [Section 6 : Dispositions diverses (art. R326-29 à R326-34)](#529)
-        - [CHAPITRE VII : Indemnisation du chômage (art. R327-10 à R327-14)](#530)
-          - [Section 2 : Perte temporaire de salaire (art. R327-10 à R327-14)](#531)
-      - [TITRE III : Main-d'oeuvre étrangère (art. R330-1 à R330-11)](#532)
-        - [Section 1 : Etrangers. (art. R330-1 à R330-7)](#533)
-        - [Section 2 : Sanction administrative pour l'emploi d'étrangers sans titre de travail. (art. R330-8 à R330-11)](#534)
-      - [TITRE IV : Pénalités (art. R341-1 à R343-1)](#535)
-        - [CHAPITRE Ier : Travail clandestin (art. R341-1)](#536)
-        - [CHAPITRE II : Déclaration des mouvements de main-d'oeuvre (art. R342-1 à R342-2)](#537)
-        - [CHAPITRE III : Licenciement pour motif économique (art. R343-1)](#538)
-    - [LIVRE IV : Les groupements professionnels - La représentation des salariés (art. R411-1 à R451-1)](#539)
-      - [TITRE Ier : Les syndicats professionnels (art. R411-1 à R412-1)](#540)
-        - [CHAPITRE Ier : Statut juridique des syndicats (art. R411-1)](#541)
-        - [CHAPITRE II : Droit syndical et représentativité des syndicats (art. R412-1)](#542)
-          - [Section 1 : Critères de représentativité (art. R412-1)](#543)
-      - [TITRE III : Les délégués du personnel (art. R432-1 à R435-1)](#544)
-        - [CHAPITRE II : Attributions et pouvoirs (art. R432-1 à R432-3)](#545)
-        - [CHAPITRE III : Composition et élections (art. R433-1 à R433-6)](#546)
-        - [CHAPITRE V : Licenciement des délégués du personnel (art. R435-1)](#547)
-      - [TITRE IV : Les comités d'entreprise (art. R441-1 à R445-10)](#548)
-        - [CHAPITRE Ier : Champ d'application (art. R441-1)](#549)
-        - [CHAPITRE II : Attributions et pouvoirs (art. R442-1 à R442-21)](#550)
-          - [Section 1 : Personnalité civile. (art. R442-1)](#551)
-          - [Section 2 : Institutions sociales d'entreprises. (art. R442-2 à R442-3)](#552)
-          - [Section 3 : Gestion des activités sociales et culturelles. (art. R442-4 à R442-7)](#553)
-          - [Section 4 : Comités interentreprises. (art. R442-8 à R442-10)](#554)
-          - [Section 5 : Financement des activités sociales et culturelles. (art. R442-11 à R442-16)](#555)
-          - [Section 6 : Attributions économiques. (art. R442-17 à R442-18)](#556)
-          - [Section 7 : Rapport annuel d'information du comité d'entreprise dans les entreprises de moins de trois cents salariés. (art. R442-19)](#557)
-          - [Section 8 : Prérogatives du comité d'entreprise dans les assemblées générales d'actionnaires. (art. R442-20 à R442-21)](#558)
-        - [CHAPITRE III : Composition et élections (art. R443-1 à R443-5)](#559)
-        - [CHAPITRE IV : Fonctionnement (art. R444-1 à R444-3)](#560)
-        - [CHAPITRE V : Licenciement des représentants du personnel, des représentants syndicaux et des salariés assimilés (art. R445-1 à R445-10)](#561)
-      - [TITRE V : Pénalités (art. R451-1)](#562)
-    - [LIVRE V : Conflits du travail (art. R513-1 à R520-1)](#563)
-      - [TITRE Ier : Conflits collectifs (art. R513-1 à R515-2)](#564)
-        - [CHAPITRE III : Conciliation (art. R513-1 à R513-10)](#565)
-          - [Section 1 : Composition des commissions de conciliation. (art. R513-2 à R513-3)](#566)
-          - [Section 2 : Fonctionnement des commissions de conciliation. (art. R513-4 à R513-10)](#567)
-        - [CHAPITRE IV : Médiation (art. R514-1 à R514-6)](#568)
-        - [CHAPITRE V : Arbitrage (art. R515-1 à R515-2)](#569)
-      - [TITRE II : Pénalités (art. R520-1)](#570)
-    - [LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail (art. R610-1 à R632-2)](#571)
-      - [TITRE Ier : Services de contrôle (art. R610-1 à R610-3)](#572)
-      - [TITRE II : Obligations des employeurs (art. R620-1 à R620-5)](#573)
-      - [TITRE III : Pénalités (art. R631-1 à R632-2)](#574)
-        - [CHAPITRE Ier : Service de contrôle (art. R631-1)](#575)
-        - [CHAPITRE II : Obligations des employeurs (art. R632-1 à R632-2)](#576)
-    - [LIVRE VII : Formation professionnelle (art. R711-1 à R713-16)](#577)
-      - [Chapitre 1er : Dispositions communes aux contrats de qualification et aux contrats d'orientation (art. R711-1)](#578)
-      - [CHAPITRE II : Contrôle de la formation professionnelle (art. R712-1 à R712-8)](#579)
-      - [CHAPITRE III : Organisme collecteur paritaire et organismes de formation (art. R713-1 à R713-16)](#580)
-  - [Partie réglementaire  - Décrets simples (art. D141-1 à D712-17)](#581)
-    - [Livre 1er : Conventions relatives au travail (art. D141-1 à D141-7)](#582)
-      - [Titre 4 : Salaire (art. D141-1 à D141-7)](#583)
-        - [Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG* (art. D141-1 à D141-7)](#584)
-          - [Section 1 : Dispositions générales (art. D141-1 à D141-2)](#585)
-          - [Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement (art. D141-3 à D141-7)](#586)
-    - [Livre 2 : Réglementation du travail (art. D211-1 à D233-9)](#587)
-      - [Titre 1er : Conditions de travail (art. D211-1 à D212-5)](#588)
-        - [Chapitre 1er : Age d'admission (art. D211-1 à D211-4)](#589)
-        - [Chapitre 2 : Durée du travail (art. D212-1 à D212-5)](#590)
-          - [Section 1 : Récupération des heures perdues (art. D212-1 à D212-5)](#591)
-      - [Titre 2 : Repos et congés (art. D223-1 à D223-4)](#592)
-        - [Chapitre 3 : Congés annuels (art. D223-1 à D223-4)](#593)
-      - [Titre 3 : Hygiène et sécurité (art. D233-1 à D233-9)](#594)
-        - [Chapitre 3 : Sécurité. (art. D233-1 à D233-9)](#595)
-    - [Livre 3 : Emploi (art. D312-1 à D327-10)](#596)
-      - [Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin (art. D312-1 à D313-2)](#597)
-        - [Chapitre 2 : Travail clandestin (art. D312-1)](#598)
-        - [Chapitre 3 : Répression du travail illégal (art. D313-1 à D313-2)](#599)
-      - [Titre 2 : Aides à l'emploi - Intervention du fonds national de l'emploi (art. D324-9 à D327-10)](#600)
-        - [Chapitre 4 : Dispositions particulières relatives à l'emploi des jeunes - Projet initiative-jeune (art. D324-9)](#601)
-        - [Chapitre 5 : Dispositions relatives à la création d'entreprises et à la création d'emplois - Aide à la création d'entreprises à l'initiative des demandeurs d'emploi (art. D325-1)](#602)
-        - [Chapitre 7 : Indemnisation du chômage (art. D327-10)](#603)
-          - [Section 2 : Perte temporaire de salaire (art. D327-10)](#604)
-    - [Livre 4 : Les groupements professionnels - La représentation des salariés (art. D442-1)](#605)
-      - [Titre 4 : Les comités d'entreprise (art. D442-1)](#606)
-        - [Chapitre 2 : Attributions et pouvoirs. (art. D442-1)](#607)
-    - [Livre 5 : Conflits du travail (art. D514-1 à D514-4)](#608)
-      - [Titre 1er : Conflits collectifs (art. D514-1 à D514-4)](#609)
-        - [Chapitre 4 : Médiation (art. D514-1 à D514-4)](#610)
-    - [Livre 7 : De la formation professionnelle (art. D712-1 à D712-17)](#611)
-      - [Chapitre 2 : Contrats de formation en alternance Section 1 : Contrats de qualification (art. D712-1 à D712-7)](#612)
-      - [Chapitre 2 : Contrats de formation en alternance Section 2 : Contrats d'orientation (art. D712-8 à D712-11)](#613)
-      - [Chapitre 2 : Contrats de formation en alternance Section 3 : Dispositions communes aux contrats de qualification et d'orientation (art. D712-12 à D712-17)](#614)
+        - [CHAPITRE VI : Placement (art. R326-1 à R326-34)](#522)
+          - [Section 1 : Agence nationale pour l'emploi (art. R326-1 à R326-7)](#523)
+          - [Section 2 : Organismes qui concourent au service public du placement (art. R326-8 à R326-12)](#524)
+          - [Section 3 : Notification par les employeurs des places vacantes (art. R326-13)](#525)
+          - [Section 4 : Inscription et radiation de la liste des demandeurs d'emploi (art. R326-14 à R326-22)](#526)
+          - [Section 5 : Collectivités territoriales (art. R326-23 à R326-28)](#527)
+          - [Section 6 : Dispositions diverses (art. R326-29 à R326-34)](#528)
+        - [CHAPITRE VII : Indemnisation du chômage (art. R327-10 à R327-14)](#529)
+          - [Section 2 : Perte temporaire de salaire (art. R327-10 à R327-14)](#530)
+      - [TITRE III : Main-d'oeuvre étrangère (art. R330-1 à R330-11)](#531)
+        - [Section 1 : Etrangers. (art. R330-1 à R330-7)](#532)
+        - [Section 2 : Sanction administrative pour l'emploi d'étrangers sans titre de travail. (art. R330-8 à R330-11)](#533)
+      - [TITRE IV : Pénalités (art. R341-1 à R343-1)](#534)
+        - [CHAPITRE Ier : Travail clandestin (art. R341-1)](#535)
+        - [CHAPITRE II : Déclaration des mouvements de main-d'oeuvre (art. R342-1 à R342-2)](#536)
+        - [CHAPITRE III : Licenciement pour motif économique (art. R343-1)](#537)
+    - [LIVRE IV : Les groupements professionnels - La représentation des salariés (art. R411-1 à R451-1)](#538)
+      - [TITRE Ier : Les syndicats professionnels (art. R411-1 à R412-1)](#539)
+        - [CHAPITRE Ier : Statut juridique des syndicats (art. R411-1)](#540)
+        - [CHAPITRE II : Droit syndical et représentativité des syndicats (art. R412-1)](#541)
+          - [Section 1 : Critères de représentativité (art. R412-1)](#542)
+      - [TITRE III : Les délégués du personnel (art. R432-1 à R435-1)](#543)
+        - [CHAPITRE II : Attributions et pouvoirs (art. R432-1 à R432-3)](#544)
+        - [CHAPITRE III : Composition et élections (art. R433-1 à R433-6)](#545)
+        - [CHAPITRE V : Licenciement des délégués du personnel (art. R435-1)](#546)
+      - [TITRE IV : Les comités d'entreprise (art. R441-1 à R445-10)](#547)
+        - [CHAPITRE Ier : Champ d'application (art. R441-1)](#548)
+        - [CHAPITRE II : Attributions et pouvoirs (art. R442-1 à R442-21)](#549)
+          - [Section 1 : Personnalité civile. (art. R442-1)](#550)
+          - [Section 2 : Institutions sociales d'entreprises. (art. R442-2 à R442-3)](#551)
+          - [Section 3 : Gestion des activités sociales et culturelles. (art. R442-4 à R442-7)](#552)
+          - [Section 4 : Comités interentreprises. (art. R442-8 à R442-10)](#553)
+          - [Section 5 : Financement des activités sociales et culturelles. (art. R442-11 à R442-16)](#554)
+          - [Section 6 : Attributions économiques. (art. R442-17 à R442-18)](#555)
+          - [Section 7 : Rapport annuel d'information du comité d'entreprise dans les entreprises de moins de trois cents salariés. (art. R442-19)](#556)
+          - [Section 8 : Prérogatives du comité d'entreprise dans les assemblées générales d'actionnaires. (art. R442-20 à R442-21)](#557)
+        - [CHAPITRE III : Composition et élections (art. R443-1 à R443-5)](#558)
+        - [CHAPITRE IV : Fonctionnement (art. R444-1 à R444-3)](#559)
+        - [CHAPITRE V : Licenciement des représentants du personnel, des représentants syndicaux et des salariés assimilés (art. R445-1 à R445-10)](#560)
+      - [TITRE V : Pénalités (art. R451-1)](#561)
+    - [LIVRE V : Conflits du travail (art. R513-1 à R520-1)](#562)
+      - [TITRE Ier : Conflits collectifs (art. R513-1 à R515-2)](#563)
+        - [CHAPITRE III : Conciliation (art. R513-1 à R513-10)](#564)
+          - [Section 1 : Composition des commissions de conciliation. (art. R513-2 à R513-3)](#565)
+          - [Section 2 : Fonctionnement des commissions de conciliation. (art. R513-4 à R513-10)](#566)
+        - [CHAPITRE IV : Médiation (art. R514-1 à R514-6)](#567)
+        - [CHAPITRE V : Arbitrage (art. R515-1 à R515-2)](#568)
+      - [TITRE II : Pénalités (art. R520-1)](#569)
+    - [LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail (art. R610-1 à R632-2)](#570)
+      - [TITRE Ier : Services de contrôle (art. R610-1 à R610-3)](#571)
+      - [TITRE II : Obligations des employeurs (art. R620-1 à R620-5)](#572)
+      - [TITRE III : Pénalités (art. R631-1 à R632-2)](#573)
+        - [CHAPITRE Ier : Service de contrôle (art. R631-1)](#574)
+        - [CHAPITRE II : Obligations des employeurs (art. R632-1 à R632-2)](#575)
+    - [LIVRE VII : Formation professionnelle (art. R711-1 à R713-16)](#576)
+      - [Chapitre 1er : Dispositions communes aux contrats de qualification et aux contrats d'orientation (art. R711-1)](#577)
+      - [CHAPITRE II : Contrôle de la formation professionnelle (art. R712-1 à R712-8)](#578)
+      - [CHAPITRE III : Organisme collecteur paritaire et organismes de formation (art. R713-1 à R713-16)](#579)
+  - [Partie réglementaire  - Décrets simples (art. D141-1 à D712-17)](#580)
+    - [Livre 1er : Conventions relatives au travail (art. D141-1 à D141-7)](#581)
+      - [Titre 4 : Salaire (art. D141-1 à D141-7)](#582)
+        - [Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG* (art. D141-1 à D141-7)](#583)
+          - [Section 1 : Dispositions générales (art. D141-1 à D141-2)](#584)
+          - [Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement (art. D141-3 à D141-7)](#585)
+    - [Livre 2 : Réglementation du travail (art. D211-1 à D233-9)](#586)
+      - [Titre 1er : Conditions de travail (art. D211-1 à D212-5)](#587)
+        - [Chapitre 1er : Age d'admission (art. D211-1 à D211-4)](#588)
+        - [Chapitre 2 : Durée du travail (art. D212-1 à D212-5)](#589)
+          - [Section 1 : Récupération des heures perdues (art. D212-1 à D212-5)](#590)
+      - [Titre 2 : Repos et congés (art. D223-1 à D223-4)](#591)
+        - [Chapitre 3 : Congés annuels (art. D223-1 à D223-4)](#592)
+      - [Titre 3 : Hygiène et sécurité (art. D233-1 à D233-9)](#593)
+        - [Chapitre 3 : Sécurité. (art. D233-1 à D233-9)](#594)
+    - [Livre 3 : Emploi (art. D312-1 à D327-10)](#595)
+      - [Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin (art. D312-1 à D313-2)](#596)
+        - [Chapitre 2 : Travail clandestin (art. D312-1)](#597)
+        - [Chapitre 3 : Répression du travail illégal (art. D313-1 à D313-2)](#598)
+      - [Titre 2 : Aides à l'emploi - Intervention du fonds national de l'emploi (art. D324-9 à D327-10)](#599)
+        - [Chapitre 4 : Dispositions particulières relatives à l'emploi des jeunes - Projet initiative-jeune (art. D324-9)](#600)
+        - [Chapitre 5 : Dispositions relatives à la création d'entreprises et à la création d'emplois - Aide à la création d'entreprises à l'initiative des demandeurs d'emploi (art. D325-1)](#601)
+        - [Chapitre 7 : Indemnisation du chômage (art. D327-10)](#602)
+          - [Section 2 : Perte temporaire de salaire (art. D327-10)](#603)
+    - [Livre 4 : Les groupements professionnels - La représentation des salariés (art. D442-1)](#604)
+      - [Titre 4 : Les comités d'entreprise (art. D442-1)](#605)
+        - [Chapitre 2 : Attributions et pouvoirs. (art. D442-1)](#606)
+    - [Livre 5 : Conflits du travail (art. D514-1 à D514-4)](#607)
+      - [Titre 1er : Conflits collectifs (art. D514-1 à D514-4)](#608)
+        - [Chapitre 4 : Médiation (art. D514-1 à D514-4)](#609)
+    - [Livre 7 : De la formation professionnelle (art. D712-1 à D712-17)](#610)
+      - [Chapitre 2 : Contrats de formation en alternance Section 1 : Contrats de qualification (art. D712-1 à D712-7)](#611)
+      - [Chapitre 2 : Contrats de formation en alternance Section 2 : Contrats d'orientation (art. D712-8 à D712-11)](#612)
+      - [Chapitre 2 : Contrats de formation en alternance Section 3 : Dispositions communes aux contrats de qualification et d'orientation (art. D712-12 à D712-17)](#613)
 # Partie législative<a id=1></a>
 
 ## LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES.<a id=2></a>
@@ -55341,62 +55340,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R325-7 (Ab)
 
 
-##### Section 4 : Fonds pour l'emploi<a id=522></a>
+#### CHAPITRE VI : Placement<a id=522></a>
 
-###### Article R325-9
-
-I. - Les ressources qui sont attribuées à Mayotte par le Fonds pour l'emploi dans les départements d'outre-mer, à Saint-
-Pierre-et-Miquelon et à Mayotte (FEDOM) proviennent des crédits ouverts chaque année au budget du ministère de l'outre-mer.
-Les conditions de fonctionnement de ce fonds sont prévues aux articles R. 835-1 à R. 835-10 du code du travail applicable
-dans les départements de métropole et d'outre-mer.
-
-II. - Les dépenses du FEDOM au profit de Mayotte correspondent aux actions suivantes :
-
-1° Le financement des contrats emploi-solidarité prévus à l'article L. 322-1 ;
-
-2° Le financement des contrats emploi consolidé prévus à l'article L. 322-7 ;
-
-3° Le financement du projet initiative-jeune prévu à l'article L. 324-9 ;
-
-4° Le financement de la prime à la création d'emploi prévue à l'article L. 325-2 ;
-
-5° L'attribution à l'agence mahoraise pour le développement d'activités d'utilité sociale des contributions de l'Etat au
-titre des contrats emploi-développement mentionnés à l'article L. 325-6 ;
-
-6° Le versement à l'agence mahoraise pour le développement d'activités d'utilité sociale de la subvention mentionnée à
-l'article L. 325-8.
-
-Par ailleurs, le fonds prend en charge ses dépenses de fonctionnement, l'évaluation et le suivi des actions qu'il finance.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°91-1263 1991-12-16 annexe
-
-_Modifié par_:
-
-  - Décret n°2004-93 2004-01-27 art. 4 I, IV JORF 29 janvier 2004
-  - Décret n°2004-93 du 27 janvier 2004 - art. 4 () JORF 29 janvier 2004
-
-_Abrogé par_:
-
-  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
-
-_Cite_:
-
-  - Code du travail R835-1 à R835-10
-  - Code du travail applicable à Mayotte. - art. L322-1 (M)
-  - Code du travail applicable à Mayotte. - art. L322-7 (M)
-  - Code du travail applicable à Mayotte. - art. L324-9 (V)
-  - Code du travail applicable à Mayotte. - art. L325-2 (M)
-  - Code du travail applicable à Mayotte. - art. L325-6 (V)
-  - Code du travail applicable à Mayotte. - art. L325-8 (V)
-
-
-#### CHAPITRE VI : Placement<a id=523></a>
-
-##### Section 1 : Agence nationale pour l'emploi<a id=524></a>
+##### Section 1 : Agence nationale pour l'emploi<a id=523></a>
 
 ###### Article R326-1
 
@@ -55613,7 +55559,7 @@ _Créé par_:
   - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
 
 
-##### Section 2 : Organismes qui concourent au service public du placement<a id=525></a>
+##### Section 2 : Organismes qui concourent au service public du placement<a id=524></a>
 
 ###### Article R326-8
 
@@ -55741,7 +55687,7 @@ _Créé par_:
   - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
 
 
-##### Section 3 : Notification par les employeurs des places vacantes<a id=526></a>
+##### Section 3 : Notification par les employeurs des places vacantes<a id=525></a>
 
 ###### Article R326-13
 
@@ -55763,7 +55709,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L326-2 (T)
 
 
-##### Section 4 : Inscription et radiation de la liste des demandeurs d'emploi<a id=527></a>
+##### Section 4 : Inscription et radiation de la liste des demandeurs d'emploi<a id=526></a>
 
 ###### Article R326-14
 
@@ -56035,7 +55981,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R326-21 (V)
 
 
-##### Section 5 : Collectivités territoriales<a id=528></a>
+##### Section 5 : Collectivités territoriales<a id=527></a>
 
 ###### Article R326-23
 
@@ -56158,7 +56104,7 @@ _Créé par_:
   - Décret n°2004-253 du 19 mars 2004 - art. 15 () JORF 21 mars 2004 en vigueur le 1er janvier 2005
 
 
-##### Section 6 : Dispositions diverses<a id=529></a>
+##### Section 6 : Dispositions diverses<a id=528></a>
 
 ###### Article R326-29
 
@@ -56311,9 +56257,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. R811-4 (Ab)
 
 
-#### CHAPITRE VII : Indemnisation du chômage<a id=530></a>
+#### CHAPITRE VII : Indemnisation du chômage<a id=529></a>
 
-##### Section 2 : Perte temporaire de salaire<a id=531></a>
+##### Section 2 : Perte temporaire de salaire<a id=530></a>
 
 ###### Article R327-10
 
@@ -56560,9 +56506,9 @@ _Anciens textes_:
   - Code du travail applicable à Mayotte. - art. R327-23 (T)
 
 
-### TITRE III : Main-d'oeuvre étrangère<a id=532></a>
+### TITRE III : Main-d'oeuvre étrangère<a id=531></a>
 
-#### Section 1 : Etrangers.<a id=533></a>
+#### Section 1 : Etrangers.<a id=532></a>
 
 ###### Article R330-1
 
@@ -56808,7 +56754,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. R330-9 (M)
 
 
-#### Section 2 : Sanction administrative pour l'emploi d'étrangers sans titre de travail.<a id=534></a>
+#### Section 2 : Sanction administrative pour l'emploi d'étrangers sans titre de travail.<a id=533></a>
 
 ###### Article R330-8
 
@@ -56975,9 +56921,9 @@ _Anciens textes_:
   - Code du travail applicable à Mayotte. - art. R330-9 (T)
 
 
-### TITRE IV : Pénalités<a id=535></a>
+### TITRE IV : Pénalités<a id=534></a>
 
-#### CHAPITRE Ier : Travail clandestin<a id=536></a>
+#### CHAPITRE Ier : Travail clandestin<a id=535></a>
 
 ###### Article R341-1
 
@@ -57006,7 +56952,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R312-1
 
 
-#### CHAPITRE II : Déclaration des mouvements de main-d'oeuvre<a id=537></a>
+#### CHAPITRE II : Déclaration des mouvements de main-d'oeuvre<a id=536></a>
 
 ###### Article R342-1
 
@@ -57079,7 +57025,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R311-5
 
 
-#### CHAPITRE III : Licenciement pour motif économique<a id=538></a>
+#### CHAPITRE III : Licenciement pour motif économique<a id=537></a>
 
 ###### Article R343-1
 
@@ -57108,11 +57054,11 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R320-1 (Ab)
 
 
-## LIVRE IV : Les groupements professionnels - La représentation des salariés<a id=539></a>
+## LIVRE IV : Les groupements professionnels - La représentation des salariés<a id=538></a>
 
-### TITRE Ier : Les syndicats professionnels<a id=540></a>
+### TITRE Ier : Les syndicats professionnels<a id=539></a>
 
-#### CHAPITRE Ier : Statut juridique des syndicats<a id=541></a>
+#### CHAPITRE Ier : Statut juridique des syndicats<a id=540></a>
 
 ###### Article R411-1
 
@@ -57144,9 +57090,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R451-1 (V)
 
 
-#### CHAPITRE II : Droit syndical et représentativité des syndicats<a id=542></a>
+#### CHAPITRE II : Droit syndical et représentativité des syndicats<a id=541></a>
 
-##### Section 1 : Critères de représentativité<a id=543></a>
+##### Section 1 : Critères de représentativité<a id=542></a>
 
 ###### Article R412-1
 
@@ -57171,9 +57117,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L133-1
 
 
-### TITRE III : Les délégués du personnel<a id=544></a>
+### TITRE III : Les délégués du personnel<a id=543></a>
 
-#### CHAPITRE II : Attributions et pouvoirs<a id=545></a>
+#### CHAPITRE II : Attributions et pouvoirs<a id=544></a>
 
 ###### Article R432-1
 
@@ -57250,7 +57196,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L620-5
 
 
-#### CHAPITRE III : Composition et élections<a id=546></a>
+#### CHAPITRE III : Composition et élections<a id=545></a>
 
 ###### Article R433-1
 
@@ -57480,7 +57426,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L433-3
 
 
-#### CHAPITRE V : Licenciement des délégués du personnel<a id=547></a>
+#### CHAPITRE V : Licenciement des délégués du personnel<a id=546></a>
 
 ###### Article R435-1
 
@@ -57507,9 +57453,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R445-1
 
 
-### TITRE IV : Les comités d'entreprise<a id=548></a>
+### TITRE IV : Les comités d'entreprise<a id=547></a>
 
-#### CHAPITRE Ier : Champ d'application<a id=549></a>
+#### CHAPITRE Ier : Champ d'application<a id=548></a>
 
 ###### Article R441-1
 
@@ -57535,9 +57481,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L441-4
 
 
-#### CHAPITRE II : Attributions et pouvoirs<a id=550></a>
+#### CHAPITRE II : Attributions et pouvoirs<a id=549></a>
 
-##### Section 1 : Personnalité civile.<a id=551></a>
+##### Section 1 : Personnalité civile.<a id=550></a>
 
 ###### Article R442-1
 
@@ -57563,7 +57509,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L441-8
 
 
-##### Section 2 : Institutions sociales d'entreprises.<a id=552></a>
+##### Section 2 : Institutions sociales d'entreprises.<a id=551></a>
 
 ###### Article R442-2
 
@@ -57638,7 +57584,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R442-6
 
 
-##### Section 3 : Gestion des activités sociales et culturelles.<a id=553></a>
+##### Section 3 : Gestion des activités sociales et culturelles.<a id=552></a>
 
 ###### Article R442-4
 
@@ -57780,7 +57726,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 4 : Comités interentreprises.<a id=554></a>
+##### Section 4 : Comités interentreprises.<a id=553></a>
 
 ###### Article R442-8
 
@@ -57890,7 +57836,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L444-8
 
 
-##### Section 5 : Financement des activités sociales et culturelles.<a id=555></a>
+##### Section 5 : Financement des activités sociales et culturelles.<a id=554></a>
 
 ###### Article R442-11
 
@@ -58078,7 +58024,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 6 : Attributions économiques.<a id=556></a>
+##### Section 6 : Attributions économiques.<a id=555></a>
 
 ###### Article R442-17
 
@@ -58129,7 +58075,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 7 : Rapport annuel d'information du comité d'entreprise dans les entreprises de moins de trois cents salariés.<a id=557></a>
+##### Section 7 : Rapport annuel d'information du comité d'entreprise dans les entreprises de moins de trois cents salariés.<a id=556></a>
 
 ###### Article R442-19
 
@@ -58251,7 +58197,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L442-12
 
 
-##### Section 8 : Prérogatives du comité d'entreprise dans les assemblées générales d'actionnaires.<a id=558></a>
+##### Section 8 : Prérogatives du comité d'entreprise dans les assemblées générales d'actionnaires.<a id=557></a>
 
 ###### Article R442-20
 
@@ -58321,7 +58267,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-#### CHAPITRE III : Composition et élections<a id=559></a>
+#### CHAPITRE III : Composition et élections<a id=558></a>
 
 ###### Article R443-1
 
@@ -58496,7 +58442,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L443-6
 
 
-#### CHAPITRE IV : Fonctionnement<a id=560></a>
+#### CHAPITRE IV : Fonctionnement<a id=559></a>
 
 ###### Article R444-1
 
@@ -58567,7 +58513,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R443-4 (Ab)
 
 
-#### CHAPITRE V : Licenciement des représentants du personnel, des représentants syndicaux et des salariés assimilés<a id=561></a>
+#### CHAPITRE V : Licenciement des représentants du personnel, des représentants syndicaux et des salariés assimilés<a id=560></a>
 
 ###### Article R445-1
 
@@ -58873,7 +58819,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R445-4
 
 
-### TITRE V : Pénalités<a id=562></a>
+### TITRE V : Pénalités<a id=561></a>
 
 ###### Article R451-1
 
@@ -58895,11 +58841,11 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R411-1 (M)
 
 
-## LIVRE V : Conflits du travail<a id=563></a>
+## LIVRE V : Conflits du travail<a id=562></a>
 
-### TITRE Ier : Conflits collectifs<a id=564></a>
+### TITRE Ier : Conflits collectifs<a id=563></a>
 
-#### CHAPITRE III : Conciliation<a id=565></a>
+#### CHAPITRE III : Conciliation<a id=564></a>
 
 ###### Article R513-1
 
@@ -58921,7 +58867,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 1 : Composition des commissions de conciliation.<a id=566></a>
+##### Section 1 : Composition des commissions de conciliation.<a id=565></a>
 
 ###### Article R513-2
 
@@ -58975,7 +58921,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 2 : Fonctionnement des commissions de conciliation.<a id=567></a>
+##### Section 2 : Fonctionnement des commissions de conciliation.<a id=566></a>
 
 ###### Article R513-4
 
@@ -59167,7 +59113,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-#### CHAPITRE IV : Médiation<a id=568></a>
+#### CHAPITRE IV : Médiation<a id=567></a>
 
 ###### Article R514-1
 
@@ -59328,7 +59274,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-#### CHAPITRE V : Arbitrage<a id=569></a>
+#### CHAPITRE V : Arbitrage<a id=568></a>
 
 ###### Article R515-1
 
@@ -59375,7 +59321,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-### TITRE II : Pénalités<a id=570></a>
+### TITRE II : Pénalités<a id=569></a>
 
 ###### Article R520-1
 
@@ -59403,9 +59349,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L153-1
 
 
-## LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=571></a>
+## LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=570></a>
 
-### TITRE Ier : Services de contrôle<a id=572></a>
+### TITRE Ier : Services de contrôle<a id=571></a>
 
 ###### Article R610-1
 
@@ -59476,7 +59422,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-### TITRE II : Obligations des employeurs<a id=573></a>
+### TITRE II : Obligations des employeurs<a id=572></a>
 
 ###### Article R620-1
 
@@ -59668,9 +59614,9 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-### TITRE III : Pénalités<a id=574></a>
+### TITRE III : Pénalités<a id=573></a>
 
-#### CHAPITRE Ier : Service de contrôle<a id=575></a>
+#### CHAPITRE Ier : Service de contrôle<a id=574></a>
 
 ###### Article R631-1
 
@@ -59698,7 +59644,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L610-8
 
 
-#### CHAPITRE II : Obligations des employeurs<a id=576></a>
+#### CHAPITRE II : Obligations des employeurs<a id=575></a>
 
 ###### Article R632-1
 
@@ -59758,9 +59704,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R632-1 (Ab)
 
 
-## LIVRE VII : Formation professionnelle<a id=577></a>
+## LIVRE VII : Formation professionnelle<a id=576></a>
 
-### Chapitre 1er : Dispositions communes aux contrats de qualification et aux contrats d'orientation<a id=578></a>
+### Chapitre 1er : Dispositions communes aux contrats de qualification et aux contrats d'orientation<a id=577></a>
 
 ###### Article R711-1
 
@@ -59807,7 +59753,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. R712-12 (T)
 
 
-### CHAPITRE II : Contrôle de la formation professionnelle<a id=579></a>
+### CHAPITRE II : Contrôle de la formation professionnelle<a id=578></a>
 
 ###### Article R712-1
 
@@ -60061,7 +60007,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R712-7 (VT)
 
 
-### CHAPITRE III : Organisme collecteur paritaire et organismes de formation<a id=580></a>
+### CHAPITRE III : Organisme collecteur paritaire et organismes de formation<a id=579></a>
 
 ###### Article R713-1
 
@@ -60604,15 +60550,15 @@ _Abrogé par_:
   - Décret n°2013-800 du 2 septembre 2013 - art. 1
 
 
-# Partie réglementaire  - Décrets simples<a id=581></a>
+# Partie réglementaire  - Décrets simples<a id=580></a>
 
-## Livre 1er : Conventions relatives au travail<a id=582></a>
+## Livre 1er : Conventions relatives au travail<a id=581></a>
 
-### Titre 4 : Salaire<a id=583></a>
+### Titre 4 : Salaire<a id=582></a>
 
-#### Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG*<a id=584></a>
+#### Chapitre 1er : Salaire minimum interprofessionnel garanti *SMIG*<a id=583></a>
 
-##### Section 1 : Dispositions générales<a id=585></a>
+##### Section 1 : Dispositions générales<a id=584></a>
 
 ###### Article D141-1
 
@@ -60675,7 +60621,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D141-2-2 (Ab)
 
 
-##### Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement<a id=586></a>
+##### Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement<a id=585></a>
 
 ###### Article D141-3
 
@@ -60848,11 +60794,11 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D141-2-7 (Ab)
 
 
-## Livre 2 : Réglementation du travail<a id=587></a>
+## Livre 2 : Réglementation du travail<a id=586></a>
 
-### Titre 1er : Conditions de travail<a id=588></a>
+### Titre 1er : Conditions de travail<a id=587></a>
 
-#### Chapitre 1er : Age d'admission<a id=589></a>
+#### Chapitre 1er : Age d'admission<a id=588></a>
 
 ###### Article D211-1
 
@@ -60936,9 +60882,9 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Chapitre 2 : Durée du travail<a id=590></a>
+#### Chapitre 2 : Durée du travail<a id=589></a>
 
-##### Section 1 : Récupération des heures perdues<a id=591></a>
+##### Section 1 : Récupération des heures perdues<a id=590></a>
 
 ###### Article D212-1
 
@@ -61098,9 +61044,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D212-8 (Ab)
 
 
-### Titre 2 : Repos et congés<a id=592></a>
+### Titre 2 : Repos et congés<a id=591></a>
 
-#### Chapitre 3 : Congés annuels<a id=593></a>
+#### Chapitre 3 : Congés annuels<a id=592></a>
 
 ###### Article D223-1
 
@@ -61224,9 +61170,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D223-5 (V)
 
 
-### Titre 3 : Hygiène et sécurité<a id=594></a>
+### Titre 3 : Hygiène et sécurité<a id=593></a>
 
-#### Chapitre 3 : Sécurité.<a id=595></a>
+#### Chapitre 3 : Sécurité.<a id=594></a>
 
 ###### Article D233-1
 
@@ -61588,11 +61534,11 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D233-80-9 (Ab)
 
 
-## Livre 3 : Emploi<a id=596></a>
+## Livre 3 : Emploi<a id=595></a>
 
-### Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin<a id=597></a>
+### Titre 1er : Déclarations de mouvements de main d'oeuvre - Travail clandestin<a id=596></a>
 
-#### Chapitre 2 : Travail clandestin<a id=598></a>
+#### Chapitre 2 : Travail clandestin<a id=597></a>
 
 ###### Article D312-1
 
@@ -61632,7 +61578,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D312-9 (Ab)
 
 
-#### Chapitre 3 : Répression du travail illégal<a id=599></a>
+#### Chapitre 3 : Répression du travail illégal<a id=598></a>
 
 ###### Article D313-1
 
@@ -61677,9 +61623,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L313-3
 
 
-### Titre 2 : Aides à l'emploi - Intervention du fonds national de l'emploi<a id=600></a>
+### Titre 2 : Aides à l'emploi - Intervention du fonds national de l'emploi<a id=599></a>
 
-#### Chapitre 4 : Dispositions particulières relatives à l'emploi des jeunes - Projet initiative-jeune<a id=601></a>
+#### Chapitre 4 : Dispositions particulières relatives à l'emploi des jeunes - Projet initiative-jeune<a id=600></a>
 
 ###### Article D324-9
 
@@ -61714,7 +61660,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D324-2 (Ab)
 
 
-#### Chapitre 5 : Dispositions relatives à la création d'entreprises et à la création d'emplois - Aide à la création d'entreprises à l'initiative des demandeurs d'emploi<a id=602></a>
+#### Chapitre 5 : Dispositions relatives à la création d'entreprises et à la création d'emplois - Aide à la création d'entreprises à l'initiative des demandeurs d'emploi<a id=601></a>
 
 ###### Article D325-1
 
@@ -61763,9 +61709,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D325-1-1 (Ab)
 
 
-#### Chapitre 7 : Indemnisation du chômage<a id=603></a>
+#### Chapitre 7 : Indemnisation du chômage<a id=602></a>
 
-##### Section 2 : Perte temporaire de salaire<a id=604></a>
+##### Section 2 : Perte temporaire de salaire<a id=603></a>
 
 ###### Article D327-10
 
@@ -61795,11 +61741,11 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D321-12-1 (Ab)
 
 
-## Livre 4 : Les groupements professionnels - La représentation des salariés<a id=605></a>
+## Livre 4 : Les groupements professionnels - La représentation des salariés<a id=604></a>
 
-### Titre 4 : Les comités d'entreprise<a id=606></a>
+### Titre 4 : Les comités d'entreprise<a id=605></a>
 
-#### Chapitre 2 : Attributions et pouvoirs.<a id=607></a>
+#### Chapitre 2 : Attributions et pouvoirs.<a id=606></a>
 
 ###### Article D442-1
 
@@ -61920,11 +61866,11 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L442-8
 
 
-## Livre 5 : Conflits du travail<a id=608></a>
+## Livre 5 : Conflits du travail<a id=607></a>
 
-### Titre 1er : Conflits collectifs<a id=609></a>
+### Titre 1er : Conflits collectifs<a id=608></a>
 
-#### Chapitre 4 : Médiation<a id=610></a>
+#### Chapitre 4 : Médiation<a id=609></a>
 
 ###### Article D514-1
 
@@ -62041,9 +61987,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D514-10 (Ab)
 
 
-## Livre 7 : De la formation professionnelle<a id=611></a>
+## Livre 7 : De la formation professionnelle<a id=610></a>
 
-### Chapitre 2 : Contrats de formation en alternance Section 1 : Contrats de qualification<a id=612></a>
+### Chapitre 2 : Contrats de formation en alternance Section 1 : Contrats de qualification<a id=611></a>
 
 ###### Article D712-1
 
@@ -62288,7 +62234,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D711-8 (Ab)
 
 
-### Chapitre 2 : Contrats de formation en alternance Section 2 : Contrats d'orientation<a id=613></a>
+### Chapitre 2 : Contrats de formation en alternance Section 2 : Contrats d'orientation<a id=612></a>
 
 ###### Article D712-8
 
@@ -62469,7 +62415,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. D711-12 (VT)
 
 
-### Chapitre 2 : Contrats de formation en alternance Section 3 : Dispositions communes aux contrats de qualification et d'orientation<a id=614></a>
+### Chapitre 2 : Contrats de formation en alternance Section 3 : Dispositions communes aux contrats de qualification et d'orientation<a id=613></a>
 
 ###### Article D712-12
 
