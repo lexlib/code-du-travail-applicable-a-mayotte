@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2009-06-09
+Version Consolidée au 2009-06-13
 ## Contenu: 
   - [Partie législative (art. L000-1 à L711-4-1)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L000-1 à L000-6)](#2)
@@ -114,7 +114,7 @@ Version Consolidée au 2009-06-09
         - [CHAPITRE III : RÉPRESSION DU TRAVAIL ILLÉGAL. (art. L313-1 à L313-6)](#111)
       - [TITRE II : Aides à l'emploi, intervention du Fonds national de l'emploi et de la collectivité départementale (art. L320-1 à L327-10)](#112)
         - [CHAPITRE PRELIMINAIRE : Licenciement pour motif économique. (art. L320-1 à L320-14)](#113)
-        - [CHAPITRE Ier : Généralités. (art. L321-1 à L321-5)](#114)
+        - [CHAPITRE Ier : Généralités. (art. L321-1 à L321-7)](#114)
         - [CHAPITRE II : Dispositions relatives au contrat emploi-solidarité. (art. L322-1 à L322-7)](#115)
         - [Chapitre III : Dispositions relatives aux contrats de retour à l'emploi (art. L323-1 à L323-4)](#116)
         - [Chapitre IV : Dispositions particulières relatives à l'emploi des jeunes (art. L324-1 à L324-9)](#117)
@@ -15120,26 +15120,23 @@ _Cite_:
 
 ###### Article L313-4
 
-Les agents de contrôle mentionnés à l'article L. 313-1 transmettent, sur demande écrite, aux agents de l'Agence nationale
-pour l'emploi, des institutions gestionnaires du régime d'assurance chômage et des collectivités territoriales tous
-renseignements et tous documents nécessaires à l'appréciation des droits ou à l'exécution d'obligations qui entrent dans le
-champ de leurs compétences respectives. Ils disposent en tant que de besoin, dans l'exercice de leur mission de lutte contre
-le travail illégal, d'un droit de communication sur tous renseignements et documents nécessaires auprès de ces services.
+Les agents de contrôle mentionnés à l'article L. 313-1 transmettent, sur demande écrite, aux agents de l'institution
+mentionnée au premier alinéa de l'article L. 326, des institutions gestionnaires du régime d'assurance chômage et des
+collectivités territoriales tous renseignements et tous documents nécessaires à l'appréciation des droits ou à l'exécution
+d'obligations qui entrent dans le champ de leurs compétences respectives. Ils disposent en tant que de besoin, dans
+l'exercice de leur mission de lutte contre le travail illégal, d'un droit de communication sur tous renseignements et
+documents nécessaires auprès de ces services.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-_Créé par_:
-
-  - Ordonnance n°2006-1068 du 25 août 2006 - art. 5 () JORF 26 août 2006
+  - Ordonnance n°2009-664 du 11 juin 2009 - art. 1
 
 _Cite_:
 
-  - Code du travail applicable à Mayotte. - art. L313-1 (V)
+  - Code du travail applicable à Mayotte. - art. L313-1
+  - Code du travail applicable à Mayotte. - art. L326
 
 
 ###### Article L313-5
@@ -15747,6 +15744,92 @@ _Cité par_:
 _Cite_:
 
   - Code du travail applicable à Mayotte. - art. L325-9 (V)
+
+
+###### Article L321-6
+
+I.-Le service public de l'emploi a pour mission l'accueil, l'orientation, la formation et l'insertion. Il comprend le
+placement, le versement d'un revenu de remplacement, l'accompagnement des demandeurs d'emploi et l'aide à la sécurisation des
+parcours professionnels de tous les salariés. 
+
+II.-Le service public de l'emploi est assuré par : 
+
+1° Les services de l'Etat chargés de l'emploi et de l'égalité professionnelle ; 
+
+2° L'institution mentionnée à l'article L. 326 ; 
+
+3° L'Association nationale pour la formation professionnelle des adultes ; 
+
+4° L'organisme gestionnaire du régime d'assurance chômage mentionné à l'article L. 327-7. 
+
+III.-Les communes et leurs groupements concourent au service public de l'emploi dans les conditions déterminées aux articles
+L. 326-3 à L. 326-6. 
+
+IV.-Peuvent également participer au service public de l'emploi les organismes publics ou privés dont l'objet consiste en la
+fourniture de services relatifs au placement, à l'insertion, à la formation et à l'accompagnement des demandeurs d'emploi ou
+à l'insertion par l'activité économique de personnes rencontrant des difficultés sociales et professionnelles particulières.
+
+V.-Un décret fixe les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-664 du 11 juin 2009 - art. 1
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. L321-7 (V)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L326
+  - Code du travail applicable à Mayotte. - art. L326-3
+  - Code du travail applicable à Mayotte. - art. L327-7 (V)
+
+
+###### Article L321-7
+
+I.-Le Conseil national de l'emploi, prévu à l'article L. 5112-1 du code du travail applicable dans les départements de
+métropole et d'outre-mer, est également compétent pour connaître des sujets relatifs à l'emploi à Mayotte. 
+
+Il concourt à la définition des orientations stratégiques des politiques de l'emploi à Mayotte. Il veille à la mise en
+cohérence des actions des différentes institutions et organismes mentionnés au II de l'article L. 321-6 et à l'évaluation des
+actions engagées.
+
+A cette fin, il peut être consulté : 
+
+1° Sur les projets de loi, d'ordonnance et de décret relatifs à l'emploi à Mayotte ; 
+
+2° Sur l'adaptation et la cohérence des systèmes d'information du service public de l'emploi à Mayotte. 
+
+II.-Le conseil de l'emploi de Mayotte est présidé par le représentant de l'Etat à Mayotte. Il comprend des représentants : 
+
+1° Des organisations professionnelles d'employeurs et de salariés ; 
+
+2° Du conseil général et des principales communes ou de leurs groupements ; 
+
+3° Des administrations intéressées et des services scolaires et universitaires ; 
+
+4° De l'institution mentionnée à l'article L. 326 ainsi que des autres organisations participant au service public de
+l'emploi. 
+
+Il est consulté sur l'organisation territoriale du service public de l'emploi ainsi que sur la convention prévue à l'article
+L. 326. 
+
+III.-Un décret précise les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-664 du 11 juin 2009 - art. 1
+
+_Cite_:
+
+  - Code du travail - art. L5112-1
+  - Code du travail applicable à Mayotte. - art. L321-6
+  - Code du travail applicable à Mayotte. - art. L326 (V)
 
 
 #### CHAPITRE II : Dispositions relatives au contrat emploi-solidarité.<a id=115></a>
@@ -16651,19 +16734,32 @@ _Cité par_:
 
 ###### Article L326
 
-L'institution mentionnée à l'article L. 311-7 du code du travail mentionnée à l'article L. 5312-1 du code du travail assure
-le service public du placement à Mayotte dans les conditions prévues par le code du travail applicable localement.
+L'institution, mentionnée à l'article L. 5312-1 du code du travail applicable dans les départements de métropole et d'outre-
+mer, assure le service public du placement à Mayotte dans les conditions prévues par le présent code. Elle n'intervient pas à
+Mayotte en matière de gestion du régime conventionnel d'assurance chômage. 
+
+Une convention annuelle, conclue par l'autorité administrative au nom de l'Etat et par le représentant de l'institution
+compétent pour Mayotte, détermine, compte tenu des objectifs définis au niveau national, la programmation des interventions
+de l'institution à Mayotte au regard de la situation locale de l'emploi et du marché du travail. Cette convention précise les
+conditions dans lesquelles l'institution participe à la mise en œuvre des actions prévues à l'article L. 321-1. Elle fixe
+également les conditions d'évaluation de son action et encadre les conditions dans lesquelles l'institution coopère avec
+l'Association nationale pour la formation professionnelle des adultes et les autres intervenants du service public de
+l'emploi.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2008-126 du 13 février 2008 - art. 14
+  - Ordonnance n°2009-664 du 11 juin 2009 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-788 du 31 mai 2012 - art. 4
 
 _Cite_:
 
-  - Code du travail - art. L311-7 (Ab)
-  - Code du travail - art. L5312-1 (VD)
+  - Code du travail - art. L5312-1
+  - Code du travail applicable à Mayotte. - art. L321-1
 
 _Cité par_:
 
@@ -16690,22 +16786,17 @@ _Cité par_:
 
 Peuvent également concourir au service public du placement les établissements publics, des organismes gérés paritairement par
 les organisations syndicales d'employeurs et de salariés et des associations, s'ils ont été agréés à cet effet par l'Etat ou
-s'ils ont passé convention avec l'Agence nationale pour l'emploi. En cas d'agrément par l'Etat, l'Agence nationale pour
-l'emploi passe convention avec ces organismes.
+s'ils ont passé convention avec l'institution mentionnée au premier alinéa de l'article L. 326. En cas d'agrément par l'Etat,
+l'institution mentionnée au premier alinéa de l'article L. 326 passe convention avec ces organismes. 
 
 Les employeurs ou groupes d'employeurs qui entreprennent des actions de reclassement en faveur de leur personnel peuvent
 également effectuer des opérations de placement durant ces actions.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
 _Modifié par_:
 
-  - Loi n°2003-660 du 21 juillet 2003 - art. 15 (V) JORF 22 juillet 2003
+  - Ordonnance n°2009-664 du 11 juin 2009 - art. 1
 
 _Cité par_:
 
@@ -16727,6 +16818,10 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R326-9 (V)
   - Code général des collectivités territoriales - art. L2572-6 (V)
 
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L326
+
 _Nouveaux textes_:
 
   - Code du travail applicable à Mayotte. - art. L326-7 (V)
@@ -16734,20 +16829,16 @@ _Nouveaux textes_:
 
 ###### Article L326-2
 
-Tout travailleur recherchant un emploi doit requérir son inscription auprès de l'Agence nationale pour l'emploi.
+Tout travailleur recherchant un emploi doit requérir son inscription auprès de l'institution mentionnée au premier alinéa de
+l'article L. 326. 
 
 Tout employeur est tenu de notifier à cette agence toute place vacante dans son entreprise.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
 _Modifié par_:
 
-  - Loi n°2003-660 du 21 juillet 2003 - art. 15 (V) JORF 22 juillet 2003
+  - Ordonnance n°2009-664 du 11 juin 2009 - art. 1
 
 _Cité par_:
 
@@ -16757,6 +16848,10 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R326-24 (V)
   - Code du travail applicable à Mayotte. - art. R326-49 (V)
 
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L326
+
 _Nouveaux textes_:
 
   - Code du travail applicable à Mayotte. - art. L326-8 (V)
@@ -16765,18 +16860,14 @@ _Nouveaux textes_:
 ###### Article L326-3
 
 Les communes peuvent recevoir des offres d'emploi et effectuer des opérations de placement en faveur de leurs administrés à
-la recherche d'un emploi, après avoir passé, à cet effet, convention avec l'Etat et l'Agence nationale pour l'emploi.
+la recherche d'un emploi, après avoir passé, à cet effet, convention avec l'Etat et l'institution mentionnée au premier
+alinéa de l'article L. 326.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
 _Modifié par_:
 
-  - Loi n°2003-660 du 21 juillet 2003 - art. 15 (V) JORF 22 juillet 2003
+  - Ordonnance n°2009-664 du 11 juin 2009 - art. 1
 
 _Cité par_:
 
@@ -16785,6 +16876,10 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R326-25 (V)
   - Code du travail applicable à Mayotte. - art. R326-4 (V)
   - Code du travail applicable à Mayotte. - art. R326-6 (V)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L326
 
 _Nouveaux textes_:
 
@@ -16795,18 +16890,13 @@ _Nouveaux textes_:
 
 Les collectivités territoriales peuvent concourir à l'insertion professionnelle et sociale de certaines catégories de
 personnes à la recherche d'un emploi dans des conditions définies par une convention passée avec l'Etat et, le cas échéant,
-l'Agence nationale pour l'emploi.
+l'institution mentionnée au premier alinéa de l'article L. 326.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-_Créé par_:
-
-  - Loi n°2003-660 du 21 juillet 2003 - art. 15 (V) JORF 22 juillet 2003
+  - Ordonnance n°2009-664 du 11 juin 2009 - art. 1
 
 _Cité par_:
 
@@ -16816,6 +16906,10 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R322-2 (VD)
   - Code du travail applicable à Mayotte. - art. R322-52 (V)
   - Code du travail applicable à Mayotte. - art. R326-53 (V)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L326
 
 
 ###### Article L326-5
@@ -16842,19 +16936,15 @@ _Cité par_:
 
 ###### Article L326-6
 
-Dans les localités où il n'existe pas de bureau de l'Agence nationale pour l'emploi, les maires sont chargés de recevoir et
-de consigner les déclarations des demandeurs d'emploi et de les transmettre à l'Agence nationale pour l'emploi.
+Dans les localités où il n'existe pas de bureau de l'institution mentionnée au premier alinéa de l'article L. 326, les maires
+sont chargés de recevoir et de consigner les déclarations des demandeurs d'emploi et de les transmettre à l'institution
+mentionnée au premier alinéa de l'article L. 326.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-_Créé par_:
-
-  - Loi n°2003-660 du 21 juillet 2003 - art. 15 (V) JORF 22 juillet 2003
+  - Ordonnance n°2009-664 du 11 juin 2009 - art. 1
 
 _Cité par_:
 
@@ -16909,34 +16999,33 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R327-41 (M)
   - Code du travail applicable à Mayotte. - art. R327-44 (T)
 
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L326
+
 
 ###### Article L326-7
 
-L'Agence nationale pour l'emploi est chargée :
+L'institution mentionnée au premier alinéa de l'article L. 326 est chargée : 
 
-a) De l'accueil des personnes à la recherche d'un emploi et de leur inscription sur une liste tenue par leurs soins ;
+a) De l'accueil des personnes à la recherche d'un emploi et de leur inscription sur une liste tenue par leurs soins ; 
 
 b) De l'orientation des personnes susceptibles de bénéficier des mesures relatives à la formation professionnelle, à la
-mobilité géographique et professionnelle inscrites sur la liste prévue au a ;
+mobilité géographique et professionnelle inscrites sur la liste prévue au a ; 
 
 c) Du placement des personnes désireuses de trouver un emploi, notamment par le rapprochement des offres et demandes
-d'emploi ;
+d'emploi ; 
 
 d) De la coordination d'actions concertées en matière d'emploi, d'insertion et de formation entre les collectivités
 publiques, les entreprises publiques et privées, les divers types d'établissements d'enseignement, les associations et les
-organisations professionnelles, syndicales et familiales ;
+organisations professionnelles, syndicales et familiales ; 
 
 e) Du contrôle de la recherche effective et permanente d'emploi des personnes inscrites, et notamment des personnes
-indemnisées au titre de la perte d'emploi.
+indemnisées au titre de la perte d'emploi. 
 
 Les opérations mentionnées ci-dessus sont effectuées gratuitement.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
 
 _Cité par_:
 
@@ -16950,9 +17039,13 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L343-1 (Ab)
   - Code du travail applicable à Mayotte. - art. R326-5 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2003-660 du 21 juillet 2003 - art. 15 (V) JORF 22 juillet 2003
+  - Ordonnance n°2009-664 du 11 juin 2009 - art. 1
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L326
 
 _Anciens textes_:
 
@@ -16962,26 +17055,22 @@ _Anciens textes_:
 ###### Article L326-8
 
 L'inscription sur la liste prévue à l'article L. 326-1 est subordonnée à la production d'un document attestant de l'état
-civil du demandeur. L'Agence nationale pour l'emploi, pour en vérifier la validité, a accès aux fichiers des services de
-l'Etat, de la collectivité départementale, des communes ou de leurs établissements publics.
+civil du demandeur. L'institution mentionnée au premier alinéa de l'article L. 326, pour en vérifier la validité, a accès aux
+fichiers des services de l'Etat, de la collectivité départementale, des communes ou de leurs établissements publics. 
 
-Lors de l'inscription d'une personne de nationalité étrangère sur cette liste, l'Agence nationale pour l'emploi vérifie, sous
-les mêmes conditions, la validité de ses titres de séjour et de travail.
+Lors de l'inscription d'une personne de nationalité étrangère sur cette liste, l'institution mentionnée au premier alinéa de
+l'article L. 326 vérifie, sous les mêmes conditions, la validité de ses titres de séjour et de travail.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-_Créé par_:
-
-  - Loi n°2003-660 du 21 juillet 2003 - art. 15 (V) JORF 22 juillet 2003
+  - Ordonnance n°2009-664 du 11 juin 2009 - art. 1
 
 _Cite_:
 
-  - Code du travail applicable à Mayotte. - art. L326-1 (T)
+  - Code du travail applicable à Mayotte. - art. L326
+  - Code du travail applicable à Mayotte. - art. L326-1
 
 _Anciens textes_:
 
