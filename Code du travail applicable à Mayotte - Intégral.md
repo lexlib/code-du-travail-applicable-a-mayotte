@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2011-04-01
+Version Consolidée au 2011-11-01
 ## Contenu: 
   - [Partie législative (art. L000-1 à L811-1)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L000-1 à L000-6)](#2)
@@ -48742,20 +48742,19 @@ _Cite_:
 
 ###### Article R238-8-15
 
-Dans l'établissement de santé de Mayotte les représentants du personnel au comité technique paritaire de l'établissement
-exercent, dans le cadre des moyens dont ils disposent en tant que membres du comité technique paritaire, les missions
-dévolues aux membres du comité d'hygiène, de sécurité et des conditions de travail. Ils sont soumis aux mêmes obligations que
-ces derniers.
+Dans l'établissement de santé de Mayotte les représentants du personnel au  comité technique de l'établissement exercent,
+dans le cadre des moyens dont ils disposent en tant que membres du  comité technique, les missions dévolues aux membres du
+comité d'hygiène, de sécurité et des conditions de travail. Ils sont soumis aux mêmes obligations que ces derniers.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2004-196 2004-02-25
+  - Décret n°2004-196 du 25 février 2004
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2006-1315 du 25 octobre 2006 - art. 11 () JORF 27 octobre 2006
+  - Décret n°2011-184 du 15 février 2011 - art. 55 (V)
 
 
 #### CHAPITRE IX : Dispositions applicables aux opérations de construction dans l'intérêt de l'hygiène et de la sécurité du travail<a id=478></a>
