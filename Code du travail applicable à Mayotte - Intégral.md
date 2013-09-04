@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2013-08-24
+Version Consolidée au 2013-09-05
 ## Contenu: 
   - [Partie législative (art. L011-1 à L811-1)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L011-1 à L061-2)](#2)
@@ -806,172 +806,173 @@ professionnelle entre les femmes et hommes (art. D043-7 à D043-18)](#425)
           - [Section 4 :  Licenciement économique dans le cadre   d'un redressement ou d'une liquidation judiciaire (art. R320-18 à R320-19)](#791)
         - [CHAPITRE Ier : Généralités (art. R321-1 à R321-14)](#792)
           - [Section 1 : Principes (art. R321-1 à R321-6)](#793)
-          - [Section 2 : Aides au maintien et à la sauvegarde de l'emploi (art. D321-12-1 à R321-14)](#794)
-            - [Sous-section 2 : Aides aux salariés en chômage partiel (art. D321-12-1 à R321-14)](#795)
-        - [CHAPITRE II : Dispositions relatives au contrat unique d'insertion (art. R322-1 à R322-66)](#796)
-          - [Section 1 : Dispositions générales (art. R322-1 à R322-6)](#797)
-          - [Section 2 : Contrat d'accompagnement dans l'emploi (art. R322-7 à D322-30-7)](#798)
-            - [Sous-section 1 : Aide à l'insertion professionnelle (art. R322-7 à R322-15)](#799)
-            - [Sous-section 2 : Contrat de travail (art. R322-16)](#800)
-            - [Sous-section 3 : Accompagnement (art. R322-17 à R322-20)](#801)
-            - [Sous-section 4 : Aide financière et exonérations (art. D322-23-1 à R322-30)](#802)
-              - [Paragraphe 1 : Aide financière (art. D322-23-1 à R322-28)](#803)
-              - [Paragraphe 2 : Exonérations (art. D322-30-1 à R322-30)](#804)
-            - [Sous-section 5 : Périodes d'immersion (art. D322-30-2 à D322-30-7)](#805)
-          - [Section 3 : Contrat initiative-emploi (art. R322-31 à R322-51)](#806)
-            - [Sous-section 1 : Aide à l'insertion professionnelle (art. R322-31 à R322-39)](#807)
-            - [Sous-section 2 : Accompagnement (art. R322-40 à R322-43)](#808)
-            - [Sous-section 3 : Aide financière (art. D322-46-1 à R322-51)](#809)
-          - [Section 4 : Emploi d'avenir (art. R322-52 à R322-59)](#810)
-            - [Sous-section 1 : Dispositions générales (art. R322-52 à R322-56)](#811)
-            - [Sous-section 2 : Aide à l'insertion professionnelle (art. R322-57 à R322-59)](#812)
-          - [Section 5 : Emploi d'avenir professeur (art. D322-67 à R322-66)](#813)
-        - [CHAPITRE IV : Dispositions particulières relatives à l'emploi des jeunes (art. D324-2 à R324-1)](#814)
-          - [Projet initiative-jeune (art. D324-2 à R324-1)](#815)
-        - [CHAPITRE V : Dispositions relatives à la création d'entreprises et à la création d'emplois (art. D325-1-1 à R325-8)](#816)
-          - [Section 1 : Aide à la création d'entreprises à l'initiative des demandeurs d'emploi (art. D325-1-1 à R325-2)](#817)
-          - [Section 3 : Agence mahoraise pour le développement d'activités d'utilité sociale (art. R325-3 à R325-8)](#818)
-        - [CHAPITRE VI : Placement (art. R326-1 à R326-71)](#819)
-          - [Section 1 : Pôle emploi (art. R326-1 à R326-12)](#820)
-            - [Sous-section 1 : Organisation de Pôle emploi à Mayotte (art. R326-1 à R326-7)](#821)
-            - [Sous-section 2 : Intervention pour le compte de l'Etat (art. R326-8 à R326-9)](#822)
-            - [Sous-section 3 : Instance paritaire (art. R326-10 à R326-12)](#823)
-          - [Section 2 : Placement (art. R326-13 à R326-27)](#824)
-            - [Sous-section 1 : Rôle des collectivités territoriales (art. R326-13 à R326-18)](#825)
-            - [Sous-section 2 : Organismes privés de placement (art. R326-19 à R326-27)](#826)
-          - [Section 3 : Diffusion et publicité des offres et demandes d'emploi (art. R326-28 à R326-30)](#827)
-            - [Sous-section 1 : Conditions de publication et de diffusion des offres d'emploi (art. R326-28 à R326-29)](#828)
-            - [Sous-section 2 : Dispositions pénales (art. R326-30)](#829)
-          - [Section 4 : Inscription au registre national des agents artistiques (art. D326-36 à R326-35)](#830)
-          - [Section 5 : Le demandeur d'emploi (art. R326-39 à R326-62)](#831)
-            - [Sous-section 1 : Inscription du demandeur d'emploi et recherche d'emploi (art. R326-39 à R326-55)](#832)
-              - [Paragraphe 1 : Inscription sur la liste des demandeurs d'emploi (art. R326-39 à R326-46)](#833)
-              - [Paragraphe 2 : Recherche d'emploi (art. R326-47 à R326-55)](#834)
-            - [Sous-section 2 : Radiation de la liste des demandeurs d'emploi (art. R326-56 à R326-62)](#835)
-          - [Section 6 : Aide personnalisée de retour à l'emploi (art. R326-63 à R326-71)](#836)
-        - [CHAPITRE VII : Indemnisation du chômage (art. R327-1 à R327-62)](#837)
-          - [Section 1 : Dispositions générales (art. R327-1)](#838)
-          - [Section 2 : Régime d'assurance (art. R327-2 à R327-10)](#839)
-            - [Sous-section 1 : Conditions et modalités d'attribution de l'allocation d'assurance (art. R327-2 à R327-5)](#840)
-              - [Paragraphe 1 : Conditions d'attribution (art. R327-2 à R327-3)](#841)
-              - [Paragraphe 2 : Modalités de calcul pour les travailleurs migrants (art. R327-4 à R327-5)](#842)
-            - [Sous-section 2 : Obligations d'assurance et de déclaration des rémunérations (art. R327-6 à R327-9)](#843)
-            - [Sous-section 3 : Actions en recouvrement et sanctions (art. R327-10)](#844)
-          - [Section 3 : Régime de solidarité (art. R327-11 à R327-26)](#845)
-            - [Sous-section 1 : Allocation de solidarité spécifique (art. R327-11 à R327-26)](#846)
-              - [Paragraphe 1 : Conditions d'attribution (art. R327-11 à R327-17)](#847)
-              - [Paragraphe 2 : Versement, renouvellement et prolongation (art. R327-18 à R327-22)](#848)
-              - [Paragraphe 3 : Contribution exceptionnelle de solidarité (art. R327-23 à R327-26)](#849)
-          - [Section 4 : Dispositions particulières à certains salariés du secteur public (art. R327-27 à R327-32)](#850)
-          - [Section 5 : Maintien des droits au revenu de remplacement du demandeur indemnisé (art. R327-33 à R327-46)](#851)
-            - [Sous-section 1 : Exercice d'une activité professionnelle et cumul de l'allocation de solidarité spécifique avec d'autres revenus (art. R327-33 à R327-40)](#852)
-            - [Sous-section 2 : Prime forfaitaire pour reprise d'activité (art. R327-41 à R327-44)](#853)
-            - [Sous-section 3 : Exercice d'une activité d'intérêt général (art. R327-45 à R327-46)](#854)
-          - [Section 6 : Contrôle et sanctions (art. R327-47 à R327-59)](#855)
-            - [Sous-section 1 : Agents chargés du contrôle de la condition d'aptitude au travail et de recherche d'emploi (art. R327-47)](#856)
-            - [Sous-section 2 : Réduction, suspension ou suppression du revenu de remplacement (art. R327-48 à R327-56)](#857)
-            - [Sous-section 3 : Pénalité administrative (art. R327-57 à R327-59)](#858)
-          - [Section 7 : Droits sociaux des demandeurs d'emploi (art. R327-60)](#859)
-          - [Section 8 : Dispositions pénales (art. R327-61 à R327-62)](#860)
-        - [CHAPITRE VIII : Dispositions régissant l'emploi de certaines catégories de travailleurs (art. D328-1 à R328-121)](#861)
+          - [Section 2 : Aides au maintien et à la sauvegarde de l'emploi (art. D321-7 à R321-14)](#794)
+            - [Sous-section 1 : Aide au développement de l'emploi et des compétences (art. D321-7 à R321-12)](#795)
+            - [Sous-section 2 : Aides aux salariés en chômage partiel (art. D321-12-1 à R321-14)](#796)
+        - [CHAPITRE II : Dispositions relatives au contrat unique d'insertion (art. R322-1 à R322-66)](#797)
+          - [Section 1 : Dispositions générales (art. R322-1 à R322-6)](#798)
+          - [Section 2 : Contrat d'accompagnement dans l'emploi (art. R322-7 à D322-30-7)](#799)
+            - [Sous-section 1 : Aide à l'insertion professionnelle (art. R322-7 à R322-15)](#800)
+            - [Sous-section 2 : Contrat de travail (art. R322-16)](#801)
+            - [Sous-section 3 : Accompagnement (art. R322-17 à R322-20)](#802)
+            - [Sous-section 4 : Aide financière et exonérations (art. D322-23-1 à R322-30)](#803)
+              - [Paragraphe 1 : Aide financière (art. D322-23-1 à R322-28)](#804)
+              - [Paragraphe 2 : Exonérations (art. D322-30-1 à R322-30)](#805)
+            - [Sous-section 5 : Périodes d'immersion (art. D322-30-2 à D322-30-7)](#806)
+          - [Section 3 : Contrat initiative-emploi (art. R322-31 à R322-51)](#807)
+            - [Sous-section 1 : Aide à l'insertion professionnelle (art. R322-31 à R322-39)](#808)
+            - [Sous-section 2 : Accompagnement (art. R322-40 à R322-43)](#809)
+            - [Sous-section 3 : Aide financière (art. D322-46-1 à R322-51)](#810)
+          - [Section 4 : Emploi d'avenir (art. R322-52 à R322-59)](#811)
+            - [Sous-section 1 : Dispositions générales (art. R322-52 à R322-56)](#812)
+            - [Sous-section 2 : Aide à l'insertion professionnelle (art. R322-57 à R322-59)](#813)
+          - [Section 5 : Emploi d'avenir professeur (art. D322-67 à R322-66)](#814)
+        - [CHAPITRE IV : Dispositions particulières relatives à l'emploi des jeunes (art. D324-2 à R324-1)](#815)
+          - [Projet initiative-jeune (art. D324-2 à R324-1)](#816)
+        - [CHAPITRE V : Dispositions relatives à la création d'entreprises et à la création d'emplois (art. D325-1-1 à R325-8)](#817)
+          - [Section 1 : Aide à la création d'entreprises à l'initiative des demandeurs d'emploi (art. D325-1-1 à R325-2)](#818)
+          - [Section 3 : Agence mahoraise pour le développement d'activités d'utilité sociale (art. R325-3 à R325-8)](#819)
+        - [CHAPITRE VI : Placement (art. R326-1 à R326-71)](#820)
+          - [Section 1 : Pôle emploi (art. R326-1 à R326-12)](#821)
+            - [Sous-section 1 : Organisation de Pôle emploi à Mayotte (art. R326-1 à R326-7)](#822)
+            - [Sous-section 2 : Intervention pour le compte de l'Etat (art. R326-8 à R326-9)](#823)
+            - [Sous-section 3 : Instance paritaire (art. R326-10 à R326-12)](#824)
+          - [Section 2 : Placement (art. R326-13 à R326-27)](#825)
+            - [Sous-section 1 : Rôle des collectivités territoriales (art. R326-13 à R326-18)](#826)
+            - [Sous-section 2 : Organismes privés de placement (art. R326-19 à R326-27)](#827)
+          - [Section 3 : Diffusion et publicité des offres et demandes d'emploi (art. R326-28 à R326-30)](#828)
+            - [Sous-section 1 : Conditions de publication et de diffusion des offres d'emploi (art. R326-28 à R326-29)](#829)
+            - [Sous-section 2 : Dispositions pénales (art. R326-30)](#830)
+          - [Section 4 : Inscription au registre national des agents artistiques (art. D326-36 à R326-35)](#831)
+          - [Section 5 : Le demandeur d'emploi (art. R326-39 à R326-62)](#832)
+            - [Sous-section 1 : Inscription du demandeur d'emploi et recherche d'emploi (art. R326-39 à R326-55)](#833)
+              - [Paragraphe 1 : Inscription sur la liste des demandeurs d'emploi (art. R326-39 à R326-46)](#834)
+              - [Paragraphe 2 : Recherche d'emploi (art. R326-47 à R326-55)](#835)
+            - [Sous-section 2 : Radiation de la liste des demandeurs d'emploi (art. R326-56 à R326-62)](#836)
+          - [Section 6 : Aide personnalisée de retour à l'emploi (art. R326-63 à R326-71)](#837)
+        - [CHAPITRE VII : Indemnisation du chômage (art. R327-1 à R327-62)](#838)
+          - [Section 1 : Dispositions générales (art. R327-1)](#839)
+          - [Section 2 : Régime d'assurance (art. R327-2 à R327-10)](#840)
+            - [Sous-section 1 : Conditions et modalités d'attribution de l'allocation d'assurance (art. R327-2 à R327-5)](#841)
+              - [Paragraphe 1 : Conditions d'attribution (art. R327-2 à R327-3)](#842)
+              - [Paragraphe 2 : Modalités de calcul pour les travailleurs migrants (art. R327-4 à R327-5)](#843)
+            - [Sous-section 2 : Obligations d'assurance et de déclaration des rémunérations (art. R327-6 à R327-9)](#844)
+            - [Sous-section 3 : Actions en recouvrement et sanctions (art. R327-10)](#845)
+          - [Section 3 : Régime de solidarité (art. R327-11 à R327-26)](#846)
+            - [Sous-section 1 : Allocation de solidarité spécifique (art. R327-11 à R327-26)](#847)
+              - [Paragraphe 1 : Conditions d'attribution (art. R327-11 à R327-17)](#848)
+              - [Paragraphe 2 : Versement, renouvellement et prolongation (art. R327-18 à R327-22)](#849)
+              - [Paragraphe 3 : Contribution exceptionnelle de solidarité (art. R327-23 à R327-26)](#850)
+          - [Section 4 : Dispositions particulières à certains salariés du secteur public (art. R327-27 à R327-32)](#851)
+          - [Section 5 : Maintien des droits au revenu de remplacement du demandeur indemnisé (art. R327-33 à R327-46)](#852)
+            - [Sous-section 1 : Exercice d'une activité professionnelle et cumul de l'allocation de solidarité spécifique avec d'autres revenus (art. R327-33 à R327-40)](#853)
+            - [Sous-section 2 : Prime forfaitaire pour reprise d'activité (art. R327-41 à R327-44)](#854)
+            - [Sous-section 3 : Exercice d'une activité d'intérêt général (art. R327-45 à R327-46)](#855)
+          - [Section 6 : Contrôle et sanctions (art. R327-47 à R327-59)](#856)
+            - [Sous-section 1 : Agents chargés du contrôle de la condition d'aptitude au travail et de recherche d'emploi (art. R327-47)](#857)
+            - [Sous-section 2 : Réduction, suspension ou suppression du revenu de remplacement (art. R327-48 à R327-56)](#858)
+            - [Sous-section 3 : Pénalité administrative (art. R327-57 à R327-59)](#859)
+          - [Section 7 : Droits sociaux des demandeurs d'emploi (art. R327-60)](#860)
+          - [Section 8 : Dispositions pénales (art. R327-61 à R327-62)](#861)
+        - [CHAPITRE VIII : Dispositions régissant l'emploi de certaines catégories de travailleurs (art. D328-1 à R328-121)](#862)
           - [Section 1 : Objet des politiques en faveur de l'emploi 
-des personnes handicapées (art. D328-1 à D328-6)](#862)
-          - [Section 2 : Obligation d'emploi des travailleurs handicapés, mutilés de guerre et assimilés (art. D328-7 à R328-46)](#863)
-            - [Sous-section 1 : Obligation d'emploi (art. D328-7 à R328-17)](#864)
-              - [Paragraphe 1 : Pourcentage d'emploi de travailleurs handicapés (art. D328-7)](#865)
-              - [Paragraphe 2 : Déclaration annuelle de l'employeur (art. D328-16 à R328-17)](#866)
-            - [Sous-section 2 : Modalités alternatives de mise en œuvre de l'obligation d'emploi (art. D328-19 à R328-46)](#867)
-              - [Paragraphe 1 : Passation d'un contrat de fournitures, de sous-traitance ou de prestation de service (art. D328-19 à R328-22)](#868)
-              - [Paragraphe 2 : Accueil de stagiaires handicapés (art. D328-25 à R328-26)](#869)
-              - [Paragraphe 3 : Application d'un accord collectif (art. R328-27 à R328-33)](#870)
-              - [Paragraphe 4 : Versement d'une contribution (art. D328-34 à R328-46)](#871)
-          - [Section 3 : Reconnaissance et orientation des travailleurs handicapés (art. R328-47 à R328-119)](#872)
-            - [Sous-section 1 : Orientation et placement (art. R328-47 à R328-54)](#873)
-            - [Sous-section 2 : Réadaptation, rééducation et formation professionnelle (art. R328-55 à R328-59)](#874)
+des personnes handicapées (art. D328-1 à D328-6)](#863)
+          - [Section 2 : Obligation d'emploi des travailleurs handicapés, mutilés de guerre et assimilés (art. D328-7 à R328-46)](#864)
+            - [Sous-section 1 : Obligation d'emploi (art. D328-7 à R328-17)](#865)
+              - [Paragraphe 1 : Pourcentage d'emploi de travailleurs handicapés (art. D328-7)](#866)
+              - [Paragraphe 2 : Déclaration annuelle de l'employeur (art. D328-16 à R328-17)](#867)
+            - [Sous-section 2 : Modalités alternatives de mise en œuvre de l'obligation d'emploi (art. D328-19 à R328-46)](#868)
+              - [Paragraphe 1 : Passation d'un contrat de fournitures, de sous-traitance ou de prestation de service (art. D328-19 à R328-22)](#869)
+              - [Paragraphe 2 : Accueil de stagiaires handicapés (art. D328-25 à R328-26)](#870)
+              - [Paragraphe 3 : Application d'un accord collectif (art. R328-27 à R328-33)](#871)
+              - [Paragraphe 4 : Versement d'une contribution (art. D328-34 à R328-46)](#872)
+          - [Section 3 : Reconnaissance et orientation des travailleurs handicapés (art. R328-47 à R328-119)](#873)
+            - [Sous-section 1 : Orientation et placement (art. R328-47 à R328-54)](#874)
+            - [Sous-section 2 : Réadaptation, rééducation et formation professionnelle (art. R328-55 à R328-59)](#875)
             - [Sous-section 3 : Agrément et contrôle des centres 
-de préorientation et d'éducation professionnelle (art. R328-60 à R328-64)](#875)
-            - [Sous-section 4 : Orientation en milieu professionnel (art. R328-65 à D328-118)](#876)
-              - [Paragraphe 1 : Aide financière (art. R328-65 à R328-70)](#877)
-              - [Paragraphe 2 : Reconnaissance de la lourdeur du handicap (art. R328-71 à R328-83)](#878)
-              - [Paragraphe 3 : Subvention d'installation (art. D328-85 à R328-84)](#879)
-              - [Paragraphe 4 : Entreprise adaptée et centre de distribution de travail à domicile (art. R328-94 à R328-105)](#880)
-              - [Paragraphe 5 : Aide au poste et subvention spécifique (art. D328-109 à R328-108)](#881)
-              - [Paragraphe 6 : Mise à disposition (art. D328-114 à D328-117)](#882)
-              - [Paragraphe 7 : Priorité d'embauche (art. D328-118)](#883)
-            - [Sous-section 5 : Autres orientations (art. R328-119)](#884)
+de préorientation et d'éducation professionnelle (art. R328-60 à R328-64)](#876)
+            - [Sous-section 4 : Orientation en milieu professionnel (art. R328-65 à D328-118)](#877)
+              - [Paragraphe 1 : Aide financière (art. R328-65 à R328-70)](#878)
+              - [Paragraphe 2 : Reconnaissance de la lourdeur du handicap (art. R328-71 à R328-83)](#879)
+              - [Paragraphe 3 : Subvention d'installation (art. D328-85 à R328-84)](#880)
+              - [Paragraphe 4 : Entreprise adaptée et centre de distribution de travail à domicile (art. R328-94 à R328-105)](#881)
+              - [Paragraphe 5 : Aide au poste et subvention spécifique (art. D328-109 à R328-108)](#882)
+              - [Paragraphe 6 : Mise à disposition (art. D328-114 à D328-117)](#883)
+              - [Paragraphe 7 : Priorité d'embauche (art. D328-118)](#884)
+            - [Sous-section 5 : Autres orientations (art. R328-119)](#885)
           - [Section 4 : Institutions et organismes concourant 
-à l'insertion professionnelle des handicapés (art. R328-120 à R328-121)](#885)
-            - [Sous-section 1 : Coordination (art. R328-120)](#886)
-            - [Sous-section 2 : Fonds de développement pour l'insertion professionnelle des handicapés (art. R328-121)](#887)
-      - [TITRE III : Main-d'oeuvre étrangère (art. R330-1 à R330-11)](#888)
-        - [Section 1 : Etrangers. (art. R330-1 à R330-7)](#889)
-        - [Section 2 : Sanction administrative pour l'emploi d'étrangers sans titre de travail. (art. R330-8 à R330-11)](#890)
-      - [TITRE IV : Pénalités (art. R341-1 à R343-1)](#891)
-        - [CHAPITRE Ier : Travail clandestin (art. R341-1)](#892)
-        - [CHAPITRE II : Déclaration des mouvements de main-d'oeuvre (art. R342-1 à R342-2)](#893)
-        - [CHAPITRE III : Licenciement pour motif économique (art. R343-1)](#894)
-    - [LIVRE IV : Les groupements professionnels - La représentation des salariés (art. R412-1 à R451-1)](#895)
-      - [TITRE Ier : Les syndicats professionnels (art. R412-1 à R414-22)](#896)
-        - [CHAPITRE II : Représentativité syndicale (art. R412-1 à R412-5)](#897)
-          - [Section 1 : Critères de représentativité (art. R412-1 à R412-2)](#898)
-          - [Section 2 : Syndicats représentatifs (art. D412-3 à R412-5)](#899)
-        - [CHAPITRE III : Statut juridique (art. R413-1 à D413-10)](#900)
-          - [Section 1 : Objet et constitution (art. R413-1)](#901)
-          - [Section 2 : Ressources et moyens (art. D413-2 à D413-10)](#902)
-        - [CHAPITRE IV : Exercice du droit syndical (art. R414-1 à R414-22)](#903)
-          - [Section 1 : Délégué syndical (art. R414-1 à R414-15)](#904)
-            - [Sous-section 1 : Conditions de désignation (art. R414-1 à R414-5)](#905)
-              - [Paragraphe 1 : Entreprises de cinquante salariés et plus (art. R414-1 à R414-3)](#906)
-              - [Paragraphe 2 : Formalités (art. D414-4)](#907)
-              - [Paragraphe 3 : Contestations (art. R414-5)](#908)
-            - [Sous-section 2 : Mandat (art. R414-6)](#909)
-            - [Sous-section 3 : Protection du délégué syndical (art. R414-7 à R414-15)](#910)
-              - [Paragraphe 1 : Procédures d'autorisation applicables à la rupture de contrat (art. R414-7 à R414-13)](#911)
+à l'insertion professionnelle des handicapés (art. R328-120 à R328-121)](#886)
+            - [Sous-section 1 : Coordination (art. R328-120)](#887)
+            - [Sous-section 2 : Fonds de développement pour l'insertion professionnelle des handicapés (art. R328-121)](#888)
+      - [TITRE III : Main-d'oeuvre étrangère (art. R330-1 à R330-11)](#889)
+        - [Section 1 : Etrangers. (art. R330-1 à R330-7)](#890)
+        - [Section 2 : Sanction administrative pour l'emploi d'étrangers sans titre de travail. (art. R330-8 à R330-11)](#891)
+      - [TITRE IV : Pénalités (art. R341-1 à R343-1)](#892)
+        - [CHAPITRE Ier : Travail clandestin (art. R341-1)](#893)
+        - [CHAPITRE II : Déclaration des mouvements de main-d'oeuvre (art. R342-1 à R342-2)](#894)
+        - [CHAPITRE III : Licenciement pour motif économique (art. R343-1)](#895)
+    - [LIVRE IV : Les groupements professionnels - La représentation des salariés (art. R412-1 à R451-1)](#896)
+      - [TITRE Ier : Les syndicats professionnels (art. R412-1 à R414-22)](#897)
+        - [CHAPITRE II : Représentativité syndicale (art. R412-1 à R412-5)](#898)
+          - [Section 1 : Critères de représentativité (art. R412-1 à R412-2)](#899)
+          - [Section 2 : Syndicats représentatifs (art. D412-3 à R412-5)](#900)
+        - [CHAPITRE III : Statut juridique (art. R413-1 à D413-10)](#901)
+          - [Section 1 : Objet et constitution (art. R413-1)](#902)
+          - [Section 2 : Ressources et moyens (art. D413-2 à D413-10)](#903)
+        - [CHAPITRE IV : Exercice du droit syndical (art. R414-1 à R414-22)](#904)
+          - [Section 1 : Délégué syndical (art. R414-1 à R414-15)](#905)
+            - [Sous-section 1 : Conditions de désignation (art. R414-1 à R414-5)](#906)
+              - [Paragraphe 1 : Entreprises de cinquante salariés et plus (art. R414-1 à R414-3)](#907)
+              - [Paragraphe 2 : Formalités (art. D414-4)](#908)
+              - [Paragraphe 3 : Contestations (art. R414-5)](#909)
+            - [Sous-section 2 : Mandat (art. R414-6)](#910)
+            - [Sous-section 3 : Protection du délégué syndical (art. R414-7 à R414-15)](#911)
+              - [Paragraphe 1 : Procédures d'autorisation applicables à la rupture de contrat (art. R414-7 à R414-13)](#912)
               - [Paragraphe 2 : Procédures d'autorisation applicables
-au transfert de contrat (art. R414-14)](#912)
-              - [Paragraphe 3 : Contestation de la décision administrative (art. R414-15)](#913)
+au transfert de contrat (art. R414-14)](#913)
+              - [Paragraphe 3 : Contestation de la décision administrative (art. R414-15)](#914)
           - [Section 2 : Formation économique, sociale et syndicale
-des salariés appelés à exercer des fonctions syndicales (art. R414-16 à R414-17)](#914)
-          - [Section 3 : Dispositions pénales (art. R414-18 à R414-22)](#915)
-      - [TITRE III : Les délégués du personnel (art. R432-1 à R435-1)](#916)
-        - [CHAPITRE II : Attributions et pouvoirs (art. R432-1 à R432-3)](#917)
-        - [CHAPITRE III : Composition et élections (art. R433-1 à R433-6)](#918)
-        - [CHAPITRE V : Licenciement des délégués du personnel (art. R435-1)](#919)
-      - [TITRE IV : Les comités d'entreprise (art. R441-1 à R445-10)](#920)
-        - [CHAPITRE Ier : Champ d'application (art. R441-1)](#921)
-        - [CHAPITRE II : Attributions et pouvoirs (art. R442-1 à D442-22)](#922)
-          - [Section 1 : Personnalité civile. (art. R442-1)](#923)
-          - [Section 2 : Institutions sociales d'entreprises. (art. R442-2 à R442-3)](#924)
-          - [Section 3 : Gestion des activités sociales et culturelles. (art. R442-4 à R442-7)](#925)
-          - [Section 4 : Comités interentreprises. (art. R442-8 à R442-10)](#926)
-          - [Section 5 : Financement des activités sociales et culturelles. (art. R442-11 à R442-16)](#927)
-          - [Section 6 : Attributions économiques. (art. R442-17 à R442-18)](#928)
-          - [Section 7 : Rapport annuel d'information du comité d'entreprise dans les entreprises de moins de trois cents salariés. (art. R442-19)](#929)
-          - [Section 8 : Prérogatives du comité d'entreprise dans les assemblées générales d'actionnaires. (art. R442-20 à R442-21)](#930)
+des salariés appelés à exercer des fonctions syndicales (art. R414-16 à R414-17)](#915)
+          - [Section 3 : Dispositions pénales (art. R414-18 à R414-22)](#916)
+      - [TITRE III : Les délégués du personnel (art. R432-1 à R435-1)](#917)
+        - [CHAPITRE II : Attributions et pouvoirs (art. R432-1 à R432-3)](#918)
+        - [CHAPITRE III : Composition et élections (art. R433-1 à R433-6)](#919)
+        - [CHAPITRE V : Licenciement des délégués du personnel (art. R435-1)](#920)
+      - [TITRE IV : Les comités d'entreprise (art. R441-1 à R445-10)](#921)
+        - [CHAPITRE Ier : Champ d'application (art. R441-1)](#922)
+        - [CHAPITRE II : Attributions et pouvoirs (art. R442-1 à D442-22)](#923)
+          - [Section 1 : Personnalité civile. (art. R442-1)](#924)
+          - [Section 2 : Institutions sociales d'entreprises. (art. R442-2 à R442-3)](#925)
+          - [Section 3 : Gestion des activités sociales et culturelles. (art. R442-4 à R442-7)](#926)
+          - [Section 4 : Comités interentreprises. (art. R442-8 à R442-10)](#927)
+          - [Section 5 : Financement des activités sociales et culturelles. (art. R442-11 à R442-16)](#928)
+          - [Section 6 : Attributions économiques. (art. R442-17 à R442-18)](#929)
+          - [Section 7 : Rapport annuel d'information du comité d'entreprise dans les entreprises de moins de trois cents salariés. (art. R442-19)](#930)
+          - [Section 8 : Prérogatives du comité d'entreprise dans les assemblées générales d'actionnaires. (art. R442-20 à R442-21)](#931)
           - [Section 9 : Rapport annuel sur la situation comparée
-des femmes et des hommes dans l'entreprise (art. D442-22)](#931)
-        - [CHAPITRE III : Composition et élections (art. R443-1 à R443-5)](#932)
-        - [CHAPITRE IV : Fonctionnement (art. R444-1 à R444-3)](#933)
-        - [CHAPITRE V : Licenciement des représentants du personnel, des représentants syndicaux et des salariés assimilés (art. R445-1 à R445-10)](#934)
-      - [TITRE V : Pénalités (art. R451-1)](#935)
-    - [LIVRE V : Conflits du travail (art. R513-1 à R520-1)](#936)
-      - [TITRE Ier : Conflits collectifs (art. R513-1 à R515-2)](#937)
-        - [CHAPITRE III : Conciliation (art. R513-1 à R513-10)](#938)
-          - [Section 1 : Composition des commissions de conciliation. (art. R513-2 à R513-3)](#939)
-          - [Section 2 : Fonctionnement des commissions de conciliation. (art. R513-4 à R513-10)](#940)
-        - [CHAPITRE IV : Médiation (art. D514-7 à R514-6)](#941)
-        - [CHAPITRE V : Arbitrage (art. R515-1 à R515-2)](#942)
-      - [TITRE II : Pénalités (art. R520-1)](#943)
-    - [LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail (art. R610-1 à R632-2)](#944)
-      - [TITRE Ier : Services de contrôle (art. R610-1 à R610-6)](#945)
-      - [TITRE II : Obligations des employeurs (art. R620-1 à R620-5)](#946)
-      - [TITRE III : Pénalités (art. R631-1 à R632-2)](#947)
-        - [CHAPITRE Ier : Service de contrôle (art. R631-1)](#948)
-        - [CHAPITRE II : Obligations des employeurs (art. R632-1 à R632-2)](#949)
-    - [LIVRE VII : Formation professionnelle (art. D711-2 à R713-16)](#950)
-      - [CHAPITRE Ier : Dispositions relatives aux contrats de qualification et aux contrats d'orientation (art. D711-2 à R711-1)](#951)
-      - [CHAPITRE II : Contrôle de la formation professionnelle (art. R712-1 à R712-8)](#952)
-      - [CHAPITRE III : Organisme collecteur paritaire et organismes de formation (art. R713-1 à R713-16)](#953)
+des femmes et des hommes dans l'entreprise (art. D442-22)](#932)
+        - [CHAPITRE III : Composition et élections (art. R443-1 à R443-5)](#933)
+        - [CHAPITRE IV : Fonctionnement (art. R444-1 à R444-3)](#934)
+        - [CHAPITRE V : Licenciement des représentants du personnel, des représentants syndicaux et des salariés assimilés (art. R445-1 à R445-10)](#935)
+      - [TITRE V : Pénalités (art. R451-1)](#936)
+    - [LIVRE V : Conflits du travail (art. R513-1 à R520-1)](#937)
+      - [TITRE Ier : Conflits collectifs (art. R513-1 à R515-2)](#938)
+        - [CHAPITRE III : Conciliation (art. R513-1 à R513-10)](#939)
+          - [Section 1 : Composition des commissions de conciliation. (art. R513-2 à R513-3)](#940)
+          - [Section 2 : Fonctionnement des commissions de conciliation. (art. R513-4 à R513-10)](#941)
+        - [CHAPITRE IV : Médiation (art. D514-7 à R514-6)](#942)
+        - [CHAPITRE V : Arbitrage (art. R515-1 à R515-2)](#943)
+      - [TITRE II : Pénalités (art. R520-1)](#944)
+    - [LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail (art. R610-1 à R632-2)](#945)
+      - [TITRE Ier : Services de contrôle (art. R610-1 à R610-6)](#946)
+      - [TITRE II : Obligations des employeurs (art. R620-1 à R620-5)](#947)
+      - [TITRE III : Pénalités (art. R631-1 à R632-2)](#948)
+        - [CHAPITRE Ier : Service de contrôle (art. R631-1)](#949)
+        - [CHAPITRE II : Obligations des employeurs (art. R632-1 à R632-2)](#950)
+    - [LIVRE VII : Formation professionnelle (art. D711-2 à R713-16)](#951)
+      - [CHAPITRE Ier : Dispositions relatives aux contrats de qualification et aux contrats d'orientation (art. D711-2 à R711-1)](#952)
+      - [CHAPITRE II : Contrôle de la formation professionnelle (art. R712-1 à R712-8)](#953)
+      - [CHAPITRE III : Organisme collecteur paritaire et organismes de formation (art. R713-1 à R713-16)](#954)
 # Partie législative<a id=1></a>
 
 ## LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES.<a id=2></a>
@@ -69947,7 +69948,214 @@ _Cite_:
 
 ##### Section 2 : Aides au maintien et à la sauvegarde de l'emploi<a id=794></a>
 
-##### Sous-section 2 : Aides aux salariés en chômage partiel<a id=795></a>
+##### Sous-section 1 : Aide au développement de l'emploi et des compétences<a id=795></a>
+
+###### Article D321-7
+
+Le plan de gestion prévisionnelle des emplois et des compétences prévu à l'article L. 321-11 comprend, notamment, des actions
+de formation destinées à assurer l'adaptation des salariés à l'évolution de leurs emplois ou des actions favorisant l'égalité
+professionnelle entre les femmes et les hommes, en particulier grâce à des mesures améliorant l'articulation entre l'activité
+professionnelle et la vie personnelle et familiale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2013-801 du 2 septembre 2013 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L321-11
+
+
+###### Article D321-8
+
+L'Etat prend en charge une partie des frais liés aux études préalables à la conception du plan de gestion prévisionnelle des
+emplois et des compétences.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2013-801 du 2 septembre 2013 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article D321-9
+
+L'Etat peut prendre en charge, dans la limite de 50 %, les coûts supportés par les entreprises pour la conception et
+l'élaboration d'un plan de gestion prévisionnelle des emplois et des compétences dans le cadre de conventions dénommées "
+conventions d'aide au conseil ”.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2013-801 du 2 septembre 2013 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article D321-10
+
+Dans le cadre d'une convention conclue avec une seule entreprise dont l'effectif ne peut excéder trois cents salariés, la
+participation financière de l'Etat est au maximum de 15 000 €. Cette convention est signée par le préfet de Mayotte. 
+
+Dans le cadre d'une convention conclue avec plusieurs entreprises, la participation financière de l'Etat est, au maximum, de
+12 500 € par entreprise. Elle est conclue par le préfet de Mayotte lorsque les sièges sociaux des entreprises signataires
+sont situés à Mayotte.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2013-801 du 2 septembre 2013 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. D321-14 (Ab)
+
+
+###### Article D321-11
+
+L'entreprise précise dans sa demande, adressée à l'autorité administrative compétente, les motifs de sa démarche de gestion
+prévisionnelle au regard notamment : 
+
+1° De son organisation du travail ; 
+
+2° De l'évolution des compétences des salariés et du maintien de leur emploi ; 
+
+3° De sa gestion des âges ; 
+
+4° Du développement du dialogue social ; 
+
+5° De la prise en compte du principe d'égalité professionnelle entre les femmes et les hommes ; 
+
+6° Des perspectives d'amélioration de l'articulation entre l'activité professionnelle et la vie personnelle et familiale de
+ses salariés ; 
+
+7° De la promotion de la diversité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2013-801 du 2 septembre 2013 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article D321-13
+
+L'Etat peut conclure avec des organismes professionnels ou interprofessionnels ou tout organisme représentant ou animant un
+réseau d'entreprises des conventions ayant pour objet de préparer les entreprises aux enjeux de la gestion prévisionnelle des
+emplois et des compétences.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2013-801 du 2 septembre 2013 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. D321-14 (Ab)
+
+
+###### Article D321-14
+
+Les conventions mentionnées aux articles D. 321-10 et D. 321-13 peuvent être signées par le préfet de Mayotte lorsqu'elles
+portent sur des actions mises en place à Mayotte, y compris lorsque ces actions le sont au bénéfice exclusif d'établissements
+installés à Mayotte et dont le siège social est situé dans un autre département.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2013-801 du 2 septembre 2013 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. D321-10 (Ab)
+  - Code du travail applicable à Mayotte. - art. D321-13 (Ab)
+
+
+###### Article D321-15
+
+Ces conventions peuvent prévoir : 
+
+1° D'une part, des actions d'information, de communication et d'animation ; 
+
+2° D'autre part, des actions de capitalisation, d'évaluation et de diffusion de bonnes pratiques.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2013-801 du 2 septembre 2013 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article D321-16
+
+L'Etat peut prendre en charge jusqu'à 70 % du coût global des actions, en prenant en compte le nombre d'entreprises visées,
+leurs effectifs et l'intérêt des actions envisagées.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2013-801 du 2 septembre 2013 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+###### Article R321-12
+
+Le comité d'entreprise ou, à défaut, les délégués du personnel sont consultés sur la conclusion de cette convention avec
+l'Etat. Ils sont consultés sur le contenu et les modalités de mise en œuvre du plan de gestion prévisionnelle des emplois et
+des compétences.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2013-801 du 2 septembre 2013 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+
+##### Sous-section 2 : Aides aux salariés en chômage partiel<a id=796></a>
 
 ###### Article D321-12-1
 
@@ -70154,9 +70362,9 @@ _Anciens textes_:
   - Code du travail applicable à Mayotte. - art. R327-14 (T)
 
 
-#### CHAPITRE II : Dispositions relatives au contrat unique d'insertion<a id=796></a>
+#### CHAPITRE II : Dispositions relatives au contrat unique d'insertion<a id=797></a>
 
-##### Section 1 : Dispositions générales<a id=797></a>
+##### Section 1 : Dispositions générales<a id=798></a>
 
 ###### Article R322-1
 
@@ -70337,9 +70545,9 @@ _Cite_:
   - Code du travail - art. R5134-18
 
 
-##### Section 2 : Contrat d'accompagnement dans l'emploi<a id=798></a>
+##### Section 2 : Contrat d'accompagnement dans l'emploi<a id=799></a>
 
-##### Sous-section 1 : Aide à l'insertion professionnelle<a id=799></a>
+##### Sous-section 1 : Aide à l'insertion professionnelle<a id=800></a>
 
 ###### Article R322-7
 
@@ -70561,7 +70769,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L442-11
 
 
-##### Sous-section 2 : Contrat de travail<a id=800></a>
+##### Sous-section 2 : Contrat de travail<a id=801></a>
 
 ###### Article R322-16
 
@@ -70589,7 +70797,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L322-16
 
 
-##### Sous-section 3 : Accompagnement<a id=801></a>
+##### Sous-section 3 : Accompagnement<a id=802></a>
 
 ###### Article R322-17
 
@@ -70698,9 +70906,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R322-17 (Ab)
 
 
-##### Sous-section 4 : Aide financière et exonérations<a id=802></a>
+##### Sous-section 4 : Aide financière et exonérations<a id=803></a>
 
-##### Paragraphe 1 : Aide financière<a id=803></a>
+##### Paragraphe 1 : Aide financière<a id=804></a>
 
 ###### Article D322-23-1
 
@@ -70937,7 +71145,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R322-30 (Ab)
 
 
-##### Paragraphe 2 : Exonérations<a id=804></a>
+##### Paragraphe 2 : Exonérations<a id=805></a>
 
 ###### Article D322-30-1
 
@@ -71009,7 +71217,7 @@ _Cite_:
   - Code des assurances - art. L322-24
 
 
-##### Sous-section 5 : Périodes d'immersion<a id=805></a>
+##### Sous-section 5 : Périodes d'immersion<a id=806></a>
 
 ###### Article D322-30-2
 
@@ -71186,9 +71394,9 @@ _Anciens textes_:
   - Code du travail applicable à Mayotte. - art. D322-8 (T)
 
 
-##### Section 3 : Contrat initiative-emploi<a id=806></a>
+##### Section 3 : Contrat initiative-emploi<a id=807></a>
 
-##### Sous-section 1 : Aide à l'insertion professionnelle<a id=807></a>
+##### Sous-section 1 : Aide à l'insertion professionnelle<a id=808></a>
 
 ###### Article R322-31
 
@@ -71409,7 +71617,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L442-11
 
 
-##### Sous-section 2 : Accompagnement<a id=808></a>
+##### Sous-section 2 : Accompagnement<a id=809></a>
 
 ###### Article R322-40
 
@@ -71517,7 +71725,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L711-1-1
 
 
-##### Sous-section 3 : Aide financière<a id=809></a>
+##### Sous-section 3 : Aide financière<a id=810></a>
 
 ###### Article D322-46-1
 
@@ -71748,9 +71956,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R322-49 (Ab)
 
 
-##### Section 4 : Emploi d'avenir<a id=810></a>
+##### Section 4 : Emploi d'avenir<a id=811></a>
 
-##### Sous-section 1 : Dispositions générales<a id=811></a>
+##### Sous-section 1 : Dispositions générales<a id=812></a>
 
 ###### Article R322-52
 
@@ -71918,7 +72126,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L322-46
 
 
-##### Sous-section 2 : Aide à l'insertion professionnelle<a id=812></a>
+##### Sous-section 2 : Aide à l'insertion professionnelle<a id=813></a>
 
 ###### Article R322-57
 
@@ -72002,7 +72210,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R322-34 (Ab)
 
 
-##### Section 5 : Emploi d'avenir professeur<a id=813></a>
+##### Section 5 : Emploi d'avenir professeur<a id=814></a>
 
 ###### Article D322-67
 
@@ -72182,9 +72390,9 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-#### CHAPITRE IV : Dispositions particulières relatives à l'emploi des jeunes<a id=814></a>
+#### CHAPITRE IV : Dispositions particulières relatives à l'emploi des jeunes<a id=815></a>
 
-##### Projet initiative-jeune<a id=815></a>
+##### Projet initiative-jeune<a id=816></a>
 
 ###### Article D324-2
 
@@ -72331,9 +72539,9 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R324-2 (Ab)
 
 
-#### CHAPITRE V : Dispositions relatives à la création d'entreprises et à la création d'emplois<a id=816></a>
+#### CHAPITRE V : Dispositions relatives à la création d'entreprises et à la création d'emplois<a id=817></a>
 
-##### Section 1 : Aide à la création d'entreprises à l'initiative des demandeurs d'emploi<a id=817></a>
+##### Section 1 : Aide à la création d'entreprises à l'initiative des demandeurs d'emploi<a id=818></a>
 
 ###### Article D325-1-1
 
@@ -72441,7 +72649,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R325-4 (M)
 
 
-##### Section 3 : Agence mahoraise pour le développement d'activités d'utilité sociale<a id=818></a>
+##### Section 3 : Agence mahoraise pour le développement d'activités d'utilité sociale<a id=819></a>
 
 ###### Article R325-3
 
@@ -72867,11 +73075,11 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R325-7 (Ab)
 
 
-#### CHAPITRE VI : Placement<a id=819></a>
+#### CHAPITRE VI : Placement<a id=820></a>
 
-##### Section 1 : Pôle emploi<a id=820></a>
+##### Section 1 : Pôle emploi<a id=821></a>
 
-##### Sous-section 1 : Organisation de Pôle emploi à Mayotte<a id=821></a>
+##### Sous-section 1 : Organisation de Pôle emploi à Mayotte<a id=822></a>
 
 ###### Article R326-1
 
@@ -73002,7 +73210,7 @@ _Modifié par_:
   - Décret n°2012-1566 du 31 décembre 2012 - art. 1
 
 
-##### Sous-section 2 : Intervention pour le compte de l'Etat<a id=822></a>
+##### Sous-section 2 : Intervention pour le compte de l'Etat<a id=823></a>
 
 ###### Article R326-8
 
@@ -73036,7 +73244,7 @@ _Modifié par_:
   - Décret n°2012-1566 du 31 décembre 2012 - art. 1
 
 
-##### Sous-section 3 : Instance paritaire<a id=823></a>
+##### Sous-section 3 : Instance paritaire<a id=824></a>
 
 ###### Article R326-10
 
@@ -73127,9 +73335,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L327-54
 
 
-##### Section 2 : Placement<a id=824></a>
+##### Section 2 : Placement<a id=825></a>
 
-##### Sous-section 1 : Rôle des collectivités territoriales<a id=825></a>
+##### Sous-section 1 : Rôle des collectivités territoriales<a id=826></a>
 
 ###### Article R326-13
 
@@ -73280,7 +73488,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R326-19 (V)
 
 
-##### Sous-section 2 : Organismes privés de placement<a id=826></a>
+##### Sous-section 2 : Organismes privés de placement<a id=827></a>
 
 ###### Article R326-19
 
@@ -73529,9 +73737,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L326-23
 
 
-##### Section 3 : Diffusion et publicité des offres et demandes d'emploi<a id=827></a>
+##### Section 3 : Diffusion et publicité des offres et demandes d'emploi<a id=828></a>
 
-##### Sous-section 1 : Conditions de publication et de diffusion des offres d'emploi<a id=828></a>
+##### Sous-section 1 : Conditions de publication et de diffusion des offres d'emploi<a id=829></a>
 
 ###### Article R326-28
 
@@ -73578,7 +73786,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Sous-section 2 : Dispositions pénales<a id=829></a>
+##### Sous-section 2 : Dispositions pénales<a id=830></a>
 
 ###### Article R326-30
 
@@ -73608,7 +73816,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L326-30
 
 
-##### Section 4 : Inscription au registre national des agents artistiques<a id=830></a>
+##### Section 4 : Inscription au registre national des agents artistiques<a id=831></a>
 
 ###### Article D326-36
 
@@ -73866,11 +74074,11 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. R811-5 (Ab)
 
 
-##### Section 5 : Le demandeur d'emploi<a id=831></a>
+##### Section 5 : Le demandeur d'emploi<a id=832></a>
 
-##### Sous-section 1 : Inscription du demandeur d'emploi et recherche d'emploi<a id=832></a>
+##### Sous-section 1 : Inscription du demandeur d'emploi et recherche d'emploi<a id=833></a>
 
-##### Paragraphe 1 : Inscription sur la liste des demandeurs d'emploi<a id=833></a>
+##### Paragraphe 1 : Inscription sur la liste des demandeurs d'emploi<a id=834></a>
 
 ###### Article R326-39
 
@@ -74037,7 +74245,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Paragraphe 2 : Recherche d'emploi<a id=834></a>
+##### Paragraphe 2 : Recherche d'emploi<a id=835></a>
 
 ###### Article R326-47
 
@@ -74258,7 +74466,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R326-62 (V)
 
 
-##### Sous-section 2 : Radiation de la liste des demandeurs d'emploi<a id=835></a>
+##### Sous-section 2 : Radiation de la liste des demandeurs d'emploi<a id=836></a>
 
 ###### Article R326-56
 
@@ -74402,7 +74610,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R326-55 (Ab)
 
 
-##### Section 6 : Aide personnalisée de retour à l'emploi<a id=836></a>
+##### Section 6 : Aide personnalisée de retour à l'emploi<a id=837></a>
 
 ###### Article R326-63
 
@@ -74613,9 +74821,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L542-6
 
 
-#### CHAPITRE VII : Indemnisation du chômage<a id=837></a>
+#### CHAPITRE VII : Indemnisation du chômage<a id=838></a>
 
-##### Section 1 : Dispositions générales<a id=838></a>
+##### Section 1 : Dispositions générales<a id=839></a>
 
 ###### Article R327-1
 
@@ -74642,11 +74850,11 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L327-5
 
 
-##### Section 2 : Régime d'assurance<a id=839></a>
+##### Section 2 : Régime d'assurance<a id=840></a>
 
-##### Sous-section 1 : Conditions et modalités d'attribution de l'allocation d'assurance<a id=840></a>
+##### Sous-section 1 : Conditions et modalités d'attribution de l'allocation d'assurance<a id=841></a>
 
-##### Paragraphe 1 : Conditions d'attribution<a id=841></a>
+##### Paragraphe 1 : Conditions d'attribution<a id=842></a>
 
 ###### Article R327-2
 
@@ -74707,7 +74915,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R327-2 (Ab)
 
 
-##### Paragraphe 2 : Modalités de calcul pour les travailleurs migrants<a id=842></a>
+##### Paragraphe 2 : Modalités de calcul pour les travailleurs migrants<a id=843></a>
 
 ###### Article R327-4
 
@@ -74756,7 +74964,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R327-4 (Ab)
 
 
-##### Sous-section 2 : Obligations d'assurance et de déclaration des rémunérations<a id=843></a>
+##### Sous-section 2 : Obligations d'assurance et de déclaration des rémunérations<a id=844></a>
 
 ###### Article R327-6
 
@@ -74856,7 +75064,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R327-54
 
 
-##### Sous-section 3 : Actions en recouvrement et sanctions<a id=844></a>
+##### Sous-section 3 : Actions en recouvrement et sanctions<a id=845></a>
 
 ###### Article R327-10
 
@@ -74886,11 +75094,11 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. R321-10 (M)
 
 
-##### Section 3 : Régime de solidarité<a id=845></a>
+##### Section 3 : Régime de solidarité<a id=846></a>
 
-##### Sous-section 1 : Allocation de solidarité spécifique<a id=846></a>
+##### Sous-section 1 : Allocation de solidarité spécifique<a id=847></a>
 
-##### Paragraphe 1 : Conditions d'attribution<a id=847></a>
+##### Paragraphe 1 : Conditions d'attribution<a id=848></a>
 
 ###### Article R327-11
 
@@ -75131,7 +75339,7 @@ _Anciens textes_:
   - Code du travail applicable à Mayotte. - art. R327-26 (T)
 
 
-##### Paragraphe 2 : Versement, renouvellement et prolongation<a id=848></a>
+##### Paragraphe 2 : Versement, renouvellement et prolongation<a id=849></a>
 
 ###### Article R327-18
 
@@ -75254,7 +75462,7 @@ _Anciens textes_:
   - Code du travail applicable à Mayotte. - art. R327-31 (T)
 
 
-##### Paragraphe 3 : Contribution exceptionnelle de solidarité<a id=849></a>
+##### Paragraphe 3 : Contribution exceptionnelle de solidarité<a id=850></a>
 
 ###### Article R327-23
 
@@ -75366,7 +75574,7 @@ _Anciens textes_:
   - Code du travail applicable à Mayotte. - art. R327-35 (T)
 
 
-##### Section 4 : Dispositions particulières à certains salariés du secteur public<a id=850></a>
+##### Section 4 : Dispositions particulières à certains salariés du secteur public<a id=851></a>
 
 ###### Article R327-27
 
@@ -75551,9 +75759,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. R327-23 (Ab)
 
 
-##### Section 5 : Maintien des droits au revenu de remplacement du demandeur indemnisé<a id=851></a>
+##### Section 5 : Maintien des droits au revenu de remplacement du demandeur indemnisé<a id=852></a>
 
-##### Sous-section 1 : Exercice d'une activité professionnelle et cumul de l'allocation de solidarité spécifique avec d'autres revenus<a id=852></a>
+##### Sous-section 1 : Exercice d'une activité professionnelle et cumul de l'allocation de solidarité spécifique avec d'autres revenus<a id=853></a>
 
 ###### Article R327-33
 
@@ -75809,7 +76017,7 @@ _Anciens textes_:
   - Code du travail applicable à Mayotte. - art. R327-43 (T)
 
 
-##### Sous-section 2 : Prime forfaitaire pour reprise d'activité<a id=853></a>
+##### Sous-section 2 : Prime forfaitaire pour reprise d'activité<a id=854></a>
 
 ###### Article R327-41
 
@@ -75913,7 +76121,7 @@ _Anciens textes_:
   - Code du travail applicable à Mayotte. - art. R327-47 (T)
 
 
-##### Sous-section 3 : Exercice d'une activité d'intérêt général<a id=854></a>
+##### Sous-section 3 : Exercice d'une activité d'intérêt général<a id=855></a>
 
 ###### Article R327-45
 
@@ -75965,9 +76173,9 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. R327-43 (VT)
 
 
-##### Section 6 : Contrôle et sanctions<a id=855></a>
+##### Section 6 : Contrôle et sanctions<a id=856></a>
 
-##### Sous-section 1 : Agents chargés du contrôle de la condition d'aptitude au travail et de recherche d'emploi<a id=856></a>
+##### Sous-section 1 : Agents chargés du contrôle de la condition d'aptitude au travail et de recherche d'emploi<a id=857></a>
 
 ###### Article R327-47
 
@@ -75992,7 +76200,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. R327-44 (Ab)
 
 
-##### Sous-section 2 : Réduction, suspension ou suppression du revenu de remplacement<a id=857></a>
+##### Sous-section 2 : Réduction, suspension ou suppression du revenu de remplacement<a id=858></a>
 
 ###### Article R327-48
 
@@ -76222,7 +76430,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R327-55 (Ab)
 
 
-##### Sous-section 3 : Pénalité administrative<a id=858></a>
+##### Sous-section 3 : Pénalité administrative<a id=859></a>
 
 ###### Article R327-57
 
@@ -76292,7 +76500,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R327-57 (Ab)
 
 
-##### Section 7 : Droits sociaux des demandeurs d'emploi<a id=859></a>
+##### Section 7 : Droits sociaux des demandeurs d'emploi<a id=860></a>
 
 ###### Article R327-60
 
@@ -76310,7 +76518,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 8 : Dispositions pénales<a id=860></a>
+##### Section 8 : Dispositions pénales<a id=861></a>
 
 ###### Article R327-61
 
@@ -76354,10 +76562,10 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L327-12
 
 
-#### CHAPITRE VIII : Dispositions régissant l'emploi de certaines catégories de travailleurs<a id=861></a>
+#### CHAPITRE VIII : Dispositions régissant l'emploi de certaines catégories de travailleurs<a id=862></a>
 
 ##### Section 1 : Objet des politiques en faveur de l'emploi 
-des personnes handicapées<a id=862></a>
+des personnes handicapées<a id=863></a>
 
 ###### Article D328-1
 
@@ -76513,11 +76721,11 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 2 : Obligation d'emploi des travailleurs handicapés, mutilés de guerre et assimilés<a id=863></a>
+##### Section 2 : Obligation d'emploi des travailleurs handicapés, mutilés de guerre et assimilés<a id=864></a>
 
-##### Sous-section 1 : Obligation d'emploi<a id=864></a>
+##### Sous-section 1 : Obligation d'emploi<a id=865></a>
 
-##### Paragraphe 1 : Pourcentage d'emploi de travailleurs handicapés<a id=865></a>
+##### Paragraphe 1 : Pourcentage d'emploi de travailleurs handicapés<a id=866></a>
 
 ###### Article D328-7
 
@@ -76543,7 +76751,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L328-7
 
 
-##### Paragraphe 2 : Déclaration annuelle de l'employeur<a id=866></a>
+##### Paragraphe 2 : Déclaration annuelle de l'employeur<a id=867></a>
 
 ###### Article D328-16
 
@@ -76832,9 +77040,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L328-10
 
 
-##### Sous-section 2 : Modalités alternatives de mise en œuvre de l'obligation d'emploi<a id=867></a>
+##### Sous-section 2 : Modalités alternatives de mise en œuvre de l'obligation d'emploi<a id=868></a>
 
-##### Paragraphe 1 : Passation d'un contrat de fournitures, de sous-traitance ou de prestation de service<a id=868></a>
+##### Paragraphe 1 : Passation d'un contrat de fournitures, de sous-traitance ou de prestation de service<a id=869></a>
 
 ###### Article D328-19
 
@@ -76980,7 +77188,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R328-21 (Ab)
 
 
-##### Paragraphe 2 : Accueil de stagiaires handicapés<a id=869></a>
+##### Paragraphe 2 : Accueil de stagiaires handicapés<a id=870></a>
 
 ###### Article D328-25
 
@@ -77096,7 +77304,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Paragraphe 3 : Application d'un accord collectif<a id=870></a>
+##### Paragraphe 3 : Application d'un accord collectif<a id=871></a>
 
 ###### Article R328-27
 
@@ -77256,7 +77464,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Paragraphe 4 : Versement d'une contribution<a id=871></a>
+##### Paragraphe 4 : Versement d'une contribution<a id=872></a>
 
 ###### Article D328-34
 
@@ -78098,9 +78306,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L328-7
 
 
-##### Section 3 : Reconnaissance et orientation des travailleurs handicapés<a id=872></a>
+##### Section 3 : Reconnaissance et orientation des travailleurs handicapés<a id=873></a>
 
-##### Sous-section 1 : Orientation et placement<a id=873></a>
+##### Sous-section 1 : Orientation et placement<a id=874></a>
 
 ###### Article R328-47
 
@@ -78284,7 +78492,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. D328-4
 
 
-##### Sous-section 2 : Réadaptation, rééducation et formation professionnelle<a id=874></a>
+##### Sous-section 2 : Réadaptation, rééducation et formation professionnelle<a id=875></a>
 
 ###### Article R328-55
 
@@ -78418,7 +78626,7 @@ _Abrogé par_:
 
 
 ##### Sous-section 3 : Agrément et contrôle des centres 
-de préorientation et d'éducation professionnelle<a id=875></a>
+de préorientation et d'éducation professionnelle<a id=876></a>
 
 ###### Article R328-60
 
@@ -78534,9 +78742,9 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Sous-section 4 : Orientation en milieu professionnel<a id=876></a>
+##### Sous-section 4 : Orientation en milieu professionnel<a id=877></a>
 
-##### Paragraphe 1 : Aide financière<a id=877></a>
+##### Paragraphe 1 : Aide financière<a id=878></a>
 
 ###### Article R328-65
 
@@ -78657,7 +78865,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Paragraphe 2 : Reconnaissance de la lourdeur du handicap<a id=878></a>
+##### Paragraphe 2 : Reconnaissance de la lourdeur du handicap<a id=879></a>
 
 ###### Article R328-71
 
@@ -78986,7 +79194,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L328-45
 
 
-##### Paragraphe 3 : Subvention d'installation<a id=879></a>
+##### Paragraphe 3 : Subvention d'installation<a id=880></a>
 
 ###### Article D328-85
 
@@ -79182,7 +79390,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. D328-4
 
 
-##### Paragraphe 4 : Entreprise adaptée et centre de distribution de travail à domicile<a id=880></a>
+##### Paragraphe 4 : Entreprise adaptée et centre de distribution de travail à domicile<a id=881></a>
 
 ###### Article R328-94
 
@@ -79418,7 +79626,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Paragraphe 5 : Aide au poste et subvention spécifique<a id=881></a>
+##### Paragraphe 5 : Aide au poste et subvention spécifique<a id=882></a>
 
 ###### Article D328-109
 
@@ -79584,7 +79792,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Paragraphe 6 : Mise à disposition<a id=882></a>
+##### Paragraphe 6 : Mise à disposition<a id=883></a>
 
 ###### Article D328-114
 
@@ -79672,7 +79880,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Paragraphe 7 : Priorité d'embauche<a id=883></a>
+##### Paragraphe 7 : Priorité d'embauche<a id=884></a>
 
 ###### Article D328-118
 
@@ -79697,7 +79905,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L328-37
 
 
-##### Sous-section 5 : Autres orientations<a id=884></a>
+##### Sous-section 5 : Autres orientations<a id=885></a>
 
 ###### Article R328-119
 
@@ -79721,9 +79929,9 @@ _Cite_:
 
 
 ##### Section 4 : Institutions et organismes concourant 
-à l'insertion professionnelle des handicapés<a id=885></a>
+à l'insertion professionnelle des handicapés<a id=886></a>
 
-##### Sous-section 1 : Coordination<a id=886></a>
+##### Sous-section 1 : Coordination<a id=887></a>
 
 ###### Article R328-120
 
@@ -79746,7 +79954,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L328-11
 
 
-##### Sous-section 2 : Fonds de développement pour l'insertion professionnelle des handicapés<a id=887></a>
+##### Sous-section 2 : Fonds de développement pour l'insertion professionnelle des handicapés<a id=888></a>
 
 ###### Article R328-121
 
@@ -79766,9 +79974,9 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-### TITRE III : Main-d'oeuvre étrangère<a id=888></a>
+### TITRE III : Main-d'oeuvre étrangère<a id=889></a>
 
-#### Section 1 : Etrangers.<a id=889></a>
+#### Section 1 : Etrangers.<a id=890></a>
 
 ###### Article R330-1
 
@@ -80014,7 +80222,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. R330-9 (M)
 
 
-#### Section 2 : Sanction administrative pour l'emploi d'étrangers sans titre de travail.<a id=890></a>
+#### Section 2 : Sanction administrative pour l'emploi d'étrangers sans titre de travail.<a id=891></a>
 
 ###### Article R330-8
 
@@ -80181,9 +80389,9 @@ _Anciens textes_:
   - Code du travail applicable à Mayotte. - art. R330-9 (T)
 
 
-### TITRE IV : Pénalités<a id=891></a>
+### TITRE IV : Pénalités<a id=892></a>
 
-#### CHAPITRE Ier : Travail clandestin<a id=892></a>
+#### CHAPITRE Ier : Travail clandestin<a id=893></a>
 
 ###### Article R341-1
 
@@ -80212,7 +80420,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R312-1
 
 
-#### CHAPITRE II : Déclaration des mouvements de main-d'oeuvre<a id=893></a>
+#### CHAPITRE II : Déclaration des mouvements de main-d'oeuvre<a id=894></a>
 
 ###### Article R342-1
 
@@ -80285,7 +80493,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R311-5
 
 
-#### CHAPITRE III : Licenciement pour motif économique<a id=894></a>
+#### CHAPITRE III : Licenciement pour motif économique<a id=895></a>
 
 ###### Article R343-1
 
@@ -80314,13 +80522,13 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R320-1 (Ab)
 
 
-## LIVRE IV : Les groupements professionnels - La représentation des salariés<a id=895></a>
+## LIVRE IV : Les groupements professionnels - La représentation des salariés<a id=896></a>
 
-### TITRE Ier : Les syndicats professionnels<a id=896></a>
+### TITRE Ier : Les syndicats professionnels<a id=897></a>
 
-#### CHAPITRE II : Représentativité syndicale<a id=897></a>
+#### CHAPITRE II : Représentativité syndicale<a id=898></a>
 
-##### Section 1 : Critères de représentativité<a id=898></a>
+##### Section 1 : Critères de représentativité<a id=899></a>
 
 ###### Article R412-1
 
@@ -80360,7 +80568,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 2 : Syndicats représentatifs<a id=899></a>
+##### Section 2 : Syndicats représentatifs<a id=900></a>
 
 ###### Article D412-3
 
@@ -80447,9 +80655,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L133-1
 
 
-#### CHAPITRE III : Statut juridique<a id=900></a>
+#### CHAPITRE III : Statut juridique<a id=901></a>
 
-##### Section 1 : Objet et constitution<a id=901></a>
+##### Section 1 : Objet et constitution<a id=902></a>
 
 ###### Article R413-1
 
@@ -80472,7 +80680,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R451-1 (Ab)
 
 
-##### Section 2 : Ressources et moyens<a id=902></a>
+##### Section 2 : Ressources et moyens<a id=903></a>
 
 ###### Article D413-2
 
@@ -80776,13 +80984,13 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L413-18
 
 
-#### CHAPITRE IV : Exercice du droit syndical<a id=903></a>
+#### CHAPITRE IV : Exercice du droit syndical<a id=904></a>
 
-##### Section 1 : Délégué syndical<a id=904></a>
+##### Section 1 : Délégué syndical<a id=905></a>
 
-##### Sous-section 1 : Conditions de désignation<a id=905></a>
+##### Sous-section 1 : Conditions de désignation<a id=906></a>
 
-##### Paragraphe 1 : Entreprises de cinquante salariés et plus<a id=906></a>
+##### Paragraphe 1 : Entreprises de cinquante salariés et plus<a id=907></a>
 
 ###### Article R414-1
 
@@ -80852,7 +81060,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R141-2 (Ab)
 
 
-##### Paragraphe 2 : Formalités<a id=907></a>
+##### Paragraphe 2 : Formalités<a id=908></a>
 
 ###### Article D414-4
 
@@ -80871,7 +81079,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Paragraphe 3 : Contestations<a id=908></a>
+##### Paragraphe 3 : Contestations<a id=909></a>
 
 ###### Article R414-5
 
@@ -80904,7 +81112,7 @@ _Cite_:
   - Code de procédure civile - art. 999
 
 
-##### Sous-section 2 : Mandat<a id=909></a>
+##### Sous-section 2 : Mandat<a id=910></a>
 
 ###### Article R414-6
 
@@ -80929,9 +81137,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L414-36
 
 
-##### Sous-section 3 : Protection du délégué syndical<a id=910></a>
+##### Sous-section 3 : Protection du délégué syndical<a id=911></a>
 
-##### Paragraphe 1 : Procédures d'autorisation applicables à la rupture de contrat<a id=911></a>
+##### Paragraphe 1 : Procédures d'autorisation applicables à la rupture de contrat<a id=912></a>
 
 ###### Article R414-7
 
@@ -81102,7 +81310,7 @@ _Abrogé par_:
 
 
 ##### Paragraphe 2 : Procédures d'autorisation applicables
-au transfert de contrat<a id=912></a>
+au transfert de contrat<a id=913></a>
 
 ###### Article R414-14
 
@@ -81127,7 +81335,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R414-10 (Ab)
 
 
-##### Paragraphe 3 : Contestation de la décision administrative<a id=913></a>
+##### Paragraphe 3 : Contestation de la décision administrative<a id=914></a>
 
 ###### Article R414-15
 
@@ -81150,7 +81358,7 @@ _Abrogé par_:
 
 
 ##### Section 2 : Formation économique, sociale et syndicale
-des salariés appelés à exercer des fonctions syndicales<a id=914></a>
+des salariés appelés à exercer des fonctions syndicales<a id=915></a>
 
 ###### Article R414-16
 
@@ -81194,7 +81402,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L414-58
 
 
-##### Section 3 : Dispositions pénales<a id=915></a>
+##### Section 3 : Dispositions pénales<a id=916></a>
 
 ###### Article R414-18
 
@@ -81311,9 +81519,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L414-2
 
 
-### TITRE III : Les délégués du personnel<a id=916></a>
+### TITRE III : Les délégués du personnel<a id=917></a>
 
-#### CHAPITRE II : Attributions et pouvoirs<a id=917></a>
+#### CHAPITRE II : Attributions et pouvoirs<a id=918></a>
 
 ###### Article R432-1
 
@@ -81390,7 +81598,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L620-5
 
 
-#### CHAPITRE III : Composition et élections<a id=918></a>
+#### CHAPITRE III : Composition et élections<a id=919></a>
 
 ###### Article R433-1
 
@@ -81620,7 +81828,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L433-3
 
 
-#### CHAPITRE V : Licenciement des délégués du personnel<a id=919></a>
+#### CHAPITRE V : Licenciement des délégués du personnel<a id=920></a>
 
 ###### Article R435-1
 
@@ -81647,9 +81855,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R445-1
 
 
-### TITRE IV : Les comités d'entreprise<a id=920></a>
+### TITRE IV : Les comités d'entreprise<a id=921></a>
 
-#### CHAPITRE Ier : Champ d'application<a id=921></a>
+#### CHAPITRE Ier : Champ d'application<a id=922></a>
 
 ###### Article R441-1
 
@@ -81675,9 +81883,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L441-4
 
 
-#### CHAPITRE II : Attributions et pouvoirs<a id=922></a>
+#### CHAPITRE II : Attributions et pouvoirs<a id=923></a>
 
-##### Section 1 : Personnalité civile.<a id=923></a>
+##### Section 1 : Personnalité civile.<a id=924></a>
 
 ###### Article R442-1
 
@@ -81703,7 +81911,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L441-8
 
 
-##### Section 2 : Institutions sociales d'entreprises.<a id=924></a>
+##### Section 2 : Institutions sociales d'entreprises.<a id=925></a>
 
 ###### Article R442-2
 
@@ -81778,7 +81986,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R442-6
 
 
-##### Section 3 : Gestion des activités sociales et culturelles.<a id=925></a>
+##### Section 3 : Gestion des activités sociales et culturelles.<a id=926></a>
 
 ###### Article R442-4
 
@@ -81920,7 +82128,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 4 : Comités interentreprises.<a id=926></a>
+##### Section 4 : Comités interentreprises.<a id=927></a>
 
 ###### Article R442-8
 
@@ -82030,7 +82238,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L444-8
 
 
-##### Section 5 : Financement des activités sociales et culturelles.<a id=927></a>
+##### Section 5 : Financement des activités sociales et culturelles.<a id=928></a>
 
 ###### Article R442-11
 
@@ -82218,7 +82426,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 6 : Attributions économiques.<a id=928></a>
+##### Section 6 : Attributions économiques.<a id=929></a>
 
 ###### Article R442-17
 
@@ -82269,7 +82477,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 7 : Rapport annuel d'information du comité d'entreprise dans les entreprises de moins de trois cents salariés.<a id=929></a>
+##### Section 7 : Rapport annuel d'information du comité d'entreprise dans les entreprises de moins de trois cents salariés.<a id=930></a>
 
 ###### Article R442-19
 
@@ -82391,7 +82599,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L442-12
 
 
-##### Section 8 : Prérogatives du comité d'entreprise dans les assemblées générales d'actionnaires.<a id=930></a>
+##### Section 8 : Prérogatives du comité d'entreprise dans les assemblées générales d'actionnaires.<a id=931></a>
 
 ###### Article R442-20
 
@@ -82462,7 +82670,7 @@ _Abrogé par_:
 
 
 ##### Section 9 : Rapport annuel sur la situation comparée
-des femmes et des hommes dans l'entreprise<a id=931></a>
+des femmes et des hommes dans l'entreprise<a id=932></a>
 
 ###### Article D442-22
 
@@ -82578,7 +82786,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L442-8
 
 
-#### CHAPITRE III : Composition et élections<a id=932></a>
+#### CHAPITRE III : Composition et élections<a id=933></a>
 
 ###### Article R443-1
 
@@ -82753,7 +82961,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L443-6
 
 
-#### CHAPITRE IV : Fonctionnement<a id=933></a>
+#### CHAPITRE IV : Fonctionnement<a id=934></a>
 
 ###### Article R444-1
 
@@ -82824,7 +83032,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R443-4 (Ab)
 
 
-#### CHAPITRE V : Licenciement des représentants du personnel, des représentants syndicaux et des salariés assimilés<a id=934></a>
+#### CHAPITRE V : Licenciement des représentants du personnel, des représentants syndicaux et des salariés assimilés<a id=935></a>
 
 ###### Article R445-1
 
@@ -83130,7 +83338,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R445-4
 
 
-### TITRE V : Pénalités<a id=935></a>
+### TITRE V : Pénalités<a id=936></a>
 
 ###### Article R451-1
 
@@ -83156,11 +83364,11 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R413-1 (Ab)
 
 
-## LIVRE V : Conflits du travail<a id=936></a>
+## LIVRE V : Conflits du travail<a id=937></a>
 
-### TITRE Ier : Conflits collectifs<a id=937></a>
+### TITRE Ier : Conflits collectifs<a id=938></a>
 
-#### CHAPITRE III : Conciliation<a id=938></a>
+#### CHAPITRE III : Conciliation<a id=939></a>
 
 ###### Article R513-1
 
@@ -83182,7 +83390,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 1 : Composition des commissions de conciliation.<a id=939></a>
+##### Section 1 : Composition des commissions de conciliation.<a id=940></a>
 
 ###### Article R513-2
 
@@ -83236,7 +83444,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-##### Section 2 : Fonctionnement des commissions de conciliation.<a id=940></a>
+##### Section 2 : Fonctionnement des commissions de conciliation.<a id=941></a>
 
 ###### Article R513-4
 
@@ -83428,7 +83636,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-#### CHAPITRE IV : Médiation<a id=941></a>
+#### CHAPITRE IV : Médiation<a id=942></a>
 
 ###### Article D514-7
 
@@ -83703,7 +83911,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-#### CHAPITRE V : Arbitrage<a id=942></a>
+#### CHAPITRE V : Arbitrage<a id=943></a>
 
 ###### Article R515-1
 
@@ -83750,7 +83958,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-### TITRE II : Pénalités<a id=943></a>
+### TITRE II : Pénalités<a id=944></a>
 
 ###### Article R520-1
 
@@ -83778,9 +83986,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L153-1
 
 
-## LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=944></a>
+## LIVRE VI : Contrôle de l'application de la législation et de la réglementation du travail<a id=945></a>
 
-### TITRE Ier : Services de contrôle<a id=945></a>
+### TITRE Ier : Services de contrôle<a id=946></a>
 
 ###### Article R610-1
 
@@ -83924,7 +84132,7 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-### TITRE II : Obligations des employeurs<a id=946></a>
+### TITRE II : Obligations des employeurs<a id=947></a>
 
 ###### Article R620-1
 
@@ -84116,9 +84324,9 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 56
 
 
-### TITRE III : Pénalités<a id=947></a>
+### TITRE III : Pénalités<a id=948></a>
 
-#### CHAPITRE Ier : Service de contrôle<a id=948></a>
+#### CHAPITRE Ier : Service de contrôle<a id=949></a>
 
 ###### Article R631-1
 
@@ -84146,7 +84354,7 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. L610-8
 
 
-#### CHAPITRE II : Obligations des employeurs<a id=949></a>
+#### CHAPITRE II : Obligations des employeurs<a id=950></a>
 
 ###### Article R632-1
 
@@ -84206,9 +84414,9 @@ _Cite_:
   - Code du travail applicable à Mayotte. - art. R632-1 (Ab)
 
 
-## LIVRE VII : Formation professionnelle<a id=950></a>
+## LIVRE VII : Formation professionnelle<a id=951></a>
 
-### CHAPITRE Ier : Dispositions relatives aux contrats de qualification et aux contrats d'orientation<a id=951></a>
+### CHAPITRE Ier : Dispositions relatives aux contrats de qualification et aux contrats d'orientation<a id=952></a>
 
 ###### Article D711-2
 
@@ -84848,7 +85056,7 @@ _Nouveaux textes_:
   - Code du travail applicable à Mayotte. - art. R712-12 (T)
 
 
-### CHAPITRE II : Contrôle de la formation professionnelle<a id=952></a>
+### CHAPITRE II : Contrôle de la formation professionnelle<a id=953></a>
 
 ###### Article R712-1
 
@@ -85102,7 +85310,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R712-7 (VT)
 
 
-### CHAPITRE III : Organisme collecteur paritaire et organismes de formation<a id=953></a>
+### CHAPITRE III : Organisme collecteur paritaire et organismes de formation<a id=954></a>
 
 ###### Article R713-1
 
