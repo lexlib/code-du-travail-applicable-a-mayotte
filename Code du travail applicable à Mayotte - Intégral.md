@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2014-06-06
+Version Consolidée au 2014-06-06 00:00:01 +0200
 ## Contenu: 
   - [Partie législative (art. L011-1 à L811-10)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L011-1 à L061-2)](#2)
@@ -25768,14 +25768,18 @@ versement si le bénéficiaire opte pour cette solution.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Abrogé par_:
 
-  - Ordonnance n°2014-577 du 4 juin 2014 - art. 6
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cite_:
 
   - Code du travail applicable à Mayotte. - art. L326-6
   - Code du travail applicable à Mayotte. - art. L327-36
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. L327-53 (VT)
 
 
 ###### Article L327-52-2
@@ -25789,9 +25793,9 @@ les effets d'un jugement et confère le bénéfice de l'hypothèque judiciaire.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Abrogé par_:
 
-  - Ordonnance n°2014-577 du 4 juin 2014 - art. 6
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cite_:
 
@@ -25808,9 +25812,9 @@ fonds de solidarité prévu à l'article L. 327-26 ou des employeurs mentionnés
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Abrogé par_:
 
-  - Ordonnance n°2014-577 du 4 juin 2014 - art. 6
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cite_:
 
