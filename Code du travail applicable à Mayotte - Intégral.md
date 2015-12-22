@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2015-10-16
+Version Consolidée au 2015-12-23
 ## Contenu: 
   - [Partie législative (art. L011-1 à L821-19)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L011-1 à L061-2)](#2)
@@ -153,10 +153,10 @@ par l'activité économique (art. L127-4)](#56)
         - [CHAPITRE Ier : Hygiène et sécurité. (art. L251-1 à L251-14)](#149)
         - [CHAPITRE II : Surveillance médicale. (art. L252-1)](#150)
     - [LIVRE III : EMPLOI (art. L311-1 à L342-6)](#151)
-      - [TITRE Ier : DÉCLARATION DE MOUVEMENTS DE MAIN-D'OEUVRE TRAVAIL CLANDESTIN (art. L311-1 à L313-6)](#152)
+      - [TITRE Ier : DÉCLARATION DE MOUVEMENTS DE MAIN-D'OEUVRE TRAVAIL CLANDESTIN (art. L311-1 à L313-7)](#152)
         - [CHAPITRE Ier : Obligations des employeurs. (art. L311-1 à L311-2)](#153)
         - [CHAPITRE II : Travail dissimulé. (art. L312-1 à L312-12)](#154)
-        - [CHAPITRE III : RÉPRESSION DU TRAVAIL ILLÉGAL. (art. L313-1 à L313-6)](#155)
+        - [CHAPITRE III : RÉPRESSION DU TRAVAIL ILLÉGAL. (art. L313-1 à L313-7)](#155)
       - [TITRE II : Aides à l'emploi et intervention du Fonds national de l'emploi (art. L320-1 à L328-50)](#156)
         - [CHAPITRE PRELIMINAIRE : Licenciement pour motif économique. (art. L320-1 à L320-64)](#157)
           - [Section 1 : Champ d'application (art. L320-1)](#158)
@@ -18219,6 +18219,32 @@ _Abrogé par_:
 _Cite_:
 
   - Code du travail applicable à Mayotte. - art. L313-1 (VT)
+
+
+###### Article L313-7
+
+Les agents de contrôle mentionnés aux articles L. 312-5, L. 610-1, L. 610-14 et L. 610-15 du présent code peuvent transmettre
+aux agents habilités par le directeur du Conseil national des activités privées de sécurité, mentionnés à l'article L. 634-1
+du code de la sécurité intérieure, tous renseignements et tous documents leur permettant d'assurer le contrôle des personnes
+exerçant les activités privées de sécurité pour tirer les conséquences d'une situation de travail illégal. 
+
+Les agents habilités par le directeur du Conseil national des activités privées de sécurité peuvent transmettre aux agents de
+contrôle mentionnés aux articles L. 312-5, L. 610-1, L. 610-14 et L. 610-15 du présent code tous renseignements et documents
+nécessaires à leur mission de lutte contre le travail illégal.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2015-1702 du 21 décembre 2015 - art. 94
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L634-1
 
 
 ### TITRE II : Aides à l'emploi et intervention du Fonds national de l'emploi<a id=156></a>
