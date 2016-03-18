@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2016-03-09
+Version Consolidée au 2016-03-19
 ## Contenu: 
   - [Partie législative (art. L011-1 à L821-19)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L011-1 à L061-2)](#2)
@@ -42992,25 +42992,24 @@ _Cite_:
 
 Toute personne intéressée peut prendre connaissance gratuitement auprès de la direction du travail, de l'emploi et de la
 formation professionnelle de Mayotte des textes déposés. Elle peut en obtenir des copies à ses frais suivant les modalités
-fixées à l'article 4 de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre
-l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal. 
+fixées à l'article L. 311-9 du code des relations entre le public et l'administration. 
 
 Toutefois, dans le cas où une instance juridictionnelle est engagée, copie de tout ou partie de la convention ou de l'accord
 en cause est délivrée gratuitement, sur sa demande, à chacune des parties à l'instance.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Loi n°78-753 du 17 juillet 1978 - art. 4 (V)
-
-_Codifié par_:
-
-  - Décret n°91-1263 1991-12-16 annexe
-
 _Modifié par_:
 
-  - Décret n°2006-1315 du 25 octobre 2006 - art. 3 () JORF 27 octobre 2006
+  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
+
+_Abrogé par_:
+
+  - Décret n°2018-953 du 31 octobre 2018 - art. 56
+
+_Cite_:
+
+  - Code des relations entre le public et l'administration - art. L311-9
 
 
 #### CHAPITRE III : Conventions et accords susceptibles d'être étendus et procédures d'extension et d'élargissement<a id=498></a>
