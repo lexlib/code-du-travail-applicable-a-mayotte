@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2016-05-14
+Version Consolidée au 2016-06-26
 ## Contenu: 
   - [Partie législative (art. L011-1 à L832-10)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L011-1 à L061-2)](#2)
@@ -10,7 +10,7 @@ Version Consolidée au 2016-05-14
       - [TITRE III :  DISCRIMINATIONS (art. L031-1 à L034-5)](#7)
         - [Chapitre Ier : Champ d'application (art. L031-1)](#8)
         - [Chapitre II : Principe de non-discrimination (art. L032-1 à L032-4)](#9)
-        - [Chapitre III : Différences de traitement autorisées (art. L033-1 à L033-4)](#10)
+        - [Chapitre III : Différences de traitement autorisées (art. L033-1 à L033-5)](#10)
         - [Chapitre IV : Actions en justice (art. L034-1 à L034-5)](#11)
       - [TITRE IV : ÉGALITÉ PROFESSIONNELLE   ENTRE LES FEMMES ET LES HOMMES (art. L041-1 à L046-3)](#12)
         - [Chapitre Ier : Champ d'application (art. L041-1)](#13)
@@ -1312,20 +1312,21 @@ au droit communautaire dans le domaine de la lutte contre les discriminations, n
 de l'article L. 140-3, de formation, de reclassement, d'affectation, de qualification, de classification, de promotion
 professionnelle, de mutation ou de renouvellement de contrat en raison de son origine, de son sexe, de ses mœurs, de son
 orientation ou identité sexuelle, de son âge, de sa situation de famille ou de sa grossesse, de ses caractéristiques
-génétiques, de son appartenance ou de sa non-appartenance, vraie ou supposée, à une ethnie, une nation ou une race, de ses
-opinions politiques, de ses activités syndicales ou mutualistes, de ses convictions religieuses, de son apparence physique,
-de son nom de famille ou en raison de son état de santé ou de son handicap ou encore de son statut civil.
+génétiques, de la particulière vulnérabilité résultant de sa situation économique, apparente ou connue de son auteur, de son
+appartenance ou de sa non-appartenance, vraie ou supposée, à une ethnie, une nation ou une race, de ses opinions politiques,
+de ses activités syndicales ou mutualistes, de ses convictions religieuses, de son apparence physique, de son nom de famille
+ou en raison de son état de santé ou de son handicap ou encore de son statut civil.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°2008-496 du 27 mai 2008 - art. 1
+  - Loi n°2008-496 du 27 mai 2008 - art. 1 (M)
   - Code du travail applicable à Mayotte. - art. L140-3
 
 _Modifié par_:
 
-  - Loi n°2012-954 du 6 août 2012 - art. 4
+  - Loi n°2016-832 du 24 juin 2016 - art. unique
 
 _Cité par_:
 
@@ -1479,6 +1480,22 @@ _Abrogé par_:
 _Cite_:
 
   - Code du travail applicable à Mayotte. - art. L328-12
+
+
+###### Article L033-5
+
+Les mesures prises en faveur des personnes vulnérables en raison de leur situation économique et visant à favoriser l'égalité
+de traitement ne constituent pas une discrimination.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-832 du 24 juin 2016 - art. unique (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 #### Chapitre IV : Actions en justice<a id=11></a>
