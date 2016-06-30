@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2016-06-26
+Version Consolidée au 2016-07-01
 ## Contenu: 
   - [Partie législative (art. L011-1 à L832-10)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L011-1 à L061-2)](#2)
@@ -21326,14 +21326,18 @@ _Cité par_:
 Lorsque l'aide à l'insertion professionnelle a été attribuée pour le recrutement d'un salarié qui était, avant son embauche,
 bénéficiaire du revenu de solidarité active en vigueur à Mayotte financé par le Département, le Département participe au
 financement de l'aide mentionnée à l'article L. 322-1. Cette participation est déterminée, dans des conditions fixées par
-décret, par référence au montant forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action sociale et des
-familles, en fonction de la majoration des taux prévue par la convention mentionnée à l'article L. 322-4.
+décret, par référence au montant forfaitaire mentionné à l'article L. 262-2  du code de l'action sociale et des familles, en
+fonction de la majoration des taux prévue par la convention mentionnée à l'article L. 322-4.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2012-1189 du 26 octobre 2012 - art. 13
+  - Ordonnance n°2016-160 du 18 février 2016 - art. 4
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -21793,15 +21797,18 @@ _Cité par_:
 Lorsque l'aide à l'insertion professionnelle a été attribuée pour le recrutement d'un salarié qui était, jusqu'alors,
 bénéficiaire du revenu de solidarité active en vigueur à Mayotte financé par le Département de Mayotte, le Département de
 Mayotte participe au financement de cette aide. Cette participation est déterminée, dans des conditions fixées par décret,
-par référence au montant forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action sociale et des familles
-applicable à une personne isolée en fonction de la majoration des taux prévue par la convention mentionnée à l'article L.
-322-4.
+par référence au montant forfaitaire mentionné à l'article L. 262-2  du code de l'action sociale et des familles applicable à
+une personne isolée en fonction de la majoration des taux prévue par la convention mentionnée à l'article L. 322-4.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2014-577 du 4 juin 2014 - art. 7
+  - Ordonnance n°2016-160 du 18 février 2016 - art. 4
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
@@ -21810,7 +21817,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du travail applicable à Mayotte. - art. L322-4
+  - Code du travail applicable à Mayotte. - art. L322-4 (VT)
   - Code de l'action sociale et des familles - art. L262-2
 
 
@@ -24429,7 +24436,7 @@ _Abrogé par_:
 ###### Article L326-34
 
 Les agents de la concurrence, de la consommation et de la répression des fraudes sont habilités à rechercher et constater,
-dans les conditions prévues à l'article L. 121-2 du code de la consommation : 
+dans les conditions prévues à l'article L. 511-5 du code de la consommation : 
 
 1° Les infractions aux dispositions de l'article L. 326-26 ; 
 
@@ -24439,17 +24446,21 @@ Des décrets en Conseil d'Etat déterminent les conditions d'application du pré
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-788 du 31 mai 2012 - art. 4
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 22
 
 _Cité par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 22
 
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
 _Cite_:
 
-  - Code de la consommation - art. L121-2
+  - Code de la consommation - art. L511-5
   - Code du travail applicable à Mayotte. - art. L326-26
   - Code du travail applicable à Mayotte. - art. L326-28
 
