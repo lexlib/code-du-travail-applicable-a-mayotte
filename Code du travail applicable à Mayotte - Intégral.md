@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2016-07-01
+Version Consolidée au 2016-07-09
 ## Contenu: 
   - [Partie législative (art. L011-1 à L832-10)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L011-1 à L061-2)](#2)
@@ -39705,7 +39705,7 @@ _Cité par_:
 
 ###### Article L811-1
 
-Les articles L. 7122-1 à L. 7122-21 du code du travail applicables en métropole et dans les départements d'outre-mer sont
+Les articles L. 7122-1 à L. 7122-28 du code du travail applicables en métropole et dans les départements d'outre-mer sont
 applicables à Mayotte. 
 
 Pour l'application de l'article L. 7122-12, les mots : " présent code " sont remplacés par les mots : " code du travail
@@ -39713,9 +39713,13 @@ applicable à Mayotte " et la référence : " ordonnance n° 45-2339 du 13 octob
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2010-1487 du 7 décembre 2010 - art. 27
+  - Loi n°2016-925 du 7 juillet 2016 - art. 118 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cite_:
 
