@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2016-07-09
+Version Consolidée au 2016-08-10
 ## Contenu: 
   - [Partie législative (art. L011-1 à L832-10)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L011-1 à L061-2)](#2)
@@ -31046,19 +31046,23 @@ Chaque délégué syndical dispose d'un temps nécessaire à l'exercice de ses f
 
 Ce temps est au moins égal à : 
 
-1° Dix heures par mois dans les entreprises ou établissements de cinquante à cent cinquante salariés ; 
+1° Douze heures par mois dans les entreprises ou établissements de cinquante à cent cinquante salariés ; 
 
-2° Quinze heures par mois dans les entreprises ou établissements de cent cinquante et un à cinq cents salariés ; 
+2° Dix-huit heures par mois dans les entreprises ou établissements de cent cinquante et un à cinq cents salariés ; 
 
-3° Vingt heures par mois dans les entreprises ou établissements de plus de cinq cents salariés. 
+3° Vingt-quatre heures par mois dans les entreprises ou établissements de plus de cinq cents salariés. 
 
 Ce temps peut être dépassé en cas de circonstances exceptionnelles.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+  - Loi n°2016-1088 du 8 août 2016 - art. 29
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L414-39
@@ -31097,8 +31101,8 @@ _Cite_:
 
 ###### Article L414-40
 
-Le délégué syndical central prévu au premier alinéa de l'article L. 414-30 dispose de vingt heures par mois pour l'exercice
-de ses fonctions. 
+Le délégué syndical central prévu au premier alinéa de l'article L. 414-30 dispose de vingt-quatre heures par mois pour
+l'exercice de ses fonctions. 
 
 Ces heures s'ajoutent à celles dont il peut disposer à un titre autre que celui de délégué syndical d'établissement.
 
@@ -31113,13 +31117,17 @@ la première réunion de la négociation du protocole d'accord préélectoral es
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+  - Loi n°2016-1088 du 8 août 2016 - art. 29
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cite_:
 
-  - Code du travail applicable à Mayotte. - art. L414-30 (V)
+  - Code du travail applicable à Mayotte. - art. L414-30
 
 
 ###### Article L414-41
@@ -31128,15 +31136,19 @@ Chaque section syndicale dispose, au profit de son ou ses délégués syndicaux 
 négocier la convention ou l'accord d'entreprise, en vue de la préparation de la négociation de cette convention ou de cet
 accord, d'un crédit global supplémentaire dans la limite d'une durée qui ne peut excéder : 
 
-1° Dix heures par an dans les entreprises de cinq cents salariés et plus ; 
+1° Douze heures par an dans les entreprises de cinq cents salariés et plus ; 
 
-2° Quinze heures par an dans celles de mille salariés et plus.
+2° Dix-huit heures par an dans celles de mille salariés et plus.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-792 du 7 juin 2012 - art. 5
+  - Loi n°2016-1088 du 8 août 2016 - art. 29
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L414-42
