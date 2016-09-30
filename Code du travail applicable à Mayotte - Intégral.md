@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2016-08-10
+Version Consolidée au 2016-10-01
 ## Contenu: 
   - [Partie législative (art. L011-1 à L832-10)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L011-1 à L061-2)](#2)
@@ -10648,7 +10648,7 @@ _Abrogé par_:
 
 Dans les hôtels, cafés, restaurants, brasseries et dans tous les établissements similaires, dans les théâtres, concerts,
 music-halls, cinémas, cercles, casinos et généralement dans toutes les entreprises de spectacle, ainsi que dans les
-entreprises de navigation et de transport, il est interdit, sous réserve des dispositions de l'article 1382 du code civil,
+entreprises de navigation et de transport, il est interdit, sous réserve des dispositions de l'article 1240 du code civil,
 aux employeurs, directeurs, gérants ou concessionnaires de ces établissements et entreprises d'imposer aux employés ou
 ouvriers des versements d'argent ou d'opérer des retenues d'argent sous la dénomination de frais ou sous toute autre
 dénomination pour quelque objet que ce soit, à l'occasion de l'embauchage ou du débauchage et à l'occasion de l'exercice
@@ -10658,16 +10658,20 @@ normal du travail de ces salariés.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2016-131 du 10 février 2016 - art. 6
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cite_:
 
-  - Code civil - art. 1382 (V)
+  - Code civil - art. 1240
 
 _Cité par_:
 
