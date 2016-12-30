@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2016-12-28
+Version Consolidée au 2016-12-31
 ## Contenu: 
   - [Partie législative (art. L011-1 à L832-10)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L011-1 à L061-2)](#2)
@@ -289,9 +289,9 @@ de l'allocation d'assurance (art. L327-5 à L327-11)](#273)
             - [Sous-section 5 : Accords relatifs à l'assurance chômage (art. L327-19)](#279)
           - [Section 3 : Régime de solidarité (art. L327-20 à L327-35)](#280)
             - [Sous-section 1 : Allocation de solidarité spécifique (art. L327-20 à L327-25)](#281)
-            - [Sous-section 2 : Financement (art. L327-26 à L327-34)](#282)
+            - [Sous-section 2 : Financement (art. L327-28 à L327-33)](#282)
               - [Paragraphe 1 : Fonds de solidarité (art. L327-26 à L327-27)](#283)
-              - [Paragraphe 2 : Contribution exceptionnelle de solidarité (art. L327-28 à L327-34)](#284)
+              - [Paragraphe 2 : Contribution exceptionnelle de solidarité (art. L327-30 à L327-33)](#284)
             - [Sous-section 3 : Dispositions d'application (art. L327-35)](#285)
           - [Section 4 : Dispositions particulières à certains salariés (art. L327-36 à L327-39)](#286)
           - [Section 5 : Maintien des droits au revenu de remplacement du demandeur d'emploi indemnisé (art. L327-40 à L327-46)](#287)
@@ -26567,6 +26567,93 @@ _Cite_:
 
 ##### Sous-section 2 : Financement<a id=282></a>
 
+###### Article L327-28
+
+Les salariés des employeurs du secteur public et parapublic mentionnés aux articles L. 327-36 et L. 327-37, lorsque ceux-ci
+ne sont pas placés sous le régime de l'article L. 327-15, versent une contribution exceptionnelle de solidarité.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - DEPLACE: Loi n°2016-1918 du 29 décembre 2016 - art. 143 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cité par_:
+
+  - Code du travail - art. L5312-7 (VD)
+  - Code du travail applicable à Mayotte. - art. L327-26 (VD)
+  - Code du travail applicable à Mayotte. - art. L327-27 (VT)
+  - Code du travail applicable à Mayotte. - art. L327-32 (VT)
+  - Code du travail applicable à Mayotte. - art. R327-23 (Ab)
+  - Code du travail applicable à Mayotte. - art. R327-32 (T)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L327-15 (VT)
+  - Code du travail applicable à Mayotte. - art. L327-36
+
+
+###### Article L327-29
+
+La contribution exceptionnelle de solidarité est assise sur la rémunération nette totale des salariés, y compris l'ensemble
+des éléments ayant le caractère d'accessoire du traitement, de la solde ou du salaire, à l'exclusion des remboursements de
+frais professionnels, dans la limite du plafond mentionné à l'article L. 327-7.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - DEPLACE: Loi n°2016-1918 du 29 décembre 2016 - art. 143 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. L327-34 (VT)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L327-7 (VT)
+
+
+###### Article L327-34
+
+Le taux de la contribution exceptionnelle de solidarité est fixé à 1 % du montant de l'assiette prévue à l'article L.
+327-29. 
+
+Sont exonérés du versement de la contribution les salariés dont la rémunération mensuelle nette définie au troisième alinéa
+est inférieure à un montant déterminé par décret en Conseil d'Etat. 
+
+La rémunération mensuelle nette comprend la rémunération de base mensuelle brute augmentée de l'indemnité de résidence et
+diminuée des cotisations de sécurité sociale obligatoires, des prélèvements pour pension et, le cas échéant, des prélèvements
+au profit des régimes de retraite complémentaire obligatoires.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - DEPLACE: Loi n°2016-1918 du 29 décembre 2016 - art. 143 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L327-29 (VT)
+
+_Cité par_:
+
+  - Code du travail applicable à Mayotte. - art. R327-26 (Ab)
+  - Code du travail applicable à Mayotte. - art. R327-35 (T)
+
+
 ##### Paragraphe 1 : Fonds de solidarité<a id=283></a>
 
 ###### Article L327-26
@@ -26613,53 +26700,6 @@ _Cite_:
 
 
 ##### Paragraphe 2 : Contribution exceptionnelle de solidarité<a id=284></a>
-
-###### Article L327-28
-
-Les salariés des employeurs du secteur public et parapublic mentionnés aux articles L. 327-36 et L. 327-37, lorsque ceux-ci
-ne sont pas placés sous le régime de l'article L. 327-15, versent une contribution exceptionnelle de solidarité.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
-
-_Cité par_:
-
-  - Code du travail - art. L5312-7 (VD)
-  - Code du travail applicable à Mayotte. - art. L327-26 (VD)
-  - Code du travail applicable à Mayotte. - art. L327-27 (VT)
-  - Code du travail applicable à Mayotte. - art. L327-32 (VD)
-  - Code du travail applicable à Mayotte. - art. R327-23 (Ab)
-  - Code du travail applicable à Mayotte. - art. R327-32 (T)
-
-_Cite_:
-
-  - Code du travail applicable à Mayotte. - art. L327-15
-  - Code du travail applicable à Mayotte. - art. L327-36
-
-
-###### Article L327-29
-
-La contribution exceptionnelle de solidarité est assise sur la rémunération nette totale des salariés, y compris l'ensemble
-des éléments ayant le caractère d'accessoire du traitement, de la solde ou du salaire, à l'exclusion des remboursements de
-frais professionnels, dans la limite du plafond mentionné à l'article L. 327-7.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
-
-_Cité par_:
-
-  - Code du travail applicable à Mayotte. - art. L327-34 (VD)
-
-_Cite_:
-
-  - Code du travail applicable à Mayotte. - art. L327-7
-
 
 ###### Article L327-30
 
@@ -26715,34 +26755,6 @@ dérogations à la périodicité de son versement compte tenu du nombre de salar
 _Abrogé par_:
 
   - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
-
-
-###### Article L327-34
-
-Le taux de la contribution exceptionnelle de solidarité est fixé à 1 % du montant de l'assiette prévue à l'article L.
-327-29. 
-
-Sont exonérés du versement de la contribution les salariés dont la rémunération mensuelle nette définie au troisième alinéa
-est inférieure à un montant déterminé par décret en Conseil d'Etat. 
-
-La rémunération mensuelle nette comprend la rémunération de base mensuelle brute augmentée de l'indemnité de résidence et
-diminuée des cotisations de sécurité sociale obligatoires, des prélèvements pour pension et, le cas échéant, des prélèvements
-au profit des régimes de retraite complémentaire obligatoires.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2012-788 du 31 mai 2012 - art. 5
-
-_Cite_:
-
-  - Code du travail applicable à Mayotte. - art. L327-29
-
-_Cité par_:
-
-  - Code du travail applicable à Mayotte. - art. R327-26 (Ab)
-  - Code du travail applicable à Mayotte. - art. R327-35 (T)
 
 
 ##### Sous-section 3 : Dispositions d'application<a id=285></a>
