@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2017-01-29
+Version Consolidée au 2017-03-01
 ## Contenu: 
   - [Partie législative (art. L011-1 à L832-10)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L011-1 à L061-2)](#2)
@@ -77882,26 +77882,27 @@ _Anciens textes_:
 
 ###### Article R327-26
 
-Le montant prévu au deuxième alinéa de l'article L. 327-34 est égal au traitement mensuel brut afférent à l'indice brut 296
-de la fonction publique.
+Le montant prévu au deuxième alinéa de l'article L. 327-34 est égal au traitement mensuel brut afférent à l'  indice majoré
+313 de la fonction publique.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 3 du décret n° 2017-241 du 24 février 2017, ces dispositions s'appliquent à la
+contribution due au titre des périodes de travail courant à compter du 1er mars 2017.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2012-1566 du 31 décembre 2012 - art. 7
 
 _Cité par_:
 
   - Décret n°2017-241 du 24 février 2017 (V)
 
+_Modifié par_:
+
+  - Décret n°2017-241 du 24 février 2017 - art. 2
+
 _Cite_:
 
-  - Code du travail applicable à Mayotte. - art. L327-34 (V)
-
-_Anciens textes_:
-
-  - Code du travail applicable à Mayotte. - art. R327-35 (T)
+  - Code du travail applicable à Mayotte. - art. L327-34
 
 
 ##### Section 4 : Dispositions particulières à certains salariés du secteur public<a id=966></a>
