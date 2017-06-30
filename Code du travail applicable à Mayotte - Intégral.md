@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2017-04-01
+Version Consolidée au 2017-07-01
 ## Contenu: 
   - [Partie législative (art. L011-1 à L832-10)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L011-1 à L061-2)](#2)
@@ -16885,8 +16885,7 @@ _Cite_:
 
 Dans les établissements mentionnés à l'article L. 231-1, les dispositions relatives à la protection des travailleurs,
 salariés ou non, contre les risques d'exposition aux rayonnements ionisants sont fixées dans le respect des principes
-généraux de radioprotection des personnes énoncés à l'article L. 1333-1 du code de la santé publique et des obligations
-prévues à l'article L. 1333-10 du même code.
+généraux de radioprotection des personnes énoncés aux articles L. 1333-2 et L. 1333-3 du code de la santé publique.
 
 Les modalités d'application aux travailleurs, salariés ou non, des dispositions mentionnées à l'alinéa précédent, et
 notamment les valeurs limites que doivent respecter l'exposition de ces travailleurs, les références d'exposition et les
@@ -16898,23 +16897,27 @@ sont fixées par décret en Conseil d'Etat.
 
 _Codifié par_:
 
-  - Ordonnance 91-246 1991-02-25 art. 1
-  - Loi n°91-1379 1991-12-28 art. 1 (ratification)
-
-_Créé par_:
-
-  - Ordonnance n°2005-44 du 20 janvier 2005 - art. 9 () JORF 22 janvier 2005 en vigueur le 1er janvier 2006
+  - Ordonnance n°91-246 du 25 février 1991
+  - Loi n°91-1379 du 28 décembre 1991
 
 _Cité par_:
 
   - Ordonnance n°2016-128 du 10 février 2016 - art. 42
   - Code de la santé publique - art. L1513-1 (VT)
+  - Code du travail applicable à Mayotte. - art. L251-1 (VT)
+
+_Modifié par_:
+
+  - Ordonnance n°2016-128 du 10 février 2016 - art. 42
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cite_:
 
-  - Code du travail applicable à Mayotte. - art. L231-1 (V)
-  - Code de la santé publique - art. L1333-1 (M)
-  - Code de la santé publique - art. L1333-10 (T)
+  - Code de la santé publique - art. L1333-2
+  - Code de la santé publique - art. L1333-3
 
 
 #### CHAPITRE VIII : Comités d'hygiène, de sécurité et des conditions de travail<a id=156></a>
