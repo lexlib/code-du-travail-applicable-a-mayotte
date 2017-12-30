@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2017-09-01
+Version Consolidée au 2017-12-31
 ## Contenu: 
   - [Partie législative (art. L011-1 à L832-10)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L011-1 à L061-2)](#2)
@@ -29310,13 +29310,13 @@ _Codifié par_:
   - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 du 28 décembre 1991
 
-_Modifié par_:
+_Abrogé par_:
 
-  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 2
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
-  - Code du travail applicable à Mayotte. - art. L330-7 (V)
+  - Code du travail applicable à Mayotte. - art. L330-7 (VT)
   - Code du travail applicable à Mayotte. - art. R330-12 (Ab)
   - Code du travail applicable à Mayotte. - art. R330-13 (Ab)
   - Code du travail applicable à Mayotte. - art. R330-15 (Ab)
@@ -32824,17 +32824,27 @@ la nature de la tâche à accomplir ni proportionnée au but recherché, il en s
 aux droits des personnes, à leur santé physique et mentale ou aux libertés individuelles peut notamment résulter de faits de
 harcèlement sexuel ou moral ou de toute mesure discriminatoire en matière d'embauche, de rémunération, de formation, de
 reclassement, d'affectation, de classification, de qualification, de promotion professionnelle, de mutation, de
-renouvellement de contrat, de sanction ou de licenciement. 
+renouvellement de contrat, de sanction ou de licenciement.
 
 L'employeur ou son représentant est tenu de procéder sans délai à une enquête avec le délégué et de prendre les dispositions
 nécessaires pour remédier à cette situation. 
 
 En cas de carence de l'employeur ou de divergence sur la réalité de cette atteinte et à défaut de solution trouvée avec
-l'employeur, le salarié, ou le délégué si le salarié concerné averti par écrit ne s'y oppose pas, saisit le tribunal du
-travail qui statue selon les formes applicables au référé. 
+l'employeur, le salarié, ou le délégué si le salarié concerné averti par écrit ne s'y oppose pas, saisit le conseil de
+prud'hommes qui statue selon les formes applicables au référé. 
 
 Le juge peut ordonner toutes mesures propres à faire cesser cette atteinte et assortir sa décision d'une astreinte qui sera
 liquidée au profit du Trésor.
+
+**Nota:**
+
+Conformément à l'article 16 de l'ordonnance n° 2011-337 du 29 mars 2011, les dispositions du dernier alinéa de l'article 12
+remplaçant la référence au "tribunal du travail" par celle au "conseil des prud'hommes" entrent en vigueur à une date fixée
+par décret et au plus tard le 31 décembre 2015.
+
+Aux termes du VIII de l'article 259 de la loi n° 2015-990 du 6 août 2015, le II de l'article 16 de l'ordonnance n° 2011-337
+du 29 mars 2011 prévoyant la date d'entrée en vigueur du dernier alinéa de l'article 12 de ladite ordonnance est modifié.
+Cette date fixée par décret interviendra au plus tard le 31 décembre 2017.
 
 **Liens relatifs à cet article**
 
@@ -32845,11 +32855,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2012-954 du 6 août 2012 - art. 9
-
-_Abrogé par_:
-
-  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
+  - Ordonnance n°2011-337 du 29 mars 2011 - art. 12 (V)
 
 
 ###### Article L432-3
