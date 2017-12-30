@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2017-09-01
+Version Consolidée au 2017-12-31
 ## Contenu: 
   - [Partie législative (art. L011-1 à L832-10)](#1)
     - [LIVRE PRÉLIMINAIRE : DISPOSITIONS GÉNÉRALES. (art. L011-1 à L061-2)](#2)
@@ -29300,13 +29300,13 @@ _Codifié par_:
   - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 du 28 décembre 1991
 
-_Modifié par_:
+_Abrogé par_:
 
-  - Ordonnance n°2016-1580 du 24 novembre 2016 - art. 2
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 _Cité par_:
 
-  - Code du travail applicable à Mayotte. - art. L330-7 (V)
+  - Code du travail applicable à Mayotte. - art. L330-7 (VT)
   - Code du travail applicable à Mayotte. - art. R330-12 (V)
   - Code du travail applicable à Mayotte. - art. R330-13 (V)
   - Code du travail applicable à Mayotte. - art. R330-15 (V)
@@ -32833,9 +32833,9 @@ _Codifié par_:
   - Ordonnance n°91-246 du 25 février 1991
   - Loi n°91-1379 du 28 décembre 1991
 
-_Modifié par_:
+_Abrogé par_:
 
-  - Loi n°2012-954 du 6 août 2012 - art. 9
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 31 (VD)
 
 
 ###### Article L432-3
