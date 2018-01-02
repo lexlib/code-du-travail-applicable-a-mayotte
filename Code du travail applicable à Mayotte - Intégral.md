@@ -1,5 +1,5 @@
 # Code du travail applicable à Mayotte  
-Version Consolidée au 2018-01-01 00:00:01 +0100
+Version Consolidée au 2018-01-03
 ## Contenu: 
   - [Partie législative (art. L128-1)](#1)
     - [LIVRE Ier : CONVENTIONS RELATIVES AU TRAVAIL (art. L128-1)](#2)
